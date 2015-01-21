@@ -1,4 +1,4 @@
-GitHub Page of @dnk0904
+GitHub Page of @khanhdang
 ==============================
 
-For more information: <a href="http://dnk0904.github.com/">Github Page</a> 
+For more information: <a href="http://dangnamkhanh.com/">Github Page</a> 
