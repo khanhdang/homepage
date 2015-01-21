@@ -26,12 +26,12 @@ h1 {
 }
 
 
-h2 {
+h2, h3 {
   /*color:#393939;*/
-  color:green;
+  color:orange;
 }
 
-h3, h4, h5, h6 {
+h4, h5, h6 {
   /*color:#494949;*/
   color:#494949;
 }
@@ -45,7 +45,7 @@ a {
 a small {
   font-size:11px;
   color:#777;
-  m<div class="offset1">argin-top:-0.6em;
+  margin-top:-0.6em;
   display:block;
 }
 
