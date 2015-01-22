@@ -1,1 +1,2 @@
-jekyll build --destination ..\khanhdang.github.io
+jekyll build --destination ../khanhdang.github.io
+
