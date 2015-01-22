@@ -15,7 +15,7 @@ Firstly, I think I can setup with wordpress for fee but they required me to pay 
 
 &lt;p&gt;Formerly I maintained my personal website in github since last year (without update to much). Therefore I think that I can using CNAME to point to this for free (it is amazing). I googled it and it is worked. &lt;/p&gt;
 
-&lt;p&gt;Yesterday I put my old website which is actually a one-page html on my new domain but I think it&amp;rsquo;s just &amp;ldquo;unprofessionally&amp;rdquo;. Especially, I need to post some articles but using html and handle link is inconvenient. I tried to google again then find out that I can setup &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll&lt;/a&gt; to generate my website base on Markdown. I have a lot chances to do with Markdown in past so it is just easy for me and closes to HTML. After morning without working, I finally finished it.&lt;/p&gt;
+&lt;p&gt;Yesterday I put my old website which is actually a one-page html on my new domain but I think it&amp;rsquo;s just &amp;ldquo;unprofessionally&amp;rdquo;. Especially, I need to post some articles but using html and handle link is inconvenient. I tried to google again then find out that I can setup &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll&lt;/a&gt; to generate my website base on Markdown. I have a lot chances to do with Markdown in the past so it is just easy for me and closes to HTML. After morning without working, I finally finished it.&lt;/p&gt;
 
 &lt;p&gt;Now I have new host for free with basical function (I think PHP is not working here!). Since I am not professional blogger so I satisfy with it. &lt;/p&gt;
 
