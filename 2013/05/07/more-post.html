@@ -2,7 +2,7 @@
 <html lang="en" prefix="og: http://ogp.me/ns#">
     <head>
     <meta charset="utf-8">
-    <title>Khanh's Site</title>
+    <title>Placeholder post &mdash; Khanh's Site</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,13 +15,19 @@
     <meta name="twitter:site" content="dnk0904">
 
     
-    <meta name="description" content="Dang Nam Khanh">
+    <meta property="og:title" content="Placeholder post">
+    
+    <meta name="description" content="Placeholder post May 07, 2013 I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa....">
+    <meta name="og:description" content="Placeholder post May 07, 2013 I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa....">
+    
     
 
-    <meta property="og:url" content="http://dangnamkhanh.com//">
+    <meta property="og:url" content="http://dangnamkhanh.com//2013/05/07/more-post.html">
     <meta property="og:site_name" content="Khanh's Site">
     <meta property="og:type" content="article">
     <meta property="og:locale" content="en_GB" />
+    
+    <meta property="article:published_time" content="2013-05-07">
     
     <!-- Add custom CSS here -->
     <link href="http://dangnamkhanh.com/assets/css/font-awesome.min.css" rel="stylesheet">        
@@ -46,182 +52,40 @@
             </ul>
         </header>                 
 
-        <div class="posts">
-  <div class="content full-bleed" id="recent-posts">
-  <a
-    href="http://dangnamkhanh.com/2013/07/15/hello-world.html" class="post-excerpt">
-      <div class="padded-content">
-        <div class="title">Hello World!</div>
-      
-        <!-- <div class="title">Hello World!</div> -->
-        <info datetime="">
-          Jul 2013
+        <div class="content">
+    <div class="post single">
+        
+        <h1>Placeholder post</h1>
+        <info datetime="2013-05-07">
+            May 07, 2013
         </info>
         
-        <span class="body">Welcome to my new tech blog!
-</span>
-        
-      <!-- post.photo_url -->
-      </div>
-    </a><a
-    href="http://dangnamkhanh.com/2013/05/07/more-post.html" class="post-excerpt">
-      <div class="padded-content">
-        <div class="title">Placeholder post</div>
-      
-        <!-- <div class="title">Placeholder post</div> -->
-        <info datetime="">
-          May 2013
-        </info>
-        
-        <span class="body">I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-</span>
-        
-      <!-- post.photo_url -->
-      </div>
-    </a>
-    <div class="breaker"></div>
-    <div class="end">
-      <a href="http://dangnamkhanh.comarchive/">More...</a>
-    </div>
-  </div>
+        <div class="body"><p>I am a placeholder post. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+<blockquote>
+<p>Boom. I am a blockquote.</p>
+
+<p>Say something really clever here.</p>
+</blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">whaaa</span>
+  <span class="nb">puts</span> <span class="s2">"I have a friend called Bobobmob."</span>
+<span class="k">end</span></code></pre></div>
 </div>
-<script src="http://dangnamkhanh.com/assets/js/jquery-1.10.2.js"></script>
-<script src="http://dangnamkhanh.com/assets/js/simpleJekyllSearch.js"></script>  
+        <!-- <div class="breaker"></div> -->
+        <div class="breaker"></div>        
+    </div>  
 
-<script type="text/javascript">
-    /* Jekyll Simple Search option */
-
-    $(document).ready(function() {
-        $('.search-field').simpleJekyllSearch({
-            jsonFile: 'http://dangnamkhanh.com/search.json',
-            searchResults: '.search-results',
-            template: '<li><a href="{url}"><time datetime="{date}">{shortdate}</time> &mdash; {title}</a></li>',
-            noResults: '<p>Nothing found.</p>'
-        });
-    });
-
-    (function($, window, undefined) {
-
-        var bs = {
-            close: $(".icon-remove-sign"),
-            searchform: $(".search-form"),
-            canvas: $("body"),
-            dothis: $('.dosearch')
-        };
-
-        bs.dothis.on('click', function() {
-            $('.search-wrapper').css({display: "block"});
-            bs.searchform.toggleClass('active');
-            bs.searchform.find('input').focus();
-            bs.canvas.toggleClass('search-overlay');
-        });
-
-        bs.close.on('click', function() {
-            $('.search-wrapper').removeAttr('style');
-            bs.searchform.toggleClass('active');
-            bs.canvas.removeClass('search-overlay');
-        });
-    })(jQuery, window);
-
-    /* page load */
-    (function(f) {
-        var onload = function(f) {
-            if (window.addEventListener) {
-                window.addEventListener('DOMContentLoaded', f, false);
-            } else {
-                window.attachEvent('onload', f);
-            }
-        };
-        onload(function() {
-            f();
-            if (window.addEventListener) {
-                window.addEventListener('resize', f, false);
-            } else {
-                window.attachEvent('resize', f);
-            }
-        });
-    })(function() {
-        var winw = window.innerWidth, w; //, width_thresholds = [680, 780];
-        w = window.__post_grid_width;
-
-        if ((w !== undefined) &&
-                ((w === 680 && winw < 680) ||
-                        (w === 780 && winw >= 680 && winw < 780) ||
-                        (w === 10000 && winw >= 780)
-                        )
-                )
-        {
-            // console.log('noop w:', w+ ', winw:', winw);
-            return;
-        } else {
-            window.__post_grid_width = w =
-                    winw > 780 ? 10000 :
-                    winw > 680 ? 780 :
-                    680;
-            // console.log('op w:', w);
-        }
-
-        var posts = document.getElementById('recent-posts');
-        var child_nodes = posts.childNodes, k, node, h,
-                col_width, col0_y, col1_y, col1_x,
-                origin = {x: 0, y: 0}, node_count = 0, is_col0, row0_max_y;
-
-        posts.style.position = (window.__post_grid_width <= 680) ? null : 'relative';
-
-        for (k in child_nodes) {
-            node = child_nodes[k];
-            if (node.nodeType === Node.ELEMENT_NODE) {
-                if (node.className === 'breaker') {
-                    if (window.__post_grid_width <= 680) {
-                        node.style.height = null;
-                    } else {
-                        node.style.height = (Math.max(col0_y, col1_y) - row0_max_y) + 'px';
-                    }
-                    break;
-                }
-                if (col0_y === undefined) {
-                    origin.x = node.offsetLeft;
-                    origin.y = node.offsetTop;
-                    col_width = node.clientWidth;
-                    col0_y = origin.y + node.clientHeight;
-                    row0_max_y = col0_y;
-                } else {
-                    if (col1_y === undefined) {
-                        col1_y = origin.y + node.clientHeight;
-                        col1_x = origin.x + node.clientWidth;
-                        if (col1_y > row0_max_y) {
-                            row0_max_y = col1_y;
-                        }
-                    } else {
-                        if (window.__post_grid_width <= 680) {
-                            // console.log('Clear');
-                            node.style.position = null;
-                            node.style.width = null;
-                            node.style.left = null;
-                            node.style.top = null;
-                        } else {
-                            is_col0 = (node_count % 2) === 0;
-                            node.style.position = 'absolute';
-                            node.style.width = col_width + 'px';
-                            if (is_col0) {
-                                node.style.left = origin.x + 'px';
-                                node.style.top = col0_y + 'px';
-                                col0_y += node.clientHeight;
-                            } else {
-                                node.style.left = col1_x + 'px';
-                                node.style.top = col1_y + 'px';
-                                col1_y += node.clientHeight;
-                            }
-                        }
-                        // console.dir(node);
-                    }
-                }
-                ++node_count;
-            }
-        }
-
-    });
-</script>
+    <div class="comments container">
+        <div id="disqus_thread"></div>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+</div>
 
 
 
