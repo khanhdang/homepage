@@ -7,6 +7,17 @@
     <atom:link href="http://www.dangnamkhanh.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>editor for HDL</title>
+        <description>&lt;p&gt;Hello!&lt;/p&gt;
+
+&lt;p&gt;Thank you very much for reading this article and see you later.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jan 2015 02:45:19 +0900</pubDate>
+        <link>http://www.dangnamkhanh.com/blog/vim/emacs/2015/01/25/editor-for-HDL/</link>
+        <guid isPermaLink="true">http://www.dangnamkhanh.com/blog/vim/emacs/2015/01/25/editor-for-HDL/</guid>
+      </item>
+    
+      <item>
         <title>Hello!</title>
         <description>&lt;p&gt;Hello!&lt;/p&gt;
 
@@ -22,8 +33,8 @@ Firstly, I think I can setup with wordpress for fee but they required me to pay 
 &lt;p&gt;Thank you very much for reading this article and see you later.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Jan 2015 02:41:19 +0900</pubDate>
-        <link>http://www.dangnamkhanh.com/blog/test/2015/01/23/hello/</link>
-        <guid isPermaLink="true">http://www.dangnamkhanh.com/blog/test/2015/01/23/hello/</guid>
+        <link>http://www.dangnamkhanh.com/blog/2015/01/23/hello/</link>
+        <guid isPermaLink="true">http://www.dangnamkhanh.com/blog/2015/01/23/hello/</guid>
       </item>
     
   </channel>
