@@ -23,15 +23,15 @@
 
 &lt;p&gt;Solution for this problem is one option in Quartus. Click top design, choose setting, go to section EDA Tool, then simulation. In list of options, we have native link settings. So, there are three options: do nothing, compile one module with addtional tcl file and run customized tcl file.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/quartus-option-tcl.png&quot; alt=&quot;Your options&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/quartus-option-tcl.PNG&quot; alt=&quot;Your options&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;The best option is just doing nothing then you can run whatever tcl script in modelsim. Moreover, you can find somes another option about linking between Quartus and Modelsim.&lt;/p&gt;
 
 &lt;p&gt;Thank you very much for reading this article and see you later.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Jan 2015 02:45:19 +0900</pubDate>
-        <link>http://www.dangnamkhanh.com/blog/modelsim/altera/2015/01/31/customize_waveform_Altera-ModelSim/</link>
-        <guid isPermaLink="true">http://www.dangnamkhanh.com/blog/modelsim/altera/2015/01/31/customize_waveform_Altera-ModelSim/</guid>
+        <link>http://www.dangnamkhanh.com/blog/modelsim/altera/2015/01/31/customize__Altera-ModelSim/</link>
+        <guid isPermaLink="true">http://www.dangnamkhanh.com/blog/modelsim/altera/2015/01/31/customize__Altera-ModelSim/</guid>
       </item>
     
       <item>
