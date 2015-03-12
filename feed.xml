@@ -7,6 +7,35 @@
     <atom:link href="http://www.dangnamkhanh.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Editing vector figure from MS Powerpoint to Latex with free software</title>
+        <description>&lt;p&gt;I used to draw in MS Visio for 4-5 years. This tool is quite strong for drawing and it support to export
+into vector format (EPS or PDF) that you can include inside Latex easily with better quality. Obviously, 
+you can find out some tools that support drawing then export Latex file. However if you still have to work 
+with MS Word, Visio is best choice.&lt;/p&gt;
+
+&lt;p&gt;I moved to Japan then setup new machine without Visio (it probably cost me 30,000 JPY if I buy) so I have to
+try drawing in Powerpoint. To be honest, drawing tool is powerpoint is really bad, you cannot add connection 
+point, free-shape and so on. Furthermore, it import method is horrible. I normally import to MS Word with acceptable
+quality but to Latex is not good at all. Figure pixel is easily to be broken and hard to deal with several scaling.&lt;/p&gt;
+
+&lt;p&gt;I tried with some tool then find out Inscape and  how to deal with it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Export Powerpoint page to PDF figure: Save As -&amp;gt; Select PDF -&amp;gt; Select Option : Current Page.&lt;/li&gt;
+&lt;li&gt;Crop it by Inscape (free software). Open PDF file -&amp;gt; Select region 
+-&amp;gt; Crop by Ctrl + Shift + D -&amp;gt; Choose resize page to content -&amp;gt; Save as PDF.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;rsquo;s done!&lt;/p&gt;
+
+&lt;p&gt;Furthermore I can draw completely in Inscape then export vector image now but I tried to keep Powerpoint since my fellas still using it.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 08:59:59 +0900</pubDate>
+        <link>http://www.dangnamkhanh.com/blog/2015/03/12/import-vectorfigure-from-mspp-to-latex/</link>
+        <guid isPermaLink="true">http://www.dangnamkhanh.com/blog/2015/03/12/import-vectorfigure-from-mspp-to-latex/</guid>
+      </item>
+    
+      <item>
         <title>Bullet Journal</title>
         <description>&lt;p&gt;Hi!&lt;/p&gt;
 
