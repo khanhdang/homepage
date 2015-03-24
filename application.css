@@ -514,7 +514,7 @@ body {
 }
 
 .outer-container {
-  max-width: 1200px;
+  max-width: 600px;
   margin: 0 auto;
   max-height: 100%;
 }
@@ -540,7 +540,8 @@ body {
   background: #ffffff;
   color: #330;
   text-shadow: 1px 1px 1px #fff;
-  font: 300 22px/1.5 "Source Sans Pro", sans-serif;
+  /* font: 300 22px/1.5 "Source Sans Pro", sans-serif; */
+  font: 300 22px/1.5 "Josefin Slab", sans-serif;
 }
 
 a, b {
@@ -561,9 +562,9 @@ a:hover, a:focus {
   color: #b8d8d5;
 }
 
-.the-pug {
-  width: 320px;
-  height: 242px;
+.headingimg {
+/*   width: 320px;
+  height: 242px; */
 }
 
 .elsewhere {
