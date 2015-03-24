@@ -533,7 +533,7 @@ body {
 }
 
 body {
-  background: #fbfbf9;
+  background: #ffffff;
   color: #330;
   text-shadow: 1px 1px 1px #fff;
   font: 300 22px/1.5 "Source Sans Pro", sans-serif;
@@ -544,7 +544,7 @@ a, b {
 }
 
 a, a:visited {
-  color: #23ccbe;
+  color: #006600;
   text-decoration: none;
   border-bottom: 1px solid #ededed;
 }
