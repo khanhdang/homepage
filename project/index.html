@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Khanh's Site</title>
+    <title>Project &#8211; Khanh's Site</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Personal website of Dang Nam Khanh.">
     <meta name="author" content="Khanh N. Dang">
     
-    <link rel="canonical" href="http://www.dangnamkhanh.com/">
+    <link rel="canonical" href="http://www.dangnamkhanh.com/project/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/pixyll.css" type="text/css">
@@ -24,9 +24,9 @@
     <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Khanh's Site">
+    <meta property="og:title" content="Project">
     <meta property="og:description" content="Personal website of Dang Nam Khanh.">
-    <meta property="og:url" content="http://www.dangnamkhanh.com/">
+    <meta property="og:url" content="http://www.dangnamkhanh.com/project/">
     <meta property="og:site_name" content="Khanh's Site">
 
     <!-- Icons -->
@@ -97,37 +97,73 @@
 
     <div class="post p2 p-responsive wrap" role="main">
       <div class="measure">
-        <div class="circle" style="background-image:
-       url('images/me/me.png')">
-</div>
- 
-<style>
-.circle {
-  display: block;
-  width: 200px;
-  height: 200px;
-  margin: 1em auto;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  -webkit-border-radius: 99em;
-  -moz-border-radius: 99em;
-  border-radius: 99em;
-  border: 5px solid #eee;
-  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);  
-}
-</style>
-<div class="home">
-  <center>
-  <p><br>Hi! This is Dang Nam Khanh. 
-  <br> You are visiting my home page. 
-  <br> Here is <a href="/about">about me</a>.
-  <br>
+        <h1 id="table-of-content"><a id=toc>Table of Content</a></h1>
 
-  </p>
-  </center>
+<ul>
+<li><a href=#current-works>Current Projects</a>
 
-</div>
+<ul>
+<li><a href=#hr-noc>High-Reliable 3D Network-on-Chip</a></li>
+<li><a href=#hdl-noodles>HDL Noodles</a>
+
+<ul>
+<li><a href=#spaghetti>Spaghetti</a></li>
+<li><a href=#pho>Pho</a></li>
+</ul></li>
+</ul></li>
+<li><a href=#old-works>Previous Projects</a>
+
+<ul>
+<li><a href=#inter>Inter-Prediction of H.264/AVC Encoder</a></li>
+</ul></li>
+</ul>
+
+<h1 id="current-projects"><a id=current-works>Current Projects</a></h1>
+
+<h2 id="high-reliable-3d-network-on-chip"><a id=hr-noc>High-Reliable 3D Network-on-Chip</a></h2>
+
+<p>I enrolled PhD course at <a href="http://www.u-aizu.ac.jp">The University of Aizu</a> 
+and work at <a href="http://aslweb.u-aizu.ac.jp/">Adaptive Systems Laboratory</a> on research about
+<a href="http://aslweb.u-aizu.ac.jp/wiki/index.php?Research#dddd8273">Reliable Many-core 3D-NoC Processor 
+targeted for Real-Time Vision Applications</a>.</p>
+
+<h2 id="hdl-noodles"><a id=hdl-noodles>HDL Noodles</a></h2>
+
+<p>HDL Noodles is open-source repositories for Hardware Description Language
+ which are named as noodles. They will be mainly written in VHDL 
+ and verilog. Here is <a href="https://github.com/hdl-noodles">Github link</a>.</p>
+
+<p>If you want to join or provide any contributions, please email me at dnk0904 [at sign] gmail.com.</p>
+
+<p>List of noodles:</p>
+
+<ul>
+<li><a href="#spaghetti">Spaghetti</a>: All of sub-modules you need in HDL.</li>
+<li><a href="#pho">Pho</a>: A simple 8 bit CPU.</li>
+</ul>
+
+<h3 id="spaghetti"><a id=spaghetti>Spaghetti</a></h3>
+
+<p>Project Spaghetti provides every sub-modules which are needed for HDL design. 
+You can find it in github: <a href="https://github.com/hdl-noodles/spaghetti">link</a>.</p>
+
+<h3 id="pho"><a id=pho>Pho</a></h3>
+
+<p>In project Pho, I aim to build a very simple 8 bit CPU. It was named as 
+<a href="http://en.wikipedia.org/wiki/Pho">Pho</a> - one of the most famous Vietnamese noodle. 
+Since I started this project in Feb. 2015, you may not see any code in my 
+<a href="https://github.com/hdl-noodles/pho">github repo</a>.</p>
+
+<h1 id="previous-projects"><a id=old-works>Previous Projects</a></h1>
+
+<h2 id="inter-prediction-of-h.264/avc-encoder"><a id=inter>Inter-Prediction of H.264/AVC Encoder</a></h2>
+
+<p>I designed in VHDL a Inter-Prediction part of H.264/AVC Encoder at <a href="http://sis.uet.vnu.edu.vn">SIS Lab</a>. 
+This module uses reference frame and current frame of video to find out the relationship between them. 
+Normally, in current frame, some objects moved and some object and background stay as same as
+reference frames. As finding this motion (standardize as motion vector with pixel or sub-pixel unit) 
+and just compress the difference value, encoder can obtain significant smaller bit-rate. 
+This work is published in a <a href="http://dx.doi.org/10.1109/DDECS.2014.6868813">paper</a>.</p>
 
       </div>
     </div>
