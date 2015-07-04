@@ -1,32 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.dangnamkhanh.com/blog/2015/03/12/import-vectorfigure-from-mspp-to-latex/</loc>
+    <lastmod>2015-03-12T08:59:59+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/blog/2015/02/14/bullet-journal/</loc>
+    <lastmod>2015-02-14T02:41:19+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/blog/voluteer/2015/02/01/thank-letter-from-kawahigashi-school/</loc>
+    <lastmod>2015-02-01T02:41:19+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/blog/modelsim/altera/2015/01/31/customize__Altera-ModelSim/</loc>
+    <lastmod>2015-01-31T02:45:19+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/blog/2015/01/23/hello/</loc>
+    <lastmod>2015-01-23T02:41:19+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.dangnamkhanh.com/404.html</loc>
-    <lastmod>2015-06-09T00:56:17+09:00</lastmod>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.dangnamkhanh.com/about/</loc>
-    <lastmod>2015-06-09T00:56:17+09:00</lastmod>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/archives/</loc>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/article/</loc>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/categories/</loc>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.dangnamkhanh.com/contact/</loc>
-    <lastmod>2015-06-09T00:56:17+09:00</lastmod>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.dangnamkhanh.com/</loc>
-    <lastmod>2015-06-09T00:56:17+09:00</lastmod>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.dangnamkhanh.com/personal/</loc>
-    <lastmod>2015-06-09T00:56:17+09:00</lastmod>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.dangnamkhanh.com/tags/</loc>
+    <lastmod>2015-07-05T01:02:02+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

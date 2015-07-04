@@ -3,12 +3,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>About me &#8211; Khanh's Site</title>
+    <title>Editing vector figure from MS Powerpoint to Latex with free software &#8211; Khanh's Site</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Personal website of Dang Nam Khanh.">
+    <meta name="description" content="I sometime struggling with how to export vector figure from MS powerpoint then import it into Latex">
     <meta name="author" content="Khanh N. Dang">
-    
-    <link rel="canonical" href="http://www.dangnamkhanh.com/about/">
+    <meta name="keywords" content="blog">
+    <link rel="canonical" href="http://www.dangnamkhanh.com/blog/2015/03/12/import-vectorfigure-from-mspp-to-latex/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/pixyll.css" type="text/css">
@@ -24,9 +24,9 @@
     <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="About me">
+    <meta property="og:title" content="Editing vector figure from MS Powerpoint to Latex with free software">
     <meta property="og:description" content="Personal website of Dang Nam Khanh.">
-    <meta property="og:url" content="http://www.dangnamkhanh.com/about/">
+    <meta property="og:url" content="http://www.dangnamkhanh.com/blog/2015/03/12/import-vectorfigure-from-mspp-to-latex/">
     <meta property="og:site_name" content="Khanh's Site">
 
     <!-- Icons -->
@@ -96,35 +96,94 @@
 
     <div class="post p2 p-responsive wrap" role="main">
       <div class="measure">
-        <div class="post">
-  <header class="post-header">
-    <h1 class="h2">About me</h1>
-  </header>
-  <article class="post-content">
-  <p><center>
-<img src="/images/drawing/akabeko.png" alt="Drawing" style="width: 300px;"/>
-</center></p>
+        
 
-<p>Quick links:
-<a href="../files/dnk-2015-cv.pdf">[cv]</a>&ndash;<a href="https://scholar.google.com/citations?user=mQbqkUMAAAAJ&amp;hl=en">[google pubs]</a>&ndash;<a href="https://www.linkedin.com/in/dangnamkhanh">[linkedin]</a></p>
 
-<p><strong>Information:</strong></p>
-
-<ul>
-<li><strong>Khanh N. DANG</strong> (<strong>ダン ナム カイン</strong>/Đặng Nam Khánh).</li>
-<li>PhD Student, <a href="http://aslweb.u-aizu.ac.jp/">AS Lab</a>, <a href="http://www.u-aizu.ac.jp">University of Aizu</a>, Japan.</li>
-<li>Address: Room 201-E, Research Quadrangles, University of Aizu.</li>
-<li>I did my Bsc and Msc at <a href="http://www2.uet.vnu.edu.vn/coltech/">UET, VNUH</a> under <a href="http://uet.vnu.edu.vn/%7Etutx">Prof. Xuan-Tu Tran</a>.</li>
-</ul>
-
-<p><strong>Misc:</strong></p>
-
-<ul>
-<li><a href="http://dnk0904.deviantart.com/">My drawings</a>.</li>
-</ul>
-
-  </article>
+<div class="post-header mb2">
+  <h1>Editing vector figure from MS Powerpoint to Latex with free software</h1>
+  <span class="post-meta">Mar 12, 2015</span><br>
+  
+  <span class="post-meta small">1 minute read</span>
 </div>
+
+<article class="post-content">
+  <p>I used to draw in MS Visio for 4-5 years. This tool is quite strong for drawing and it support to export
+into vector format (EPS or PDF) that you can include inside Latex easily with better quality. Obviously, 
+you can find out some tools that support drawing then export Latex file. However if you still have to work 
+with MS Word, Visio is best choice.</p>
+
+<p>I moved to Japan then setup new machine without Visio (it probably cost me 30,000 JPY if I buy) so I have to
+try drawing in Powerpoint. To be honest, drawing tool is powerpoint is really bad, you cannot add connection 
+point, free-shape and so on. Furthermore, it import method is horrible. I normally import to MS Word with acceptable
+quality but to Latex is not good at all. Figure pixel is easily to be broken and hard to deal with several scaling.</p>
+
+<p>I tried with some tool then find out <a href="https://inkscape.org/ja/">Inkscape</a> and  how to deal with it:</p>
+
+<ul>
+<li>Export Powerpoint page to PDF figure: Save As -&gt; Select PDF -&gt; Select Option : Current Page.</li>
+<li>Crop it by Inkscape (free software). Open PDF file -&gt; Select region 
+-&gt; Crop by Ctrl + Shift + D -&gt; Choose resize page to content -&gt; Save as PDF.</li>
+</ul>
+
+<p>It&rsquo;s done!</p>
+
+<p>Furthermore I can draw completely in Inkscape then export vector image now but 
+I have to do with Powerpoint since my fellas still using it.</p>
+
+<p>P/S: For free software alternative of Visio, you can try <a href="http://sourceforge.net/projects/dia-installer/">Dia</a>.</p>
+
+</article>
+
+
+
+
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname  = 'dnk0904';
+    var disqus_identifier = '/blog/2015/03/12/import-vectorfigure-from-mspp-to-latex';
+    var disqus_title      = '';
+
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+  <h3 class="related-post-title">Related Posts</h3>
+  
+    <div class="post ml2">
+      <a href="/blog/2015/02/14/bullet-journal/" class="post-link">
+        <h4 class="post-title">Bullet Journal</h4>
+        <p class="post-summary">An awesome noting method ....</p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/blog/voluteer/2015/02/01/thank-letter-from-kawahigashi-school/" class="post-link">
+        <h4 class="post-title">Getting thank letter from Kawahigashi Junior High School</h4>
+        <p class="post-summary">I woke up a little bit late and surprisingly got an email about thank letter that sent to me.</p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/blog/modelsim/altera/2015/01/31/customize__Altera-ModelSim/" class="post-link">
+        <h4 class="post-title">Customizing tcl Altera Modelsim</h4>
+        <p class="post-summary">Some wave to customize tcl in altera modelsim</p>
+      </a>
+    </div>
+  
+    <div class="post ml2">
+      <a href="/blog/2015/01/23/hello/" class="post-link">
+        <h4 class="post-title">Hello!</h4>
+        <p class="post-summary">Just say hello and ....</p>
+      </a>
+    </div>
+  
+
 
       </div>
     </div>
