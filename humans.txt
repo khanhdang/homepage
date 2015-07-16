@@ -1,4 +1,4 @@
-# Hullo!
+# Hola!
 Almost contents on this website are belong to me.
-HTML code I borrowed, man.
+I generate it from jekyll, man.
 Yes, I drawed the Akabeko.
