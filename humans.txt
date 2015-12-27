@@ -1,4 +1,0 @@
-# Hola!
-Almost contents on this website are belong to me.
-I generate it from jekyll, man.
-Yes, I drawed the Akabeko.
