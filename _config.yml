@@ -1,0 +1,16 @@
+# Site settings
+title: Khanh's Site
+header-img: images/home-bg.jpg
+email: dnk0904@gmail.com
+description: "Khanh's Site"
+baseurl: ""
+url: "http://www.dangnamkhanh.com"
+github_username:  khanhdang
+facebook_username:  dnk0904
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
