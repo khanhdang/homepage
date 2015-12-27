@@ -29,6 +29,9 @@ Guest Supporters.
 <img src="/images/2015-10-25_FUFC/7.JPG" class="fit image">
 Finish: 2-1 for Fukushima United.
 
+Full gallery:
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/35985224@N04/albums/72157660009662255" title="Fukushima United 2015/10/18"><img src="https://farm1.staticflickr.com/747/22081051088_368f0b34db_c.jpg" width="800" height="600" alt="Fukushima United 2015/10/18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Of course I took some footages. However they are so bad. I am sorry for the quality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUJ3mgFmGQaf--_KtEB3IWVQcieMYCVue" frameborder="0" allowfullscreen></iframe> 
