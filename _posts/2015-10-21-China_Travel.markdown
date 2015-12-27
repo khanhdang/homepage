@@ -9,9 +9,6 @@ tags: [github, blog, github-pages, jekyll]
 
 Under writing....
 
-Here is a sample picture I took in the Great Wall (also my site background now):
-
-<img src="/images/2015-10-24_China_Travel/great-wall_view.jpg" class="fit image">
-
-
+Great Wall Gallery:
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/35985224@N04/albums/72157660053352374" title="Great Wall 2015"><img src="https://farm6.staticflickr.com/5777/23635713002_752f2de0d0_c.jpg" width="600" height="800" alt="Great Wall 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
