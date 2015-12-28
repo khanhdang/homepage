@@ -5,8 +5,9 @@ date:       2015-01-31 17:41:19
 summary:    I woke up a little bit late and surprisingly got an email about thank letter that sent to me.
 categories: blog voluteer
 tags: [voluteer, blog, japan]
+header-img: "images/2015-02-01_Kawahigashi/thank-letter-Kawahigashi.jpg"
 ---
-<img src="/images/2015-02-01_Kawahigashi/thank-letter-Kawahigashi.jpg" class="fit image">
+<img src="images/2015-02-01_Kawahigashi/thank-letter-Kawahigashi.jpg" class="fit image">
  
  こんにちわ！
 

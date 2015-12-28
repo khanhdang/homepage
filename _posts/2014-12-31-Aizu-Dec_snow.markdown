@@ -5,6 +5,7 @@ date:       2014-12-30 23:59:59
 summary:    Just some pictures of snow
 categories: blog 
 tags: [github, blog, github-pages, jekyll]
+header-img: "images/2014-12-30_Aizu_snow_1/1_lomo.jpg"
 ---
 
 Hello!

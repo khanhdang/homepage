@@ -5,6 +5,7 @@ date:       2015-10-21 00:41:19
 summary:    Review of my travel
 categories: blog 
 tags: [github, blog, github-pages, jekyll]
+header-img: "images/2015-10-24_China_Travel/great-wall_view.jpg"
 ---
 
 Under writing....
