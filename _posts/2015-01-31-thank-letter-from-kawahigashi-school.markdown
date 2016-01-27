@@ -7,7 +7,7 @@ categories: blog voluteer
 tags: [voluteer, blog, japan]
 header-img: "images/2015-02-01_Kawahigashi/thank-letter-Kawahigashi.jpg"
 ---
-<img src="images/2015-02-01_Kawahigashi/thank-letter-Kawahigashi.jpg" class="fit image">
+<img src="/images/2015-02-01_Kawahigashi/thank-letter-Kawahigashi.jpg" class="fit image">
  
  こんにちわ！
 
