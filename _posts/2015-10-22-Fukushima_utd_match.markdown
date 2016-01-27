@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Fukushima United Match
+title:      [PICTURE] Fukushima United Match
 date:       2015-10-22 00:41:19
-summary:    [PICTURE] Fukushima United's Match
+summary:    Fukushima United's Match
 categories: blog 
 tags: [github, blog, github-pages, jekyll]
 header-img: "images/2015-10-25_FUFC/supporter.JPG"
