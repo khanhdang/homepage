@@ -2,12 +2,13 @@
 layout:     post
 title:      Fukushima United Match
 date:       2015-10-22 00:41:19
-summary:    Review the match of Fukushima United
+summary:    [PICTURE] Fukushima United's Match
 categories: blog 
 tags: [github, blog, github-pages, jekyll]
 header-img: "images/2015-10-25_FUFC/supporter.JPG"
 ---
-Under writing....
+
+I attended the match in Aizu Stadium between Fukushima United (our local team) vs 藤枝ＭＹＦＣ (Fujieda MYFC).
 
 Here are some sample pictures I took in the match:
 
@@ -17,21 +18,32 @@ Shop of Fukushima United.
 <!--more-->
 <img src="/images/2015-10-25_FUFC/supporter.JPG" class="fit image">
 Home Supporters.
+
 <img src="/images/2015-10-25_FUFC/1.JPG" class="fit image">
+Nice day for playing football.
+
 <img src="/images/2015-10-25_FUFC/2.JPG" class="fit image">
+Guests were attacking.
+
 <img src="/images/2015-10-25_FUFC/3.JPG" class="fit image">
-The kick.
+Big chance in first half.
+
 <img src="/images/2015-10-25_FUFC/4.JPG" class="fit image">
 Live TV.
+
+
 <img src="/images/2015-10-25_FUFC/5.JPG" class="fit image">
 Guest Supporters.
+
 <img src="/images/2015-10-25_FUFC/6.JPG" class="fit image">
+Flying player.
+
 <img src="/images/2015-10-25_FUFC/7.JPG" class="fit image">
 Finish: 2-1 for Fukushima United.
 
-Full gallery:
+Full gallery on Flickr:
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/35985224@N04/albums/72157660009662255" title="Fukushima United 2015/10/18"><img src="https://farm1.staticflickr.com/747/22081051088_368f0b34db_c.jpg" width="800" height="600" alt="Fukushima United 2015/10/18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Of course I took some footages. However they are so bad. I am sorry for the quality.
+Some footages. Sorry for the quality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUJ3mgFmGQaf--_KtEB3IWVQcieMYCVue" frameborder="0" allowfullscreen></iframe> 
