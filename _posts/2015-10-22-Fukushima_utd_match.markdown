@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      PICTURES: Fukushima United Match
+title:      Fukushima United Match
 date:       2015-10-22 00:41:19
 summary:    Fukushima United's Match
 categories: blog 
