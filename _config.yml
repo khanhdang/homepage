@@ -1,5 +1,5 @@
 # Site settings
-title: Khanh N. Dang
+title: Khanh's Site
 header-img: images/home-bg.jpg
 email: dnk0904@gmail.com
 description: "Khanh's Site"
@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://www.dangnamkhanh.com"
 github_username:  khanhdang
 facebook_username:  dnk0904
+author: Khanh N. Dang
 
 # Build settings
 markdown: kramdown
