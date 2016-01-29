@@ -7,7 +7,7 @@ categories: blog
 tag: [personal, 2015]
 ---
 
-#List some exciting things I've done:
+List some exciting things I've done:
 
 1. Finish 10km race with under 1 hour. Yes, my first race.
 <img src="/images/2015-12-31-end-of-2015/race_result.jpg" class="fit image">
