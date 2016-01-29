@@ -1,5 +1,67 @@
-# General Jekyll Config
+title:            Balzac
+tagline:          A beautiful theme.
+description:      Describe your website.
+canonical: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           Khanh N. Dang
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          d8162103@u-aizu.ac.jp
+  #twitter:        twnsndco
+  github:         khanhdang
+  instagram:      dnk0904
+  #dribbble:       coletownsend
+  disqus:         dnk0904
+  location:       "Aizu, JAPAN"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/khanhdang
+    external: true
+#  - title: Cole Who?
+#    url: http://coletownsend.com
+#    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Tokyo
+future:      true
 highlighter: pygments
-url: http://www.dangnamkhanh.com
-lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
