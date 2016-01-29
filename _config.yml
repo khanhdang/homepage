@@ -30,6 +30,8 @@ opengraph:
 links:
   - title: About
     url: /about
+  - title: Crossroads
+    url: /crossroads
   - title: Github
     url: https://github.com/khanhdang
     external: true

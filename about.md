@@ -1,30 +1,23 @@
 ---
 layout: page
-title: About
+title: "About"
+description: "This is what I do."
+header-img: "images/about-bg.jpg"
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<p>I am a <strong>PhD student</strong> work on <a href="http://aslweb.u-aizu.ac.jp/wiki/index.php?Research">Reliable 
+3D-NoC Processor for Real-time Image Processing</a> under the supervision of <a href="http://web-ext.u-aizu.ac.jp/~benab/">Prof. Abderazek Ben Abdallah</a> at 
+<a href="http://aslweb.u-aizu.ac.jp/">ASL</a>, 
+<a href="http://www.u-aizu.ac.jp/e-index.html">the University of Aizu</a>, Japan. My research involves 3D Integrated Circuit, Fault-Tolerant Techniques and Network-on-Chip.</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>Before enrolling the University of Aizu in 2014, 
+I was at <a href="http://e.uet.vnu.edu.vn/">VNUH-UET</a> for several years, 
+first as a <nobr>bachelor student</nobr>, 
+then as a <nobr>master student</nobr> of Joint Master Program with 
+<a href="http://www.u-psud.fr/en/index.html">University of Paris-Sud 11</a>, France. I also did theses under the supervision of <a href="http://www.uet.vnu.edu.vn/~tutx/">Prof. Xuan-Tu Tran</a>.</p>
 
-There are currently two themes built on Poole:
+<p>During my research time, I did spend huge amount of time on Network-on-Chip and video encoder design. 
+One of our design, called as VENGME, won <a href="http://nhantaidatviet.vnpt.vn/ShowNews.aspx?lang=vn&cat=012013&nid=1271">second price</a> of "Nhân Tài Đất Việt" 2015.</p>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<p>My publication list can be found in <a href="https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en">here</a>.</p>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
