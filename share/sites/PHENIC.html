@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<!-- saved from url=(0075)http://web-ext.u-aizu.ac.jp/~benab/research/projects/PHENIC/html/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>PHENIC: Hybrid Si-Photonic NoC</title>
+    <script src="./PHENIC_files/suica.js"></script><style type="text/css"></style>
+    <script>
+		// -----------------
+		// global parameters
+		// -----------------
+		NX = 8; // number of processors along X axis
+		NY = 8; // number of processors along Y axis
+
+		TSV_PERCENTAGE = 50; // approximate percentage (0..100) of present TSV links
+		DISTANCE = 0.5; // distance between plates
+
+		ANIMATION_SPEED = 1; // animation speed; 2=twice faster; 0.5=twice slower
+		
+		// ---------------------
+		// additional parameters
+		// ---------------------
+		OR_SIZE = [0.5,0.6,0.1]; // dimensions of optical router [x,y,z]
+		IP_SIZE = [0.4,0.4,0.1]; // dimensions of processors [x,y,z]
+		ER_SIZE = 0.2; // radius of electrical router
+		LINK_SIZE = 0.03; // thickness of all links and wires
+		TSV_SIZE = 0.05; // radius ot TSV vertical links
+
+		SIGNAL_SIZE = 0.25; // size of travelling signals (radius of the sphere)
+		SIGNAL_SIZE2 = 0.15; // smaller size of travelling signals (radius of the sphere)
+		
+		PHOTONIC_COLOR = [1,0.9,0.9]; // colour of Si-photonic plate
+		SILICON_COLOR = [0.5,0.7,0.7]; // colour of Silicon plate
+		OPTICAL_COLOR = [1,0,1]; // colour of the optical link
+		PROCESSOR_COLOR = [0.5,1,0.8]; // colour of processor cores
+		ER_COLOR = [0.5,0.5,1]; // colour of electrical router
+		TSV_COLOR = [1,0,0.5]; // colour of TSV vertical links
+		TSV_PRECISION = 8; // higher number = TSV link are more round
+
+		SOURCE_COLOR = [0,1,0]; // colour of source router
+		TARGET_COLOR = [1,0,0]; // colour of target router
+		RESERVE_COLOR = [0,0,1]; // colour of reserve path signal
+		ACK_COLOR = [1,1,1]; // colour of ACK signal
+		DATA_COLOR = [0.6,0.2,0.2]; // colour of data transmission signal
+		RELEASE_COLOR = [0,0,0]; // colour of release signal
+		
+		// ---------------------
+		// calculated parameters
+		// ---------------------
+		CX = NX/2-1/2; // x-center of a plate
+		CY = NY/2-1/2; // y-center of a plate
+		PLATE_SIZE = [NX,NY,0.1]; // dimensions of a plate
+		PLATE_CENTER = [CX,CY,-0.06]; // center of a plate
+		OR_IMAGE = 'data:image/png;base64,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';
+		VIEW_DISTANCE = 6+Math.max(NX,NY); // initial distance of the view point
+		
+		function main()
+		{
+			p = new Suica('picasso');
+
+			// --------------------------
+			// create a Si-Photonic layer
+			//---------------------------
+			pLayer1 = group().custom({center:[0,0,0*DISTANCE]});;
+			// plate
+			pLayer1.add( cuboid(PLATE_CENTER,PLATE_SIZE).custom({color:PHOTONIC_COLOR,light:false}) );
+			pLayer1.add( cuboid(PLATE_CENTER,PLATE_SIZE).custom({color:darker(PHOTONIC_COLOR),mode:Suica.LINE}) );
+			// NX*NY optical routers
+			var image = new Suica.Image(OR_IMAGE);
+			for (x=0; x<NX; x++)
+				for (y=0; y<NY; y++)
+				{
+					pLayer1.add( cuboid([x,y,0],OR_SIZE).custom({image: image, light:false}) );
+					pLayer1.add( cuboid([x,y,0],OR_SIZE).custom({color:[0.8,0.5,0],mode:Suica.LINE}) );
+				}
+			// optical links in X direction
+			for (y=0; y<NY; y++)
+			{
+				pLayer1.add( cuboid([CX,y+0.1,-0.02],[NX-1,LINK_SIZE,LINK_SIZE]).custom(OPTICAL_COLOR) );
+				pLayer1.add( cuboid([CX,y-0.1,-0.02],[NX-1,LINK_SIZE,LINK_SIZE]).custom(OPTICAL_COLOR) );
+			}
+			// optical links in Y direction
+			for (x=0; x<NX; x++)
+			{
+				pLayer1.add( cuboid([x+0.1,CY,-0.02],[LINK_SIZE,NY-1,LINK_SIZE]).custom(OPTICAL_COLOR) );
+				pLayer1.add( cuboid([x-0.1,CY,-0.02],[LINK_SIZE,NY-1,LINK_SIZE]).custom(OPTICAL_COLOR) );
+			}
+			
+
+			// ----------------------------------
+			// create two more Si-Photonic layers
+			//-----------------------------------
+			pLayer2 = sameAs(pLayer1).custom({center:[0,0,1*DISTANCE]});
+			pLayer3 = sameAs(pLayer1).custom({center:[0,0,2*DISTANCE]});
+			pLayer4 = sameAs(pLayer1).custom({center:[0,0,3*DISTANCE]});
+			
+			
+			// --------------------------
+			// create a Silicon layer
+			//---------------------------
+			sLayer = group().custom({center:[0,0,-1*DISTANCE]});
+			// plate
+			sLayer.add( cuboid(PLATE_CENTER,PLATE_SIZE).custom({color:SILICON_COLOR,light:false}) );
+			sLayer.add( cuboid(PLATE_CENTER,PLATE_SIZE).custom({color:darker(SILICON_COLOR),mode:Suica.LINE}) );
+			// NX*NY processors
+			for (x=0; x<NX; x++)
+				for (y=0; y<NY; y++)
+				{
+					sLayer.add( cuboid([x-0.1,y-0.1,0],IP_SIZE).custom({color:PROCESSOR_COLOR,light:false}) );
+					sLayer.add( cuboid([x-0.1,y-0.1,0],IP_SIZE).custom({color:darker(PROCESSOR_COLOR),mode:Suica.LINE}) );
+				}
+			// NX*NY electrical routers
+			for (x=0; x<NX; x++)
+				for (y=0; y<NY; y++)
+				{
+					sLayer.add( cylinder([x+0.25,y+0.25,-0.05],ER_SIZE,0.05).custom({color:ER_COLOR}) );
+					sLayer.add( cuboid([x+0.125,y+0.125,-0.02],[0.5,LINK_SIZE,LINK_SIZE]).custom({color:ER_COLOR,spin:-Math.PI/4}) );
+				}
+			// NX*NY TSV links
+			for (x=0; x<NX; x++)
+				for (y=0; y<NY; y++)
+				{
+					var visible = random(0,100)<=TSV_PERCENTAGE;
+					if (x==0 && y==0) visible = true;
+					if (x==NX-1 && y==NY-1) visible = true;
+					sLayer.add( prism([x+0.25,y+0.25,-0.05],TSV_SIZE,DISTANCE,TSV_PRECISION).custom({color:TSV_COLOR,visible:visible,hollow:true}) );
+					sLayer.add( prism([x,y,-0.05],TSV_SIZE,DISTANCE,TSV_PRECISION).custom({color:TSV_COLOR,visible:visible,hollow:true}) );
+				}
+			// electric links in X direction
+			for (y=0; y<NY; y++)
+			{
+				sLayer.add( cuboid([CX+0.25,y+0.25,-0.02],[NX-1,LINK_SIZE,LINK_SIZE]).custom({color:ER_COLOR}) );
+			}
+			// electric links in Y direction
+			for (x=0; x<NX; x++)
+			{
+				sLayer.add( cuboid([x+0.25,CY+0.25,-0.02],[LINK_SIZE,NY-1,LINK_SIZE]).custom({color:ER_COLOR}) );
+			}
+
+
+			// --------------------------------------------
+			// create all TSV links between photonic layers
+			//---------------------------------------------
+			// NX*NY TSV interphotonic links
+			var FROM_LEVEL = pLayer1.center[2];
+			var TO_LEVEL = pLayer4.center[2];
+			for (x=0; x<NX; x++)
+				for (y=0; y<NY; y++)
+					prism([x,y,FROM_LEVEL-0.05],TSV_SIZE,TO_LEVEL-FROM_LEVEL,TSV_PRECISION).custom({color:TSV_COLOR,hollow:true});
+
+
+			sourceRouter = cylinder([0.25,0.25,sLayer.center[2]-0.05],ER_SIZE*1.5,0.05*1.5).custom({color:SOURCE_COLOR, visible:false});
+			targetRouter = cylinder([NX-1+0.25,NY-1+0.25,sLayer.center[2]-0.05],ER_SIZE*1.5,0.05*1.5).custom({color:TARGET_COLOR, visible:false});
+			signal = sphere([0,0,0],1).custom({visible:false});
+
+			// some coordinates
+			SPX = 0;					// source processor
+			SPY = 0;
+			SRX = 0.25;					// source router
+			SRY = 0.25;
+			Z = sLayer.center[2];
+			TPX = NX-1;					// target processor
+			TPY = NY-1;
+			TRX = NX-1+0.25;			// target router
+			TRY = NY-1+0.25;
+			MPX = NX-1;					// mid processor
+			MPY = 0;
+			MRX = NX-1+0.25;			// mid router
+			MRY = 0.25;
+			
+			captureResize();
+			setView();
+			document.getElementById('picasso').addEventListener("mouseup", captureMouseUp);
+			document.getElementById('picasso').addEventListener("mousedown", captureMouseDown);
+			document.getElementById('picasso').addEventListener("mousemove", captureMouseMove);
+			window.addEventListener("resize", captureResize);
+		}
+
+
+		function captureMouseUp(event)
+		{
+			inDrag = false;
+		}
+		
+		function captureMouseDown(event)
+		{
+			inDrag = true;
+			dragX = event.clientX;
+			dragY = event.clientY;
+		}
+		function captureMouseMove(event)
+		{
+			if (inDrag)
+			{
+				if (event.button==0) // left button
+				{
+					hAngle -= (event.clientX-dragX)/150;
+				}
+				if (event.button==0 && !event.ctrlKey) // left button & no ctrl-key
+				{
+					vAngle += (event.clientY-dragY)/150;
+					if (vAngle<0) vAngle=0;
+					if (vAngle>0.95*Math.PI/2) vAngle=0.95*Math.PI/2;
+				}
+				if (event.button==2 || event.ctrlKey) // right button or ctrl-key
+				{
+					dist *= Math.pow(1.01,(event.clientY-dragY));
+					if (dist<5) dist=5;
+					if (dist>30) dist=30;
+				}
+				setView();
+				dragX = event.clientX;
+				dragY = event.clientY;
+			}
+		}
+		
+		function captureResize(event)
+		{
+			var canvas = document.getElementById('picasso');
+			var vp = canvas.getBoundingClientRect();
+			canvas.width = vp.width;
+			canvas.height = vp.height;
+			canvas.viewportWidth = vp.width;
+			canvas.viewportHeight = vp.height;
+			p.gl.viewport(0,0,document.getElementById('picasso').clientWidth, document.getElementById('picasso').clientHeight);
+			p.perspective(30,1,40000);
+		}
+
+		var inDrag = false, dragX=0, dragY=0;
+		var hAngle=-Math.PI/4, vAngle=0.2, dist=VIEW_DISTANCE;
+		var phaseTime;
+		var phase = 0;
+		
+		function setView()
+		{
+			lookAt([CX+dist*Math.cos(hAngle)*Math.cos(vAngle),CY+dist*Math.sin(hAngle)*Math.cos(vAngle),dist*Math.sin(vAngle)],[CX,CY,0],[0,0,1]);
+		}
+
+		function darker(a)
+		{
+			return [a[0]*0.6,a[1]*0.6,a[2]*0.6];
+		}
+		
+		function walkAlongPath(time,path)
+		{
+			// path is [ time,x,y,z,   time,x,y,z ]
+			var result = [ path[path.length-3], path[path.length-2], path[path.length-1]];
+			if (time<path[0])
+				result = [ path[1], path[2], path[3]];
+			for (var i=0; i+4<path.length; i+=4)
+				if (path[i]<=time && time<path[i+4])
+				{
+					var k = (time-path[i])/(path[i+4]-path[i]);
+					result[0] = path[i+1]*(1-k)+path[i+5]*k;
+					result[1] = path[i+2]*(1-k)+path[i+6]*k;
+					result[2] = path[i+3]*(1-k)+path[i+7]*k;
+					break;
+				}
+			return result;
+		}
+		
+		function repeatRouting()
+		{
+			phaseTime = Suica.time;
+			document.getElementById("repeat").style.display="none";
+			switch (phase)
+			{
+				case 1:
+					p.nextFrame = animatePhase1;
+					document.getElementById("start").innerHTML="Next step";
+					document.getElementById("title").innerHTML="&ndash; Source and destination routers";
+					break;
+				case 2:
+					p.nextFrame = animatePhase2;
+					signal.color = RESERVE_COLOR;
+					signal.radius = SIGNAL_SIZE;
+					signal.visible = true;
+					document.getElementById("title").innerHTML="&ndash; Reserve the path";
+					break;
+				case 3:
+					p.nextFrame = animatePhase3;
+					signal.color = ACK_COLOR;
+					signal.radius = SIGNAL_SIZE2;
+					signal.visible = true;
+					document.getElementById("title").innerHTML="&ndash; ACK";
+					break;
+				case 4:
+					p.nextFrame = animatePhase4;
+					signal.color = DATA_COLOR;
+					signal.radius = SIGNAL_SIZE;
+					signal.visible = true;
+					document.getElementById("title").innerHTML="&ndash; Transmit data on photonic layer";
+					break;
+				case 5:
+					p.nextFrame = animatePhase5;
+					signal.color = RELEASE_COLOR;
+					signal.radius = SIGNAL_SIZE2;
+					signal.visible = true;
+					document.getElementById("title").innerHTML="&ndash; Release (tear-down)";
+					document.getElementById("start").innerHTML="End routing";
+					break;
+				default:
+					phase = 0;
+					p.nextFrame = null;
+					sourceRouter.visible = false;
+					targetRouter.visible = false;
+					signal.visible = false;
+					document.getElementById("start").innerHTML="Show routing";
+					document.getElementById("title").innerHTML="";
+					document.getElementById("repeat").style.display="none";
+			}
+		}
+		
+		function startRouting()
+		{			
+			phase++;
+			repeatRouting();
+		}
+		
+		function animatePhase1()
+		{	// blinking source and destination routers
+			var t = Suica.time-phaseTime;
+			var ta = ANIMATION_SPEED*t;
+			sourceRouter.visible = t%0.8>0.2;
+			targetRouter.visible = t%0.8>0.2;
+		}
+
+		function animatePhase2()
+		{	// reserve path signal
+			var t = Suica.time-phaseTime;
+			var ta = ANIMATION_SPEED*t;
+			sourceRouter.visible = true;
+			targetRouter.visible = true;
+			signal.visible = true; //t%0.4>0.1;
+
+			signal.center = walkAlongPath(ta,
+				[
+					0,				SPX,SPY,Z+signal.radius/3,
+					1/2,			SRX,SRY,Z,
+					1/2+NX/2,		MRX,MRY,Z,
+					1/2+NX/2+NY/2, 	TRX,TRY,Z,
+					1+NX/2+NY/2, 	TPX,TPY,Z+signal.radius/3
+				]);
+			if (ta>1+NX/2+NY/2) document.getElementById("repeat").style.display="inline";
+		}
+
+		function animatePhase3()
+		{	// ACK signal
+			var t = Suica.time-phaseTime;
+			var ta = ANIMATION_SPEED*t;
+
+			signal.visible = true; //t%0.4>0.1;
+
+			signal.center = walkAlongPath(ta,
+				[
+					0,				TRX,TRY,Z+signal.radius/3,
+					1/2,			TRX,TRY,Z,
+					1/2+NY/2,		MRX,MRY,Z,
+					1/2+NX/2+NY/2,	SRX,SRY,Z,
+					1+NX/2+NY/2,	SRX,SRY,Z+signal.radius/3,
+				]);
+			if (ta>1+NX/2+NY/2) document.getElementById("repeat").style.display="inline";
+		}
+
+		function animatePhase4()
+		{	// DATA signal
+			var t = Suica.time-phaseTime;
+			var ta = ANIMATION_SPEED*t;
+
+			signal.visible = true; //t%0.2>0.01;
+
+			signal.center = walkAlongPath(ta,
+				[
+					0,				SPX,SPY,Z+signal.radius/3,
+					1,				SPX,SPY,Z+signal.radius/3+DISTANCE,
+					1+NX/3,			MPX,MPY,Z+signal.radius/3+DISTANCE,
+					1+NX/3+NY/3,	TPX,TPY,Z+signal.radius/3+DISTANCE,
+					2+NX/3+NY/3,	TPX,TPY,Z+signal.radius/3,
+				]);
+			if (ta>2+NX/3+NY/3) document.getElementById("repeat").style.display="inline";
+		}
+
+		function animatePhase5()
+		{	// Release signal
+			var t = Suica.time-phaseTime;
+			var ta = ANIMATION_SPEED*t;
+
+			signal.visible = true; //t%0.2>0.01;
+
+			signal.center = walkAlongPath(ta,
+				[
+					0,				TPX,TPY,Z+signal.radius/3,
+					1,				TPX,TPY,Z+signal.radius/3+DISTANCE,
+					1+NY/3,			MPX,MPY,Z+signal.radius/3+DISTANCE,
+					1+NX/3+NY/3,	SPX,SPY,Z+signal.radius/3+DISTANCE,
+					2+NX/3+NY/3,	SPX,SPY,Z+signal.radius/3,
+				]);
+			if (ta>2+NX/3+NY/3) document.getElementById("repeat").style.display="inline";
+		}
+
+	</script>
+  <style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style><link rel="stylesheet" id="coToolbarStyle" href="chrome-extension://cjabmdjcfcfdmffimndhafhblfmpjdpe/toolbar/styles/placeholder.css" type="text/css"><script type="text/javascript" id="cosymantecbfw_removeToolbar">(function () {				var toolbarElement = {},					parent = {},					interval = 0,					retryCount = 0,					isRemoved = false;				if (window.location.protocol === 'file:') {					interval = window.setInterval(function () {						toolbarElement = document.getElementById('coFrameDiv');						if (toolbarElement) {							parent = toolbarElement.parentNode;							if (parent) {								parent.removeChild(toolbarElement);								isRemoved = true;								if (document.body && document.body.style) {									document.body.style.setProperty('margin-top', '0px', 'important');								}							}						}						retryCount += 1;						if (retryCount > 10 || isRemoved) {							window.clearInterval(interval);						}					}, 10);				}			})();</script><script type="text/javascript" id="waxCS">var WAX = function () { var _arrInputs; return { getElement: function (i) { return _arrInputs[i]; }, setElement: function(i){ _arrInputs=i; } } }(); function waxGetElement(i) { return WAX.getElement(i); } function coSetPageData(t, d){ if('wax'==t) { WAX.setElement(d);} }</script><script type="text/javascript" id="waxCS">var WAX = function () { var _arrInputs; return { getElement: function (i) { return _arrInputs[i]; }, setElement: function(i){ _arrInputs=i; } } }(); function waxGetElement(i) { return WAX.getElement(i); } function coSetPageData(t, d){ if('wax'==t) { WAX.setElement(d);} }</script></head>
+  <body onload="main()">
+    <h3>PHENIC: Hybrid Si-Photonic NoC <span id="title" style="color:blue;"></span></h3>
+    <button id="start" type="button" onclick="startRouting()">Show
+      routing</button> <button id="repeat" type="button" onclick="repeatRouting()" style="display:none">Repeat</button> <canvas id="picasso" style="position: absolute; top:0; left:0; width:
+      100%; height: 100%; z-index: -1" width="1454" height="959"></canvas>
+  
+
+</body><div id="coFrameDiv" style="height:0px;display:none;"><iframe id="coToolbarFrame" src="./PHENIC_files/placeholder.html" style="height:0px;width:100%;display:none;"></iframe></div></html>
