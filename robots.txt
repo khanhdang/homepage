@@ -1,4 +1,4 @@
 #Hi robot!
 User-agent: *
-Disallow: /images
+Disallow: /share
 Disallow: /files
