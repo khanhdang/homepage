@@ -33,8 +33,8 @@ function draw() {
 
   // Draw a line connecting the points
   for ( var j = 1; j < num; j++ ) {
-    var val = 200 - j / num * 155.0;
-    stroke(val);
+    var val1 = 55 + (j*200) / num;
+    stroke(val1,0,0);
     line(ax[j - 1], ay[j - 1], ax[j], ay[j]);
   }
 }
