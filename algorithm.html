@@ -100,10 +100,10 @@ void draw() {
 // Use a keypress so thousands of files aren't created
 void mousePressed() {
   //record = true;
-  print("mousePressed: "+mouseX+","+mouseY+"\n");
-  print("next: "+str(stepRun)+"\n");
+  //print("mousePressed: "+mouseX+","+mouseY+"\n");
+  //print("next: "+str(stepRun)+"\n");
   if (stepRun == 0){
-    print("START\n");
+    //print("START\n");
   }else if (stepRun == 1){
     LayerRandom();
   } else {
@@ -132,7 +132,7 @@ void keyPressed() {
     LayerUpdate();
     LayerCreatLink();
   } else if (keyCode == ENTER){
-    print("next: "+str(stepRun)+"\n");
+    //print("next: "+str(stepRun)+"\n");
     switch(stepRun){
       case 0: 
         break;
@@ -158,7 +158,7 @@ void keyPressed() {
         LayerCreatLink();
         break;
       default:
-        print("FINISH\n");
+        //print("FINISH\n");
     }
     stepRun++;
   } else if (keyCode == BACKSPACE){
