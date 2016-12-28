@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>www.dangnamkhanh.com</title>
-  <meta charset="utf-8">
-  <link rel="canonical" href="http://www.dangnamkhanh.com/algorithm.html" />
-  <script type="text/javascript" src="processing.js"></script>
-  
-    
-  </head>
- <body>
- <p>This is my algorithm sketch:</p> 
- <script type="text/processing">
 //import processing.pdf.*;
 boolean record;
 // pop-up of input
@@ -29,7 +16,7 @@ Tile[][] grid;
 // Number of columns and rows in the grid
 int cols = 1;
 int rows = 1;
-int tile_dim = 150;
+int tile_dim = 200;
 float TSV_circle_w = tile_dim/7;
 float router_width = 0.6;
 float TSV_width = (1-router_width)/2;
@@ -40,7 +27,7 @@ color DisableRouterColor = color(166, 179, 255);
 color BorrowingTSVColor = color(255, 179, 71);
 color VirtualTSVColor = color(155, 219, 171);
 color NormalTSVColor = color(89, 131, 40);
-color FailedTSVColor = color(183, 0, 32);	
+color FailedTSVColor = color(183, 0, 32);
 color DisableTSVColor = color(166, 179, 255);
 // Display text
 PFont f;  
@@ -60,7 +47,7 @@ String[] NeighborStatus = new String[4];
 boolean[] NeighborRQLink = new boolean[4];
 
 void setup() {
-  size(1200,800);
+  size(1000,1000);
   //fullScreen();
 
   
@@ -71,8 +58,8 @@ void setup() {
   f = createFont("Arial",40,true);
   grid = new Tile[cols][rows];
   LayerCreate();
-  LayerRandom();
 
+  
 
 }
 
@@ -99,15 +86,17 @@ void draw() {
 // Use a keypress so thousands of files aren't created
 void mousePressed() {
   //record = true;
-  //print("mousePressed: "+mouseX+","+mouseY+"\n");
-  //print("next: "+str(stepRun)+"\n");
-  if (stepRun > 1){
-
+  print("mousePressed: "+mouseX+","+mouseY+"\n");
+  print("next: "+str(stepRun)+"\n");
+  if (stepRun == 0){
+    print("START\n");
+  }else if (stepRun == 1){
+    LayerRandom();
+  } else {
+    if (stepRun%2 == 0)  LayerUpdate();
+    if (stepRun%2 == 1)  LayerCreatLink();
   }
-   	for (int i=0; i < (cols+rows); i++){
-		LayerUpdate();
-		LayerCreatLink();
-	}
+ 
         
   stepRun++;
   
@@ -116,7 +105,54 @@ void mousePressed() {
 //void mouseReleased(){
 //  popup = false;
 //}
-
+void keyPressed() {
+  if (key == 'p') {
+    record = true;
+    //exit();
+  } else if  (key == 'i'){
+    popup = !popup;
+  } else if (key == 'r'){
+    LayerRandom();
+    LayerUpdate();
+    LayerCreatLink();
+    LayerUpdate();
+    LayerCreatLink();
+  } else if (keyCode == ENTER){
+    print("next: "+str(stepRun)+"\n");
+    switch(stepRun){
+      case 0: 
+        break;
+      case 1: 
+        LayerRandom();
+        break;
+      case 2: 
+        LayerUpdate();
+        break;
+      case 3: 
+        LayerCreatLink();
+        break;
+      case 4: 
+        LayerUpdate();
+        break;
+      case 5: 
+        LayerCreatLink();
+        break;
+      case 6: 
+        LayerUpdate();
+        break;
+      case 7: 
+        LayerCreatLink();
+        break;
+      default:
+        print("FINISH\n");
+    }
+    stepRun++;
+  } else if (keyCode == BACKSPACE){
+    stepRun = 0;
+    
+    setup();
+  }
+}
 
 /*
  * Draws a lines with arrows of the given angles at the ends.
@@ -591,9 +627,3 @@ class Tile {
     }
   }
 }
-
-    </script>
-    <canvas></canvas>
-</body>
-	
-</html>
