@@ -3,7 +3,7 @@ color RouterColor = color(250, 150, 50);
 float offset_ratio = 0.25;
 PFont f;  
 float Text_size = 20;
-int tile_size = 200;
+int tile_size = 150;
 int flit_size = 50;
 int cols = 7;
 int rows = 5;
@@ -13,7 +13,7 @@ PVector S, D;
 
 void setup() {
 
-  size(1400,1000);
+  size(1050,750);
   //fullScreen();
   f = createFont("Arial",Text_size,true);
   
