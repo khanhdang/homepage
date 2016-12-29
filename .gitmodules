@@ -1,0 +1,3 @@
+[submodule "RacingJS"]
+	path = RacingJS
+	url = git@github.com:khanhdang/RacingJS.git
