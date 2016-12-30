@@ -1,3 +1,6 @@
 [submodule "RacingJS"]
 	path = RacingJS
 	url = https://github.com/khanhdang/RacingJS.git
+[submodule "O-An-Quan"]
+	path = O-An-Quan
+	url = https://github.com/khanhdang/O-An-Quan.git
