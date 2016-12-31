@@ -5,3 +5,6 @@
 	path = O-An-Quan
 	url = https://github.com/khanhdang/O-An-Quan.git
 
+[submodule "uMouse"]
+	path = MicroMouse
+	url = https://github.com/NerdyGuys/MicroMouse.git
