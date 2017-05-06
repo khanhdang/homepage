@@ -8,3 +8,6 @@
 [submodule "uMouse"]
 	path = MicroMouse
 	url = https://github.com/NerdyGuys/MicroMouse.git
+[submodule "routing-prob"]
+	path = routing-prob
+	url = git@github.com:khanhdang/routing-prob.git
