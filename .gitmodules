@@ -11,3 +11,6 @@
 [submodule "r"]
 	path = r
 	url = https://github.com/khanhdang/routing-prob.git
+[submodule "routing"]
+	path = routing
+	url = https://github.com/khanhdang/routing-prob.git
