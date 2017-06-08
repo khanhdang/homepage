@@ -1,91 +1,18 @@
-<!DOCTYPE html>
-<html>
-<style>
-	@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister|Amatic+SC|Kalam');
-	h2 {
-		font-family: 'Amatic SC', cursive;
-	}
-	* {
-		font-family:  'Kalam', cursive;
+---
+layout: default
+---
 
-    }
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-</style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-<head>
-  <title>Khanh N. Dang</title>
-  <meta charset="utf-8">
-  <link rel="canonical" href="http://www.dangnamkhanh.com/" />
-	<!-- Google Analytics code -->
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-	  ga('create', 'UA-52343779-2', 'auto');
-	  ga('send', 'pageview');
-
-	</script>     
-    
-  </head>
-<body>
-	
-<table style="width:100%; padding: 15px;" align="left">
-
-	<tr>
-		<td><h2>Khanh N. Dang </h2></td> 
-		
-	</tr>
-	<tr>
-		<td>
-		[<a href="https://scholar.google.co.jp/citations?user=mQbqkUMAAAAJ&hl=ja">Publications</a>] 
-		[<a href="mailto:khanh.n.dang@ieee.org">E-mail</a>]
-		[<a href="https://www.linkedin.com/in/dnk0904/">LinkedIn</a>] 
-		[<a href="https://github.com/khanhdang?tab=repositories">Github</a>]
-		[<a href="http://adaptive.u-aizu.ac.jp/?page_id=849">lab's hp</a>]
-		<br> </td>
-	</tr>
-	<tr>
-		<td>
-		Hi, my name is <span class="fn">Khanh N. Dang</span> and I joined <a href="http://adaptive.u-aizu.ac.jp/">ASLab</a> the <span class="org"><a href="http://www.u-aizu.ac.jp/en/">Uni. of Aizu</a></span> as a doctoral student from October 2014. <br>My research involves 3D Integrated Circuits, fault-tolerance and Network-on-Chips.
-		</td>
-
-  </tr>
-  <tr>
-	<td>
-	<h3>My previous works</h3>
-	<ul>
-	<li>A Network-on-Chip FPGA Implementation: [<a href="http://eprints.uet.vnu.edu.vn/eprints/id/eprint/48">paper</a>].
-	<li>A H.264 Encoder's Inter-Prediction module: [<a href="http://ieeexplore.ieee.org/document/6868813/?reload=true&arnumber=6868813">paper</a>], [<a href="http://vnu.edu.vn/eng/?C2422/N18037/Success-in-Designing-and-Manufacturing-Video-Encoding-Microchip-VENGME-H.264-AVC.htm">VENGME project</a>].</li>
-	<li>Soft Error Resilience for Network-on-Chip: [<a href="http://ieeexplore.ieee.org/document/7314025/">paper</a>] [<a href="./files/ICICDT2016_Slide_Final_Khanh.pdf">slide</a>]. </li>
-	<li>Soft Error and Hard Fault Tolerant Network-on-Chip: [<a href="http://link.springer.com/article/10.1007/s11227-016-1951-0">paper</a>][<a href="http://www.readcube.com/articles/10.1007/s11227-016-1951-0?author_access_token=uKzWKtEJ_GhzIqhc7TjlMve4RwlQNchNByi7wbcMAY5NWwk-xulsRxmXW0g2yKdaTbK54tRK3S9oDfnnkVerYuXh6kcGkYFBbCWGsT-1LGyGXrbvesHBJRtV2XEzd16K02hhSpFUmrmhMtyNiUCg9Q%3D%3D">mirror</a>]. </li>
-	<li>Analytical model to assess Network-on-Chip reliability: [<a href="http://ieeexplore.ieee.org/document/7796106/">paper</a>] [<a href="./files/ATS2016_Dang_slides.pdf">slide</a>].</li>
-
-	</ul>
-	
-	</td>
-  </tr>
-  <tr>
-	<td>
-	<h3>Side projects</h3>
-	<ul>
-	<li>Graphic Design: [<a href="https://github.com/khanhdang/SVG-Draws">link</a>].
-	<li>VHDL/Verilog snippets: [<a href="https://github.com/hdl-noodles/spaghetti">source code</a>].
-	<li>RacingJS (a racing game on P5JS): [<a href="http://www.dangnamkhanh.com/RacingJS/RacingJS/">demo</a>] [<a href="https://github.com/khanhdang/RacingJS">source code</a>].</li>
-	<li>O An Quan (under development -  a traditional Vietnamese game - [<a href="https://en.wikipedia.org/wiki/%C3%94_%C4%83n_quan">Wikipedia</a>]): [<a href="http://www.dangnamkhanh.com/O-An-Quan/p5js/">lastest demo</a>] [<a href="https://github.com/khanhdang/O-An-Quan">source code</a>]. </li>
-	<li>MicroMouse (under development - an animation for MicroMouse game): [<a href="http://www.dangnamkhanh.com/MicroMouse">lastest demo</a>] [<a href="https://github.com/NerdyGuys/MicroMouse">source code</a>]. </li>
-	<li>Network-on-Chip Animation (XY routing): [<a href="http://www.dangnamkhanh.com/noc_ani">demo</a>] [<a href="https://github.com/khanhdang/NoC-Animation">source code</a>]. </li>
-	<li>Routing Probability: [<a href="http://www.dangnamkhanh.com/p5-routing.html">demo</a>]</li>
-	
-	</ul>
-	<font size="1"> Last update: 2017 May 4th -  <a href="https://www.youtube.com/watch?v=vSJNeXrCbE4">May the force be with you ;)</a></font>
-	</td>
-  </tr>
-</table>
-
-	
-
-  </body>
-</html>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
