@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Khanh N. Dang and I joined ASLab the Uni. of Aizu as a doctoral student from October 2014. 
+Hi, my name is Khanh N. Dang and I joined [ASLab](http://adaptive.u-aizu.ac.jp) the [Uni. of Aizu](http://www.u-aizu.ac.jp/en/) as a doctoral student from October 2014. 
 My research involves 3D Integrated Circuits, fault-tolerance and Network-on-Chips.
 
 ### Previous works
