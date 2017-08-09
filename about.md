@@ -6,10 +6,13 @@ permalink: /about/
 **Hi, my name is Khanh!**<br><br>
 _Present:_
 
-I am a doctoral student at [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp) of the [University of Aizu](http://www.u-aizu.ac.jp/en/).  <br>
+I am a Ph.D. student at [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp) of the [University of Aizu](http://www.u-aizu.ac.jp/en/).  <br>
 I research about fault-tolerance techniques and their analytical models for [3D Integrated Circuits](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit)/3D Network-on-Chips.
 
-You can find me [on Github](https://github.com/khanhdang), [on LinkedIn](https://www.linkedin.com/in/dnk0904/), and [on my lab website](http://adaptive.u-aizu.ac.jp/?page_id=849).
+_Contact:_
+
+You can find me [on Github](https://github.com/khanhdang), [on LinkedIn](https://www.linkedin.com/in/dnk0904/), and [on my lab website](http://adaptive.u-aizu.ac.jp/?page_id=849). <br>
+Want to talk? Feel free to [email](mailto:khanh.n.dang@ieee.org) me.
 
 _Past:_
 
@@ -19,7 +22,6 @@ _Bio:_
 
 I grew up in a small village Vietnam. I graduated from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) with a BSc. degree and [University of Paris Sud](http://www.u-psud.fr/en/index.html) with a MSc. degree.
 
-Want to talk? Feel free to [email](mailto:khanh.n.dang@ieee.org) me.
 #### Projects
 A few things I've done:
 
