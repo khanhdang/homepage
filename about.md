@@ -20,7 +20,7 @@ I was at [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en) (20
 
 _Bio:_
 
-I grew up in a small village Vietnam. I graduated from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) with a BSc. degree and [University of Paris Sud](http://www.u-psud.fr/en/index.html) with a MSc. degree.
+I grew up in a small village in Vietnam. I graduated from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) with a BSc. degree and [University of Paris Sud](http://www.u-psud.fr/en/index.html) with a MSc. degree.
 
 #### Projects
 A few things I've done:
@@ -33,7 +33,7 @@ A few things I've done:
 	- Through-Silicon-Via (3D-NoCs) defect : _under review_
 - Reliability assessment using analytical model for NoCs:
 	- General fault-tolerant model: [paper](http://ieeexplore.ieee.org/document/7796106/), [slide](http://www.dangnamkhanh.com/files/ATS2016_Dang_slides.pdf).
-	- Completed Network-on-Chip: _accepted for publication @ [TVLSI](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)_
+	- Completed Network-on-Chip model: _accepted for publication @ [TVLSI](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)_
 
 My completed publication list can be found in [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
 #### Side projects
