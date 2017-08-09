@@ -5,7 +5,7 @@ permalink: /about/
 
 **Hi, This is Khanh!**<br>
 
-I am a doctoral student at [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp), The [University of Aizu](http://www.u-aizu.ac.jp/en/). I have conducted researches on [3D Integrated Circuits](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit) design, fault-tolerance techniques, analytical model. The main theme of my dissertation is 3D Network-on-Chips.
+I am a doctoral student at [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp), The [University of Aizu](http://www.u-aizu.ac.jp/en/). I have conducted researches on [3D Integrated Circuits](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit) designs, fault-tolerance techniques, and analytical models. The main theme of my dissertation is 3D Network-on-Chips.
 
 You can find me [on Github](https://github.com/khanhdang), [on LinkedIn](https://www.linkedin.com/in/dnk0904/), and [on my lab website](http://adaptive.u-aizu.ac.jp/?page_id=849).
 
