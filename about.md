@@ -11,7 +11,7 @@ You can find me [on Github](https://github.com/khanhdang), [on LinkedIn](https:/
 
 I was at [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en) from 2011 to 2014 as a reseacher. I helped build VENGME, an ASIC H.264 encoder which is fully implemented on hardware. The project won the second position prize of Nhan Tai Dat Viet 2015 - the biggest annual ICT competition in Vietnam. 
 
-I grew up in a small village in Hanoi, Vietnam. I graduate from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) (bachelor degree) and [University of Paris Sud](http://www.u-psud.fr/en/index.html) (master degree).
+I grew up in a small village in Hanoi, Vietnam. I graduated from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) (bachelor degree) and [University of Paris Sud](http://www.u-psud.fr/en/index.html) (master degree).
 
 Want to talk? Feel free to [email](mailto:khanh.n.dang@ieee.org) me.
 #### Projects
