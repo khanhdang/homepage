@@ -33,7 +33,7 @@ A few things I've done:
 	- Through-Silicon-Via (3D-NoCs) defect : _under review_
 - Reliability assessment using analytical model for NoCs:
 	- General fault-tolerant model: [paper](http://ieeexplore.ieee.org/document/7796106/), [slide](http://www.dangnamkhanh.com/files/ATS2016_Dang_slides.pdf).
-	- Completed Network-on-Chip model: _accepted for publication @ [TVLSI](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)_
+	- Completed Network-on-Chip model: [paper](http://ieeexplore.ieee.org/document/8012492/).
 
 My completed publication list can be found in [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
 #### Side projects
