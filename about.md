@@ -16,11 +16,11 @@ Want to talk? Feel free to [email](mailto:khanh.n.dang@ieee.org) me.
 
 _Past:_
 
-I was at [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en) (2011-2014) to partly build a fully hardware (ASIC) implemented H.264 encoder. The project won the second position prize of Nhan Tai Dat Viet 2015. 
+I was at [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en) (2011-2014).
 
 _Bio:_
 
-I grew up in a small village in Vietnam. I graduated from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) with a BSc. degree and [University of Paris Sud](http://www.u-psud.fr/en/index.html) with a MSc. degree.
+I graduated from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) with a BSc. degree and [University of Paris Sud](http://www.u-psud.fr/en/index.html) with a MSc. degree.
 
 #### Projects
 A few things I've done:
