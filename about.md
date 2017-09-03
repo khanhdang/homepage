@@ -9,6 +9,8 @@ _Present:_
 I am a Ph.D. student at [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp) of the [University of Aizu](http://www.u-aizu.ac.jp/en/).  <br>
 I research about fault-tolerance techniques and their analytical models for [3D Integrated Circuits](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit)/3D Network-on-Chips.
 
+My completed publication list can be found in [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
+
 _Contact:_
 
 You can find me [on Github](https://github.com/khanhdang), [on LinkedIn](https://www.linkedin.com/in/dnk0904/), and [on my lab website](http://adaptive.u-aizu.ac.jp/?page_id=849). <br>
@@ -18,8 +20,7 @@ _Past:_
 
 I was at [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en) (2011-2014). I received a B.Sc. and a M.Sc. from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/) and [University of Paris Sud](http://www.u-psud.fr/en/index.html), respectively.
 
-#### Projects
-A few things I've done:
+_A few things I've done_
 
 - Network-on-Chip on FPGA: [paper](http://eprints.uet.vnu.edu.vn/eprints/id/eprint/48).
 - Inter-Prediction module of H.264 encoder: [paper](http://ieeexplore.ieee.org/document/6868813/?reload=true&arnumber=6868813).
@@ -31,4 +32,3 @@ A few things I've done:
 	- General fault-tolerant model: [paper](http://ieeexplore.ieee.org/document/7796106/), [slide](http://www.dangnamkhanh.com/files/ATS2016_Dang_slides.pdf).
 	- Completed Network-on-Chip model: [paper](http://ieeexplore.ieee.org/document/8012492/).
 
-My completed publication list can be found in [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
