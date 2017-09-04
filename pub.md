@@ -3,7 +3,7 @@ layout: page
 permalink: /pub/
 ---
 
-**Journals**
+**Journal**
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Xuan-Tu Tran, Yuichi Okuyama, Abderazek Ben Abdallah, _["A Comprehensive Reliability Assessment of Fault-Resilient Network-on-Chip Using Analytical Model"](https://doi.org/10.1109/TVLSI.2017.2736004)_, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, 2017 (in press). 
 1. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _["A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"](https://link.springer.com/article/10.1007/s11227-016-1951-0)_, **Journal of Supercomputing**, Volume 73, Issue 6, pp 2705–2729, 2017.
