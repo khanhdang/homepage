@@ -13,7 +13,7 @@ permalink: /pub/
 1. **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, _"Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"_, Submitted to the **IEEE Transactions on Emerging Topics in Computing**, Special Issue on Reliability-aware Design and Analysis Methods for Digital Systems: from Gate to System Level.
 
 **Conference**
-1. **Khanh N. Dang**, The H. Vu, Yuichi Okuyama, Abderazek Ben Abdallah, _"Fault Analysis and an Efficient Reliability Assessment for Network-on-Chip Systems"_, **14th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA)**, Hammamet, Tunisia, Oct. 30 - Nov. 03, 2017 (accepted).
+
 1. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _"Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System"_, **25th IEEE Asian Test Symposium (ATS’16)**, Nov. 21-24, 2016. 
 1. **Khanh N. Dang**, Yuichi Okuyama, Abderazek Ben Abdallah, _"Soft-Error Resilient Network-on-Chip for Safety-Critical Applications"_, **2016 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT)**, Jun. 27 – 29, 2016. 
 1. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, Xuan-Tu Tran, _"Soft-Error Resilient 3D Network-on-Chip Router"_, **IEEE 7th International Conference on Awareness Science and Technology (iCAST 2015)**, Sep. 22-24, 2015. 
