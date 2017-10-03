@@ -14,12 +14,13 @@ I research about fault-tolerance techniques and their analytical models for [3D 
 
 _Contact:_
 
-You can find me [on Github](https://github.com/khanhdang) and [on LinkedIn](https://www.linkedin.com/in/dnk0904/). <br>
 Want to talk? Feel free to [email](mailto:khanh.n.dang@ieee.org) me.
 
 _Past:_
 
-I was at  at [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp) from 2014 to 2017. 
-Before that, I was at [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en) from 2011 to 2014. 
-<br>
-I received a B.Sc., a M.Sc., and a Ph.D. from [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/), [University of Paris Sud](http://www.u-psud.fr/en/index.html), and [The University of Aizu](http://www.u-aizu.ac.jp/en/), respectively.
+2014-2017 | [Adaptive Systems Laboratory](http://adaptive.u-aizu.ac.jp)  
+2011-2014 | [Smart Integrated Systems Laboratory](http://sis.uet.vnu.edu.vn/en)  
+I received:  <br>
+2017 | Ph.D. | [The University of Aizu](http://www.u-aizu.ac.jp/en/) <br> 
+2014 | M.Sc. | [University of Paris-XI](http://www.u-psud.fr/en/index.html)     <br> 
+2011  | B.Sc. | [VNU University of Engineering and Technology](http://e.uet.vnu.edu.vn/)     <br> 
