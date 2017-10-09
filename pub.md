@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /pub/
+title: Publication
 ---
 Mirror: [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
 
