@@ -2,6 +2,7 @@
 layout: page
 permalink: /pub/
 ---
+Mirror: [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
 
 **Journal**
 
@@ -23,4 +24,3 @@ permalink: /pub/
 1. **Nam Khanh Dang**, Thanh Vu Le Van, Xuan Tu Tran, _"FPGA implementation of a low latency and high throughput network-on-chip router architecture"_, **2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV 2011)**, 2011.
 
 
-Mirror: [google scholar](https://scholar.google.com/citations?user=mQbqkUMAAAAJ&hl=en&oi=sra).
