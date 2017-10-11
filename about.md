@@ -4,13 +4,19 @@ title : About
 permalink: /about/
 ---
 
-**Research topics**:  fault-tolerances and analytical models for Network-on-Chips.
+**Research Interests**:  
+- Fault-tolerant systems
+- Analytical models  
+- Network-on-Chips
 
+**Positions**:
 
-**Email**: <img src="/images/email.png" alt="email" style="height: 28px; position: relative; top: 7px;"/>
+- 2017-now _Researcher_, SISLAB, Vietnam National University Hanoi
+- 2011-2014 _Researcher_, SISLAB, Vietnam National University Hanoi
+- 2010-2011 _Internship_, Dolphin Technology Vietnam Center
 
+**Email**: khanh.n.dang \<at\> ieee.org
 
-<br>
 **Educations:**  <br>
 - Ph.D. [The University of Aizu](http://www.u-aizu.ac.jp/en/), 2017 <br>
 - M.Sc. [University of Paris-XI](http://www.u-psud.fr/en/index.html), 2014    <br>
