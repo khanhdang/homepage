@@ -14,8 +14,7 @@ The system should be able to deal with all kind of faults: hard, soft, and throu
 Moreover, the full process of detection, diagnosis, and recovery is extremely important due to the risk
 of faulty operation time.
 
-PUB: [[iCAST'15]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=7314025),[[ICICDT'16]](http://ieeexplore.ieee.org/document/7542073/),[[ATS'16]](http://ieeexplore.ieee.org/abstract/document/7796106/),[[SUPE'17]](https://link.springer.com/article/10.1007/s11227-016-1951-0)
-
+PUB: [[iCAST'15]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=7314025),[[ICICDT'16]](http://ieeexplore.ieee.org/document/7542073/),[[ATS'16]](http://ieeexplore.ieee.org/abstract/document/7796106/),[[SUPE'17]](https://link.springer.com/article/10.1007/s11227-016-1951-0),[TETC'18]
 
 ***Reliability Assessment using Analytical methods***
 
