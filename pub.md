@@ -12,7 +12,7 @@ title: Publication
 
 **Journal**
 
-1. **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, _"Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"_, **IEEE Transactions on Emerging Topics in Computing**, 2018 (accepted).
+1. **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, _["Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"](https://doi.org/10.1109/TETC.2017.2762407)_, **IEEE Transactions on Emerging Topics in Computing (TETC)**, 2017 (in press).
 1. **Khanh N. Dang**, Akram Ben Ahmed, Xuan-Tu Tran, Yuichi Okuyama, Abderazek Ben Abdallah, _["A Comprehensive Reliability Assessment of Fault-Resilient Network-on-Chip Using Analytical Model"](https://doi.org/10.1109/TVLSI.2017.2736004)_, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, 2017 (in press).
 1. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _["A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"](https://link.springer.com/article/10.1007/s11227-016-1951-0)_, **Journal of Supercomputing**, Volume 73, Issue 6, pp 2705–2729, 2017.
 1. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, _["An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"](http://www.rev-jec.org/index.php/rev-jec/article/view/72/72)_, **REV Journal on Electronics and Communications (JEC)**, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014.
