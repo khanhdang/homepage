@@ -7,7 +7,7 @@ title: Publication
 
 **Thesis**
 
-1. **Dang Nam Khanh**  _”Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)”_, Research advisor: : Prof. Abderazek Ben Abdallah. [[Abstract]](http://adaptive.u-aizu.ac.jp/?page_id=3033)
+1. **Dang Nam Khanh**  _[”Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)”](http://doi.org/10.15016/00000140)_, Research advisor: : Prof. Abderazek Ben Abdallah.
 
 
 **Journal**
