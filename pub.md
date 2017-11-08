@@ -28,3 +28,6 @@ title: Publication
 1. **Nam-Khanh Dang**, Xuan-Tu Tran, Alain Merigot,  _"An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders"_,**17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS 2014)**, Apr. 23-25, 2014.
 1. **Nam Khanh Dang**, Van-Mien Nguyen, Xuan Tu Tran, _"A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders"_, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV 2013)**, 2013.
 1. **Nam Khanh Dang**, Thanh Vu Le Van, Xuan Tu Tran, _"FPGA implementation of a low latency and high throughput network-on-chip router architecture"_, **2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV 2011)**, 2011.
+
+**Talks**
+1. **Nam-Khanh Dang**, _"Fault-Tolerant Architectures and Algorithms for 3D-Network-on-Chips"_, **The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEA-CAS 2017)**, 2017.
