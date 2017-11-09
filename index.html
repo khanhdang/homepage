@@ -1,34 +1,35 @@
----
-layout: default
----
- <!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1; url={{ site.baseurl }}/about">
-        <script type="text/javascript">
-            window.location.href = "{{ site.baseurl }}/about"
-        </script>
-        <title>Page Redirection</title>
-    </head>
-    <body>
-        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='{{ site.baseurl }}/about'>link</a>.
-    </body>
+<html>
+ <head><title>Khanh N. Dang</title></head>
+<body>
+
+<table>
+ <tr>
+  <td style="width: 600px; font-size:12px; font-family: sans-serif;">
+
+  <p>Hi. My name is Khanh N. Dang. </p>
+  <p><br></p>
+  <p><i>Present:</i></p>
+  <p>I am a researcher/lecturer at <a href="http://sis.uet.vnu.edu.vn">SISLAB</a>. We are working on IC design and related researches.</p>
+  <p>My publication can be found <a href="/pub">here</a>.</p>
+  <p><br></p>
+
+  <p><i>Past:</i></p>
+
+  <p>Was PhD student at <a href="http://www.yelp.com/">University of Aizu</a> from Oct. 2014 to Sep. 2017.</p>
+
+  <p>Before that, I was a researcher of <a href="http://sis.uet.vnu.edu.vn">SISLAB</a>.
+  </p>
+  <p><br></p>
+
+  <p><i>Contact:</i></p>
+  <p>khanh.n.dang@vnu.edu.vn<br>
+    khanh.n.dang@ieee.org<br>
+
+  </p>
+
+  </td>
+ </tr>
+</table>
+
+</body>
 </html>
-
-<!-- <h3 id= "article">Articles</h3> -->
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
