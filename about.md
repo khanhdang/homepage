@@ -11,11 +11,13 @@ permalink: /about/
 
 **Positions**:
 
-- 2017-now _Researcher_, SISLAB, Vietnam National University Hanoi
+- 2017-now _Researcher\Lecturer_, SISLAB, Vietnam National University Hanoi
 - 2011-2014 _Researcher_, SISLAB, Vietnam National University Hanoi
 - 2010-2011 _Internship_, Dolphin Technology Vietnam Center
 
-**Email**: khanh.n.dang \<at\> ieee.org
+**Email**: 
+- khanh.n.dang \<at\> ieee.org
+- khanh.n.dang \<at\> vnu.edu.vn
 
 **Educations:**  <br>
 - Ph.D. [The University of Aizu](http://www.u-aizu.ac.jp/en/), 2017 <br>
