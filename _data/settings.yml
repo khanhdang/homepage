@@ -1,0 +1,29 @@
+title:  "Khanh N. Dang"
+tagline: "a personal website"
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+google-ID: UA-52343779-2
+
+
+menu:
+- {name: 'Project', folder: 'pages', file: 'project.html'}
+- {name: 'Publication', folder: 'pages', file: 'publication.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+academic:
+- {icon: 'google-scholar', link: 'https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0001-6702-3870'}
+- {icon: 'dblp', link: 'http://dblp.org/pid/184/5348'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/dnk0904/'}
+- {icon: 'envelope', link: 'mailto:khanh.n.dang@ieee.org'}
+- {icon: 'rss-square', link: 'feed.xml'}
