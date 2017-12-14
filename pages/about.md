@@ -24,4 +24,4 @@ Hi. I am Khanh N. Dang, a researcher at <a href="http://sis.uet.vnu.edu.vn" clas
 * Analytical Analysis
 * Network-on-Chip
 
-[Publication list](/pages/publication.html)
+For more details, see my [publication list](/pages/publication.html).

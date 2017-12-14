@@ -2,6 +2,7 @@
 layout: misc
 title: Contact
 ---
+
 Khanh N. Dang, Ph.D.
 
 VNU Key Laboratory for Smart Integrated Systems (SISLAB)<br>

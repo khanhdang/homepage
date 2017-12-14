@@ -29,3 +29,8 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/dnk0904/'}
 - {icon: 'envelope', link: 'mailto:khanh.n.dang@ieee.org'}
 - {icon: 'rss-square', link: 'feed.xml'}
+
+header-icon:
+- {icon: 'envelope', link: 'mailto:khanh.n.dang@ieee.org'}
+- {icon: 'rss-square', link: 'feed.xml'}
+  

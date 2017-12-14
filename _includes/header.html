@@ -7,11 +7,7 @@
       <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
 
-    {% for item in site.data.settings.academic %}
-      <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="ai ai-{{ item.icon }}"></i></a>
-    {% endfor %}
-
-    {% for item in site.data.settings.social %}
+    {% for item in site.data.settings.header-icon %}
       <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
     {% endfor %}
   </nav>
@@ -22,11 +18,8 @@
         <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
 
-      {% for item in site.data.settings.academic %}
-        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="ai ai-{{ item.icon }}" aria-hidden="true"></i></a>
-      {% endfor %}
 
-      {% for item in site.data.settings.social %}
+      {% for item in site.data.settings.header-icon %}
         <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
       {% endfor %}
     </div>
