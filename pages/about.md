@@ -2,11 +2,26 @@
 layout: misc
 title: About
 ---
-Hi. My name is Khanh N. Dang.
+Hi. I am Khanh N. Dang, a researcher at <a href="http://sis.uet.vnu.edu.vn" class="post-style" >SISLAB</a> of <a href="http://www.vnu.edu.vn" class="post-style" >Vietnam National University Hanoi</a>.
 
+# Education
+* **The University of Aizu**, Japan <br>
+  Ph.D. in Computer Science, Sep. 2017
+* **University of Paris-XI**, France <br>
+  M.Sc. in Information Systems and Technology, Apr. 2014
+* **VNU University of Engineering and Technology**, Vietnam <br>
+  B.Sc. in Electronics and Telecommunications, Jul. 2011
 
-I am currently a researcher at <a href="http://sis.uet.vnu.edu.vn">SISLAB</a> of <a href="http://www.vnu.edu.vn">Vietnam National University Hanoi</a>. We are working on IC design and related researches.
+# Work
+* **SISLAB, Vietnam National University** <br>
+  Researcher, Nov. 2017 - present.
+* **SISLAB, Vietnam National University** <br>
+  Researcher, Jul. 2011 - Sep. 2014
+* **Dolphin Vietnam Inc.** <br>
+  Part-time, Dec. 2010 - Apr. 2011  
+# Research Topics
+* Fault Tolerance
+* Analytical Analysis
+* Network-on-Chip
 
-From Oct. 2014 to Sep. 2017, I was a PhD student at <a href="http://u-aizu.ac.jp/">University of Aizu</a> .
-
-Research Topics: Fault Tolerance, Analytical Analysis, and  Network-on-Chip
+[Publication list](/pages/publication.html)

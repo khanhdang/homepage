@@ -12,7 +12,14 @@ dl, dd, ol, ul, figure {
 /*
   Basic styling
 */
-
+ol, ul{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 1.5;
+  font-family: $body-font-family;
+}
 body {
   font-family: $base-font-family;
 }
@@ -28,7 +35,7 @@ p {
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
-  line-height: 1.65;
+  line-height: 1.5;
   font-family: $body-font-family;
 }
 
@@ -37,8 +44,24 @@ p {
 */
 
 a {
-  color: $link-color;
-  text-decoration: none;
+  color: #555; }
+  a:visited {
+    color: #555; }
+  a:hover {
+    text-decoration: none; }
+  a.bold {
+    font-weight: bold;
+    text-decoration: none; }
+  a.nounderline {
+    text-decoration: none; }
+  a.post-style {
+    color: #008dd4;
+    text-decoration: none; }
+    a.post-style:visited {
+      color: #008dd4; }
+    a.post-style:hover {
+      color: #006ba1;
+      text-decoration: underline;
 }
 
 /*
