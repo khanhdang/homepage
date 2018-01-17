@@ -8,7 +8,7 @@ layout: misc
 Jump to: [Book Chapter](#b), [Journal](#j), [Conference](#c), [Talk](#t), [Thesis](#th)
 
 # <a name="b"></a> Book Chapter
-1. **Khanh N. Dang** and Abderazek Ben Abdallah, _”Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems”_, **Nova Science Publishers**, 2018 (in-press).
+1. **Khanh N. Dang** and Abderazek Ben Abdallah, _”Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems”_, **Nova Science Publishers**, 2018 (in-press). [<i class="fa fa-link" aria-hidden="true"></i>](https://www.novapublishers.com/catalog/product_info.php?products_id=64154)
 
 # <a name="j"></a> Journal
 
