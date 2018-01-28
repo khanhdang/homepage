@@ -1,6 +1,5 @@
 ---
 layout: misc
-title: About
 ---
 Hi. I am Khanh N. Dang, a researcher at <a href="http://sis.uet.vnu.edu.vn" class="post-style" >SISLAB</a> of <a href="http://www.vnu.edu.vn" class="post-style" >Vietnam National University Hanoi</a>.
 
