@@ -12,8 +12,8 @@ google-ID: UA-52343779-2
 
 
 menu:
-- {name: 'Publication', folder: 'pages', file: 'publication.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Publication', folder: 'pages', file: 'publication.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 #- {name: 'Research', folder: 'pages', file: 'research.html'}
 
