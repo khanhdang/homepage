@@ -1,7 +1,7 @@
 ---
 layout: misc
 ---
-Hi. I am Khanh N. Dang, a researcher/lecturer at <a href="http://sis.uet.vnu.edu.vn" class="post-style" >SISLAB</a> of <a href="http://www.vnu.edu.vn" class="post-style" >Vietnam National University Hanoi</a>. I also work on a cooperative project with [ASL](http://adaptive.u-aizu.ac.jp/?page_id=9) of the Univ. of Aizu as an associate researcher.
+Hi. I am Khanh N. Dang, a researcher/lecturer at <a href="http://sis.uet.vnu.edu.vn" class="post-style" >SISLAB</a> of <a href="http://www.vnu.edu.vn" class="post-style" >Vietnam National University Hanoi</a>.  
 
 
 # Education
@@ -19,9 +19,6 @@ Hi. I am Khanh N. Dang, a researcher/lecturer at <a href="http://sis.uet.vnu.edu
   Researcher, Jul. 2011 - Sep. 2014
 * **Dolphin Vietnam Inc.** <br>
   Part-time, Dec. 2010 - Apr. 2011  
-# Research Topics
-* Fault Tolerance
-* Analytical Analysis
-* Network-on-Chip
 
-For more details, see my [publication list](/pages/publication.html).
+
+For more details, see my [publication list](/pages/publication.html) and [research page](/pages/research.html).

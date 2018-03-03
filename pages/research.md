@@ -1,14 +1,13 @@
 ---
-layout: page
+layout: misc
 title: Research
 ---
-_Under construction!_
+_under construction!_
+# Fault-Tolerant Digital Design
+<img src="/assets/img/Task_Migration.png" alt="Drawing" />
+
 # 3D Network-on-Chip
 <img src="/assets/img/3D-NoC.png" alt="Drawing" />
 
-# Analytical Reliability Assessment
-
+# Analytical Assessment
 <img src="/assets/img/Markov.png" alt="Drawing" />
-
-
-# VLSI Brain
