@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation,new]
 ---
 
-**I think it would be fun to track some articles and books I read, so I make a list:**
+**I think it would be fun to track some articles and books I read, so I make a list. I also noted some thoughts and reviews overall.**
 
 # Article
 
