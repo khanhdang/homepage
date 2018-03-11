@@ -1,3 +1,3 @@
 [submodule "repos/noc_ani"]
 	path = repos/noc_ani
-	url = git@github.com:khanhdang/NoC-Animation.git
+	url = https://github.com/khanhdang/NoC-Animation.git
