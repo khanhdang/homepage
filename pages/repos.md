@@ -1,7 +1,10 @@
 ---
 layout: misc
+title: "Something I code for fun"
 ---
-**Update 2018 March**
+Something I code for fun
+--------------------------
+*Updated: 2018 March*
 
 List of repositories:
 ====================
