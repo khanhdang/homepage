@@ -1,3 +1,12 @@
 [submodule "repos/noc_ani"]
 	path = repos/noc_ani
 	url = https://github.com/khanhdang/NoC-Animation.git
+[submodule "repos/routing-prob"]
+	path = repos/routing-prob
+	url = https://github.com/khanhdang/routing-prob.git
+[submodule "repos/RacingJS"]
+	path = repos/RacingJS
+	url = https://github.com/khanhdang/RacingJS.git
+[submodule "repos/uMouse"]
+	path = repos/uMouse
+	url = https://github.com/NerdyGuys/MicroMouse.git
