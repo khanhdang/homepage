@@ -10,3 +10,6 @@
 [submodule "repos/uMouse"]
 	path = repos/uMouse
 	url = https://github.com/NerdyGuys/MicroMouse.git
+[submodule "repos/OAQ"]
+	path = repos/OAQ
+	url = https://github.com/khanhdang/O-An-Quan.git
