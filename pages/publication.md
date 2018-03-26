@@ -18,7 +18,6 @@ Jump to: [Book Chapter](#b), [Journal](#j), [Conference](#c), [Talk](#t), [Thesi
 4.  Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, _“An Overview of H.264 Hardware Encoder Architectures including Low-Power Features”_, **REV Journal on Electronics and Communications (JEC)**, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. [<i class="fa fa-link" aria-hidden="true"></i>](http://www.rev-jec.org/index.php/rev-jec/article/view/72/72)
 
 # <a name="c"></a> Conference
-1. **Khanh N. Dang**, Yuichi Okuyama, Xuan-Tu Tran, Abderazek Ben Abdallah _"Fault Analysis and Reliability Assessment for Network-on-Chip Systems"_, The Fourth International Symposium on Ubiquitous Networking (UNet'18), Springer _(accepted)_
 1. Abderazek Ben Abdallah, **Khanh N. Dang**, Yuichi Okuyama, _"A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems"_, **The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA’2017)**, Dec. 21-23, 2017.
 1.  **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _“Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System”_, **25th IEEE Asian Test Symposium (ATS’16)**, Nov. 21-24, 2016.
 2.  **Khanh N. Dang**, Yuichi Okuyama, Abderazek Ben Abdallah, _“Soft-Error Resilient Network-on-Chip for Safety-Critical Applications”_, **2016 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT)**, Jun. 27 – 29, 2016.
