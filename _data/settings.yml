@@ -15,7 +15,7 @@ menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Research', folder: 'pages', file: 'research.html'}
 - {name: 'Publication', folder: 'pages', file: 'publication.html'}
-#- {name: 'Fun Stuffs', folder: 'pages', file: 'repos.html'}
+- {name: 'Fun Stuffs', folder: 'pages', file: 'repos.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 
@@ -30,6 +30,6 @@ menu:
 #- {icon: 'envelope', link: 'mailto:khanh.n.dang@ieee.org'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 
-header-icon:
-- {icon: 'envelope', link: 'mailto:khanh.n.dang@ieee.org'}
-- {icon: 'rss-square', link: 'feed.xml'}
+#header-icon:
+#- {icon: 'envelope', link: 'mailto:khanh.n.dang@ieee.org'}
+#- {icon: 'rss-square', link: 'feed.xml'}
