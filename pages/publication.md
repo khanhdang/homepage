@@ -19,6 +19,7 @@ Jump to: [Book Chapter](#b), [Journal](#j), [Conference](#c), [Talk](#t), [Thesi
 
 # <a name="c"></a> Conference
 1. Abderazek Ben Abdallah, **Khanh N. Dang**, Yuichi Okuyama, _"A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems"_, **The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA’2017)**, Dec. 21-23, 2017.
+1. Shunsuke Mie, Yuichi Okuyama, Yusuke Sato, Ye Chan, **Nam Khanh Dang**, Ben Abdellash Abderazek, _"Real-Time UAV Attitude Heading Reference System Using Extended Kalman Filter for Programmable SoC"_, **2017 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Sep. 18-20, 2017.
 1.  **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _“Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System”_, **25th IEEE Asian Test Symposium (ATS’16)**, Nov. 21-24, 2016.
 2.  **Khanh N. Dang**, Yuichi Okuyama, Abderazek Ben Abdallah, _“Soft-Error Resilient Network-on-Chip for Safety-Critical Applications”_, **2016 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT)**, Jun. 27 – 29, 2016.
 3.  **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, Xuan-Tu Tran, _“Soft-Error Resilient 3D Network-on-Chip Router”_, **IEEE 7th International Conference on Awareness Science and Technology (iCAST 2015)**, Sep. 22-24, 2015.
