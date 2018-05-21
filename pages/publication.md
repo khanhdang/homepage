@@ -8,16 +8,18 @@ layout: misc
 Jump to: [Book Chapter](#b), [Journal](#j), [Conference](#c), [Talk](#t), [Thesis](#th)
 
 # <a name="b"></a> Book Chapter
-1. **Khanh N. Dang** and Abderazek Ben Abdallah, _”Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems”_, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. [<i class="fa fa-link" aria-hidden="true"></i>](https://www.novapublishers.com/catalog/product_info.php?products_id=64154) [<i class="far fa-file-pdf"></i>](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)
+1. **Khanh N. Dang** and Abderazek Ben Abdallah, _”Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems”_, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. [<i class="fa fa-link" aria-hidden="true"></i>](https://www.novapublishers.com/catalog/product_info.php?products_id=64154) [<i class="far fa-file-pdf"></i>](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)
 
 # <a name="j"></a> Journal
-
+1. [Under Review] **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran _“2D Parity Product Code for TSV online fault correction and detection"
+”_, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, 2018.
 1.  **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, _“Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems”_, **IEEE Transactions on Emerging Topics in Computing (TETC)**, 2018 (in press). [<i class="fa fa-link" aria-hidden="true"></i>](https://doi.org/10.1109/TETC.2017.2762407)
 2.  **Khanh N. Dang**, Akram Ben Ahmed, Xuan-Tu Tran, Yuichi Okuyama, Abderazek Ben Abdallah, _“A Comprehensive Reliability Assessment of Fault-Resilient Network-on-Chip Using Analytical Model”_, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, Volume 25, Issue 11, pp 3099-3112, 2017. [<i class="fa fa-link" aria-hidden="true"></i>](https://doi.org/10.1109/TVLSI.2017.2736004)
 3.  **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _“A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems”_, **Journal of Supercomputing**, Volume 73, Issue 6, pp 2705–2729, 2017. [<i class="fa fa-link" aria-hidden="true"></i>](https://link.springer.com/article/10.1007/s11227-016-1951-0)
 4.  Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, _“An Overview of H.264 Hardware Encoder Architectures including Low-Power Features”_, **REV Journal on Electronics and Communications (JEC)**, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. [<i class="fa fa-link" aria-hidden="true"></i>](http://www.rev-jec.org/index.php/rev-jec/article/view/72/72)
 
 # <a name="c"></a> Conference
+1. [Under Review] **Khanh N. Dang** and Xuan-Tu Tran _“Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication"_, **2018 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**
 1. Abderazek Ben Abdallah, **Khanh N. Dang**, Yuichi Okuyama, _"A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems"_, **The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA’2017)**, Dec. 21-23, 2017.
 1. Shunsuke Mie, Yuichi Okuyama, Yusuke Sato, Ye Chan, **Nam Khanh Dang**, Ben Abdellash Abderazek, _"Real-Time UAV Attitude Heading Reference System Using Extended Kalman Filter for Programmable SoC"_, **2017 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Sep. 18-20, 2017.
 1.  **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _“Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System”_, **25th IEEE Asian Test Symposium (ATS’16)**, Nov. 21-24, 2016.
