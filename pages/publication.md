@@ -6,6 +6,10 @@ layout: misc
 # Mirror: [<i class="ai ai-google-scholar-square"></i>](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en), [<i class="ai ai-dblp-square"></i>-1](http://dblp.org/pid/184/5348), [<i class="ai ai-dblp-square"></i>-2](http://dblp.org/pid/155/5970)
 
 Jump to: [Book Chapter](#b), [Journal](#j), [Conference](#c), [Talk](#t), [Thesis](#th)
+# <a name="u"></a> Under Review
+1. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D Parity Product Code for TSV online fault correction and detection"_ (Submitted to TVLSI).
+2. **Khanh N. Dang** and Xuan-Tu Tran, _"Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication"_ (Submitted to MCSoC-2018).
+
 
 # <a name="b"></a> Book Chapter
 1. **Khanh N. Dang** and Abderazek Ben Abdallah, _”Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems”_, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. [<i class="fa fa-link" aria-hidden="true"></i>](https://www.novapublishers.com/catalog/product_info.php?products_id=64154) [<i class="far fa-file-pdf"></i>](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)
