@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{HDL_visual.html}, footer
+== HDL Visual
+
+I make a tool to read HDL file then export illustration file (CSV, SVG and PDF).
+The program is written in Python and open-source.
+
+Link: [https://github.com/khanhdang/HDL_Visualization_Tool]
+
+rev. 0.1
+- Support Verilog 2004
+- Export SVG, CSV and PDF (require svglib)

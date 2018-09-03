@@ -1,4 +1,4 @@
-DOCS=index pub JS FPGA
+DOCS=index pub JS FPGA HDL_visual
 
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix html/, $(HDOCS))
