@@ -9,3 +9,4 @@ Link: [https://github.com/khanhdang/HDL_Visualization_Tool]
 rev. 0.1
 - Support Verilog 2004
 - Export SVG, CSV and PDF (require svglib)
+- Download here: [https://github.com/khanhdang/HDL_Visualization_Tool/releases/tag/v0.1]
