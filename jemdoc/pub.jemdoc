@@ -4,7 +4,6 @@
 There are some mirrors: \[[https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en gscholar], [http://dblp.org/pid/184/5348 dblp1], [http://dblp.org/pid/155/5970 dblp2]\].
 
 == Working Papers
-. **Khanh N. Dang** and Xuan-Tu Tran, _"Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication"_ (Submitted to MCSoC-2018).
 
 
 == Book Chapter
@@ -17,6 +16,7 @@ There are some mirrors: \[[https://scholar.google.com.vn/citations?user=mQbqkUMA
 .  Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, _“An Overview of H.264 Hardware Encoder Architectures including Low-Power Features”_, **REV Journal on Electronics and Communications (JEC)**, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[http://www.rev-jec.org/index.php/rev-jec/article/view/72/72 link]\].
 
 == Conference
+. **Khanh N. Dang** and Xuan-Tu Tran, _"Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication"_, **2018 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Sep. 12-14, 2018.
 . Abderazek Ben Abdallah, **Khanh N. Dang**, Yuichi Okuyama, _"A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems"_, **The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA’2017)**, Dec. 21-23, 2017.
 . Shunsuke Mie, Yuichi Okuyama, Yusuke Sato, Ye Chan, **Nam Khanh Dang**, Ben Abdellash Abderazek, _"Real-Time UAV Attitude Heading Reference System Using Extended Kalman Filter for Programmable SoC"_, **2017 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)**, Sep. 18-20, 2017.
 .  **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _“Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System”_, **25th IEEE Asian Test Symposium (ATS’16)**, Nov. 21-24, 2016.
@@ -34,5 +34,3 @@ There are some mirrors: \[[https://scholar.google.com.vn/citations?user=mQbqkUMA
 == Thesis
 
 .  **Dang Nam Khanh** _”Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)”_, Research advisor: Prof. Abderazek Ben Abdallah.  \[[http://doi.org/10.15016/00000140 link]\].
-
-
