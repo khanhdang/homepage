@@ -6,6 +6,10 @@ The program is written in Python and open-source.
 
 Link: [https://github.com/khanhdang/HDL_Visualization_Tool]
 
+rev 0.1.1
+- Support VHDL
+- Download here: [https://github.com/khanhdang/HDL_Visualization_Tool/releases/tag/0.1.1]
+
 rev. 0.1
 - Support Verilog 2004
 - Export SVG, CSV and PDF (require svglib)

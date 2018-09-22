@@ -1,4 +1,4 @@
-DOCS=index pub JS FPGA HDL_visual
+DOCS=index pub JS FPGA HDL_visual Volunteering
 
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix html/, $(HDOCS))
@@ -14,7 +14,7 @@ update : $(PHDOCS)
 	@echo ' done.'
 
 html/%.html : %.jemdoc MENU
-	./jemdoc -o $@ $<
+	python jemdoc.py -o $@ $<
 
 .PHONY : clean
 clean :

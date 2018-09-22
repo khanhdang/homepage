@@ -1,9 +1,20 @@
 # jemdoc: menu{MENU}{index.html}, footer
 = Khanh N. Dang
 
-Hi. My name is Khanh N. Dang. I am currently working as a researcher at [http://sis.uet.vnu.edu.vn SISLAB] of [http://www.vnu.edu.vn Vietnam National University, Hanoi (VNU)]. I do research on dependable System-on-Chips in both theoritical and engneering aspects. You can see my [pub.html publication list] for more details.
+~~~
+{}{img_left}{images/ME_MCSoC.JPG}{I @ MCSoC2018}{}{200}{} 
 
-Before that, I lived in Japan in some years and fortunately get a Ph.D. degree.
+Khanh N. Dang, Ph.D.
+
+VNU Key Laboratory for Smart Integrated Systems (SISLAB), \n
+VNU University of Engineering and Technology (VNU-UET), \n
+Vietnam National University, Hanoi (VNU) \n
+Address: 144 Xuan Thuy Rd., Cau Giay District, Hanoi, Vietnam  \n
+Office: Building E4 (room 2.1) \n
+Phone: +84-243-754 9664 (office) \n
+Email: 	khanh.n.dang \[@\] ieee.org  /or/  khanh.n.dang \[@\] vnu.edu.vn
+
+~~~
 
 == News
 - [http://mcsoc-forum.org/2018/ MCSoC-2018] has finished! Thank you and see you at MCSoC-2019 in Singapore!
@@ -12,7 +23,7 @@ Before that, I lived in Japan in some years and fortunately get a Ph.D. degree.
 
 
 == Work
-- Researcher, SISLAB, Vietnam National University, Hanoi, 2017 - present.
+- Researcher/Lecturer, VNU Key Laboratory for Smart Integrated Systems (SISLAB), VNU University of Engineering and Technology, Vietnam National University, Hanoi (VNU), 2017 - present.
 - Research Assistant/Teaching Assistant, The University of Aizu, 2014-2017
 - Researcher, SISLAB, Vietnam National University, Hanoi, 2011 - 2014.
 - Intership, Dolphin Vietnam Inc., 2010-2011
@@ -22,14 +33,4 @@ Before that, I lived in Japan in some years and fortunately get a Ph.D. degree.
 - M.Sc. in Information Systems & Technology, University of Paris-XI, France,  2014
 - B.Sc. in Electronics & Telecommunications, VNU University of Engineering and Technology, Vietnam, 2011
 
-== Contact
 
-Khanh N. Dang, Ph.D.
-
-VNU Key Laboratory for Smart Integrated Systems (SISLAB), \n
-VNU University of Engineering and Technology (VNU-UET), \n
-Vietnam National University, Hanoi (VNU) \n
-Address: 144 Xuan Thuy Rd., Cau Giay District, Hanoi, Vietnam  \n
-Office: Building E4 (room 2.1)
-
-email: 	[khanh.n.dang@ieee.org]
