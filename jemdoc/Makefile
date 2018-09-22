@@ -14,7 +14,7 @@ update : $(PHDOCS)
 	@echo ' done.'
 
 html/%.html : %.jemdoc MENU
-	python jemdoc.py -o $@ $<
+	./jemdoc -o $@ $<
 
 .PHONY : clean
 clean :
