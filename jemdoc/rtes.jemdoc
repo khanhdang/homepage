@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{rtes.html}, footer
+= Real-time Embedded System
+
+== Textbooks 
+- *Hard RealTime Computing Systems*, Giorgio C. Buttazzo, ISBN 978-1-4614-0676-1.
+- *Operating System Concepts*, Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, ISBN: 978-1-118-06333-0.
+
+== Hardware Architecture
+- Microblaze with Xilinx Vivado
+- ADV7511 HDMI reference design
+
+== Software Architecture
+Based on FreeRTOS
+- Interrupt Service Routing
+- Creating Task
+- Scheduling 
+
+== Final Project
+- Designing a small game on Artix7 (AC701)
+
+== Note
+There some textbook I may recommend if you need to recall your knowledge of computer architecture and programming:
+- "Digital Designs and Computer Architectures" by Harris and Harris. 
+- "Computer Architecture: A Quantitative Approach" by  Patterson and Hennessy.
+- "The C Programming Language" by Kernighan and Ritchie
+
+Other notes:
+
+- For the *Operating System Concepts* book, I recommend to read chapter 3-7. You may skip chapter 4 if you don't care about thread. I listed the ninth edition, there is a new edition recently.
+- Issue with debounce ([https://www.youtube.com/watch?v=jYOYgU2vlSE example with Adruino]). Please implement using software (C\/C\+\+) and hardware (VHDL\/Verilog).
+- **FreeRTOS manual**, [http://www.openrtos.net/Documentation/RTOS_book.html link]. Note: your FreeRTOS version maybe older or newer than the book. Upgrading via manual porting is possible.
+- I recommed the slides of ``Real Time Embedded Systems'' by Prof. Akash Kumar  (during his NUS time)
+- FPGA design cource could be found in Bruce R. Land ECE 5760: [http://people.ece.cornell.edu/land/courses/ece5760/ link].
+- If you are interested in theoretical works, [https://www.amazon.com/Real-Time-Systems-Jane-W-Liu/dp/0130996513 "Jane W.S. Liu's Real-Time System"] book is recommended. [https://cs.illinois.edu/directory/profile/lrs Lui Sha]'s work is most notable in this field.
+- Implemeting scheduling algorithm on FreeRTOS could be founded [http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1085303&dswid=8653 Robin Kase's Master Thesis]
