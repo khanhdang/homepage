@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{proj.html}, footer
+= Projects
+
+To be updated
+== Present
+=== Real-time aware fault-tolerance 3D interconnect
+
+== Past
+=== 2014-2017: Comprehensive fault-tolerant 3D Network-on-Chip architecture
+
+=== 2011-2014: Inter-prediction module for H.264/AVC encoder
+
+=== 2010-2011: FPGA Implementation of Network-on-Chip
