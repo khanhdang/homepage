@@ -21,7 +21,7 @@ Based on FreeRTOS
 - Designing a small game on Artix7 (AC701)
     -- Vivado: [https://github.com/RTES-Class/AC701-DualMB-System github]
     -- Xilinx SDK: [https://github.com/RTES-Class/AC701-DualMB-SW github]
-    -- Project files: [2018-F https://github.com/RTES-Class/2018-F]
+    -- Project files: [https://github.com/RTES-Class/2018-F 2018-F]
 - Demo 2018-F
     -- Group 1: [https://drive.google.com/file/d/1uZkBvTDHNSbFT-tfAENQ86unYBdqcJgl/view?usp=sharing Snake]
     -- Group 2: [https://drive.google.com/file/d/1OdMkQBEir0JuAvuk1I-ZLmxk0Sj0BFdM/view?usp=sharing Flappy Bird]
