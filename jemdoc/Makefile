@@ -1,4 +1,4 @@
-DOCS=index pub JS FPGA HDL_visual Volunteering rtes service proj
+DOCS=index pub JS FPGA HDL_visual teaching rtes service proj
 
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix html/, $(HDOCS))
