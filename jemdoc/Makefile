@@ -14,7 +14,7 @@ update : $(PHDOCS)
 	@echo ' done.'
 
 html/%.html : %.jemdoc MENU
-	./jemdoc -o $@ $<
+	./jemdoc -c mysite.conf -o $@ $<
 
 .PHONY : clean
 clean :
