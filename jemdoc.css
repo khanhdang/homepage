@@ -32,6 +32,7 @@ body {
 	font-family: Optima, sans-serif;
 	padding-bottom: 8px;
 	margin: 0;
+	vertical-align: middle;
 }
 
 #layout-menu {

@@ -1,7 +1,10 @@
 # jemdoc: menu{MENU}{index.html}, footer
 = Khanh N. Dang, Ph.D.
 
-
+~~~
+{}{img_left}{images/me2.png}{alt text}{}{170px}{https://colab.research.google.com/drive/164YS6w70c6FFqOXRpqbqzK5TztGSQ-40}
+Me with [https://en.wikipedia.org/wiki/Canny_edge_detector Canny edge detector] & color inversion.
+~~~
 
 
 == News
