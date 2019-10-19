@@ -7,7 +7,10 @@ I have been engaging in several projects. Followings are some notable academic o
 === _TAFT:_ Thermal-aware fault-tolerance 3D interconnect
 Funded by NAFOSTED under No. 102.01-2018.312 (2019-2011). I am the main PI of the project.
 
+~~~
+{}{img_left}{images/tsv.png}{alt text}{}{270px}{https://www.nict.go.jp/en/asean_ivo/4otfsk000029wocm-att/Xuan-Tu_Tran.pdf}
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
+~~~
 
 Selected publications:
 . *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, _" An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs"_, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, (accepted)
