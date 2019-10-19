@@ -12,13 +12,19 @@ We target to develop algorithms and architectures to solve the on-line defect on
 Selected publications:
 . *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, _" An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs"_, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, (accepted)
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects"_, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019 (in press).
-.  *Khanh N. Dang* et al., _"TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs"_,  IEEE TVLSI _(under revision)_
+. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs"_,  *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)* /(accepted)/ \[[http://khanhdang.github.io/share/TVLSI-2019.pdf preprint]\]
+. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults"_, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS 2019)*, Nov. 11-14, 2019 (accepted).
+. *Khanh N. Dang* et al., _"2D Parity Product Code for TSV online fault correction and detection"_, /(accepted with minor revision)/
 
 === _NASH_: Spiking Neural Network
 
 Funded by the University of Aizu as a visting researcher.
 
 The project is in a "stealth mode" :D.
+
+Selected publications:
+
+. Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, _"Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems"_, /(under review)/
 
 
 == Past
