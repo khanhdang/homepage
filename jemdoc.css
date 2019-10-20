@@ -44,12 +44,12 @@ body {
 }
 
 #layout-menu {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
+	background: #ffffff;
+	border: none;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.0em;
+	font-size: 1.2em;
 	width: auto;
 	white-space: nowrap;
 	text-align: left;
@@ -80,7 +80,7 @@ body {
 }
 
 tt {
-	background: #ffffee;
+	background: #fffffe;
 }
 
 pre, tt {
@@ -283,7 +283,7 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #fffffe;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -428,4 +428,12 @@ table.imgtable, table.imgtable td {
 	vertical-align: 0ex;
 	margin-left: -0.05em;
 	margin-right: 0em;
+}
+
+.avatar {
+    display: block;
+    border-radius: 200px;
+    box-sizing: border-box;
+    background-color: #DDD;
+    /* border: 5px solid #cfd8dc; */
 }

@@ -2,13 +2,10 @@
 = Khanh N. Dang, Ph.D.
 
 ~~~
-{}{img_left}{images/me_at_MCSoC2019.jpg}{alt text}{}{270px}{https://colab.research.google.com/drive/164YS6w70c6FFqOXRpqbqzK5TztGSQ-40}
-Picture of me with long hair and beard at IEEE MCSoC 2019 :P
-== Contact
-Room 2.1, E4, Vietnam National University, Hanoi  \n
-144 Xuan Thuy Rd., Hanoi, Vietnam  \n
+{}{img_left}{images/me_at_MCSoC2019.jpg}{alt text}{}{200px}{https://colab.research.google.com/drive/164YS6w70c6FFqOXRpqbqzK5TztGSQ-40}
 
-Email: khanh.n.dang ατ ieee.org 
+#{{<img src='images/MCSoC2019.jpg' class="avatar" alt="alt text" height="200px">}}
+Picture of me with long hair and beard at IEEE MCSoC 2019 :P
 ~~~
 
 ~~~
@@ -29,6 +26,12 @@ Email: khanh.n.dang ατ ieee.org
 # - [http://mcsoc-forum.org/2018/ MCSoC-2018] has finished! Thank you and see you at MCSoC-2019 in Singapore!
 # - [http://mcsoc-forum.org/2018/ MCSoC-2018] has completed its camera-ready paper submission and registration. See you soon in Hanoi.
 ~~~
+
+== Contact
+Room 2.1, E4, Vietnam National University, Hanoi  \n
+144 Xuan Thuy Rd., Hanoi, Vietnam  \n
+
+Email: khanh.n.dang ατ ieee.org 
 
 
 
