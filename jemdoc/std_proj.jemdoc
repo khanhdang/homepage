@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{std_proj.html}, footer
+= Student Projects
+
+Followings are some notable student project I helped mentor
+
+== Real-time Gaming System
+- Designing a small game on Artix7 (AC701) with dual-core Microblazes (one controls HDMI, one mangages/renders the game). The game is programed based on FreeRTOS.
+    -- Vivado: [https://github.com/RTES-Class/AC701-DualMB-System github]
+    -- Xilinx SDK: [https://github.com/RTES-Class/AC701-DualMB-SW github]
+    -- Project files: [https://github.com/RTES-Class/2018-F 2018-F]
+
+- Demo 2018-F
+    -- Group 1: [https://drive.google.com/file/d/1uZkBvTDHNSbFT-tfAENQ86unYBdqcJgl/view?usp=sharing Snake]
+    -- Group 2: [https://drive.google.com/file/d/1OdMkQBEir0JuAvuk1I-ZLmxk0Sj0BFdM/view?usp=sharing Flappy Bird]
+    -- Group 3: [https://drive.google.com/file/d/1O8Ht5nEaUASd3VK9mCwQLhytarn-U6CL/view?usp=sharing Airplane]
+    -- Group 4: [https://drive.google.com/file/d/1YDXlNxMK75T-LYxZtolcGM1UDFOYufem/view?usp=sharing Flappy Bird]
+
+~~~
+{}{img_left}{images/Student/RTES.PNG}{alt text}{}{300px}{}
+~~~
+
+Screenshots of the projects.
+
+== Magic Spoon
+[https://www.facebook.com/ieee.cass.my/posts/443741972987477 Facebook news by IEEE CASS Malaysia!]
+
+~~~
+{}{img_left}{images/Student/MagicSpoon.PNG}{alt text}{}{800px}{}
+
+~~~
+
+Our students attended the SEACAS 2019 Hackathon and won the 1st prize. 
+The project is to develope a prototype of ``Magic Spoon'' which can compensate the vibration (shaking) 
+of Parkinson's patient hand. Instead of using conventional PID, our students developed a single layer perceptron to control the servo motor.
+
+Our students will participate the IEEE CASS Student Design Competition which is organized as a part of ISCAS 2020 at Seville, Spain.
