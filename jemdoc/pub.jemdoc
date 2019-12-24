@@ -21,10 +21,10 @@
 == Conference Papers
 . Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, _"Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems"_, *2020 IEEE International Conference on
 Big Data and Smart Computing (BigComp)*, (accepted).
-. *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)* (accepted).
-. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults"_, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Nov. 11-14, 2019 (accepted).
-. *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, _" An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs"_, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Oct. 1-4, 2019  (in press).
-. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects"_, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019 (in press).
+. *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)*  (in press).
+. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults"_, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Nov. 11-14, 2019  (in press).
+. *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, _" An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs"_, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Oct. 1-4, 2019.
+. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects"_, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019.
 . *Khanh N. Dang* and Xuan-Tu Tran, _"Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication"_, *2018 IEEE 12th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Sep. 12-14, 2018.
 . Abderazek Ben Abdallah, *Khanh N. Dang*, Yuichi Okuyama, _"A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems"_, *The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA)*, Dec. 21-23, 2017.
 . Shunsuke Mie, Yuichi Okuyama, Yusuke Sato, Ye Chan, *Nam Khanh Dang*, Ben Abdellash Abderazek, _"Real-Time UAV Attitude Heading Reference System Using Extended Kalman Filter for Programmable SoC"_, *2017 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Sep. 18-20, 2017.
@@ -36,6 +36,7 @@ Big Data and Smart Computing (BigComp)*, (accepted).
 .  *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, _“A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders”_, *2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2013.
 .  *Nam Khanh Dang*, Thanh Vu Le Van, Xuan Tu Tran, _“FPGA implementation of a low latency and high throughput network-on-chip router architecture”_, *2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2011.
 == Patent
+. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)'', Japan patent, (under internal screening)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, _"A TSV fault-tolerant router system for 3D-Networks-on-Chip"_,
 特願 2017-218953, Japan patent (under review).
 == Presentations
