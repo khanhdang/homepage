@@ -26,7 +26,7 @@ Selected publications:
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects"_, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019 (in press).
 
 Patents:
-. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)'', Japan patent, (under internal screening)
+. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent, (under internal screening)
 
 === _NASH_: Spiking Neural Network
 
@@ -38,6 +38,10 @@ Selected publications:
 Big Data and Smart Computing (BigComp)*, (accepted).
 . *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)* (accepted).
 
+=== _DyRec_: dynamic fault recovery in parallel and distributed systems
+
+We target to develop a theoretical model for fault recovery in parallel and distributed systems. The project is in steath mode.
+We are looking for students with strong mathematical background to work in this project.
 
 == Past
 ===  _OASIS:_ On-chip fault-tolerant Network-on-Chip architecture
