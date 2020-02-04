@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{teaching.html}, footer
 = Teaching
 
-== Current
 . 2018,2019 | VNU-UET | [/rtes.html ELT3071: Real-time Embedded Systems]  The class is about real-time programming for embeded systems. The final project is based on dual-core MicroBlaze and game programing. 
-
-== Past 
 . 2019 | University of Aizu | [http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2017_2_J_002.html SYC04 - Advanced Computer Organization]: I was an invited lecturer for one session. The class was taught by [http://web-ext.u-aizu.ac.jp/~benab/teaching.html Prof. Ben].
 . 2019 | VNU-UET | [https://uet-ai-robot.moodlecloud.com/ INT3409: Robotics Programming]: I taught the pratical programming part ([https://scikit-learn.org/stable/ scikit-learn], [https://opencv.org/ OpenCV], [https://github.com/AtsushiSakai/PythonRobotics PythonRobotics], and [https://ai2thor.allenai.org/ Ai2thor]). The theoritical parts were taught by [https://scholar.google.co.jp/citations?user=v7fW5JoAAAAJ&hl=en Dr. Do-Van Nguyen].
