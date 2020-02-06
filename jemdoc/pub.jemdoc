@@ -4,9 +4,13 @@
 # There are some mirrors: \[[https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en gscholar], [http://dblp.org/pid/184/5348 dblp1], [http://dblp.org/pid/155/5970 dblp2]\].
 
 == Patents
-. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent, (under internal screening)
+Note: The patents were filled under The University of Aizu affiliation.
+
+
+. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent,  (under review).
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, _"A TSV fault-tolerant router system for 3D-Networks-on-Chip"_,
 特願 2017-218953, Japan patent (under review).
+
 
 == Book chapter
 . *Khanh N. Dang* and Abderazek Ben Abdallah, _”Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems”_, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. *Nova Science Publishers*, 2018. \[[https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/ link], [http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf pdf]\].
