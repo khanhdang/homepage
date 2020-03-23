@@ -26,21 +26,30 @@ table#tlayout {
 	font-weight: bold;
 	font-style: italic;
 }
-
+html {
+    display: table;
+    margin: auto;
+}
 body {
 	background: white;
 	font-family: Optima, sans-serif;
-	padding-bottom: 8px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	/* padding-left: 20%; */
+	/* padding-right: 20%; */
 	margin: 0;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 #layout-menu {
-	background: #f6f6f6;
-	border: 1px solid #dddddd;
+	background: #ffffff;
+	border: none;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.0em;
+	font-size: 1.2em;
 	width: auto;
 	white-space: nowrap;
 	text-align: left;
@@ -61,8 +70,8 @@ body {
 	text-align: left;
 	vertical-align: top;
 	min-width: 800px;
-	max-width: 2000px;
-	width: 2000px;
+	max-width: 1400px;
+	width: 1200px;
 }
 
 #layout-menu a {
@@ -71,7 +80,7 @@ body {
 }
 
 tt {
-	background: #ffffee;
+	background: #fffffe;
 }
 
 pre, tt {
@@ -274,7 +283,7 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #fffffe;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -419,4 +428,12 @@ table.imgtable, table.imgtable td {
 	vertical-align: 0ex;
 	margin-left: -0.05em;
 	margin-right: 0em;
+}
+
+.avatar {
+    display: block;
+    border-radius: 200px;
+    box-sizing: border-box;
+    background-color: #DDD;
+    /* border: 5px solid #cfd8dc; */
 }

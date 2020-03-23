@@ -6,33 +6,14 @@ table#tlayout {
 	background: white;
 }
 
-@font-face {
-	font-family: Optima;
-	src: url("fonts/Optima-Regular.ttf") format('truetype');
-}
-@font-face {
-	font-family: Optima;
-	src: url('fonts/Optima-Bold.ttf') format('truetype');
-	font-weight: bold;
-}
-@font-face {
-	font-family: Optima;
-	src: url('fonts/Optima-Italic.ttf') format('truetype');
-	font-style: italic;
-}
-@font-face {
-	font-family: Optima;
-	src: url('fonts/Optima-BoldItalic.ttf') format('truetype');
-	font-weight: bold;
-	font-style: italic;
-}
+
 html {
     display: table;
     margin: auto;
 }
 body {
 	background: white;
-	font-family: Optima, sans-serif;
+	font-family: sans-serif;
 	padding-bottom: 10px;
 	padding-top: 10px;
 	padding-left: 10px;
