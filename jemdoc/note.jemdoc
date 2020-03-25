@@ -1,5 +1,0 @@
-# jemdoc: menu{MENU}{note.html}, footer
-= Some notes
-
-== Technical issue
-. On how to inject fault to nestlist \[[/1_fault_inject_netlist.html link]]\]
