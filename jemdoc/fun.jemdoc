@@ -29,6 +29,15 @@ rev. 0.1
 - Export SVG, CSV and PDF (require svglib)
 - Download here: [https://github.com/khanhdang/HDL_Visualization_Tool/releases/tag/v0.1]
 
+== VLSI
+=== OpenRAM
+
+I tried to implement the OpenRAM as a part of our new project.
+
+The test project can be found here: [https://github.com/khanhdang/OpenRAM_test]
+
+OpenRAM website: [https://openram.soe.ucsc.edu/]
+
 == FPGA
 
 === TINY_CPU
