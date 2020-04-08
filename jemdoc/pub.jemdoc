@@ -1,17 +1,11 @@
 # jemdoc: menu{MENU}{pub.html}, footer
-= Publications
-
-# There are some mirrors: \[[https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en gscholar], [http://dblp.org/pid/184/5348 dblp1], [http://dblp.org/pid/155/5970 dblp2]\].
-
-== Copyright notices
-“© 2014-2020 IEEE.  Personal use of this material is permitted.  Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.”
 
 
 == Patents
 
-. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent,  (under review).
+. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent,  (under review)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, _"A TSV fault-tolerant router system for 3D-Networks-on-Chip"_,
-特願 2017-218953, Japan patent (under review).
+特願 2017-218953, Japan patent (under review)
 
 
 == Book chapter
