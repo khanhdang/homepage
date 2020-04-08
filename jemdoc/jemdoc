@@ -193,7 +193,7 @@ def standardconf():
   <td id="layout-content">
   
   [menucategory]
-  <div class="menu-category">|</div>
+  <div class="menu-category"><a href="|1"|3>|2</a></div>
 
   [menuitem]
   <a href="|1"|3>|2</a>
