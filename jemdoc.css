@@ -31,7 +31,7 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.2em;
+	font-size: 120%;
 	width: auto;
 	white-space: nowrap;
 	text-align: left;
@@ -72,8 +72,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #464646;
-	border-bottom: 1px gray solid;
+	color: #707070;
 	text-decoration: none;
 }
 
