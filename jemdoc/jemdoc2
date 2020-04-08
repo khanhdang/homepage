@@ -181,16 +181,11 @@ def standardconf():
   
   [menustart]
   <table summary="Table for page layout." id="tlayout">
-  <tr valign="top">
-  <td id="layout-menu">
-  <div class="menu-category">
-
+  <tr valign="top" id="layout-menu">
+  
   [menuend]
-  </div>
-  </td>
   </tr>
-  <tr>
-  <td id="layout-content">
+  <tr  valign="top" id="layout-content">
   
   [menucategory]
   <div class="menu-category">|</div>
@@ -205,13 +200,12 @@ def standardconf():
   <script src="|.js" type="text/javascript"></script>
   
   [currentmenuitem]
-  <a href="|1" class="current"|3>|2</a>
+  <div class="menu-item"><a href="|1" class="current"|3>|2</a></div>
   
   [nomenu]
   <div id="layout-content">
   
   [menulastbit]
-  </td>
   </tr>
   </table>
   
@@ -258,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by Khanh N. Dang :D.
+  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
