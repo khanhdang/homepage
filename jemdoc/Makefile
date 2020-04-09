@@ -1,5 +1,4 @@
-DOCS=index pub teaching rtes service proj profile students fun link contact
-
+DOCS=index pub  service  
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix html/, $(HDOCS))
 

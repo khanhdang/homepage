@@ -1,10 +1,13 @@
 # jemdoc: menu{MENU}{link.html}, footer
-= Link
+= Links
 
-== On the internet
 
-. [https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en Gscholar]
-. [https://dblp.uni-trier.de/pers/hd/d/Dang:Khanh_N= DBLP]
+
+== Collaborators
+
+. [http://web-ext.u-aizu.ac.jp/~benab/ Prof. Abderazek Ben Abdallah]
+. [http://www.uet.vnu.edu.vn/~tutx/ Prof. Xuan-Tu Tran]
+. [http://am.ics.keio.ac.jp/~akram/ Dr. Akram Ben Ahmed]
 
 == Affiliation
 
@@ -14,5 +17,5 @@
 
 == Conference
 
-. [http://mcsoc-forum.org MCSoC 2020]: The IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2020) \n
+. [http://mcsoc-forum.org MCSoC 2020]: The IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip 
 . [http://apccas2020.org APCCAS-2020 ]: The 16th IEEE Asia Pacific Conference on Circuits and Systems
