@@ -2,7 +2,7 @@
 
 
 ~~~
-{}{img_left}{images/MCSoC2019.jpg}{alt text}{}{190px}{}
+{}{img_left}{images/MCSoC2019.jpg}{alt text}{}{170px}{}
 === Khanh N. Dang (/in Vietnamese/: Đặng Nam Khánh, /in Japanese/: ダン　ナム　カイン)
 /Assistant Prof./,  Vietnam National University, Hanoi (VNU) \n
 Room 2.1, E4, Vietnam National University, Hanoi  \n
@@ -11,7 +11,7 @@ Room 2.1, E4, Vietnam National University, Hanoi  \n
 <a href="mailto:khanh.n.dang@vnu.edu.vn" target=&ldquo;blank&rdquo;>khanh.n.dang@vnu.edu.vn</a>  <br>
 <i class="ai ai-orcid ai-1x" ></i><a href="https://orcid.org/0000-0001-6702-3870" target=&ldquo;blank&rdquo;>https://orcid.org/0000-0001-6702-3870</a> <br>
 <i class="ai ai-google-scholar ai-1x" ></i><a href="https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&amp;hl=en" target=&ldquo;blank&rdquo;>https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&amp;hl=en</a> <br>
-<i class="ai ai-dblp ai-1x" ></i><a href="https://dblp.uni-trier.de/pers/hd/d/Dang:Khanh_N=" target=&ldquo;blank&rdquo;>https://dblp.uni-trier.de/pers/hd/d/Dang:Khanh_N=</a> }}
+}}
 ~~~
 
 == News
@@ -40,10 +40,7 @@ Room 2.1, E4, Vietnam National University, Hanoi  \n
 # - [http://mcsoc-forum.org/2018/ MCSoC-2018] has completed its camera-ready paper submission and registration. See you soon in Hanoi.
 
 == Research Interests
-- System-on-Chips/Network-on-Chips 
-- Three Dimensional Integrated Circuits
-- Systems Reliability
-- Neuromorphic Computing
+System-on-Chips/Network-on-Chips, Three Dimensional Integrated Circuits, Systems Reliability, Neuromorphic Computing
 
 == Work
 - /Assistant Professor/, Vietnam National University, Hanoi, 2017 - present.
