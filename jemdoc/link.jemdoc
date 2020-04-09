@@ -1,9 +1,17 @@
 # jemdoc: menu{MENU}{link.html}, footer
-\n
+
+== On the internet
+
+. [https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ&hl=en Gscholar]
+. [https://dblp.uni-trier.de/pers/hd/d/Dang:Khanh_N= DBLP]
+
+== Affiliation
+
 . [http://sis.uet.vnu.edu.vn/ VNU-key Laboratory for Smart Integrated Systems, Vietnam National University, Hanoi, Vietnam]
 . [http://adaptive.u-aizu.ac.jp/ Adaptive Systems Laboratory, University of Aizu, Japan]
 
 
-= Conference
+== Conference
+
 . [http://mcsoc-forum.org MCSoC 2020]: The IEEE 14th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC 2020) \n
 . [http://apccas2020.org APCCAS-2020 ]: The 16th IEEE Asia Pacific Conference on Circuits and Systems
