@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, footer
 
-
+\n
 ~~~
-{}{img_left}{images/MCSoC2019.jpg}{alt text}{}{170px}{}
-=== Khanh N. Dang (/in Vietnamese/: Đặng Nam Khánh, /in Japanese/: ダン　ナム　カイン)
+{}{img_left}{images/me.jpg}{alt text}{}{170px}{}
+== Khanh N. Dang (/in Vietnamese/: Đặng Nam Khánh, /in Japanese/: ダン ナム カイン)
 /Assistant Prof./,  Vietnam National University, Hanoi (VNU) \n
 Room 2.1, E4, Vietnam National University, Hanoi  \n
 144 Xuan Thuy Rd., Hanoi, Vietnam  \n
@@ -14,6 +14,7 @@ Room 2.1, E4, Vietnam National University, Hanoi  \n
 }}
 ~~~
 
+~~~
 == News
 - (Mar. 2020) Our journal paper titled "A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip" has been accepted for IEEE Access. Preprint can be downloaded from [http://khanhdang.github.io/share/ACCESS-2020.pdf here].
 #- (Jan. 2020) The website for APCCAS 2020 has been released at [http://apccas2020.org/].
@@ -38,15 +39,15 @@ Room 2.1, E4, Vietnam National University, Hanoi  \n
 # - Website of MCSoC 2019 is online! Check it out [http://mcsoc-forum.org/m2019 here]!
 # - [http://mcsoc-forum.org/2018/ MCSoC-2018] has finished! Thank you and see you at MCSoC-2019 in Singapore!
 # - [http://mcsoc-forum.org/2018/ MCSoC-2018] has completed its camera-ready paper submission and registration. See you soon in Hanoi.
+~~~
 
 == Research Interests
 System-on-Chips/Network-on-Chips, Three Dimensional Integrated Circuits, Systems Reliability, Neuromorphic Computing
 
-== Work
+== Appointments
 - /Assistant Professor/, Vietnam National University, Hanoi, 2017 - present.
 - /Visiting Researcher/, The University of Aizu, 2020.
 - /Visiting Researcher/, The University of Aizu, 2019.
-- /Research\/Teaching Assistant/, The University of Aizu, 2014-2017.
 - /Researcher/, SISLAB, Vietnam National University, Hanoi, 2011-2014.
 - /RTL Designer/, Dolphin Vietnam Inc., 2010-2011.
 
