@@ -54,7 +54,7 @@ body {
 	vertical-align: top;
 	min-width: 800px;
 	max-width: 1400px;
-	width: 900px;
+	width: 1200px;
 }
 
 #layout-menu a {
@@ -97,7 +97,6 @@ div.menu-category {
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
 	font-weight: bold;
-	width: 120px;
 }
 
 div.menu-item {

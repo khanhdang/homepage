@@ -3,7 +3,7 @@
 \n
 ~~~
 {}{img_left}{images/me.jpg}{alt text}{}{170px}{}
-== Khanh N. Dang (/in Vietnamese/: Đặng Nam Khánh, /in Japanese/: ダン ナム カイン)
+== Khanh N. Dang (/in Vietnamese/: Đặng Nam Khánh)
 /Assistant Prof./,  Vietnam National University, Hanoi (VNU) \n
 Room 2.1, E4, Vietnam National University, Hanoi  \n
 144 Xuan Thuy Rd., Hanoi, Vietnam  \n
@@ -16,15 +16,15 @@ Room 2.1, E4, Vietnam National University, Hanoi  \n
 
 ~~~
 == News
-- (Mar. 2020) Our journal paper titled "A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip" has been accepted for IEEE Access. Preprint can be downloaded from [http://khanhdang.github.io/share/ACCESS-2020.pdf here].
+- (Mar. 2020) Our journal paper titled "A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip" has been accepted for IEEE Access.  \[[http://khanhdang.github.io/share/ACCESS-2020.pdf Preprint]\].
 #- (Jan. 2020) The website for APCCAS 2020 has been released at [http://apccas2020.org/].
 #- (Jan. 2020) The website for MCSoC 2020 has been released at [http://mcsoc-forum.org/2020].
 - (Dec. 2019) I will be a visiting researcher at The University of Aizu in 2020 to continue the work on designing Spiking Neural Network on hardware.
 #- (Dec. 2019) Our students at the 3rd IEEE SEACAS's Hackathon have won the 1st prize with their ``Magic Spoon''. They will attend the Student Design Competition at ISCAS 2020. 
 #- (Dec. 2019) Our conference paper has been accepted for BigComp 2020. 
-- (Nov. 2019) Our conference paper on neuromorphic computing system platform (Software\/Hardware, ANN conversion\/STDP) has been accepted for IINTEC 2019. Preprint can be downloaded from [https://arxiv.org/abs/2003.09847 here].
+- (Nov. 2019) Our conference paper on neuromorphic computing system platform has been accepted for IINTEC 2019. \[[https://arxiv.org/abs/2003.09847 Preprint]\].
 #- (Oct. 2019) I will participate the 3rd IEEE SEACAS (IEEE SOUTH EAST ASIA WORKSHOP on CIRCUITS AND SYSTEMS) in Universiti Putra Malaysia, Malaysia. There will be a Hackathon run together with SEACAS.
-- (Oct. 2019) Our paper titled [http://khanhdang.github.io/share/TVLSI-2019.pdf "TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs"] is accepted for [http://tvlsi.egr.duke.edu/ IEEE Trans. on VLSI systems]! 
+- (Oct. 2019) Our paper titled [http://khanhdang.github.io/share/TVLSI-2019.pdf "TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs"] is accepted for [http://tvlsi.egr.duke.edu/ IEEE Trans. on VLSI systems]! \[[http://khanhdang.github.io/share/TVLSI-2019.pdf Preprint]\].
 #- (Oct. 2019) Our paper is accepted for [http://apccas2019.org IEEE APCCAS 2019] in Bangkok, Thailand on Nov. 11-14, 2019! 
 #- (Jul. 2019) Our paper is accepted for [http://mcsoc-forum.org/ IEEE MCSoC 2019] in NTU, Singapore on Oct. 1-4, 2019! 
 #- (May. 2019) Our new VNU JCSCE journal paper has been published [http://jcsce.vnu.edu.vn/index.php/jcsce/article/view/218 here]! The paper proposed a method to adapt coding techniques with several error rates and inform the system whether it cannot correct the current faulty rate.
