@@ -195,6 +195,7 @@ def standardconf():
   </tr>
   <tr>
   <td id="layout-content">
+  <p></p>
   
   [menucategory]
   <div class="menu-category"><a href="|1"|3>|2</a></div>

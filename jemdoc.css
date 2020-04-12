@@ -419,3 +419,11 @@ table.imgtable, table.imgtable td {
     background-color: #DDD;
     /* border: 5px solid #cfd8dc; */
 }
+
+#teaching{
+	border: 2px solid white;
+}
+
+#teaching td{
+	border: 2px solid white;
+}
