@@ -1,7 +1,9 @@
 # jemdoc: menu{MENU}{pub.html}, footer
 
-== Patents
+\* / Copyright notices at the bottom of the page /
 
+== Patents
+. A. Ben Abdallah, *Khanh N. Dang*, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/ (under review)
 . A. Ben Abdallah, *Khanh N. Dang*, /``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''/, Japan patent,  (under review)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``A TSV fault-tolerant router system for 3D-Networks-on-Chip''/,
 特願 2017-218953, Japan patent (under review)
@@ -51,3 +53,13 @@ Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
 == Thesis
 
 .  *Dang Nam Khanh* _”Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)''/, Research advisor: Prof. Abderazek Ben Abdallah.  \[[http://doi.org/10.15016/00000140 DOI]\]. \[[./share/THESIS-2017.pdf PDF]\]. \[[./share/THESIS-SLIDE-2017.pdf SLIDE]\]
+
+== Copyright Notices for the Following Publications 
+
+~~~
+{}{table}{TAB}
+
+ [http://www.acm.org/pubs/copyright_policy/ ACM]   |  Copyright by the Association for Computing Machinery, Inc. Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from Publications Dept, ACM Inc., fax +1 (212) 869-0481, or permissions@acm.org. || 
+    IEEE    |  This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. ||
+Springer | The following copyright notice applies to all papers published in the Lecture Notes in Computer Science by Springer-Verlag, as mentioned in the Copyright Form. The Author may publish his/her contribution on his/her personal Web page provided that he/she creates a link to the above mentioned volume of LNCS at the Springer-Verlag server or to the LNCS series homepage, and that together with this electronic version it is clearly pointed out, by prominently adding "Copyright Springer-Verlag", that the copyright for this contribution is held by Springer.
+~~~

@@ -1,4 +1,4 @@
-DOCS=index pub  service  teaching rtes grant research
+DOCS=index pub  service  teaching rtes grant research students
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix html/, $(HDOCS))
 
