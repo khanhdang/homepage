@@ -13,8 +13,8 @@
 . *Khanh N. Dang* and Abderazek Ben Abdallah, /``Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''/, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. *Nova Science Publishers*, 2018. \[[https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/ LINK]\], \[[http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf PDF]\]
 
 == Refereed journal papers
-#.  *Khanh N. Dang* et al., /``HotCluster: A thermal-aware TSV defect recovery method for 3-D NoCs systems''/ _(to be submitted)_.
-#.  *Khanh N. Dang* , Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``IaSiG: A low-cost non-preemptive on-line detection and correction method for TSV defects''/, _(under review)_
+.  *Khanh N. Dang* , Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, , /``HotCluster: A thermal-aware TSV defect recovery method for 3-D NoCs systems''/ _(to be submitted)_.
+.  *Khanh N. Dang* , Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, _(under review)_
 .  *Khanh N. Dang* , Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip''/, *IEEE Access*, (IF=4.098), Volume 8, pp 59571 - 59589, 2020. \[[https://doi.org/10.1109/ACCESS.2020.2982836 DOI]\], \[[./share/ACCESS-2020.pdf PDF]\]
 .  *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''/,  *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)* (IF= 1.946), IEEE,   Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\], \[[./share/TVLSI-2019.pdf PDF]\]
 .  *Khanh N. Dang*, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, /``Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems''/, *IEEE Transactions on Emerging Topics in Computing (TETC)*  (IF= 4.989), IEEE,  (in press). \[[./share/TETC-2017.pdf PDF]\], \[[https://doi.org/10.1109/TETC.2017.2762407 DOI]\]
@@ -27,7 +27,7 @@
 .  Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, /``An Overview of H.264 Hardware Encoder Architectures including Low-Power Features''/, *REV Journal on Electronics and Communications (JEC)*, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[http://dx.doi.org/10.21553/rev-jec.72 DOI/PDF]\]
 
 == Refereed conference papers
-
+. *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, /``HOTSTACK: A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, _(under review)_
 . Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
 . Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
 Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
