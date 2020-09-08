@@ -19,8 +19,11 @@ We target to develop algorithms and architectures to solve the on-line defect on
 
 
 Selected publications:
-.  *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"_,  *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)* (IF= 1.946), IEEE,   Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\], \[[./share/TVLSI-2019.pdf PDF]\]
-.  *Khanh N. Dang* , Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip"_, *IEEE Access*, (IF=4.098), 2020 _(in press)_. \[[https://doi.org/10.1109/ACCESS.2020.2982836 DOI]\], \[[./share/ACCESS-2020.pdf PDF]\].
+. *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, *IEEE Access* _(in press)_
+. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"_,  *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)* (IF= 1.946), IEEE,   Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\], \[[./share/TVLSI-2019.pdf PDF]\]
+. *Khanh N. Dang* , Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip"_, *IEEE Access*, (IF=4.098), 2020 _(in press)_. \[[https://doi.org/10.1109/ACCESS.2020.2982836 DOI]\], \[[./share/ACCESS-2020.pdf PDF]\].
+. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)* _(accepted)_
+. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``Thermal distribution and reliability prediction for 3D Networks-on-Chip''/, *VNU Journal of Computer Science and Communication Engineering*, VNU, Volume 36, No 1, pp 65-77, 2020. \[[http://www.jcsce.vnu.edu.vn/index.php/jcsce/article/view/245 DOI/PDF]\]
 . *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D Parity Product Code for TSV online fault correction and detection"_, *REV Journal on Electronics and Communications (JEC)*, REV-JEC, /(accepted, editing)/
 . *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults"_, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Nov. 11-14, 2019 (accepted).
 . *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, _" An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs"_, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Oct. 1-4, 2019  (in press).
@@ -31,6 +34,7 @@ Technical Reports:
 
 Patents:
 . A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent, (under internal screening)
+. A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/, Japan patent, (under review)
 
 === Spiking Neural Network Architecture
 
