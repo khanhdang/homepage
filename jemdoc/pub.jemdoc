@@ -10,7 +10,7 @@ JP2019092020A, Japan (patent pending) \[[https://patents.google.com/patent/JP201
 
 == Book chapters
 . *Khanh N. Dang* and Abderazek Ben Abdallah, /``Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''/, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. *Nova Science Publishers*, 2018. \[[https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/ LINK]\], \[[http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf PDF]\]
-
+. Xuan-Tu Tran, *Khanh N. Dang*, and Alain Merigot, /``Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy''/, dvances in Engineering Research. Nova Science Publishers. ISBN 978-1-53618-929-2 (in press)
 == Refereed ISI journal papers
 . *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, *IEEE Access*, IEEE, Volume 8, pp 166642-166657, 2020. \[[https://doi.org/10.1109/ACCESS.2020.3022904 DOI]\],\[[./share/09189765.pdf PDF]\] 
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''/, *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)*, IEEE, Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\],\[[./share/TVLSI-2019.pdf PDF]\]
@@ -49,7 +49,7 @@ Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
 == Preprints
 . /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/ _(under review)_
 . /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"''/ _(under review)_
-. /``HotCluster: A thermal-aware TSV defect recovery method for 3-D NoCs systems''/ _(under review)_
+. /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''/ _(under review)_
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``Report on power, thermal and reliability prediction for 3D Networks-on-Chip''/, arXiv preprint [https://arxiv.org/abs/2003.08648 arXiv:2003.08648].
 . *Khanh N. Dang*, Yuichi Okuyama, Abderazek Ben Abdallah, /``Soft-Error and Hard-fault Tolerant Architecture and Routing Algorithm for Reliable 3D-NoC Systems''/. arXiv preprint [https://arxiv.org/abs/2003.09616 arXiv:2003.09616].
 
