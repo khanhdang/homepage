@@ -26,7 +26,8 @@ JP2019092020A, Japan (patent pending) \[[https://patents.google.com/patent/JP201
 . Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, /``An Overview of H.264 Hardware Encoder Architectures including Low-Power Features''/, *REV Journal on Electronics and Communications (JEC)*, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[http://dx.doi.org/10.21553/rev-jec.72 DOI/PDF]\]
 
 == Refereed conference papers
-. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)* _(accepted)_
+. Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020
+. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)*, Nov. 8-10, 2020
 . Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
 . Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
 Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
@@ -47,7 +48,6 @@ Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
 . *Nam Khanh Dang*, Thanh Vu Le Van, Xuan Tu Tran, /``FPGA implementation of a low latency and high throughput network-on-chip router architecture''/, *2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2011
 
 == Preprints
-. /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/ _(under review)_
 . /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"''/ _(under review)_
 . /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''/ _(under review)_
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``Report on power, thermal and reliability prediction for 3D Networks-on-Chip''/, arXiv preprint [https://arxiv.org/abs/2003.08648 arXiv:2003.08648].
