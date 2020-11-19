@@ -4,6 +4,19 @@
 == Current
 
 
+=== Neuromorphic Computing Architecture
+
+The main PI is Prof. Abderazek Abdallah from the University of Aizu where I was funded as a visting researcher in 2019 and 2020. We still continue to work on that project.
+
+Selected publications:
+
+. Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020
+. Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
+. Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
+Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
+. *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)* (accepted).
+
+
 === Thermal-aware fault-tolerance 3D interconnect
 Funded by NAFOSTED under No. 102.01-2018.312 (2019-2011). I am the main PI of the project.
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
@@ -35,16 +48,6 @@ Technical Reports:
 Patents:
 . A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent, (under internal screening)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/, Japan patent, (under review)
-
-=== Spiking Neural Network Architecture
-
-The main PI is Prof. Abderazek Abdallah from the University of Aizu where I was funded as a visting researcher in 2019. We still continue to work on that project.
-
-Selected publications:
-
-. Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, _"Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems"_, *2020 IEEE International Conference on
-Big Data and Smart Computing (BigComp)*, (accepted).
-. *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)* (accepted).
 
 === _DyRec_: dynamic fault recovery in parallel and distributed systems
 
