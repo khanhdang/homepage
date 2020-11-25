@@ -2,6 +2,7 @@
 
 
 == Patents
+. A. Ben Abdallah, Jiangning Song, Huakun Huang, *Khanh N. Dang*, Masayuki Hisada, /``ＡＩプロセッサ (AI Processor)''/, 特願2020-194733, Japan patent, (under review)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/,特願2020-171553, Japan patent, (under review)
 . A. Ben Abdallah, *Khanh N. Dang*, /``A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers''/, 特願2020-094220, Japan patent, (under review)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``A TSV fault-tolerant router system for 3D-Networks-on-Chip''/, 特願 2017-218953,
@@ -11,7 +12,8 @@ JP2019092020A, Japan (patent pending) \[[https://patents.google.com/patent/JP201
 == Book chapters
 . *Khanh N. Dang* and Abderazek Ben Abdallah, /``Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''/, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. *Nova Science Publishers*, 2018. \[[https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/ LINK]\], \[[http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf PDF]\]
 . Xuan-Tu Tran, *Khanh N. Dang*, and Alain Merigot, /``Low Cost Inter-prediction Architecture in H.264\/AVC Encoders with an Efficient Data Reuse Strategy''/, Advances in Engineering Research. Nova Science Publishers. ISBN 978-1-53618-929-2 (in press)
-== Refereed ISI journal papers
+
+== International journal papers
 . *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, *IEEE Access*, IEEE, Volume 8, pp 166642-166657, 2020. \[[https://doi.org/10.1109/ACCESS.2020.3022904 DOI]\],\[[./share/09189765.pdf PDF]\] 
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''/, *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)*, IEEE, Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\],\[[./share/TVLSI-2019.pdf PDF]\]
 . *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip''/, *IEEE Access*, IEEE, Volume 8, pp 59571 - 59589, 2020. \[[https://doi.org/10.1109/ACCESS.2020.2982836 DOI]\],\[[./share/ACCESS-2020.pdf PDF]\]
