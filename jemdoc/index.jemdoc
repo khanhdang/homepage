@@ -21,6 +21,7 @@ Email: [mailto:khanh.n.dang@ieee.org khanh.n.dang@ieee.org], [mailto:khanh.n.dan
 
 ~~~
 == News
+- (Nov. 2020) Our new patent application named "An AI processor" has been filed.
 - (Nov. 2020) Our paper titled "A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks" has been accepted for APCCAS 2020.
 - (Sep. 2020) Our paper tilted "A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems" has been accepted for IEEE Access. Access the paper [https://doi.org/10.1109/ACCESS.2020.3022904 here].
 - (Aug. 2020) Our paper tilted "Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems" has been published for IEEE Transactions on Emerging Topics in Computing (TETC). Access the paper [https://doi.org/10.1109/TETC.2017.2762407 here].
@@ -33,12 +34,12 @@ Email: [mailto:khanh.n.dang@ieee.org khanh.n.dang@ieee.org], [mailto:khanh.n.dan
 - (Dec. 2019) I will be a visiting researcher at The University of Aizu in 2020 to continue the work on designing Spiking Neural Network on hardware.
 # - (Dec. 2019) Our students at the 3rd IEEE SEACAS's Hackathon have won the 1st prize with their ``Magic Spoon''. They will attend the Student Design Competition at ISCAS 2020. 
 # - (Dec. 2019) Our conference paper first authored by Mark has been accepted for BigComp 2020. 
-- (Nov. 2019) Our conference paper on neuromorphic computing system platform has been accepted for IINTEC 2019. \[[https://arxiv.org/abs/2003.09847 Preprint]\].
+#- (Nov. 2019) Our conference paper on neuromorphic computing system platform has been accepted for IINTEC 2019. \[[https://arxiv.org/abs/2003.09847 Preprint]\].
 #- (Oct. 2019) Our paper titled [http://khanhdang.github.io/share/TVLSI-2019.pdf "TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs"] is accepted for [http://tvlsi.egr.duke.edu/ IEEE Trans. on VLSI systems]! \[[http://khanhdang.github.io/share/TVLSI-2019.pdf Preprint]\].
-- (Apr. 2019) We visit [https://www.ece.ucdavis.edu/mml/ Prof. Pham's Laboratory] at UC Davis as a part of our WorldBank funded project.
+#- (Apr. 2019) We visit [https://www.ece.ucdavis.edu/mml/ Prof. Pham's Laboratory] at UC Davis as a part of our WorldBank funded project.
 # - (Dec. 2018) I will be a visiting researcher at The University of Aizu (May 2019 - Sep. 2019) to work on designing Spiking Neural Network on hardware (ASIC/FPGA). The STDP on-line learning algorithm is also targeted for implementation.
-- (Dec. 2018) Our project has been funded by NAFOSTED under No. 102.01-2018.312 (2019 - 2011).
-- (Aug. 2018) Our project has been funded by VNU-UET under No. CN 19.10 (2018 - 2019).
+#- (Dec. 2018) Our project has been funded by NAFOSTED under No. 102.01-2018.312 (2019 - 2011).
+#- (Aug. 2018) Our project has been funded by VNU-UET under No. CN 19.10 (2018 - 2019).
 ~~~
 
 == Research Interests
@@ -46,7 +47,8 @@ System-on-Chips/Network-on-Chips, Three Dimensional Integrated Circuits, Systems
 
 == Appointments
 - /Assistant Professor/, Vietnam National University, Hanoi, 2017 - present.
-- /Visiting Researcher/, The University of Aizu, 2019, 2020-2021.
+- /Visiting Researcher/, The University of Aizu, 2020-2021.
+- /Visiting Researcher/, The University of Aizu, 2019.
 - /Researcher/, SISLAB, Vietnam National University, Hanoi, 2011-2014.
 - /RTL Designer/, Dolphin Vietnam Inc., 2010-2011.
 
