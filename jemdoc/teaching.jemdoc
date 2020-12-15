@@ -2,12 +2,12 @@
 ~~~
 {}{table}{teaching}
 
-*Semester*   |                 *Course*                  | *University* |  *Level*  | *Website* || 
-    2019    |  INT3409: Robotics Programming   |  VNU-UET   |  Undergraduate |  ||
-    2019    |  SYC04 - Advanced Computer Organization | Uni. of Aizu | Graduate (invited for one session) | [http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2017_2_J_002.html URL] ||
-    2018-2019    |  ELT3071: Real-time Embedded Systems  |  VNU-UET   |  Undergraduate  | [/rtes.html URL] ||
-    2020    |  INT2212: Computer Architecture  |  VNU-UET   |  Undergraduate  | [https://courses.uet.vnu.edu.vn/course/view.php?id=5575 URL]
-
+*Semester*   |                 *Course*                  | *University* |  *Level*  |   *Note*  | *Website* || 
+    2019    |  INT3409: Robotics Programming   |  VNU-UET   |  Undergraduate | Lab & Exercise |  ||
+    2019    |  SYC04 - Advanced Computer Organization | Uni. of Aizu | Graduate | invited lecturer | [http://web-ext.u-aizu.ac.jp/official/curriculum/syllabus/2017_2_J_002.html URL] ||
+    2018-2019    |  ELT3071: Real-time Embedded Systems  |  VNU-UET   |  Undergraduate  | [./students.html example projects]| [/rtes.html URL] ||
+    2020    |  INT2212: Computer Architecture  |  VNU-UET   |  Undergraduate  | | [https://courses.uet.vnu.edu.vn/course/view.php?id=5575 URL] ||
+    2020    |  ELT2401: Digital Electronics    | VNU-UET    |  Undergraduate  | Lab & Exercise | [https://courses.uet.vnu.edu.vn/course/view.php?id=5856 URL]
 ~~~
 
 \n
