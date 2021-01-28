@@ -1,5 +1,9 @@
 # jemdoc: menu{MENU}{profile.html}, footer
 
+
+~~~
+{}{img_left}{images/me_mcsoc19.jpg}{alt text}{}{200px}{}
+
 == Khanh N. Dang 
 /Assistant Prof./, UET, Vietnam National University, Hanoi (VNU), Vietnam \n
 /Researcher/, [http://sis.uet.vnu.edu.vn/ VNU-key Laboratory of Smart Integrated Systems], UET, VNU, Vietnam\n
@@ -8,7 +12,9 @@
 ORCID: [https://orcid.org/0000-0001-6702-3870] \n
 gscholar: [https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ] \n
 dblp: [https://dblp.uni-trier.de/pid/184/5348.html]\n
-publon: [https://publons.com/researcher/3564843]\n
+#publon: [https://publons.com/researcher/3564843]\n
+
+~~~
 
 
 == Research Interests

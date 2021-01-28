@@ -33,9 +33,12 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 120%;
-	width: auto;
+	/* width: auto; */
+	min-width: 800px;
+	max-width: 1400px;
+	width: 900px;
 	white-space: nowrap;
-	text-align: left;
+	text-align: center;
 	vertical-align: top;
 	border-bottom: 1px solid #ababab;
 }

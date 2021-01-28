@@ -2,8 +2,6 @@
 
 == Welcome to my page!
 
-~~~
-{}{img_left}{images/me_mcsoc19.jpg}{alt text}{}{200px}{}
 
 Hi, my name is *Khanh N. Dang*. I am an /Assistant Professor/ of VNU University of Engineering and Technology, Vietnam National University, Hanoi (VNU), Vietnam. 
 I also work as a /Researcher/ at the [http://sis.uet.vnu.edu.vn/ VNU-key Laboratory of Smart Integrated Systems].
@@ -13,7 +11,6 @@ I have worked on a wide range of topics. I started my career by doing my interns
 I completed my Ph.D. thesis with fault-tolerance methods for 3D-ICs and 3D-NoCs. I also spent time working on error correction codes and the enhancement algorithms for them.
 I have successfully filed several Japanese patents (and waiting now) on using error correction codes for detecting and localizing multiple defects on wires.  
 
-~~~
 
 Recently, I have been working on thermal aware designs and neuromorphic systems. 
 I and my colleagues also found our interest in applying machine learning techniques to system design.
