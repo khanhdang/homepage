@@ -144,6 +144,8 @@ def standardconf():
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -152,6 +154,7 @@ def standardconf():
   <link rel="stylesheet" href="https://ghcdn.rawgit.org/FortAwesome/Font-Awesome/5.8.1/js/all.min.js">  
   <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Titillium Web">
   <link rel="shortcut icon" type="image/png" href="http://khanhdang.github.com/favicon.ico"/>
+
 
   [windowtitle]
   # used in header for window title.
