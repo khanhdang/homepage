@@ -384,10 +384,10 @@ tr.heading {
 	border-bottom: 2px solid black;
 }
 
-img {
+/* img {
 	border: none;
 	border-radius: 50%;
-}
+} */
 
 table.imgtable, table.imgtable td {
 	border: none;
@@ -424,19 +424,21 @@ table.imgtable, table.imgtable td {
 
 .avatar {
     display: block;
-    border-radius: 200px;
+	/* border-radius: 200px; */
+	border-radius: 50%;
     box-sizing: border-box;
     background-color: #DDD;
-    /* border: 5px solid #cfd8dc; */
-}
-
-
-.img_center {
-	display: block;
+	/* border: 5px solid #cfd8dc; */
 	margin-left: auto;
 	margin-right: auto;
 	width: 20%;
-  }
+}
+
+
+.i_center {
+	display: block;
+	
+}
 
 #teaching{
 	border: 2px solid white;
