@@ -1,8 +1,8 @@
 # jemdoc: menu{MENU}{profile.html}, footer
 
 
-~~~
-{}{img_left}{images/me_mcsoc19.jpg}{alt text}{}{200px}{}
+#~~~
+#{}{img_left}{images/me_mcsoc19.jpg}{alt text}{}{200px}{}
 
 == Khanh N. Dang 
 /Assistant Prof./, UET, Vietnam National University, Hanoi (VNU), Vietnam \n
@@ -14,11 +14,17 @@ gscholar: [https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ] \n
 dblp: [https://dblp.uni-trier.de/pid/184/5348.html]\n
 #publon: [https://publons.com/researcher/3564843]\n
 
-~~~
+#~~~
 
 
 == Research Interests
-System-on-Chips/Network-on-Chips, Three Dimensional Integrated Circuits, Systems Reliability, Neuromorphic Computing, Machine Learning.
+- System-on-Chips (SoCs)
+- Network-on-Chips (NoCs)
+- Three Dimensional Integrated Circuits (3D-ICs)
+- Systems Reliability
+- Neuromorphic Computing
+- Machine Learning
+
 
 == Appointments
 - /Assistant Professor/, Vietnam National University, Hanoi, 2017 - present.
