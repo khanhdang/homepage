@@ -32,12 +32,12 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 120%;
+	
 	/* width: auto; */
 
 	min-width: 800px;
 	max-width: 1400px;
-	width: 1200px;
+	width: 900px;
 
 	white-space: nowrap;
 	text-align: center;
@@ -60,7 +60,7 @@ body {
 	vertical-align: top;
 	min-width: 800px;
 	max-width: 1400px;
-	width: 1200px;
+	width: 900px;
 }
 
 #layout-menu a {
@@ -78,7 +78,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #2b3f7a;
+	color: #217c1b;
 	text-decoration: none;
 }
 
@@ -87,22 +87,24 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #283d7c;
+	color: #49a559;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #25376d;
+	color: #1a795c;
 	text-decoration: none;
 }
 #layout-menu a:hover {
 	text-decoration: none;
+	font-weight: bold;
 }
 
 div.menu-category {
 	margin-top: 0.2em;
 	padding-top: 0.2em;
 	padding-bottom: 0.1em;
-	font-weight: bold;
+	/* font-weight: bold; */
+	font-size: 120%;
 }
 
 div.menu-item {
@@ -138,7 +140,8 @@ strong {
 
 
 h1, h2, h3 {
-	color: #25376d;
+	color: #14581f;
+	font-weight: normal;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;

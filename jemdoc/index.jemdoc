@@ -7,11 +7,12 @@
 \n
 Hi, my name is *Khanh N. Dang*. I am an /Assistant Professor/ of VNU University of Engineering and Technology, Vietnam National University, Hanoi (VNU), Vietnam. 
 I also work as a /Researcher/ at the [http://sis.uet.vnu.edu.vn/ VNU-key Laboratory of Smart Integrated Systems].
-I am currently on a sabbatical leave and working as a /Visting Researcher/ at the [http://adaptive.u-aizu.ac.jp/ Adaptive System Lab] of the University of Aizu, Japan.\n
+I am currently on a sabbatical leave and working as a /Visting Researcher/ at the [http://adaptive.u-aizu.ac.jp/ Adaptive System Lab] of the [http://u-aizu.ac.jp University of Aizu], Japan.\n
 \n
 I have worked on a wide range of topics. I started my career by doing my internship in ASIC design and completed my bachelor thesis with an FPGA project. I later worked on a full-hardware video compression processor using H.264/AVC standards.
 I completed my Ph.D. thesis with fault-tolerance methods for 3D-ICs and 3D-NoCs. I also spent time working on error correction codes and the enhancement algorithms for them.
-I have successfully filed several Japanese patents (and waiting now) on using error correction codes for detecting and localizing multiple defects on wires.  
+
+I have successfully filed several Japanese patents (one pending) on using error correction codes for detecting and localizing multiple defects on wires.  
 
 
 Recently, I have been working on thermal aware designs and neuromorphic systems. 
