@@ -36,11 +36,7 @@ div.layout-menu {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 120%;
-	/* width: auto; */
-
-	min-width: 800px;
-	max-width: 1400px;
-	width: 900px;
+	width: auto;
 
 	white-space: nowrap;
 	text-align: center;
