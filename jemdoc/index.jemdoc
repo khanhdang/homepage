@@ -4,7 +4,7 @@
 
 
 {{<img src="images/memcsoc19.jpg" class="avatar" alt="Avatar">}}
-\n
+
 Hi, my name is *Khanh N. Dang*. I am an /Assistant Professor/ of VNU University of Engineering and Technology, Vietnam National University, Hanoi (VNU), Vietnam. 
 I also work as a /Researcher/ at the [http://sis.uet.vnu.edu.vn/ VNU-key Laboratory of Smart Integrated Systems].
 I am currently on a sabbatical leave and working as a /Visting Researcher/ at the [http://adaptive.u-aizu.ac.jp/ Adaptive System Lab] of the [http://u-aizu.ac.jp University of Aizu], Japan.\n
@@ -19,8 +19,17 @@ Recently, I have been working on thermal aware designs and neuromorphic systems.
 I and my colleagues also found our interest in applying machine learning techniques to system design.
 \n \n
 Please find more details about me in the [profile.html profile ],  [research.html research], and [pub.html publication] pages.
+
 ~~~
+- I am always looking for students who want to work in computer architecture, embedded systems or machine learning. Graduate theses are also available for under graduate students. 
+- Please contact me here: [contact.html contact] if you are interested in.
+- Some student projects can be founded in [./students.html student project page].
+~~~
+
 == News
+
+~~~
+- (2020-11) I have started working for [http://u-aizu.ac.jp University of Aizu] as a visiting scientist.
 - (2020-11) Our new patent application named "An AI processor" has been filed.
 - (2020-11) Our paper titled "A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks" has been accepted for APCCAS 2020.
 - (2020-09) Our paper tilted "A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems" has been accepted for IEEE Access. Access the paper [https://doi.org/10.1109/ACCESS.2020.3022904 here].

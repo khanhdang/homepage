@@ -193,14 +193,17 @@ def standardconf():
   } catch(err) {}</script>
   
   [menustart]
-  <div id="layout-menu" >
-  <div class="menu-category" >
+  <table summary="Table for page layout." id="tlayout">
+  <tr valign="top">
+  <td id="layout-menu">
+  <div class="menu-category">
 
   [menuend]
   </div>
-  </div>
-
-
+  </td>
+  </tr>
+  <tr>
+  <td id="layout-content">
   <p></p>
   
   [menucategory]
@@ -222,7 +225,9 @@ def standardconf():
   <div id="layout-content">
   
   [menulastbit]
- 
+  </td>
+  </tr>
+  </table>
   
   [nomenulastbit]
   </div>
@@ -267,7 +272,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by <a href="khanhdang.github.io"> Khanh N. Dang</a> (it's me :D) . You can find the source code for my website on <a href="https://github.com/khanhdang/khanhdang.github.io">GitHub</a>.
+  Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by Khanh N. Dang :D.
 
   [sourcelink]
   (<a href="|">source</a>)
