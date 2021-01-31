@@ -460,10 +460,18 @@ table.imgtable, table.imgtable td {
     display: block;
 		text-align: left;
 	}
+
 	.topnav a{
 		padding: 0px 0px;
+	
 	}
 	
+	
+	.topnav a.active {
+		color: #14581f;
+		font-weight: bold;
+		background-color: white;
+	}
 	.avatar {
 		width: 150px;
 	}
