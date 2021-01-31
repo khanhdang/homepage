@@ -12,6 +12,8 @@
 <title>Teaching</title>
 </head>
 <body>
+<!-- Back to top button -->
+<button onclick="topFunction()" id="myBtn" title="Go to top"></button>
 <div class="topnav" id="myTopNav" >
 <a href="index.html">Khanh&nbsp;N.&nbsp;Dang</a>
 <a href="profile.html">Profile</a>
@@ -51,17 +53,7 @@
 </ul>
 <div id="footer">
 <div id="footer-text">
-<script>
-  function myFunction() {
-  var x = document.getElementById("myTopNav");
-  if (x.className === "topnav") {
-      x.className += " responsive";
-  } else {
-      x.className = "topnav";
-  }
-  }
-</script>
-Page generated 2021-01-31 20:52:54 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by <a href="khanhdang.github.io"> Khanh N. Dang</a> (it's me :D). Source code: <a href="https://github.com/khanhdang/khanhdang.github.io">GitHub</a>.
+Page generated 2021-01-31 21:42:55 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by <a href="khanhdang.github.io"> Khanh N. Dang</a> (it's me :D). Source code: <a href="https://github.com/khanhdang/khanhdang.github.io">GitHub</a>.
 </div>
 </div>
 <!-- MathJax -->
@@ -82,5 +74,33 @@ MathJax.Hub.Config({
   gtag('config', 'UA-52343779-2');
 </script>
 <!-- End Google Analytics -->
+<script>
+    function myFunction() {
+    var x = document.getElementById("myTopNav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+    }
+</script>
+<script>
+  //Get the button
+  var mybutton = document.getElementById("myBtn");
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+</script>
 </body>
 </html>
