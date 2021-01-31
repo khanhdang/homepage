@@ -25,7 +25,7 @@ body {
 	vertical-align: middle;
 	min-width: 700px;
 	max-width: 1400px;
-	width: 785px;
+	width: 752px;
 }
 
 
@@ -432,7 +432,7 @@ table.imgtable, table.imgtable td {
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 752px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -440,7 +440,7 @@ table.imgtable, table.imgtable td {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 752px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
@@ -454,15 +454,18 @@ table.imgtable, table.imgtable td {
   }
 }
 
-@media (min-width: 858px) {
+@media (min-width: 752px) {
 	html {
 			font-size: 16px;
 	}
 }
 
 
-@media (max-width: 623px) {
+@media (max-width: 752px) {
 	html {
-			font-size: 28px;
+			font-size: 26px;
+	}
+	body{
+		width: auto;
 	}
 }
