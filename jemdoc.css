@@ -382,9 +382,11 @@ table.imgtable, table.imgtable td {
 }
 
 
-.i_center {
+.icenter {
 	display: block;
 	
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #teaching{
@@ -407,7 +409,7 @@ table.imgtable, table.imgtable td {
   display: block;
   color: #14581f;
   text-align: center;
-  padding: 14px 16px;
+  padding: 5px 16px;
 	text-decoration: none;
 	border-bottom: none;
   font-size: 120%;
