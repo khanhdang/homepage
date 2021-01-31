@@ -440,8 +440,18 @@ table.imgtable, table.imgtable td {
   display: none;
 }
 
+.topnav a:first-child{
+	background-color: #2d652f;
+	color: white;
+}
+
 @media screen and (max-width: 900px) {
-  .topnav a:not(:first-child) {display: none;}
+	.topnav a:not(:first-child) {display: none;}
+	
+	.topnav a:first-child{
+		background-color: #2d652f;
+		color: white;
+	}
   .topnav a.icon {
     float: right;
     display: block;
@@ -461,17 +471,7 @@ table.imgtable, table.imgtable td {
 		text-align: left;
 	}
 
-	.topnav a{
-		padding: 0px 0px;
-	
-	}
-	
-	
-	.topnav a.active {
-		color: #14581f;
-		font-weight: bold;
-		background-color: white;
-	}
+
 	.avatar {
 		width: 150px;
 	}
