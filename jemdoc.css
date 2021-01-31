@@ -453,3 +453,16 @@ table.imgtable, table.imgtable td {
     text-align: left;
   }
 }
+
+@media (min-width: 858px) {
+	html {
+			font-size: 16px;
+	}
+}
+
+
+@media (max-width: 623px) {
+	html {
+			font-size: 28px;
+	}
+}
