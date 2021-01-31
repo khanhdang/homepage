@@ -13,19 +13,14 @@ html {
 }
 body {
 	background: white;
-	/* font-family: sans-serif; */
 	font-family: Titillium Web ;
 	padding-bottom: 10px;
 	padding-top: 10px;
 	padding-left: 10px;
-	/* padding-left: 20%; */
-	/* padding-right: 20%; */
-	margin: 0;
+	padding-right: 10px;
 	display: table-cell;
 	vertical-align: middle;
-	min-width: 700px;
-	max-width: 1400px;
-	width: 752px;
+	
 }
 
 
@@ -45,7 +40,7 @@ a, a > tt {
 }
 
 a:hover {
-	border-bottom: 1px gray dotted;
+	border-bottom: 1px gray solid;
 	font-weight: bold;
 }
 
@@ -458,14 +453,17 @@ table.imgtable, table.imgtable td {
 	html {
 			font-size: 16px;
 	}
+	body{
+	
+		width: 752px; 
+	}
 }
 
 
 @media (max-width: 752px) {
 	html {
-			font-size: 26px;
+			font-size: 16px;
+			width: 100vw;
 	}
-	body{
-		width: auto;
-	}
+	
 }
