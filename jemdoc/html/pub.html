@@ -7,18 +7,23 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Titillium Web">
 <link rel="shortcut icon" type="image/png" href="http://khanhdang.github.com/favicon.ico"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title></title>
 </head>
 <body>
-<div class="layout-menu" >
+<div class="topnav" id="myTopNav" >
 <a href="index.html">Home</a>
 <a href="profile.html">Profile</a>
 <a href="research.html">Research</a>
-<a href="pub.html" class="current">Publications</a>
+<a href="pub.html" class="active">Publications</a>
 <a href="teaching.html">Teaching</a>
 <a href="grant.html">Grants</a>
 <a href="service.html">Services</a>
 <a href="contact.html">Contact</a>
+<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+  <i class="fa fa-bars"></i>
+</a>
 </div>
 <p>
 </p>
@@ -147,7 +152,17 @@ Big Data and Smart Computing (BigComp)</b>, Feb. 19-22, 2020</p>
 </ol>
 <div id="footer">
 <div id="footer-text">
-Page generated 2021-01-30 13:20:21 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by <a href="khanhdang.github.io"> Khanh N. Dang</a> (it's me :D) . You can find the source code for my website on <a href="https://github.com/khanhdang/khanhdang.github.io">GitHub</a>.
+<script>
+  function myFunction() {
+  var x = document.getElementById("myTopNav");
+  if (x.className === "topnav") {
+      x.className += " responsive";
+  } else {
+      x.className = "topnav";
+  }
+  }
+</script>
+Page generated 2021-01-31 16:54:42 JST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>  and hacked by <a href="khanhdang.github.io"> Khanh N. Dang</a> (it's me :D). Source code: <a href="https://github.com/khanhdang/khanhdang.github.io">GitHub</a>.
 </div>
 </div>
 <!-- MathJax -->
