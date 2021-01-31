@@ -1,5 +1,4 @@
 # jemdoc: menu{MENU}{fun.html}, footer
-= Fun stuffs
 
 == Javascript
 So, I am kind of a big fan of visualization. In the last couple years, I have been wandering around the Internet to find some projects that I am interested in. Among them, [p5.js](https://p5js.org) is one of my favourties.
@@ -12,22 +11,6 @@ I did spend some time with it and so these are some projects:
 . O-An-Quan (testing) : \[[./repos/OAQ/p5js/index.html link]\].
 
 Some of them are partly done (I guess I dont have enough free time tho). If you want to contribute them, feel free to fork and push some requests.
-
-== HDL Visual
-
-I make a tool to read HDL file then export illustration file (CSV, SVG and PDF).
-The program is written in Python and open-source.
-
-Link: [https://github.com/khanhdang/HDL_Visualization_Tool]
-
-rev 0.1.1
-- Support VHDL
-- Download here: [https://github.com/khanhdang/HDL_Visualization_Tool/releases/tag/0.1.1]
-
-rev. 0.1
-- Support Verilog 2004
-- Export SVG, CSV and PDF (require svglib)
-- Download here: [https://github.com/khanhdang/HDL_Visualization_Tool/releases/tag/v0.1]
 
 == VLSI
 === OpenRAM
