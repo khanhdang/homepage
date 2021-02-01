@@ -200,6 +200,8 @@ def standardconf():
     <i class="fa fa-bars"></i>
   </a>
   </div>
+  <div class="content">
+
 
   [menuitem]
   <a href="|1"|3>|2</a>
@@ -223,6 +225,7 @@ def standardconf():
   </div>
   
   [bodyend]
+  </div>
   </body>
   </html>
   
