@@ -7,7 +7,7 @@
 === 3D Silicon Brain Architecture
 We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches.
 \n
-{{<img src="images/3D-Silicon-Brain.png" class="icenter" width=80%>}}
+{{<img src="images/3D-Silicon-Brain.svg" class="icenter" width=80%>}}
 \n
 We have developed a LIF neuron model with STDP learning. Neurons are clustered and placed in a node of a 3D-NoC system that supports both unicast and multicast communications.
 
@@ -26,7 +26,7 @@ Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
 Funded by NAFOSTED under No. 102.01-2018.312 (2019-2011). I am the main PI of the project.
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
 \n
-{{<img src="images/Thermal_Acc.png" class="icenter" width=65% >}}
+{{<img src="images/Thermal_Acc.svg" class="icenter" width=65% >}}
 \n
 *Caption:* Normalized thermal acceleration for lifetime reliability of TSV (Cooper) with academics (RAMP, Black, and Arrherius), industry (HDR4) and military (MIL-HDBK-217F) model.
 The fault rates are normalized to 343.15K (70C).
@@ -52,7 +52,7 @@ Patents:
 === _MLSYS_: machine learning control and design for parallel and distributed systems
 
 \n
-{{<img src="images/MFMC.png" class="icenter" width=100%>}}
+{{<img src="images/MFMC.svg" class="icenter" width=100%>}}
 \n
 
 We target to develop a machine learning framework for fault recovery in parallel and distributed systems.  A faulty computing element's task can be migrated to other nodes to allow fault-tolerance computing.
@@ -83,7 +83,7 @@ Patent
 特願 2017-218953, Japan patent (under review).
 
 \n
-{{<img src="images/OASIS_layout.png" class="icenter" width=45% >}}
+{{<img src="images/OASIS_layout.svg" class="icenter" width=45% >}}
 \n
 
 
