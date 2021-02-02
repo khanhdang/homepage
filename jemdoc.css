@@ -480,6 +480,7 @@ table.imgtable, table.imgtable td {
   }
   .topnav a:hover{
 	background-color: #2d652f;
+	color: white;
   }
 
 
