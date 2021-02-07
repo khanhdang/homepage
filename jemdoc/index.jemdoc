@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, footer
 
 {{}}
-* Welcome to my page! *
+* Welcome! *
 
 
 {{<img src="images/memcsoc19.jpg" class="avatar" alt="Avatar">}}
@@ -22,12 +22,7 @@ I and my colleagues also found our interest in applying machine learning techniq
 Please find more details about me in the [profile.html profile ],  [research.html research], and [pub.html publication] pages.
 
 ~~~
-- I am always looking for students who want to work in computer architecture, embedded systems or machine learning. Graduate theses are also available for under graduate students. 
-- Please contact me here: [contact.html contact] if you are interested in.
-- Some student projects can be founded in [./students.html student project page].
-~~~
-
-== News
+{News}
 
 - *2020-11:* I have started working for [http://u-aizu.ac.jp University of Aizu] as a visiting scientist.
 - *2020-11:* Our new patent application named "An AI processor" has been filed.
@@ -43,4 +38,4 @@ Please find more details about me in the [profile.html profile ],  [research.htm
 - *2019-04:* We visit [https://www.ece.ucdavis.edu/mml/ Prof. Pham's Laboratory] at UC Davis as a part of our WorldBank funded project.
 - *2018-12:* Our project has been funded by NAFOSTED under No. 102.01-2018.312 (2019 - 2011).
 - *2018-09:* Our project has been funded by VNU-UET under No. CN 19.10 (2018 - 2019).
-
+~~~
