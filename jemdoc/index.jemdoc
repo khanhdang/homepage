@@ -10,32 +10,27 @@ Hi, my name is *Khanh N. Dang*. I am an /Assistant Professor/ of VNU University 
 I also work as a /Researcher/ at the [http://sis.uet.vnu.edu.vn/ VNU-key Laboratory of Smart Integrated Systems].
 I am currently on a sabbatical leave and working as a /Visting Researcher/ at the [http://adaptive.u-aizu.ac.jp/ Adaptive System Lab] of the [http://u-aizu.ac.jp University of Aizu], Japan.\n
 \n
-I have worked on a wide range of topics. I started my career by doing my internship in ASIC design and completed my bachelor thesis with an FPGA project. I later worked on a full-hardware video compression processor using H.264/AVC standards.
-I completed my Ph.D. thesis with fault-tolerance methods for 3D-ICs and 3D-NoCs. I also spent time working on error correction codes and the enhancement algorithms for them.
-
-I have successfully filed several Japanese patents (one pending) on using error correction codes for detecting and localizing multiple defects on wires.  
 
 
-Recently, I have been working on thermal aware designs and neuromorphic systems. 
-I and my colleagues also found our interest in applying machine learning techniques to system design.
-\n \n
-Please find more details about me in the [profile.html profile ],  [research.html research], and [pub.html publication] pages.
+[profile.html View more >>]
+
+
+== News
 
 ~~~
-{News}
-
 - *2020-11:* I have started working for [http://u-aizu.ac.jp University of Aizu] as a visiting scientist.
 - *2020-11:* Our new patent application named "An AI processor" has been filed.
 - *2020-11:* Our paper titled "A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks" has been accepted for APCCAS 2020.
 - *2020-09:* Our paper tilted "A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems" has been accepted for IEEE Access. Access the paper [https://doi.org/10.1109/ACCESS.2020.3022904 here].
-- *2020-08:* Our paper tilted "Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems" has been published for IEEE Transactions on Emerging Topics in Computing (TETC). Access the paper [https://doi.org/10.1109/TETC.2017.2762407 here].
-
-- *2020-07:* Due to the Covid-19 epidemic, MCSoC 2020 is postponed to 2021 in the same venue.
-- *2020-04:* Our paper titled [http://khanhdang.github.io/share/TVLSI-2019.pdf "TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs"] is published for [http://tvlsi.egr.duke.edu/ IEEE Trans. on VLSI systems]! \[[http://khanhdang.github.io/share/TVLSI-2019.pdf Preprint]\].
-
-- *2020-03:* Our journal paper titled "A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip" has been accepted for IEEE Access.  \[[http://khanhdang.github.io/share/ACCESS-2020.pdf Preprint]\].
-- *2019-12:* I will be a visiting researcher at The University of Aizu in 2020 to continue the work on designing Spiking Neural Network on hardware.
-- *2019-04:* We visit [https://www.ece.ucdavis.edu/mml/ Prof. Pham's Laboratory] at UC Davis as a part of our WorldBank funded project.
-- *2018-12:* Our project has been funded by NAFOSTED under No. 102.01-2018.312 (2019 - 2011).
-- *2018-09:* Our project has been funded by VNU-UET under No. CN 19.10 (2018 - 2019).
 ~~~
+
+[news.html View more >>]
+
+== Current Projects
+
+- 3D Silicon Brain Architecture
+- Thermal-aware fault-tolerance 3D interconnect
+- Machine learning control and design for parallel and distributed systems
+
+{{}}
+[research.html View more >>]

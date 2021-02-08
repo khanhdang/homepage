@@ -49,7 +49,7 @@ Patents:
 . A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent, (under internal screening)
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/, Japan patent, (under review)
 
-=== _MLSYS_: machine learning control and design for parallel and distributed systems
+=== Machine learning control and design for parallel and distributed systems
 
 \n
 {{<img src="images/MFMC.svg" class="icenter" width=100%>}}

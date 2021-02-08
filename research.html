@@ -91,7 +91,7 @@ Patents:</p>
 </p>
 </li>
 </ol>
-<h3><u>MLSYS</u>: machine learning control and design for parallel and distributed systems</h3>
+<h3>Machine learning control and design for parallel and distributed systems</h3>
 <p>
 <br /></p>
 <p><img src="images/MFMC.svg" class="icenter" width=100%>
@@ -213,6 +213,24 @@ MathJax.Hub.Config({
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
   }
+</script>
+<script>
+var slideIndex = 0;
+showSlides();
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 4000); // Change image every 2 seconds
+}
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 </script>
 </body>
 </html>

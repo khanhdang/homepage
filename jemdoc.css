@@ -37,11 +37,11 @@ pre, tt {
 a, a > tt {
 	color: #217c1b;
 	text-decoration: none;
-	border-bottom: 1px gray dotted;
+	/* border-bottom: 1px gray dotted; */
 }
 
 a:hover {
-	border-bottom: 1px gray solid;
+	/* border-bottom: 1px gray solid; */
 	font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ a:hover {
 div#toptitle {
 	padding-bottom: 0.2em;
 	margin-bottom: 1.5em;
-	/* border-bottom: 1px solid gray; */
+	border-bottom: 1px solid #bbbbbbbb;
 }
 
 /* Reduce space if we begin the page with a title. */
@@ -100,17 +100,15 @@ h1, h2, h3 {
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	/* border-bottom: 1px solid #aaaaaa; */
+	border-bottom: 1px solid #bbbbbbbb;
 }
 
 h1 {
 	font-size: 115%;
-	/* font-size: 1.3vw; */
 }
 
 h2 {
 	padding-top: 0.8em;
-	/* font-size: 1.2vw; */
 	font-size: 110%;
 }
 
@@ -120,7 +118,6 @@ h2 + h3 {
 
 h3 {
 	font-size: 105%;
-	/* font-size: 1.1vw; */
 	border-bottom: none;
 }
 
@@ -140,7 +137,7 @@ pre {
 
 div#footer {
 	font-size: small;
-	/* border-top: 1px solid #c0c0c0; */
+	border-top: 1px solid #bbbbbbbb;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
 	text-align: center;
@@ -337,10 +334,6 @@ tr.heading {
 	border-bottom: 2px solid black;
 }
 
-/* img {
-	border: none;
-	border-radius: 50%;
-} */
 
 table.imgtable, table.imgtable td {
 	border: none;
@@ -406,9 +399,9 @@ table.imgtable, table.imgtable td {
 
 .topnav {
   overflow: hidden;
-	background-color: white;
-	border-bottom: 1px solid #aaaaaa;
-	border-top: 1px solid #aaaaaa;
+  background-color: white;
+  border-bottom: 1px solid #bbbbbbbb;
+  border-top: 1px solid #bbbbbbbb;
 }
 
 .topnav a {
@@ -416,7 +409,7 @@ table.imgtable, table.imgtable td {
   display: block;
   color: #14581f;
   text-align: center;
-  padding: 5px 16px;
+  padding: 10px 16px;
 	text-decoration: none;
 	border-bottom: none;
   font-size: 115%;
@@ -499,7 +492,7 @@ table.imgtable, table.imgtable td {
 	}
 	body{
 	
-		width: 757px; 
+		width: 777px; 
 	}
 }
 
@@ -574,4 +567,99 @@ table.imgtable, table.imgtable td {
 		background-color: #fff;
 		color:  #2d652f;
 	}
+  }
+
+  * {box-sizing:border-box}
+
+  /* Slideshow container */
+  .slideshow-container {
+	/* max-width: 1000px; */
+	position: relative;
+	margin: auto;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+	display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	margin-top: -22px;
+	padding: 16px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+	background-color: rgba(0,0,0,0.8);
+  }
+  
+  /* Caption text */
+  .text {
+	color: #f2f2f2;
+	font-size: 15px;
+	padding: 8px 12px;
+	position: absolute;
+	bottom: 8px;
+	width: 100%;
+	text-align: center;
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+	color: #f2f2f2;
+	font-size: 12px;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+	cursor: pointer;
+	height: 10px;
+	width: 10px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+	background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1.5s;
+	animation-name: fade;
+	animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+	from {opacity: .4}
+	to {opacity: 1}
+  }
+  
+  @keyframes fade {
+	from {opacity: .4}
+	to {opacity: 1}
   }

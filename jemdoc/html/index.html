@@ -38,21 +38,15 @@ Hi, my name is <b>Khanh N. Dang</b>. I am an <i>Assistant Professor</i> of VNU U
 I also work as a <i>Researcher</i> at the <a href="http://sis.uet.vnu.edu.vn/" target=&ldquo;blank&rdquo;>VNU-key Laboratory of Smart Integrated Systems</a>.
 I am currently on a sabbatical leave and working as a <i>Visting Researcher</i> at the <a href="http://adaptive.u-aizu.ac.jp/" target=&ldquo;blank&rdquo;>Adaptive System Lab</a> of the <a href="http://u-aizu.ac.jp" target=&ldquo;blank&rdquo;>University of Aizu</a>, Japan.<br />
 <br />
-I have worked on a wide range of topics. I started my career by doing my internship in ASIC design and completed my bachelor thesis with an FPGA project. I later worked on a full-hardware video compression processor using H.264/AVC standards.
-I completed my Ph.D. thesis with fault-tolerance methods for 3D-ICs and 3D-NoCs. I also spent time working on error correction codes and the enhancement algorithms for them.
-
-I have successfully filed several Japanese patents (one pending) on using error correction codes for detecting and localizing multiple defects on wires.  
 
 
-Recently, I have been working on thermal aware designs and neuromorphic systems. 
-I and my colleagues also found our interest in applying machine learning techniques to system design.
-<br /> <br />
-Please find more details about me in the <a href="profile.html" target=&ldquo;blank&rdquo;>profile</a>,  <a href="research.html" target=&ldquo;blank&rdquo;>research</a>, and <a href="pub.html" target=&ldquo;blank&rdquo;>publication</a> pages.
+<a href="profile.html" target=&ldquo;blank&rdquo;>View more &gt;&gt;</a>
+
 </p>
-<div class="infoblock">
-<div class="blocktitle">News</div>
-<div class="blockcontent">
+<h2>News</h2>
 <p></p>
+<div class="infoblock">
+<div class="blockcontent">
 <ul>
 <li><p><b>2020-11:</b> I have started working for <a href="http://u-aizu.ac.jp" target=&ldquo;blank&rdquo;>University of Aizu</a> as a visiting scientist.</p>
 </li>
@@ -62,26 +56,23 @@ Please find more details about me in the <a href="profile.html" target=&ldquo;bl
 </li>
 <li><p><b>2020-09:</b> Our paper tilted &ldquo;A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems&rdquo; has been accepted for IEEE Access. Access the paper <a href="https://doi.org/10.1109/ACCESS.2020.3022904" target=&ldquo;blank&rdquo;>here</a>.</p>
 </li>
-<li><p><b>2020-08:</b> Our paper tilted &ldquo;Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems&rdquo; has been published for IEEE Transactions on Emerging Topics in Computing (TETC). Access the paper <a href="https://doi.org/10.1109/TETC.2017.2762407" target=&ldquo;blank&rdquo;>here</a>.
-</p>
-</li>
-<li><p><b>2020-07:</b> Due to the Covid-19 epidemic, MCSoC 2020 is postponed to 2021 in the same venue.</p>
-</li>
-<li><p><b>2020-04:</b> Our paper titled <a href="http://khanhdang.github.io/share/TVLSI-2019.pdf" target=&ldquo;blank&rdquo;>&ldquo;TSV-OCT: A scalable online multiple TSV defects localization for 3D-ICs&rdquo;</a> is published for <a href="http://tvlsi.egr.duke.edu/" target=&ldquo;blank&rdquo;>IEEE Trans. on VLSI systems</a>! [<a href="http://khanhdang.github.io/share/TVLSI-2019.pdf" target=&ldquo;blank&rdquo;>Preprint</a>].
-</p>
-</li>
-<li><p><b>2020-03:</b> Our journal paper titled &ldquo;A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip&rdquo; has been accepted for IEEE Access.  [<a href="http://khanhdang.github.io/share/ACCESS-2020.pdf" target=&ldquo;blank&rdquo;>Preprint</a>].</p>
-</li>
-<li><p><b>2019-12:</b> I will be a visiting researcher at The University of Aizu in 2020 to continue the work on designing Spiking Neural Network on hardware.</p>
-</li>
-<li><p><b>2019-04:</b> We visit <a href="https://www.ece.ucdavis.edu/mml/" target=&ldquo;blank&rdquo;>Prof. Pham's Laboratory</a> at UC Davis as a part of our WorldBank funded project.</p>
-</li>
-<li><p><b>2018-12:</b> Our project has been funded by NAFOSTED under No. 102.01-2018.312 (2019 - 2011).</p>
-</li>
-<li><p><b>2018-09:</b> Our project has been funded by VNU-UET under No. CN 19.10 (2018 - 2019).</p>
-</li>
 </ul>
 </div></div>
+<p><a href="news.html" target=&ldquo;blank&rdquo;>View more &gt;&gt;</a>
+</p>
+<h2>Current Projects</h2>
+<p></p>
+<ul>
+<li><p>3D Silicon Brain Architecture</p>
+</li>
+<li><p>Thermal-aware fault-tolerance 3D interconnect</p>
+</li>
+<li><p>Machine learning control and design for parallel and distributed systems
+</p>
+</li>
+</ul>
+<p>
+<a href="research.html" target=&ldquo;blank&rdquo;>View more &gt;&gt;</a></p>
 <div id="footer">
 <div id="footer-text">
 Copyright &copy; 2014-2021 <a href="khanhdang.github.io"> Khanh N. Dang</a>. All rights reserved.
@@ -132,6 +123,24 @@ MathJax.Hub.Config({
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
   }
+</script>
+<script>
+var slideIndex = 0;
+showSlides();
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 4000); // Change image every 2 seconds
+}
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 </script>
 </body>
 </html>
