@@ -197,7 +197,7 @@ def standardconf():
 
   [menuend]
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
+    <i id="icon-menu" class="fa fa-bars"></i>
   </a>
   </div>
   <div class="content">

@@ -88,15 +88,15 @@ em {
 
 strong {
 	font-weight: bold;
-	color: #14581f;
+	color: #4CAF50;
 }
 
 b {
-	color: #0d4216;
+	color: #4CAF50;
 }
 
 h1, h2, h3 {
-	color: #14581f;
+	color: #4CAF50;
 	font-weight: normal;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
@@ -405,6 +405,7 @@ table.imgtable, table.imgtable td {
   background-color: white;
   border-bottom: 1px solid #bbbbbbbb;
   /* border-top: 1px solid #bbbbbbbb; */
+  
 }
 
 .sticky {
@@ -420,7 +421,7 @@ table.imgtable, table.imgtable td {
 .topnav a {
   float: left;
   display: block;
-  color: #14581f;
+  color: #4CAF50;
   text-align: center;
   padding: 10px 16px;
   text-decoration: none;
@@ -443,16 +444,16 @@ table.imgtable, table.imgtable td {
   display: none;
 }
 
-.topnav a:first-child{
+/* .topnav a:first-child{
 	background-color: #2d652f;
 	color: white;
-}
+} */
 
 @media screen and (max-width: 835px) {
 	.topnav a:not(:first-child) {display: none;}
 	
 	.topnav a:first-child{
-		background-color: #2d652f;
+		background-color: #4CAF50;
 		color: white;
 		width: 100vw;
 		text-align: left;
@@ -487,7 +488,7 @@ table.imgtable, table.imgtable td {
   	position: absolute;
     right: 0px;
 	top: 0;
-	background-color: #2d652f;
+	background-color: #4CAF50;
   }
   .topnav.responsive a {
     float: none;
@@ -496,7 +497,7 @@ table.imgtable, table.imgtable td {
 	
   }
   .topnav a:hover{
-	background-color: #2d652f;
+	background-color: #4CAF50;
 	color: white;
   }
 
@@ -511,7 +512,7 @@ table.imgtable, table.imgtable td {
 	html {
 			font-size: 17px;
 	}
-	body{
+	.content{
 	
 		width: 835px; 
 	}

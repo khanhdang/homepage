@@ -24,7 +24,7 @@
 <a href="grant.html">Grant</a>
 <a href="contact.html">Contact</a>
 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-  <i class="fa fa-bars"></i>
+  <i id="icon-menu" class="fa fa-bars"></i>
 </a>
 </div>
 <div class="content">
@@ -88,11 +88,13 @@ MathJax.Hub.Config({
       if (navb.classList.contains("responsive")) {
           // enableScrolling();
           navb.classList.remove("responsive");
+          change('icon-menu');
       } else {
           // remove the button
           // var mybutton = document.getElementById("myBtn");
           // disableScrolling();
           navb.classList.add("responsive");
+          change('icon-menu');
       }
     }
 </script>
@@ -139,6 +141,15 @@ function stickFunction() {
     mybutton.style.display = "block";
   } else {
     mybutton.style.display = "none";
+  }
+}
+</script>
+<script>
+function change(iconID){
+  if(document.getElementById(iconID).className=="fa fa-bars"){
+    document.getElementById(iconID).className = "fa fa-sign-out";
+  }else{
+    document.getElementById(iconID).className = "fa fa-bars";
   }
 }
 </script>
