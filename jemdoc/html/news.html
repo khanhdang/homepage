@@ -21,6 +21,7 @@
 <a href="pub.html">Publication</a>
 <a href="teaching.html">Teaching</a>
 <a href="service.html">Service</a>
+<a href="grant.html">Grant</a>
 <a href="contact.html">Contact</a>
 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
   <i class="fa fa-bars"></i>
@@ -74,8 +75,6 @@ MathJax.Hub.Config({
 });
 </script>
 <!-- End MathJax -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52343779-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -86,20 +85,23 @@ MathJax.Hub.Config({
 <script>
     function myFunction() {
     var x = document.getElementById("myTopNav");
-    if (x.className === "topnav") {
-        x.className += " responsive";
+    if (x.classList.contains("responsive")) {
+        //x.className += " responsive";
+        x.classList.remove("responsive");
     } else {
-        x.className = "topnav";
+        //x.className -= " responsive";
+        topFunction();
+        x.classList.add("responsive");
     }
     }
 </script>
 <script>
   //Get the button
   var mybutton = document.getElementById("myBtn");
-  // When the user scrolls down 20px from the top of the document, show the button
-  window.onscroll = function() {scrollFunction()};
+  //window.onscroll = function() {scrollFunction()};
+  // move to stickFunction
   function scrollFunction() {
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    if (window.pageYOffset > 200) {
       mybutton.style.display = "block";
     } else {
       mybutton.style.display = "none";
@@ -112,21 +114,32 @@ MathJax.Hub.Config({
   }
 </script>
 <script>
-var slideIndex = 0;
-showSlides();
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}
-  slides[slideIndex-1].style.display = "block";
-  setTimeout(showSlides, 4000); // Change image every 2 seconds
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {stickFunction()};
+var viewPortWidth;
+var viewPortHeight;
+if (typeof window.innerWidth != 'undefined') {
+  viewPortWidth = window.innerWidth,
+  viewPortHeight = window.innerHeight
 }
-function plusSlides(n) {
-  showSlides(slideIndex += n);
+// Get the navbar
+var navbar = document.getElementById("myTopNav");
+// Get the offset position of the navbar
+var sticky = navbar.offsetTop;
+// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function stickFunction() {
+  // if (viewPortWidth > 805) {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky");
+  } else {
+    navbar.classList.remove("sticky");
+  }
+  // }
+  if (window.pageYOffset > 200) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
 }
 </script>
 </body>
