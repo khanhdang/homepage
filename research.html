@@ -197,13 +197,12 @@ MathJax.Hub.Config({
     function myFunction() {
       var navb = document.getElementById("myTopNav");
       if (navb.classList.contains("responsive")) {
-          enableScrolling();
+          // enableScrolling();
           navb.classList.remove("responsive");
       } else {
           // remove the button
-          var mybutton = document.getElementById("myBtn");
-          //mybutton.style.display = "none";
-          disableScrolling();
+          // var mybutton = document.getElementById("myBtn");
+          // disableScrolling();
           navb.classList.add("responsive");
       }
     }
