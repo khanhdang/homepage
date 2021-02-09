@@ -76,6 +76,14 @@ MathJax.Hub.Config({
 </script>
 <!-- End MathJax -->
 <script>
+  function disableScrolling(){
+    var x=window.scrollX;
+    var y=window.scrollY;
+    window.onscroll=function(){window.scrollTo(x, y);};
+  }
+  function enableScrolling(){
+      window.onscroll=function(){};
+  }
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -84,15 +92,17 @@ MathJax.Hub.Config({
 <!-- End Google Analytics -->
 <script>
     function myFunction() {
-    var x = document.getElementById("myTopNav");
-    if (x.classList.contains("responsive")) {
-        //x.className += " responsive";
-        x.classList.remove("responsive");
-    } else {
-        //x.className -= " responsive";
-        topFunction();
-        x.classList.add("responsive");
-    }
+      var navb = document.getElementById("myTopNav");
+      if (navb.classList.contains("responsive")) {
+          enableScrolling();
+          navb.classList.remove("responsive");
+      } else {
+          // remove the button
+          var mybutton = document.getElementById("myBtn");
+          //mybutton.style.display = "none";
+          disableScrolling();
+          navb.classList.add("responsive");
+      }
     }
 </script>
 <script>
