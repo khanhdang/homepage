@@ -467,6 +467,7 @@ table.imgtable, table.imgtable td {
 }
 
 @media screen and (max-width: 835px) {
+
   .topnav.responsive {
 	/* position: relative; */
 	position: fixed;
@@ -480,6 +481,7 @@ table.imgtable, table.imgtable td {
 	z-index: 100;
 	cursor: pointer;
 	overflow-y: scroll;
+
   }
   .topnav.responsive .icon {
   	position: absolute;
