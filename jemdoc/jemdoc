@@ -193,7 +193,7 @@ def standardconf():
   
   [menustart]
   <div class="topnav" id="myTopNav" >
-
+    
   [menuend]
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i id="icon-menu" class="fa fa-bars"></i>

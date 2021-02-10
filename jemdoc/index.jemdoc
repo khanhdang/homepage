@@ -1,8 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, footer
-
-{{}}
-* Welcome! *
-
+= Home
+\n
+*Welcome!*
 
 {{<img src="images/memcsoc19.jpg" class="avatar" alt="Avatar">}}
 \n
