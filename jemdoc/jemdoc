@@ -167,8 +167,8 @@ def standardconf():
   <div id="toptitle">
   <h1>|</h1>
   
-  [subtitle]
-  <div id="subtitle">|</div>
+#   [subtitle]
+#   <div id="subtitle">|</div>
   
   [doctitleend]
   </div>
@@ -201,6 +201,8 @@ def standardconf():
   </div>
   <div class="content">
 
+  [menucategory]
+  <div class="menu-category">|</div>
 
   [menuitem]
   <a href="|1"|3>|2</a>
@@ -383,8 +385,8 @@ def insertmenuitems(f, mname, current, prefix):
             else:
                 hb(f.outf, f.conf['menuitem'], link, menuitem, option)
 
-        else:  # menu category.
-            hb(f.outf, f.conf['menucategory'], br(l, f))
+        # else:  # menu category. ==> I remove it
+            # hb(f.outf, f.conf['menucategory'], br(l, f))
 
     m.close()
 
@@ -1288,9 +1290,9 @@ def inserttitle(f, t):
     if t is not None:
         hb(f.outf, f.conf['doctitle'], t)
 
-        # Look for a subtitle.
-        if pc(f) != '\n':
-            hb(f.outf, f.conf['subtitle'], br(np(f), f))
+        # Look for a subtitle. ==> remove
+        # if pc(f) != '\n':
+        #     hb(f.outf, f.conf['subtitle'], br(np(f), f))
 
         hb(f.outf, f.conf['doctitleend'], t)
 

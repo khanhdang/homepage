@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{grant.html}, footer
 = Grant
-
 == Research Grants
 . "Thermal-aware fault-tolerance Through-Silicon-Via based 3D interconnect", main PI, funded by National Foundation for Sci-ence and Technology Development (NAFOSTED) under No. 102.01-2018.312 (2019-2011)
 . "Soft Error Resilient Architecture and Algorithm for Network-on-Chip" : main PI, funded by VNU-UET under project CN18.10 (2018-2019)

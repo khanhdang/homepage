@@ -1,8 +1,5 @@
 # jemdoc: menu{MENU}{students.html}, footer
 = Student Projects
-{{}}
-
-
 == Real-time Gaming System
 - Designing a small game on Artix7 (AC701) with dual-core Microblazes (one controls HDMI, one mangages/renders the game). The game is programed based on FreeRTOS.
     -- Vivado: [https://github.com/RTES-Class/AC701-DualMB-System github]

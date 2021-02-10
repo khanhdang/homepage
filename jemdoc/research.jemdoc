@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
-
 == Current Research
-
-
 === 3D Silicon Brain Architecture
 We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches.
 \n
