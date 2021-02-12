@@ -416,6 +416,7 @@ table.imgtable, table.imgtable td {
   overflow: hidden;
   background-color: white;
   box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.2);
+  transition: 0.5s;
 }
 
 .topnav a {
@@ -443,6 +444,7 @@ table.imgtable, table.imgtable td {
 
 .topnav .icon {
   display: none;
+  padding: 10px 15px;
 }
 
 
@@ -483,6 +485,7 @@ table.imgtable, table.imgtable td {
 		color:  #4CAF50; 
 		font-weight: bold;
 		text-align: left;
+		background: none;
 	}
 
 
@@ -501,11 +504,13 @@ table.imgtable, table.imgtable td {
 }
 
 @media screen and (max-width: 835px) {
-
+  .topnav {
+	height: 44px;
+  }
   .topnav.responsive {
 	position: fixed;
 	width: 100%;
-	height: 100%;
+	/* height: 0px; */
 	top: 0;
 	left: 0;
 	right: 0;
