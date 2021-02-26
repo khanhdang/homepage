@@ -48,7 +48,7 @@ a, a > tt {
 }
 
 a:hover  {
-	font-weight: bold;
+	/* font-weight: bold; */
 	border-bottom: 1px gray solid;
 }
 
@@ -412,7 +412,7 @@ table.imgtable, table.imgtable td {
 .topnav a:hover {
   background-color: #eee;
   color: #4CAF50;
-  font-weight: bold;
+  /* font-weight: bold; */
 
 }
 
