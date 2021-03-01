@@ -1,8 +1,18 @@
 # jemdoc: menu{MENU}{pub.html}, footer
 = Publication
+
+== On-going stuffs
+. /``On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning'' /_(under review)_
+. /``Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System'' /_(under review)_
+. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''/ _(under review)_
+. /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems'' / _(under major revision)_
+. /``A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks	''/ _(under review)_
+
+
 == Book chapters
 . *Khanh N. Dang* and Abderazek Ben Abdallah, /``Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems''/, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. *Nova Science Publishers*, 2018. ISBN: 978-1-53613-327-1. \[[https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/ LINK]\], \[[http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf PDF]\]
 . Xuan-Tu Tran, *Khanh N. Dang*, and Alain Merigot, /``Low Cost Inter-prediction Architecture in H.264\/AVC Encoders with an Efficient Data Reuse Strategy''/, Advances in Engineering Research. Volume 40, Chapter 6. *Nova Science Publishers*, 2020. ISBN 978-1-53618-929-2. \[[https://novapublishers.com/shop/advances-in-engineering-research-volume-40/ LINK]\]
+
 
 == International journal papers
 . *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, *IEEE Access*, IEEE, Volume 8, pp 166642-166657, 2020. \[[https://doi.org/10.1109/ACCESS.2020.3022904 DOI]\],\[[./share/09189765.pdf PDF]\] 
@@ -40,12 +50,6 @@ Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
 . *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, /``A VLSI Implementation for Inter-Prediction Module in H.264\/AVC Encoders''/, *2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2013
 . *Nam Khanh Dang*, Thanh Vu Le Van, Xuan Tu Tran, /``FPGA implementation of a low latency and high throughput network-on-chip router architecture''/, *2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2011
 
-== Preprints
-. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"''/ _(under review)_
-. /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''/ _(under major revision)_
-. /``A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks	''/ _(under review)_
-. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``Report on power, thermal and reliability prediction for 3D Networks-on-Chip''/, arXiv preprint [https://arxiv.org/abs/2003.08648 arXiv:2003.08648].
-. *Khanh N. Dang*, Yuichi Okuyama, Abderazek Ben Abdallah, /``Soft-Error and Hard-fault Tolerant Architecture and Routing Algorithm for Reliable 3D-NoC Systems''/. arXiv preprint [https://arxiv.org/abs/2003.09616 arXiv:2003.09616].
 
 == Invited talks
 . *Khanh N. Dang*, /``TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''/, *The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)*, UPM, Malaysia, 2019. \[[./share/SEACAS-2019.pdf SLIDE]\]
