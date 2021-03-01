@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{research.html}, footer
+= Research
+
+{{}}
+[research.html Back to research page. ≫]
+=== Machine learning for Computer-Aided Design
+
+\n
+{{<img src="images/MFMC.svg" class="icenter" width=100%>}}
+\n
+
+We target to develop a machine learning framework for fault recovery in parallel and distributed systems.  A faulty computing element's task can be migrated to other nodes to allow fault-tolerance computing.
+
+We have developed both Max-Flow Min-cut adaptation and Genetic Algorithm for this flow.
+\n
+Selected publications:
+. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)* _(accepted)_
+
+{{}}
+
+Patents:
+. A. Ben Abdallah, Huakun Huang, *Khanh N. Dang*, Jiangning Song, /``ＡＩプロセッサ (AI Processor)''/, 特願2020-194733, Japan patent, (under review)
+
+{{}}
+[research.html Back to research page. ≫]

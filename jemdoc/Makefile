@@ -1,4 +1,4 @@
-DOCS=index pub  service  teaching rtes grant research students profile contact fun volunteer news patent
+DOCS=index pub  service  teaching rtes grant research research_neuromorphic research_thermal research_mlcad research_ftnoc research_h264 students profile contact fun volunteer news patent
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix html/, $(HDOCS))
 

@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{research.html}, footer
+= Research
+
+{{}}
+[research.html Back to research page. ≫]
+===  Full hardware H.264/AVC encoder
+I am a core member of the project from 2011 to 2014. We developed a full hardware H.264/AVC encoder.  My major task is to develop the inter-prediction module.
+
+Selected publications:
+.  Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, _“H.264/AVC Hardware Encoders and Low-Power Features”_, *2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS 2014)*, Nov. 17-20, 2014.
+.  *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, _“An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders”_,*17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS 2014)*, Apr. 23-25, 2014.
+
+\n
+{{<img src="images/VENGME.png" class="icenter" width=70%}}
+\n
+
+*Caption:* The chip photograph: Global Foundry CMOS 130nm, 4mmx4mm, 100MHz, 1.2 V, 32mW, QFP256. 
+
+The detail of the chip could be found [https://www.nict.go.jp/en/asean_ivo/4otfsk000029wocm-att/Xuan-Tu_Tran.pdf here].
+
+
+
+{{}}
+[research.html Back to research page. ≫]

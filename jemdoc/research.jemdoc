@@ -1,106 +1,23 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
+{{}}
+
+
 == Current Research
-=== 3D Silicon Brain Architecture
-We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches.
-\n
-{{<img src="images/3D-Silicon-Brain.svg" class="icenter" width=80%>}}
-\n
-We have developed a LIF neuron model with STDP learning. Neurons are clustered and placed in a node of a 3D-NoC system that supports both unicast and multicast communications.
-
-Furthermore, offline training has been investigating to deploy complex applications. We also plan to support the fault-tolerance feature for our 3D silicon brain.
-\n
-Selected publications:
-
-. Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020
-#. Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
-. Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
-Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
-. *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)* (accepted).
-
-
-=== Thermal-aware fault-tolerance 3D interconnect
-Funded by NAFOSTED under No. 102.01-2018.312 (2019-2011). I am the main PI of the project.
-We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
-\n
-{{<img src="images/Thermal_Acc.svg" class="icenter" width=65% >}}
-\n
-*Caption:* Normalized thermal acceleration for lifetime reliability of TSV (Cooper) with academics (RAMP, Black, and Arrherius), industry (HDR4) and military (MIL-HDBK-217F) model.
-The fault rates are normalized to 343.15K (70C).
-
-\n
-Selected publications:
-. *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, *IEEE Access* _(in press)_
-. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"_,  *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)* (IF= 1.946), IEEE,   Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\], \[[./share/TVLSI-2019.pdf PDF]\]
-. *Khanh N. Dang* , Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip"_, *IEEE Access*, (IF=4.098), 2020 _(in press)_. \[[https://doi.org/10.1109/ACCESS.2020.2982836 DOI]\], \[[./share/ACCESS-2020.pdf PDF]\].
-#. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``Thermal distribution and reliability prediction for 3D Networks-on-Chip''/, *VNU Journal of Computer Science and Communication Engineering*, VNU, Volume 36, No 1, pp 65-77, 2020. \[[http://www.jcsce.vnu.edu.vn/index.php/jcsce/article/view/245 DOI/PDF]\]
-#. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D Parity Product Code for TSV online fault correction and detection"_, *REV Journal on Electronics and Communications (JEC)*, REV-JEC, /(accepted, editing)/
-#. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, _"2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults"_, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Nov. 11-14, 2019 (accepted).
-#. *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, _" An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs"_, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Oct. 1-4, 2019  (in press).
-#. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects"_, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019 (in press).
-
-#Technical Reports:
-#. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, _"Report on power, thermal and reliability prediction for 3D Networks-on-Chip"_, arXiv preprint [https://arxiv.org/abs/2003.08648 arXiv:2003.08648].
-
-Patents:
-. A. Ben Abdallah, *Khanh N. Dang*, _``Non-blocking Multiple-TSV Defects Localization for three Dimension Integrated Circuits (3D-ICs)''_, Japan patent, (under internal screening)
-. A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/, Japan patent, (under review)
-
-=== Machine learning control and design for parallel and distributed systems
-
-\n
-{{<img src="images/MFMC.svg" class="icenter" width=100%>}}
-\n
-
-We target to develop a machine learning framework for fault recovery in parallel and distributed systems.  A faulty computing element's task can be migrated to other nodes to allow fault-tolerance computing.
-
-We have developed both Max-Flow Min-cut adaptation and Genetic Algorithm for this flow.
-\n
-Selected publications:
-. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)* _(accepted)_
-
-Patents:
-. A. Ben Abdallah, Huakun Huang, *Khanh N. Dang*, Jiangning Song, /``ＡＩプロセッサ (AI Processor)''/, 特願2020-194733, Japan patent, (under review)
+. [research_neuromorphic.html 3D Silicon Brain Architecture]
+. [research_thermal.html Thermal-aware 3D interconnect design]
+. [research_mlcad.html Machine learning for CAD]
 
 
 == Previous Topics
-===  _OASIS:_ On-chip fault-tolerant Network-on-Chip architecture
-I am a member of the project as a Ph.D. student at [http://adaptive.u-aizu.ac.jp ASL] from 2014 to 2017. 
-We developed a comprehensive solution to tackle the reliability of on-chip interconnect. 
-We have developed tolerance method for the permanent (hard), transient (soft), and TSV defect.
+.  [research_ftnoc.html Fault-tolerant Network-on-Chip architecture]
+.  [research_h264.html Full hardware H.264/AVC encoder]
 
 
-Selected publications:
-.  *Khanh N. Dang*, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, _“Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems”_, *IEEE Transactions on Emerging Topics in Computing (TETC)*, IEEE,  (in press). \[[https://doi.org/10.1109/TETC.2017.2762407 link]\].
-.  *Khanh N. Dang*, Akram Ben Ahmed, Xuan-Tu Tran, Yuichi Okuyama, Abderazek Ben Abdallah, _“A Comprehensive Reliability Assessment of Fault-Resilient Network-on-Chip Using Analytical Model”_, *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)*, IEEE, Volume 25, Issue 11, pp 3099-3112, 2017. \[[https://doi.org/10.1109/TVLSI.2017.2736004 link]\].
-.  *Khanh N. Dang*, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, _“A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems”_, *Journal of Supercomputing*, Springer, Volume 73, Issue 6, pp 2705–2729, 2017. \[[https://link.springer.com/article/10.1007/s11227-016-1951-0 link]\].
-
-Patent
-. A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, _"A TSV fault-tolerant router system for 3D-Networks-on-Chip"_,
-特願 2017-218953, Japan patent (under review).
-
-\n
-{{<img src="images/OASIS_layout.svg" class="icenter" width=45% >}}
-\n
+{{}}
+/* Please click to the topic for details/
 
 
-*Caption:* The layout of a layer 2x2 in OASIS project: NANDGATE 45nm, NCSU FreePDK TSV. The TSV size, pitch and Keep-out Zone are 4.06umx4:06um,
-10um, and 15um, respectively. TSV area is shared between the neighboring routers for tolerating TSV defect. The project won Second Prize (the 2nd best) of Vietnamese Talents Award 2015.
 
-
-===  Inter-prediction module for H.264/AVC encoder
-I am a core member of the project from 2011 to 2014. We developed a full hardware H.264/AVC encoder.  My major task is to develop the inter-prediction module.
-
-Selected publications:
-.  Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, _“H.264/AVC Hardware Encoders and Low-Power Features”_, *2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS 2014)*, Nov. 17-20, 2014.
-.  *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, _“An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders”_,*17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS 2014)*, Apr. 23-25, 2014.
-
-\n
-{{<img src="images/VENGME.png" class="icenter" width=70%}}
-\n
-
-*Caption:* The chip photograph: Global Foundry CMOS 130nm, 4mmx4mm, 100MHz, 1.2 V, 32mW, QFP256. 
-
-The detail of the chip could be found [https://www.nict.go.jp/en/asean_ivo/4otfsk000029wocm-att/Xuan-Tu_Tran.pdf here].
 
 

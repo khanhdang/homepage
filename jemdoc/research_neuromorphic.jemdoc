@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{research.html}, footer
+= Research
+
+{{}}
+[research.html Back to research page. ≫]
+
+== 3D Silicon Brain Architecture
+We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches.
+\n
+{{<img src="images/3D-Silicon-Brain.svg" class="icenter" width=80%>}}
+\n
+We have developed a LIF neuron model with STDP learning. Neurons are clustered and placed in a node of a 3D-NoC system that supports both unicast and multicast communications.
+
+Furthermore, offline training has been investigating to deploy complex applications. We also plan to support the fault-tolerance feature for our 3D silicon brain.
+\n
+Selected publications:
+
+. Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020
+#. Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
+. Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
+Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
+. *Khanh N. Dang* and Abderazek Ben Abdallah _"An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems"_, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)* (accepted).
+
+{{}}
+\n
+Patent:
+
+. A. Ben Abdallah, Huakun Huang, *Khanh N. Dang*, Jiangning Song, /``ＡＩプロセッサ (AI Processor)''/, 特願2020-194733, Japan patent, (patent filed)
+
+{{}}
+\n
+
+[research.html Back to research page. ≫]
