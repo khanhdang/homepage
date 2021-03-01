@@ -2,11 +2,11 @@
 = Publication
 
 == On-going stuffs
-. /``On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning'' /_(under review)_
-. /``Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System'' /_(under review)_
-. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''/ _(under review)_
-. /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems'' / _(under major revision)_
-. /``A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks	''/ _(under review)_
+. /``On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning'' /_(under review)_.
+. /``Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System'' /_(under review)_.
+. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''/ _(under review)_.
+. /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems'' / _(under major revision)_.
+. /``A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks''/ _(under review)_.
 
 
 == Book chapters
@@ -29,26 +29,26 @@
 . Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, /``An Overview of H.264 Hardware Encoder Architectures including Low-Power Features''/, *REV Journal on Electronics and Communications (JEC)*, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[http://dx.doi.org/10.21553/rev-jec.72 DOI/PDF]\]
 
 == Refereed conference papers
-. Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020
-. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)*, Nov. 8-10, 2020
-. Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
+. Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020.
+. *Khanh N. Dang*, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs''/, *2020 International Conference On Advanced Technologies For Communications (ATC)*, Nov. 8-10, 2020.
+. Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020.
 . Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
-Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020
-. *Khanh N. Dang* and Abderazek Ben Abdallah /``An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems''/, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)*, Dec. 20-22, 2019
-. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults''/, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Nov. 11-14, 2019
-. *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, /`` An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs''/, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Oct. 1-4, 2019
-. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects''/, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019
-. *Khanh N. Dang* and Xuan-Tu Tran, /``Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication''/, *2018 IEEE 12th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Sep. 12-14, 2018
-. Abderazek Ben Abdallah, *Khanh N. Dang*, Yuichi Okuyama, /``A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems''/, *The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA)*, Dec. 21-23, 2017
-. Shunsuke Mie, Yuichi Okuyama, Yusuke Sato, Ye Chan, *Nam Khanh Dang*, Ben Abdellash Abderazek, /``Real-Time UAV Attitude Heading Reference System Using Extended Kalman Filter for Programmable SoC''/, *2017 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Sep. 18-20, 2017
-. *Khanh N. Dang*, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, /``Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System''/, *25th IEEE Asian Test Symposium (ATS)*, Nov. 21-24, 2016
-. *Khanh N. Dang*, Yuichi Okuyama, Abderazek Ben Abdallah, /``Soft-Error Resilient Network-on-Chip for Safety-Critical Applications''/, *2016 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT)*, Jun. 27 – 29, 2016
-. *Khanh N. Dang*, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, Xuan-Tu Tran, /``Soft-Error Resilient 3D Network-on-Chip Router''/, *IEEE 7th International Conference on Awareness Science and Technology (iCAST)*, Sep. 22-24, 2015
-. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, /``H.264\/AVC Hardware Encoders and Low-Power Features''/, *2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)*, Nov. 17-20, 2014
-. *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, /``An Efficient Hardware Architecture for Inter-Prediction in H.264\/AVC Encoders''/, *17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)*, Apr. 23-25, 2014
+Big Data and Smart Computing (BigComp)*, Feb. 19-22, 2020.
+. *Khanh N. Dang* and Abderazek Ben Abdallah /``An Efficient Software-Hardware Design Framework for Spiking Neural Network Systems''/, *2019 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)*, Dec. 20-22, 2019.
+. *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``2D-PPC: A single-correction multiple-detection method for Through-Silicon-Via Faults''/, *2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Nov. 11-14, 2019.
+. *Khanh N. Dang*, Akram Ben Ahmed, and Xuan-Tu Tran, /`` An on-communication multiple-TSV defects detection and localization for real-time 3D-ICs''/, *2019 IEEE 13th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Oct. 1-4, 2019.
+. *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``TSV-IaS: Analytic analysis and low-cost non-preemptive on-line detection and correction method for TSV defects''/, *The IEEE Symposium on VLSI (ISVLSI) 2019*, Jul. 15-17, 2019.
+. *Khanh N. Dang* and Xuan-Tu Tran, /``Parity-based ECC and Mechanism for Detecting and Correcting Soft Errors in On-Chip Communication''/, *2018 IEEE 12th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Sep. 12-14, 2018.
+. Abderazek Ben Abdallah, *Khanh N. Dang*, Yuichi Okuyama, /``A Low-overhead Fault tolerant Technique for TSV-based Interconnects in 3D-IC Systems''/, *The 18th International conference on Sciences and Techniques of Automatic control and computer engineering (STA)*, Dec. 21-23, 2017.
+. Shunsuke Mie, Yuichi Okuyama, Yusuke Sato, Ye Chan, *Nam Khanh Dang*, Ben Abdellash Abderazek, /``Real-Time UAV Attitude Heading Reference System Using Extended Kalman Filter for Programmable SoC''/, *2017 IEEE 11th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)*, Sep. 18-20, 2017.
+. *Khanh N. Dang*, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, /``Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System''/, *25th IEEE Asian Test Symposium (ATS)*, Nov. 21-24, 2016,
+. *Khanh N. Dang*, Yuichi Okuyama, Abderazek Ben Abdallah, /``Soft-Error Resilient Network-on-Chip for Safety-Critical Applications''/, *2016 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT)*, Jun. 27 – 29, 2016.
+. *Khanh N. Dang*, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, Xuan-Tu Tran, /``Soft-Error Resilient 3D Network-on-Chip Router''/, *IEEE 7th International Conference on Awareness Science and Technology (iCAST)*, Sep. 22-24, 2015,
+. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, /``H.264\/AVC Hardware Encoders and Low-Power Features''/, *2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)*, Nov. 17-20, 2014.
+. *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, /``An Efficient Hardware Architecture for Inter-Prediction in H.264\/AVC Encoders''/, *17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)*, Apr. 23-25, 2014.
 . Hai-Phong Phan, Hung K. Nguyen, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, /`` System-on-Chip Testbed for Validating the Hardware Design of H.264\/AVC Encoder''/, *National Conference on Electronics and Communications (REV2013-KC01)*, Hanoi, Dec., 2013. 
-. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, /``A VLSI Implementation for Inter-Prediction Module in H.264\/AVC Encoders''/, *2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2013
-. *Nam Khanh Dang*, Thanh Vu Le Van, Xuan Tu Tran, /``FPGA implementation of a low latency and high throughput network-on-chip router architecture''/, *2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2011
+. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, /``A VLSI Implementation for Inter-Prediction Module in H.264\/AVC Encoders''/, *2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2013,
+. *Nam Khanh Dang*, Thanh Vu Le Van, Xuan Tu Tran, /``FPGA implementation of a low latency and high throughput network-on-chip router architecture''/, *2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)*, 2011.
 
 
 == Invited talks
