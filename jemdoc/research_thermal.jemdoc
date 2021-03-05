@@ -1,11 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
-
-
-{{}}
-[research.html Back to research page. ≫]
-
-=== Thermal-aware 3D interconnect design
+== Thermal-aware 3D interconnect design
 
 Funded by NAFOSTED under No. 102.01-2018.312 (2019-2011). I am the main PI of the project.
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
@@ -36,4 +31,4 @@ Patents:
 . A. Ben Abdallah, *Khanh N. Dang*, Masayuki Hisada, /``Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links''/, Japan patent, (under review)
 {{}}
 \n
-[research.html Back to research page. ≫]
+[research.html Back to research page ≫]

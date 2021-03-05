@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
-
-{{}}
-[research.html Back to research page. ≫]
-===  Fault-tolerant Network-on-Chip architecture
+==  Fault-tolerant Network-on-Chip architecture
 I am a member of the project as a Ph.D. student at [http://adaptive.u-aizu.ac.jp ASL] from 2014 to 2017. 
 We developed a comprehensive solution to tackle the reliability of on-chip interconnect. 
 We have developed tolerance method for the permanent (hard), transient (soft), and TSV defect.
@@ -28,4 +25,4 @@ Patent
 
 
 {{}}
-[research.html Back to research page. ≫]
+[research.html Back to research page ≫]

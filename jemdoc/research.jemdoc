@@ -1,8 +1,5 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
-{{}}
-
-
 == Current Research
 . [research_neuromorphic.html 3D Silicon Brain Architecture]
 . [research_thermal.html Thermal-aware 3D interconnect design]

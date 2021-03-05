@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
-
-{{}}
-[research.html Back to research page. ≫]
-===  Full hardware H.264/AVC encoder
+==  Full hardware H.264/AVC encoder
 I am a core member of the project from 2011 to 2014. We developed a full hardware H.264/AVC encoder.  My major task is to develop the inter-prediction module.
 
 Selected publications:
@@ -21,4 +18,4 @@ The detail of the chip could be found [https://www.nict.go.jp/en/asean_ivo/4otfs
 
 
 {{}}
-[research.html Back to research page. ≫]
+[research.html Back to research page ≫]

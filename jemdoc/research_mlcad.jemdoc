@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, footer
 = Research
-
-{{}}
-[research.html Back to research page. ≫]
-=== Machine learning for Computer-Aided Design
+== Machine learning for Computer-Aided Design
 
 \n
 {{<img src="images/MFMC.svg" class="icenter" width=100%>}}
@@ -22,4 +19,4 @@ Patents:
 . A. Ben Abdallah, Huakun Huang, *Khanh N. Dang*, Jiangning Song, /``ＡＩプロセッサ (AI Processor)''/, 特願2020-194733, Japan patent, (under review)
 
 {{}}
-[research.html Back to research page. ≫]
+[research.html Back to research page ≫]

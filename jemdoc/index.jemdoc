@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, footer
 = Home
-\n
-*[https://www.youtube.com/watch?v=rEq1Z0bjdwc Hello there.]*
+== *[https://www.youtube.com/watch?v=rEq1Z0bjdwc Hello there.]*
 
 {{<img src="images/memcsoc19.jpg" class="avatar" alt="Avatar">}}
 \n
