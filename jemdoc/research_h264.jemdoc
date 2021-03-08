@@ -4,8 +4,8 @@
 I am a core member of the project from 2011 to 2014. We developed a full hardware H.264/AVC encoder.  My major task is to develop the inter-prediction module.
 
 Selected publications:
-.  Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, _“H.264/AVC Hardware Encoders and Low-Power Features”_, *2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS 2014)*, Nov. 17-20, 2014.
-.  *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, _“An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders”_,*17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS 2014)*, Apr. 23-25, 2014.
+.  Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, /“H.264/AVC Hardware Encoders and Low-Power Features”/, *2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS 2014)*, Nov. 17-20, 2014.
+.  *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, /“An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders”/,*17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS 2014)*, Apr. 23-25, 2014.
 
 \n
 {{<img src="images/VENGME.png" class="icenter" width=70%}}
