@@ -18,7 +18,7 @@
 == Reviewer
 === Journal
 /(in alphabetical order)/
-
+- ACM Journal on Emerging Technologies in Computing Systems
 - Elsevier Journal of Systems Architecture
 - IEEE Transactions on Circuits and Systems I : Regular Papers
 - IEEE Access
@@ -27,7 +27,13 @@
 === Conferences 
 /(in chronological order)/
 \n
-MCSoC 2017, MCSoC 2018, MCSoC 2019, APCCAS 2020, ICCE 2020, ISCAS 2021
+- IEEE MCSoC 2017
+- IEEE MCSoC 2018
+- IEEE MCSoC 2019
+- IEEE ATC 2020
+- IEEE APCCAS 2020
+- IEEE ICCE 2020
+- IEEE ISCAS 2021
 
 #== Journal Editorial
 #- Guest Editor, MDPI Electronics: ``Recent Advances in Multi/Many-Core Systems-on-Chip Architecture and Programming'': \[[https://www.mdpi.com/journal/electronics/special_issues/MCSoCs URL]\].
