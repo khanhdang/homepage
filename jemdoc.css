@@ -423,6 +423,13 @@ table.imgtable, table.imgtable td {
   font-weight: bolder;
 }
 
+.topnav a.active {
+  background-color: white; 
+  color: #4CAF50;
+  font-weight: bolder;
+}
+
+
 
 .topnav .icon {
   display: none;
