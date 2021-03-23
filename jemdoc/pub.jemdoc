@@ -13,7 +13,7 @@
 
 
 == International journal papers
-. *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''/, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* _(accepted)_.
+. *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems''/, *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* _(accepted)_. \[[http://khanhdang.github.io/share/TCAD-2021.pdf PDF]\].
 . *Khanh N. Dang*, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, /``A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems''/, *IEEE Access*, IEEE, Volume 8, pp 166642-166657, 2020. \[[https://doi.org/10.1109/ACCESS.2020.3022904 DOI]\],\[[./share/09189765.pdf PDF]\].
 . *Khanh N. Dang*, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, /``TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''/, *IEEE Transactions on Very Large Scale Integration Systems (TVLSI)*, IEEE, Volume 28, Issue 3, pp 672 - 685, 2020. \[[https://doi.org/10.1109/TVLSI.2019.2948878 DOI]\],\[[./share/TVLSI-2019.pdf PDF]\].
 . *Khanh N. Dang*, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, /``A non-blocking non-degrading multi-defect link test method for 3D-Networks-on-Chip''/, *IEEE Access*, IEEE, Volume 8, pp 59571 - 59589, 2020. \[[https://doi.org/10.1109/ACCESS.2020.2982836 DOI]\],\[[./share/ACCESS-2020.pdf PDF]\].
