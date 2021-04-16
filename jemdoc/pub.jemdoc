@@ -1,8 +1,8 @@
 # jemdoc: menu{MENU}{pub.html}, footer
 = Publication
 == On-going stuffs
+. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''/ _(under major revision)_.
 . /``Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System'' /_(under review)_.
-. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''/ _(under review)_.
 . /``A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks''/ _(under review)_.
 
 
@@ -50,6 +50,7 @@
 
 
 == Invited talks
+. *Khanh N. Dang*,/``Fault-Tolerance Through-Silicon-Via For 3-D Integrated Circuits''/ *Advanced Institute of Engineering and Technology*, VNU-UET, VNU, Vietnam, 2021.
 . *Khanh N. Dang*, /``TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems''/, *The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)*, UPM, Malaysia, 2019. \[[./share/SEACAS-2019.pdf SLIDE]\].
 . *Khanh N. Dang*, /``Toward Real-time Fault-tolerance Through-Silicon-Via based 3D Network-on-Chips''/, *The 2nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)*, Bandung, Indonesia, 2018. \[[./share/SEACAS-2018.pdf SLIDE]\].
 . *Khanh N. Dang*, /``Fault-Tolerant Architectures and Algorithms for 3D-Network-on-Chips''/, *The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)*, Hanoi, Vietnam, 2017. \[[./share/SEACAS-2017.pdf SLIDE]\].

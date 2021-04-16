@@ -10,7 +10,8 @@ We have developed a LIF neuron model with STDP learning. Neurons are clustered a
 Furthermore, offline training has been investigating to deploy complex applications. We also plan to support the fault-tolerance feature for our 3D silicon brain.
 \n
 Selected publications:
-
+. Mark Ogbodo, *Khanh N. Dang*,  Abderazek Ben Abdallah,  /`On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning''/, *IEEE Access*, _(accepted)_
+. /``MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems''/ _(under major revision)_.
 . Duy-Anh Nguyen, Xuan-Tu Tran, *Khanh N. Dang*, and Francesca Iacopi,  /``A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks''/,  *2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)*, Dec. 8-10, 2020
 #. Ogbodo Mark Ikechukwu, *Khanh N. Dang*, Tomohide Fukuchi, Abderazek Ben Abdallah, /``Architecture and Design of a Spiking Neuron Processor Core Towards the Design of a Large-scale Event-Driven 3D-NoC-based Neuromorphic Processor''/, *The ACM Chapter International Conference on Educational Technology, Language and Technical Communication (ETLTC)*, Jan. 27-31, 2020
 . Mark Ogbodo, The Vu, *Khanh N. Dang* and Abderazek Abdallah, /``Light-weight Spiking Neuron Processing Core for Large-scale 3D-NoC based Spiking Neural Network Processing Systems''/, *2020 IEEE International Conference on
