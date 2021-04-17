@@ -420,16 +420,14 @@ table.imgtable, table.imgtable td {
 .topnav a.active {
   background-color: white; 
   color: #4CAF50;
-  font-weight: bolder;
-}
-
-.topnav a.active {
-  background-color: white; 
-  color: #4CAF50;
-  font-weight: bolder;
 }
 
 
+.topnav a:first-child{
+	color:  #4CAF50; 
+	font-weight: bolder;
+	background: url(images/bg_separator.gif) no-repeat right center;
+}
 
 .topnav .icon {
   display: none;
