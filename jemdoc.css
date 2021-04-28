@@ -426,7 +426,7 @@ table.imgtable, table.imgtable td {
 .topnav a:first-child{
 	color:  #4CAF50; 
 	font-weight: bolder;
-	background: url(images/bg_separator.gif) no-repeat right center;
+	/* background: url(images/bg_separator.gif) no-repeat right center; */
 }
 
 .topnav .icon {
