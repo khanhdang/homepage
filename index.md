@@ -13,7 +13,7 @@ I also work as a *Researcher* at the [VNU-key Laboratory of Smart Integrated Sys
 
 **News**
 
-- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been award **Best Student Paper Award" at UNet'21.
+- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been award **Best Student Paper Award** at UNet'21. Congrat Mark!
 - **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
 Neuromorphic System with On-chip Learning" is accepted for publication in the IEEE Access. Access the paper
 [here](https://doi.org/10.1109/ACCESS.2021.3071089).
