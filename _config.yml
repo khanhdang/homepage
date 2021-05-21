@@ -1,0 +1,35 @@
+title: Khanh N. Dang
+author: Khanh N. Dang
+# email: your-email@domain.com
+# description: 
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- about.md
+- research.md
+- pub.md
+- patent.md
+- teaching.md
+- service.md
+- contact.md
+# - posts.md
+
+
+
+paginate: 5
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec

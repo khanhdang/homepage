@@ -1,0 +1,11 @@
+<footer id="site-footer">
+
+      {% if site.author %}
+        Copyright &copy; {{ 'now' | date: "%Y" }} {{ site.author | escape }}. All rights reserved.
+      {% else %}
+        {{ site.title | escape }}
+      {% endif %}
+    
+
+</footer>
+
