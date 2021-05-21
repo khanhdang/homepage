@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Patents
+title: Patent
 ---
 
 ## Filed patents
