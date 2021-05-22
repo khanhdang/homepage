@@ -3,6 +3,9 @@ author: Khanh N. Dang
 # email: your-email@domain.com
 # description:
 
+url: "http://khanhdang.github.io/"
+baseurl: ""
+
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
