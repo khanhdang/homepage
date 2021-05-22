@@ -16,5 +16,5 @@ title: Grant & Award
 Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”.
 
 {::nomarkdown}
-<img src="http://khanhdang.github.io/images/Unet21_BSP.jpg" class="icenter" width=80%>
+<img src="http://khanhdang.github.io/images/Unet21_BSP.jpg" class="icenter rounded" width=80%>
 {:/}
