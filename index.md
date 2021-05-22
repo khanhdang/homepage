@@ -5,11 +5,11 @@ title: Xin chào! Hi! こんにちは。 Bonjour!
 ---
 <img src="images/memcsoc19.jpg" class="avatar" alt="Avatar">
 
-Hi, you are visiting my website and my name is **Khanh N. Dang**. I am an *Assistant Professor* of VNU University of Engineering and Technology, Vietnam
+Hi, you are visiting my website and my name is **Khanh N. Dang** (in Vietnamese: Đặng Nam Khánh). I am an *Assistant Professor* of VNU University of Engineering and Technology, Vietnam
 National University, Hanoi (VNU), Vietnam.
 I also work as a *Researcher* at the [VNU-key Laboratory of Smart Integrated Systems](http://sis.uet.vnu.edu.vn/).
 
-This website has been my home page for years. I used to use [gemdoc](https://jemdoc.jaboc.net/) in the past and have converted to [jekyll](https://jekyllrb.com/) recently. The old website can be accessed [here](http://khanhdang.github.io/jemdoc-modern). If you are interested in, you can access the current website source code [here](https://github.com/khanhdang/khanhdang.github.io) and the old one [here](https://github.com/khanhdang/jemdoc-modern).
+This website has been my home page for years. I used to use [gemdoc](https://jemdoc.jaboc.net/) in the past and converted to [jekyll](https://jekyllrb.com/) with Bootstrap 4 recently. The old website can still be accessed [here](http://khanhdang.github.io/jemdoc-modern). If you are interested in, you can access the current website source code [here](https://github.com/khanhdang/khanhdang.github.io) and the old one [here](https://github.com/khanhdang/jemdoc-modern).
 
 [More details about me ≫](./about)
 
