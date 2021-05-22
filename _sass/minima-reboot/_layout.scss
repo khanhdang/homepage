@@ -96,11 +96,17 @@ body {
   border-radius: 50%;
   box-sizing: border-box;
   background-color: #DDD;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+  float: right;
+  width: 15%;
+  top: 0.4rem;
+  bottom: 0.4rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
