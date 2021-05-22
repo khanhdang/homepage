@@ -9,7 +9,6 @@ Hi, you are visiting my website and my name is **Khanh N. Dang** (in Vietnamese:
 National University, Hanoi (VNU), Vietnam.
 I also work as a *Researcher* at the [VNU-key Laboratory of Smart Integrated Systems](http://sis.uet.vnu.edu.vn/).
 
-This website has been my home page for years. I used to use [gemdoc](https://jemdoc.jaboc.net/) in the past and converted to [jekyll](https://jekyllrb.com/) with Bootstrap 4 recently. The old website can still be accessed [here](http://khanhdang.github.io/jemdoc-modern). If you are interested in, you can access the current website source code [here](https://github.com/khanhdang/khanhdang.github.io) and the old one [here](https://github.com/khanhdang/jemdoc-modern).
 
 [More details about me ≫](./about)
 
@@ -30,3 +29,9 @@ systems" has been accepted for IEEE Access. Access the paper [here](https://doi.
 {: .alert .alert-warning}
 
 [More news ≫](./news)
+
+---
+
+This website has been converted to [jekyll](https://jekyllrb.com/) with Bootstrap 4 recently. The old website can still be accessed [here](http://khanhdang.github.io/jemdoc-modern). 
+{: .alert .alert-info}
+

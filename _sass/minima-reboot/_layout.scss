@@ -46,7 +46,10 @@ body {
   }
   // a {color: #363636;}
   a:hover{text-decoration: none;  }
+
+  
 }
+
 
 #nav-trigger:checked ~ #nav-menu {
   display: block !important;
@@ -163,3 +166,4 @@ a {
   vertical-align: middle;
   content: "menu";
 }
+

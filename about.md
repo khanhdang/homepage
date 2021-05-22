@@ -16,7 +16,7 @@ Khanh N. Dang received his Ph.D. degree from The University of Aizu, Japan in 20
 
 ## Research Interests
 
-Current and previous projects can be found in the <research.html research page>.
+Current and previous projects can be found in the [research](/research) page.
 
 - System-on-Chips (SoCs)
 - Network-on-Chips (NoCs)
