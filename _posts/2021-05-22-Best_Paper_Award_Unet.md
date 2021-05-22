@@ -9,7 +9,7 @@ The paper's information:
 Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”.
 
 {::nomarkdown}
-<img src="images/Unet21_BSP.jpg" class="icenter" width=80%>
+<img src="./images/Unet21_BSP.jpg" class="icenter" width=80%>
 {:/}
 
 In this paper, we proposed a 3D-Network-on-Chip based Spiking Neural Network with fault-tolerance supports.
