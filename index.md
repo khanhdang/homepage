@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xin chào! Hi! こんにちは。 Bonjour!
+title: Xin chào! Hi! こんにちは。Bonjour!
 
 ---
 <img src="images/memcsoc19.jpg" class="avatar" alt="Avatar">
@@ -13,10 +13,7 @@ This website has been my home page for years. I used to use [gemdoc](https://jem
 
 [More details about me ≫](./about)
 
----
-
 **News**
-
 - **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been award **Best Student Paper Award** at UNet'21. More detail [here](./2021/05/22/Best_Paper_Award_Unet.html).
 - **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
 Neuromorphic System with On-chip Learning" is accepted for publication in the IEEE Access. Access the paper
@@ -30,7 +27,6 @@ Circuits and Systems. Access the paper [here](http://khanhdang.github.io/share/T
 Networks" has been accepted for APCCAS 2020.
 - **2020-09:** Our paper tilted "A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC
 systems" has been accepted for IEEE Access. Access the paper [here](https://doi.org/10.1109/ACCESS.2020.3022904).
+{: .alert .alert-warning}
 
 [More news ≫](./news)
-
----
