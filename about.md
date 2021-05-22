@@ -40,6 +40,28 @@ Current and previous projects can be found in the <research.html research page>.
 - B.Sc. in Electronics & Telecommunications, VNU University of Engineering and Technology, Vietnam, 2011
 
 
+## Service
+
+[More details ≫](./service).
+
+## Grant and Awards
+
+[More details ≫](./grant).
+
+
+## Contact
+
+##### Email
+
+- [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn)
+  
+##### Office
+
+- Room 2.1, E4, Vietnam National University, Hanoi  
+144 Xuan Thuy Rd., Cau Giay Distr., Hanoi, 123106, Vietnam  
+
+
+
 ## Links
 
 - ORCID: <https://orcid.org/0000-0001-6702-3870> 

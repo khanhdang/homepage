@@ -20,11 +20,10 @@ header_pages:
   - about.md
   - research.md
   - pub.md
-  - patent.md
-  - grant.md
+  #  - patent.md
+  # - grant.md
   - teaching.md
-  - service.md
-  - contact.md
+# - service.md
 # - posts.md
 
 paginate: 5
