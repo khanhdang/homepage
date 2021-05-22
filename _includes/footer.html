@@ -1,7 +1,8 @@
 <footer id="site-footer">
 
       {% if site.author %}
-        Copyright &copy; {{ 'now' | date: "%Y" }} {{ site.author | escape }}. All rights reserved.
+        Copyright &copy; {{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. <br>
+        All rights reserved.
       {% else %}
         {{ site.title | escape }}
       {% endif %}

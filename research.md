@@ -5,18 +5,16 @@ title: Research
 
 ## Current research
 
-- 3D Silicon Brain Architecture: \[[more details ≫](./research_topics/neuromorphic)\]. <a href="javascript:void(0)" class="button">Default Button</a>
-
-
-- Machine learning for Computer-Aided Design: \[[more details ≫](./research_topics/mlcad)\].
+- 3D Silicon Brain Architecture:  <a role="button" href="./research_topics/neuromorphic" class="btn btn-outline-primary btn-sm">More details</a>
+- Machine learning for Computer-Aided Design:  <a role="button" href="./research_topics/mlcad" class="btn btn-outline-primary btn-sm">More details</a>
 
 
 
 ## Previous research topics
 
-- Thermal-aware 3D interconnect design: \[[more details ≫](./research_topics/thermal3DICs)\].
-- Fault-tolerant Network-on-Chip architecture: \[[more details ≫](./research_topics/ftnoc)\].
-- Full hardware H.264/AVC encoder: \[[more details ≫](./research_topics/h264)\].
+- Thermal-aware 3D interconnect design: <a role="button" href="./research_topics/thermal3DICs" class="btn btn-outline-primary btn-sm">More details</a>
+- Fault-tolerant Network-on-Chip architecture: <a role="button" href="./research_topics/ftnoc" class="btn btn-outline-primary btn-sm">More details</a>
+- Full hardware H.264/AVC encoder: <a role="button" href="./research_topics/h264" class="btn btn-outline-primary btn-sm">More details</a>
 
 
 ## Fundings and Publications
@@ -27,6 +25,6 @@ title: Research
 - Patents: 4 (filed)
 
 
-[More on publications ≫](./pub).
+<a role="button" href="./pub" class="btn btn-outline-primary btn-sm">More on publications </a>
 
-[More on grants ≫](./grant).
+<a role="button" href="./grant" class="btn btn-outline-primary btn-sm">More on grants</a>

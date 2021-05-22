@@ -42,10 +42,9 @@ Current and previous projects can be found in the [research](/research) page.
 
 ## Service
 
-[More details ≫](/service).
+<a role="button" href="./service" class="btn btn-outline-primary">More details</a>
+
 
 ## Grant and Awards
 
-[More details ≫](/grant).
-
-
+<a role="button" href="./grant" class="btn btn-outline-primary">More details</a>
