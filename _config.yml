@@ -1,7 +1,7 @@
 title: Khanh N. Dang
 author: Khanh N. Dang
 # email: your-email@domain.com
-# description: 
+# description:
 
 plugins:
   - jekyll-seo-tag
@@ -14,16 +14,15 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-- about.md
-- research.md
-- pub.md
-- patent.md
-- teaching.md
-- service.md
-- contact.md
+  - about.md
+  - research.md
+  - pub.md
+  - patent.md
+  - grant.md
+  - teaching.md
+  - service.md
+  - contact.md
 # - posts.md
-
-
 
 paginate: 5
 

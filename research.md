@@ -46,7 +46,7 @@ Selected publications:
 
 ### Thermal-aware 3D interconnect design
 
-Funded by NAFOSTED under No. 102.01-2018.312 (2019-2011). I am the main PI of the project.
+Funded by NAFOSTED under No. 102.01-2018.312 (2019-2021). I am the main PI of the project.
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
 {::nomarkdown}
 <img src="images/Thermal_Acc.svg" class="icenter" width=65% >
@@ -63,8 +63,8 @@ Selected publications:
 
 
 Patents:
-. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*,特願2020-171553, Japan patent, (patent filed)
-. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
+1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*,特願2020-171553, Japan patent, (patent filed)
+1. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
 
 ---
 
@@ -103,10 +103,10 @@ I am a core member of the project from 2011 to 2014. We developed a full hardwar
 Selected publications:
 
 1. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI/PDF](http://dx.doi.org/10.21553/rev-jec.72)\].
-1. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *"H.264\/AVC Hardware Encoders and Low-Power Features"*, **2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)**, Nov. 17-20, 2014.
-1. *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, *"An Efficient Hardware Architecture for Inter-Prediction in H.264\/AVC Encoders"*, **17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)**, Apr. 23-25, 2014.
-1. Hai-Phong Phan, Hung K. Nguyen, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *" System-on-Chip Testbed for Validating the Hardware Design of H.264\/AVC Encoder"*, **National Conference on Electronics and Communications (REV2013-KC01)**, Hanoi, Dec., 2013. 
-1. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, *"A VLSI Implementation for Inter-Prediction Module in H.264\/AVC Encoders"*, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2013.
+1. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *"H.264/AVC Hardware Encoders and Low-Power Features"*, **2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)**, Nov. 17-20, 2014.
+1. *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, *"An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders"*, **17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)**, Apr. 23-25, 2014.
+1. Hai-Phong Phan, Hung K. Nguyen, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *" System-on-Chip Testbed for Validating the Hardware Design of H.264/AVC Encoder"*, **National Conference on Electronics and Communications (REV2013-KC01)**, Hanoi, Dec., 2013. 
+1. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, *"A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders"*, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2013.
 
 {::nomarkdown}
 <img src="images/VENGME.png" class="icenter" width=70%
