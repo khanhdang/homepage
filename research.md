@@ -21,7 +21,9 @@ title: Research
 
 - Fundings : 2 (main PI)
 - IEEE journals: 7
+- Book chapter: 2
 - Patents: 4 (filed)
+
 
 [More on publications ≫](./pub).
 
