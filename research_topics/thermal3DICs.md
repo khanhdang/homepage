@@ -2,7 +2,12 @@
 layout: page
 title: Thermal-aware 3D interconnect design
 ---
-
+<a role="button" href="/research" class="btn btn-primary btn-sm">Back to research</a>
+<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-primary btn-sm">3D Silicon Brain</a>
+<a role="button" href="/research_topics/mlcad" class="btn btn-outline-primary btn-sm">Machine Learning CAD</a>
+<a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-success btn-sm">Thermal-aware 3D-ICs</a>
+<a role="button" href="/research_topics/ftnoc" class="btn btn-outline-primary btn-sm">Fault-tolerant Network-on-Chip</a>
+<a role="button" href="/research_topics/h264" class="btn btn-outline-primary btn-sm">H.264/AVC encoder</a>
 
 Funded by NAFOSTED under No. 102.01-2018.312 (2019-2021). I am the main PI of the project.
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
@@ -23,3 +28,10 @@ Selected publications:
 Patents:
 1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*,特願2020-171553, Japan patent, (patent filed)
 1. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
+
+<a role="button" href="/research" class="btn btn-primary btn-sm">Back to research</a>
+<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-primary btn-sm">3D Silicon Brain</a>
+<a role="button" href="/research_topics/mlcad" class="btn btn-outline-primary btn-sm">Machine Learning CAD</a>
+<a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-success btn-sm">Thermal-aware 3D-ICs</a>
+<a role="button" href="/research_topics/ftnoc" class="btn btn-outline-primary btn-sm">Fault-tolerant Network-on-Chip</a>
+<a role="button" href="/research_topics/h264" class="btn btn-outline-primary btn-sm">H.264/AVC encoder</a>

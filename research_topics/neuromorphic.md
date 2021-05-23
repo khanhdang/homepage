@@ -2,6 +2,12 @@
 layout: page
 title:  3D Silicon Brain Architecture
 ---
+<a role="button" href="/research" class="btn btn-primary btn-sm">Back to research</a>
+<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">3D Silicon Brain</a>
+<a role="button" href="/research_topics/mlcad" class="btn btn-outline-primary btn-sm">Machine Learning CAD</a>
+<a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-primary btn-sm">Thermal-aware 3D-ICs</a>
+<a role="button" href="/research_topics/ftnoc" class="btn btn-outline-primary btn-sm">Fault-tolerant Network-on-Chip</a>
+<a role="button" href="/research_topics/h264" class="btn btn-outline-primary btn-sm">H.264/AVC encoder</a>
 
 We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches.
 
@@ -21,3 +27,10 @@ Furthermore, offline training has been investigating to deploy complex applicati
 #### Patent:
 
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed)
+
+<a role="button" href="/research" class="btn btn-primary btn-sm">Back to research</a>
+<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">3D Silicon Brain</a>
+<a role="button" href="/research_topics/mlcad" class="btn btn-outline-primary btn-sm">Machine Learning CAD</a>
+<a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-primary btn-sm">Thermal-aware 3D-ICs</a>
+<a role="button" href="/research_topics/ftnoc" class="btn btn-outline-primary btn-sm">Fault-tolerant Network-on-Chip</a>
+<a role="button" href="/research_topics/h264" class="btn btn-outline-primary btn-sm">H.264/AVC encoder</a>

@@ -3,14 +3,16 @@ layout: page
 title: Publications
 ---
 
-## On-going stuffs
+
+
+## On-going stuffs {#on-going}
 
 - *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **(under review)**.
 - *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*, **(under review)**.
 - *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **(under review)**.
 - *"Neuromorphic Computing Principles and Organization”*, **(under preparation)**.
 
-## Patents
+## Patents {#patent}
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed).
 1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*, 特願2020-171553, Japan patent, (patent filed).
 1. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
@@ -18,14 +20,14 @@ title: Publications
 JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/JP2019092020A/en)\].
 
 
-## Book chapters
+## Book chapters {#book-chapter}
 
 1. Xuan-Tu Tran, **Khanh N. Dang**, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\].
 1. **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
 
 
-## International journal papers
+## International journal papers {#i-journal}
 
 1. Mark Ogbodo, **Khanh N. Dang**,  Abderazek Ben Abdallah,  *"On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning"*, **IEEE Access**, IEEE, Volume 9, pp 64331 - 64345, 2021. \[[DOI](https://doi.org/10.1109/ACCESS.2021.3071089)\]/\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395458)\].
 1. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, (in press). \[[DOI](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](http://khanhdang.github.io/share/TCAD-2021.pdf)\].
@@ -37,7 +39,7 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 1. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp 2705–2729, 2017. \[[DOI](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](./share/SUPE-2017.pdf)\].
 {: reversed="reversed"}
 
-## Domestic journal papers
+## Domestic journal papers {#d-journal}
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp 65-77, 2020. \[[DOI/PDF](http://www.jcsce.vnu.edu.vn/index.php/jcsce/article/view/245)\].
 1. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI/PDF](http://dx.doi.org/10.21553/rev-jec.242)\].
@@ -46,7 +48,7 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 {: reversed="reversed"}
 
 
-## Refereed conference papers
+## Refereed conference papers {#conf}
 
 1. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben. Abdallah, *"Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems"* Springer Lecture  Note in Computer Science (LNCS), **International Symposium on Ubiquitous Networking 2021 (UNET21)**, May 19 – May 22, 2021, Marakesh, Morocco. \[[Best Student Paper Award](/grant)\].
 2. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi,  *"A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks"*,  **2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)**, Dec. 8-10, 2020.
@@ -71,7 +73,7 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 {: reversed="reversed"}
 
 
-## Invited talks
+## Invited talks {#talk}
 
 1. **Khanh N. Dang**,*"Fault-Tolerance Through-Silicon-Via For 3-D Integrated Circuits"*, **Advanced Institute of Engineering and Technology**, VNU-UET, VNU, Vietnam, 2021.
 2. **Khanh N. Dang**, *"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"*, **The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, UPM, Malaysia, 2019. \[[SLIDE](./share/SEACAS-2019.pdf)\].
@@ -80,6 +82,6 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 {: reversed="reversed"}
 
 
-## Thesis
+## Thesis {#thesis}
 
 1. **Dang Nam Khanh**, *"Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)"*, Research advisor: Prof. Abderazek Ben Abdallah. \[[DOI](http://doi.org/10.15016/00000140)\]. \[[PDF](./share/THESIS-2017.pdf)\]. \[[SLIDE](./share/THESIS-SLIDE-2017.pdf)\].

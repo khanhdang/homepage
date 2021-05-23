@@ -9,7 +9,6 @@ title: Research
 - Machine learning for Computer-Aided Design<br>  <a role="button" href="./research_topics/mlcad" class="btn btn-outline-primary btn-sm">More details</a>
 
 
-
 ## Other research topics
 
 - Thermal-aware 3D interconnect design<br> <a role="button" href="./research_topics/thermal3DICs" class="btn btn-outline-primary btn-sm">More details</a>
