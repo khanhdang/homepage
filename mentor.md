@@ -31,7 +31,7 @@ Screenshots of the projects.
 
 
 Our students attended the SEACAS 2019 Hackathon and won the 1st prize. 
-The project is to develope a prototype of ``Magic Spoon'' which can compensate the vibration (shaking) 
+The project is to develope a prototype of "Magic Spoon" which can compensate the vibration (shaking) 
 of Parkinson patient's hand. Instead of using conventional PID, our students developed a single layer perceptron to control the servo motor. 
 Database and Andriod app are also developed to provide the ability to diagnosis and proper treatment.
 

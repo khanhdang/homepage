@@ -10,9 +10,12 @@ title: Courses
 
 ## Previous Courses
 - ELT3071: Real-time Embedded Systems, VNU-UET, *Undergraduate*.
-- SYC04 - Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer in 2019 and 2021.
 - INT3409: Robotics Programming, VNU-UET, *Undergraduate*.
 
+## Invited courses
+
+- SYC04 - Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2019.
+- SYC04 - Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
 
 
 ## Mentoring
