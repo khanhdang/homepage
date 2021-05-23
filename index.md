@@ -11,8 +11,8 @@ I also work as a *Researcher* at the [VNU-key Laboratory of Smart Integrated Sys
 
 My current research topics are [neuromorphic computing, 3D Integrated Circuits, and fault-tolerant computing](./research).
 
+Feel free to explore and look around!
 
-<a role="button" href="./about" class="btn btn-outline-primary">More details about me</a>
 
 ---
 
