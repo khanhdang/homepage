@@ -1,12 +1,12 @@
-<footer id="site-footer">
+<footer id="site-footer" >
 
       {% if site.author %}
-        Copyright &copy; {{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. <br>
-        All rights reserved.
+        Copyright &copy; {{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. All rights reserved. 
+	<br>
       {% else %}
         {{ site.title | escape }}
       {% endif %}
     
-
+	
 </footer>
 

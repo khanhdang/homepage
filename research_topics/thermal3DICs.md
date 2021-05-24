@@ -9,13 +9,14 @@ title: Thermal-aware 3D interconnect design
 <a role="button" href="/research_topics/ftnoc" class="btn btn-outline-primary btn-sm">Fault-tolerant Network-on-Chip</a>
 <a role="button" href="/research_topics/h264" class="btn btn-outline-primary btn-sm">H.264/AVC encoder</a>
 
-Funded by NAFOSTED under No. 102.01-2018.312 (2019-2021). I am the main PI of the project.
 We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
 {::nomarkdown}
 <img src="../images/Thermal_Acc.svg" class="icenter" width=65% >
 {:/}
 *Caption:* Normalized thermal acceleration for lifetime reliability of TSV (Cooper) with academics (RAMP, Black, and Arrherius), industry (HDR4) and military (MIL-HDBK-217F) model.
 The fault rates are normalized to 343.15K (70C).
+
+Funded by NAFOSTED under No. 102.01-2018.312 (2019-2021). I am the main PI of the project.
 
 
 Selected publications:
