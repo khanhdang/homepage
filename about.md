@@ -10,7 +10,7 @@ Khanh N. Dang received his Ph.D. degree from The University of Aizu, Japan in 20
 
 ## Current Appointments
 
-- *Assistant Prof.* [VNU-key Laboratory of Smart Integrated Systems](http://sis.uet.vnu.edu.vn/) (SISLAB), VNU University of Engineering and Technology (VNU-UET), Vietnam National University, Hanoi (VNU), Vietnam 
+- *Assistant Prof.* VNU University of Engineering and Technology (VNU-UET), Vietnam National University, Hanoi (VNU), Vietnam 
 
 
 
