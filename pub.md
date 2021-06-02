@@ -6,14 +6,14 @@ title: Publications
 Find below the links to each of the subsections:
 
 
-<a role="button" href="" class="btn btn-primary btn-sm">On-going stuffs</a>
-<a role="button" href="#bm1" class="btn btn-primary btn-sm">Patents</a>
-<a role="button" href="#bm2" class="btn btn-primary btn-sm">Book chapters</a>
-<a role="button" href="#bm3" class="btn btn-primary btn-sm">International journal papers</a>
-<a role="button" href="#bm4" class="btn btn-primary btn-sm">Domestic journal papers </a>
-<a role="button" href="#bm5" class="btn btn-primary btn-sm">Refereed conference papers</a>
-<a role="button" href="#bm7" class="btn btn-primary btn-sm">Invited talks</a>
-<a role="button" href="#bm7" class="btn btn-primary btn-sm">Thesis</a>
+<a role="button" href="" class="btn btn-success btn-sm">On-going stuffs</a>
+<a role="button" href="#bm1" class="btn btn-success btn-sm">Patents</a>
+<a role="button" href="#bm2" class="btn btn-success btn-sm">Book chapters</a>
+<a role="button" href="#bm3" class="btn btn-success btn-sm">International journal papers</a>
+<a role="button" href="#bm4" class="btn btn-success btn-sm">Domestic journal papers </a>
+<a role="button" href="#bm5" class="btn btn-success btn-sm">Refereed conference papers</a>
+<a role="button" href="#bm7" class="btn btn-success btn-sm">Invited talks</a>
+<a role="button" href="#bm7" class="btn btn-success btn-sm">Thesis</a>
 
 
 ## On-going stuffs {#bm1}

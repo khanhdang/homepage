@@ -148,12 +148,13 @@ h4, h5, h6  {
 
 }
 
-h1, h2, h3, h4, h5, h6, b {color: #363636;}
+h1, h2, h3, h4, h5, h6, b {color: #155724;}
 a {
-	color: #1b357c;
+	color: #155724;
 	text-decoration: none;
 }
 
+a:hover{color: #155724;}
 #site-footer {
 	font-size: 90%;
 	border-top: 1px solid #bbbbbbbb;
