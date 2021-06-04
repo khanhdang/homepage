@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Xin chào! Hi! こんにちは。
+title: Xin chào!  Hi! こんにちは！
 
 ---
 <img src="images/memcsoc19_sm.jpg" class="avatar" alt="Avatar">
 
 Hi, you are visiting my website and my name is **Khanh N. Dang** (family name: Dang, first name: Khanh, in Vietnamese: Đặng Nam Khánh). I am an *Assistant Professor* of VNU University of Engineering and Technology, Vietnam
 National University, Hanoi (VNU), Vietnam.
-I also work as a *Researcher* at the [VNU-key Laboratory of Smart Integrated Systems](http://sis.uet.vnu.edu.vn/).
 
 My current research topics are [neuromorphic computing, 3D Integrated Circuits, and fault-tolerant computing](./research).
 
