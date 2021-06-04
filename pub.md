@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Find below the links to each of the subsections:
+<!-- Find below the links to each of the subsections:
 
 
 <a role="button" href="" class="btn btn-success btn-sm">On-going stuffs</a>
@@ -13,7 +13,7 @@ Find below the links to each of the subsections:
 <a role="button" href="#bm4" class="btn btn-success btn-sm">Domestic journal papers </a>
 <a role="button" href="#bm5" class="btn btn-success btn-sm">Refereed conference papers</a>
 <a role="button" href="#bm7" class="btn btn-success btn-sm">Invited talks</a>
-<a role="button" href="#bm7" class="btn btn-success btn-sm">Thesis</a>
+<a role="button" href="#bm7" class="btn btn-success btn-sm">Thesis</a> -->
 
 
 ## On-going stuffs {#bm1}

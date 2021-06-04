@@ -7,6 +7,9 @@ title: Courses
 
 - INT2212: Computer Architecture, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5575)\].
 - ELT2401: Digital Electronics, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5856)\].
+  
+## Previous Courses
+  
 - ELT3071: Real-time Embedded Systems, VNU-UET, *Undergraduate*.
 - INT3409: Robotics Programming, VNU-UET, *Undergraduate*.
 

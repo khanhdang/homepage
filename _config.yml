@@ -22,11 +22,16 @@ header_pages:
   - research.md
   - pub.md
   - course.md
+  - service.md
+  - grant.md
   - contact.md
 
 paginate: 5
 
 markdown: kramdown
+
+kramdown:
+  parse_block_html: true
 
 exclude:
   - Gemfile

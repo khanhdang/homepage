@@ -13,7 +13,10 @@ My current research topics are [neuromorphic computing, 3D Integrated Circuits, 
 
 Feel free to explore and look around!
 
-
+<!-- <center>
+<a role="button" href="./about" class="btn btn-success">About me</a>
+<a role="button" href="./contact" class="btn btn-success">Contact</a>
+</center> -->
 ---
 
 ## News
