@@ -18,7 +18,6 @@ Find below the links to each of the subsections:
 
 ## On-going stuffs {#bm1}
 
-- *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **(under review)**.
 - *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*, **(under review)**.
 - *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **(under review)**.
 - *"Neuromorphic Computing Principles and Organization”*, **(under preparation)**.
@@ -39,7 +38,7 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 
 
 ## International journal papers {#bm4}
-
+1. Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **Frontiers in Neuroscience**, 2021, (accepted).
 1. Mark Ogbodo, **Khanh N. Dang**,  Abderazek Ben Abdallah,  *"On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning"*, **IEEE Access**, IEEE, Volume 9, pp 64331 - 64345, 2021. \[[DOI](https://doi.org/10.1109/ACCESS.2021.3071089)\]/\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395458)\].
 1. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, (in press). \[[DOI](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](http://khanhdang.github.io/share/TCAD-2021.pdf)\].
 1. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems"*, **IEEE Access**, IEEE, Volume 8, pp 166642-166657, 2020. \[[DOI](https://doi.org/10.1109/ACCESS.2020.3022904 )\]/\[[PDF](./share/09189765.pdf)\].
