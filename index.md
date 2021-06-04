@@ -12,10 +12,6 @@ My current research topics are [neuromorphic computing, 3D Integrated Circuits, 
 
 Feel free to explore and look around!
 
-<!-- <center>
-<a role="button" href="./about" class="btn btn-success">About me</a>
-<a role="button" href="./contact" class="btn btn-success">Contact</a>
-</center> -->
 ---
 
 ## News
@@ -41,7 +37,5 @@ Circuits and Systems. Access the paper [\[here\]](http://khanhdang.github.io/sha
 - **2018-12:** Our project has been funded by NAFOSTED under No. 102.01-2018.312 (2019 - 2021).
 - **2018-09:** Our project has been funded by VNU-UET under No. CN 19.10 (2018 - 2019).
 {: .alert .alert-success}
-
-<!-- [\[More news ≫\]](./news) -->
 
 
