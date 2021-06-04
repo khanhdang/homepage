@@ -4,6 +4,7 @@ $layout-color-syntax-highlighting-background: #f8f9fa !default;
 $layout-responsive-nav-cutoff: 992px !default;
 
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 
 body {
@@ -32,7 +33,7 @@ body {
 #nav-container {
   height: 3.5rem;
   // font-size: 1.2rem;
-  font-weight: 600;
+  font-weight: 400;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.2rem;
   }
@@ -128,29 +129,35 @@ body {
 
 h1 {
   font-size: 1.5rem;
-  font-weight: bold;
+  // font-weight: 500;
   // line-height: 1.0;
 }
 
 h2 {
   font-size: 1.35rem;
-  font-weight: bold;
+  // font-weight: 500;
   // line-height: 1.0;
 
 }
 
 h3 {
   font-size: 1.15rem;
-  font-weight: bold;
+  // font-weight: 500;
   // line-height: 1.0;
 
 }
 
 h4, h5, h6  {
   font-size: 1.10rem;
-  font-weight: bold;
+  // font-weight: 500;
   // line-height: 1.0;
 
+}
+
+
+h1, h2, h3, h4, h5, h6{
+  // font-family: "Roboto", Helvetica, sans-serif;
+  font-weight: 500;
 }
 
 // h1, h2, h3, h4, h5, h6, b {color: #155724;}
@@ -163,8 +170,12 @@ a:hover{color: #155724; }
 #site-footer {
 	font-size: 90%;
 	// border-top: 1px solid #bbbbbbbb;
+  border-top: 1px solid $layout-color-border !important;
+
 	padding-top: 0.1em;
-	margin-top: 4.0em;
+	margin-top: 2.0em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 	text-align: center;
 	color: #c0c0c0;
   // box-shadow: 0px 0px  6px  0px rgba(0,0,0,0.2);
