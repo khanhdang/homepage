@@ -3,22 +3,28 @@ layout: page
 title: Xin chào!  Hi! こんにちは！
 
 ---
-<img src="images/memcsoc19_sm.jpg" class="avatar" alt="Avatar">
+<img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
-Hi, you are visiting my website and my name is **Khanh N. Dang** (family name: Dang, first name: Khanh, in Vietnamese: Đặng Nam Khánh). I am an *Assistant Professor* of VNU University of Engineering and Technology, Vietnam
+Hi, my name is **Khanh N. Dang** (family name: Dang, first name: Khanh, in Vietnamese: Đặng Nam Khánh). I am an *Assistant Professor* of VNU University of Engineering and Technology, Vietnam
 National University, Hanoi (VNU), Vietnam.
 
 My current research topics are [neuromorphic computing, 3D Integrated Circuits, and fault-tolerant computing](./research).
 
 Feel free to explore and look around!
 
+
+
+## Contact
+- *Email:* [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn)
+- *Office:* Room 2.1, E4, Vietnam National University, Hanoi, 144 Xuan Thuy Rd., Cau Giay Distr., Hanoi, 123106, Vietnam  
+
 ---
 
 ## News
-- **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" is accepted for publication in the Frontiers in Neuroscience.
-- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been award **Best Student Paper Award** at UNet'21. More detail [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
+- **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the Frontiers in Neuroscience.
+- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at UNet'21. More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
 - **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
-Neuromorphic System with On-chip Learning" is accepted for publication in the IEEE Access. Access the paper
+Neuromorphic System with On-chip Learning" has been accepted for publication in the IEEE Access. Access the paper
 [\[here\]](https://doi.org/10.1109/ACCESS.2021.3071089).
 {: .alert .alert-success}
 View all news [\[here\]](./all_news)!

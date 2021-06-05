@@ -34,3 +34,12 @@ Current and previous projects can be found in the <a role="button" href="/resear
 - M.Sc. in Information Systems & Technology, University of Paris-XI, France,  2014
 - B.Sc. in Electronics & Telecommunications, VNU University of Engineering and Technology, Vietnam, 2011
 
+## Links
+
+- [ORCID](https://orcid.org/0000-0001-6702-3870)
+- [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) 
+- [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16)
+- [dblp](https://dblp.uni-trier.de/pid/184/5348.html)
+- [publon](https://publons.com/researcher/3564843)
+- [linkedin](https://www.linkedin.com/in/dnk0904/)
+- [csauthor](https://www.csauthors.net/khanh-n-dang/)

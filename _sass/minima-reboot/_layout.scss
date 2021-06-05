@@ -96,21 +96,27 @@ body {
   box-sizing: border-box;
   background-color: #DDD;
   float: right;
-  width: 150px;
-  // width: 14%;
-  top: 0.4rem;
-  bottom: 0.4rem;
+  width: 250px;
+  top: 1rem;
+  bottom: 1rem;
   margin-left: 1rem;
   margin-right: 1rem;
-  
+  transition: 0.5s all ease-in-out;
+
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
-    width: 150px;
     float: none;
     margin-left: auto;
     margin-right: auto;
   }
 }
 
+
+.avatar:hover {
+  transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    transform: rotate(120deg);
+  }
+}
 
 .icenter {
 	display: block;
@@ -121,6 +127,7 @@ body {
     width: 100%;
   }
 }
+
 
 h1 {
   font-size: 1.5rem;
@@ -199,6 +206,8 @@ a:hover{color: #155724; }
   padding: 0.75rem 2rem;
   font-size: 0.9em;
 }
+
+
 .alert-success {
   line-height: 1.8em;
   background-color: #eff5f1;
