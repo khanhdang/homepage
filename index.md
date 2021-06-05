@@ -5,10 +5,9 @@ title: Xin chào!  Hi! こんにちは！
 ---
 <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
-Hi, my name is **Khanh N. Dang** (family name: Dang, first name: Khanh, in Vietnamese: Đặng Nam Khánh). I am an *Assistant Professor* of VNU University of Engineering and Technology, Vietnam
-National University, Hanoi (VNU), Vietnam.
+Hi, my name is **Khanh N. Dang** (family name: Dang, first name: Khanh, in Vietnamese: Đặng Nam Khánh). I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/), Vietnam.
 
-My current research topics are [neuromorphic computing, 3D Integrated Circuits, and fault-tolerant computing](./research).
+My current research topics are [neuromorphic computing, 3D Integrated Circuits technology, genetic algorithm, and fault-tolerant computing](./research).
 
 Feel free to explore and look around!
 
@@ -16,7 +15,7 @@ Feel free to explore and look around!
 
 ## Contact
 - *Email:* [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn)
-- *Office:* Room 2.1, E4, Vietnam National University, Hanoi, 144 Xuan Thuy Rd., Cau Giay Distr., Hanoi, 123106, Vietnam  
+- *Office:* Room 2.1, E4, Vietnam National University, Hanoi, 144 Xuan Thuy Rd., Hanoi,  Vietnam  
 
 ---
 

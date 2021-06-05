@@ -9,15 +9,13 @@ title:  3D Silicon Brain Architecture
 <a role="button" href="/research_topics/ftnoc" class="btn btn-outline-success btn-sm">Fault-tolerant Network-on-Chip</a>
 <a role="button" href="/research_topics/h264" class="btn btn-outline-success btn-sm">H.264/AVC encoder</a>
 
-We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches.
+We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches. The hardware platform is based on Leaky-Integrate-and-Fire neuron with online STDP learning and possible off-line ANN-SNN conversion.
 
 {::nomarkdown}
 <img src="../images/3D-Silicon-Brain.svg" class="icenter" width=80%>
 {:/}
 
-We have developed a LIF neuron model with STDP learning. Neurons are clustered and placed in a node of a 3D-NoC system that supports both unicast and multicast communications.
-
-Furthermore, offline training has been investigating to deploy complex applications. We also plan to support the fault-tolerance feature for our 3D silicon brain.
+The hardware is based on CMOS technology with 3D-ICs using Through-Silicon-Vias. Neurons are grouped into clusters that connected via a 3D Network-on-Chip. Inter-layer wires are Through-Silicon-Vias.
 
 #### Selected publications:
 1. Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, Frontiers in Neuroscience, 2021 **(accepted)**.
