@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article>
+
+  <div class="row">
+    <!-- main content area -->
+    <div class="col-sm-9">
+      <header class="pt-4 pb-3">
+        <h1>{{ page.title | escape }}</h1>
+      </header>
+      <div id="content"data-spy="scroll" data-target="#toc" data-offset="0">
+        {{ content }}
+      </div>
+    </div>
+    <!-- sidebar, which will move to the top on a small screen -->
+    <div class="col-sm-3">
+      <nav id="toc" data-toggle="toc" class="sticky-top navbar nav-pills flex-column">
+        <div class="navbar-brand"> Table of contents</div>
+      {% include toc.html html=content class="nav-pills flex-column" %}
+      </nav>
+    </div>
+    
+  </div>
+  
+</article>

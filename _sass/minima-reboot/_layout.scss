@@ -10,6 +10,8 @@ $layout-responsive-nav-cutoff: 992px !default;
 body {
   background-color: $layout-color-background;
   font-family: "Inter", Helvetica, sans-serif;
+  position: relative;
+  overflow-y: scroll;
 }
 
 
