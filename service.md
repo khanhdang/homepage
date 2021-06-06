@@ -1,5 +1,5 @@
 ---
-layout: toc-page
+layout: page
 title: Service
 ---
 

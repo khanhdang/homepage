@@ -1,11 +1,11 @@
 ---
-layout: toc-page
+layout: page
 title: Publications
 ---
 
-<!-- Find below the links to each of the subsections: -->
+Find below the links to each of the subsections: 
 
-<!-- <div class="manual-sticky-top">
+<div class="manual-sticky-top">
 <a role="button" href="#bm1" class="btn btn-success btn-sm">On-going stuffs</a>
 <a role="button" href="#bm4" class="btn btn-success btn-sm">International journal papers</a>
 <a role="button" href="#bm6" class="btn btn-success btn-sm">Refereed conference papers</a>
@@ -13,8 +13,8 @@ title: Publications
 <a role="button" href="#bm7" class="btn btn-success btn-sm">Invited talks</a>
 <a role="button" href="#bm2" class="btn btn-success btn-sm">Patents</a>
 <a role="button" href="#bm3" class="btn btn-success btn-sm">Book chapters</a>
-<a role="button" href="#bm8" class="btn btn-success btn-sm">Thesis</a> -->
-<!-- </div> -->
+<a role="button" href="#bm8" class="btn btn-success btn-sm">Thesis</a> 
+</div>
 
 ## On-going stuffs {#bm1}
 
