@@ -21,7 +21,7 @@ Feel free to explore and look around!
 
 ## News
 - **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the Frontiers in Neuroscience.
-- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at UNet'21. More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
+- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at The 6th international symposium on Ubiquitous Networking (UNet'21). More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
 - **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
 Neuromorphic System with On-chip Learning" has been accepted for publication in the IEEE Access. Access the paper
 [\[here\]](https://doi.org/10.1109/ACCESS.2021.3071089).
