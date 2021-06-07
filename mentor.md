@@ -20,15 +20,16 @@ Current projects can be found in the <a role="button" href="/research" class="bt
 ### Class: Real-time Gaming System
 Designing a small game on Artix7 (AC701) with dual-core Microblazes (one controls HDMI, one mangages/renders the game). The game is programed based on FreeRTOS.
 
-    - Vivado: [github](https://github.com/RTES-Class/AC701-DualMB-System)
-    - Xilinx SDK: [github](https://github.com/RTES-Class/AC701-DualMB-SW)
-    - Project files: [2018-F](https://github.com/RTES-Class/2018-F)
+Links:
+- Vivado: [github](https://github.com/RTES-Class/AC701-DualMB-System)
+- Xilinx SDK: [github](https://github.com/RTES-Class/AC701-DualMB-SW)
+- Project files: [2018-F](https://github.com/RTES-Class/2018-F)
 
-- Demo 2018-F
-    - Group 1: [Snake](https://drive.google.com/file/d/1uZkBvTDHNSbFT-tfAENQ86unYBdqcJgl/view?usp=sharing)
-    - Group 2: [Flappy Bird](https://drive.google.com/file/d/1OdMkQBEir0JuAvuk1I-ZLmxk0Sj0BFdM/view?usp=sharing)
-    - Group 3: [Airplane](https://drive.google.com/file/d/1O8Ht5nEaUASd3VK9mCwQLhytarn-U6CL/view?usp=sharing)
-    - Group 4: [Flappy Bird](https://drive.google.com/file/d/1YDXlNxMK75T-LYxZtolcGM1UDFOYufem/view?usp=sharing)
+Demo 2018-F
+- Group 1: [Snake](https://drive.google.com/file/d/1uZkBvTDHNSbFT-tfAENQ86unYBdqcJgl/view?usp=sharing)
+- Group 2: [Flappy Bird](https://drive.google.com/file/d/1OdMkQBEir0JuAvuk1I-ZLmxk0Sj0BFdM/view?usp=sharing)
+- Group 3: [Airplane](https://drive.google.com/file/d/1O8Ht5nEaUASd3VK9mCwQLhytarn-U6CL/view?usp=sharing)
+- Group 4: [Flappy Bird](https://drive.google.com/file/d/1YDXlNxMK75T-LYxZtolcGM1UDFOYufem/view?usp=sharing)
 
 
 {::nomarkdown}
