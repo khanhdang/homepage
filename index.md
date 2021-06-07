@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Xin chào!  Hi! こんにちは！
-
+layout: home
+title: Khanh N. Dang
 ---
+## Xin chào!  Hi! こんにちは！
+
 <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
 Hi, my name is **Khanh N. Dang** (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥), in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン, in Chinese: 鄧南慶). I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/), Vietnam.
@@ -20,7 +21,7 @@ Feel free to explore and look around!
 
 ---
  I am open to potential collaboration or feedback on my works. Feel free to drop me an email. <br>
- Ambitious  students who want to work on Bachelor, Master or even Doctor theses are also welcomed! 
+ Ambitious  students who want to work on reseach are also welcomed! Topics are avaible [\[here\]](./mentor#gt).
 {: .alert .alert-warning  }
 
 ---

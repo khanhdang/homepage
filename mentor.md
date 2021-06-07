@@ -3,8 +3,23 @@ layout: page
 title: Mentoring
 ---
 
-## Class: Real-time Gaming System
-- Designing a small game on Artix7 (AC701) with dual-core Microblazes (one controls HDMI, one mangages/renders the game). The game is programed based on FreeRTOS.
+## Available GT topics {#gt}
+
+
+- Neurmorphic Computing
+- 3D Integrated Circuits
+- Optimzation for VLSI design
+
+Current projects can be found in the <a role="button" href="/research" class="btn btn-success btn-sm">research</a> page.
+
+
+---
+
+## Previous Student Project
+
+### Class: Real-time Gaming System
+Designing a small game on Artix7 (AC701) with dual-core Microblazes (one controls HDMI, one mangages/renders the game). The game is programed based on FreeRTOS.
+
     - Vivado: [github](https://github.com/RTES-Class/AC701-DualMB-System)
     - Xilinx SDK: [github](https://github.com/RTES-Class/AC701-DualMB-SW)
     - Project files: [2018-F](https://github.com/RTES-Class/2018-F)
@@ -22,11 +37,12 @@ title: Mentoring
 
 Screenshots of the projects.
 
-## Magic Spoon
+
+### Magic Spoon
 [Facebook news by IEEE CASS Malaysia!](https://www.facebook.com/ieee.cass.my/posts/443741972987477)
 
 {::nomarkdown}
-<img src="images/Student/MagicSpoon.PNG" class="icenter" width=70%>
+<img src="images/Student/MagicSpoon.PNG" class="icenter" width=50%>
 {:/}
 
 
