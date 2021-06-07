@@ -20,7 +20,7 @@ Feel free to explore and look around!
 
 ---
  I am open to potential collaboration or feedback on my works. Feel free to drop me an email. <br>
- Ambitious  students who want to work on Bachelor, Master or even Doctor theses are also welcome! 
+ Ambitious  students who want to work on Bachelor, Master or even Doctor theses are also welcomed! 
 {: .alert .alert-warning  }
 
 ---
