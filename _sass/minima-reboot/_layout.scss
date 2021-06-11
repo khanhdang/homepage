@@ -47,8 +47,10 @@ body {
     border-radius: .25rem;
     background-color: $layout-color-background;
   }
-  a {color: #363636;}
-  a:hover{ color: #237035; }
+  a {color: #363636; }
+  a:hover{ 
+    color: #237035;   
+  }
 
   
 }
@@ -187,6 +189,7 @@ a:hover{
   padding-bottom: 0.75em;
 	text-align: center;
 	color: #c0c0c0;
+  a {color: #c0c0c0; text-decoration: none; border-bottom: none;}
 
 }
 
@@ -216,7 +219,9 @@ a:hover{
   color: rgb(33, 33, 33);
 
 }
-.btn-sm{padding: 0.00rem .5rem;}
+.btn-sm{
+  padding: 0.00rem .5rem;
+}
 
 
 nav[data-toggle="toc"] {
