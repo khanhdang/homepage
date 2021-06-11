@@ -19,19 +19,19 @@ My current research topics are [neuromorphic computing, 3D Integrated Circuits t
 
 ---
  I am open to potential collaboration or feedback on my works. Feel free to drop me an email. <br>
- Ambitious  students who want to work on reseach are also welcomed! Topics are avaible [\[here\]](./mentor#gt).
+ Ambitious  students who want to work on reseach are also welcomed! Topics are avaible [here](./mentor#gt).
 {: .alert .alert-warning  }
 
 ---
 
 ## News
-- **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the Frontiers in Neuroscience.
-- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at The 6th international symposium on Ubiquitous Networking (UNet'21). More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
+- **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the Frontiers in Neuroscience. You can access the paper once it online [here](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208).
+- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at The 6th international symposium on Ubiquitous Networking (UNet'21). More details [here](./2021/05/22/Best_Paper_Award_Unet.html).
 - **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
 Neuromorphic System with On-chip Learning" has been accepted for publication in the IEEE Access. Access the paper
-[\[here\]](https://doi.org/10.1109/ACCESS.2021.3071089).
+[here](https://doi.org/10.1109/ACCESS.2021.3071089).
 {: .alert .alert-success}
-View all news [\[here\]](./all_news)!
+[View all news here](./all_news)!
 
 ---
 ## Latest publications
@@ -39,4 +39,4 @@ View all news [\[here\]](./all_news)!
 1. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, (in press). \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](http://khanhdang.github.io/share/TCAD-2021.pdf)\].
 1. Mark Ogbodo, **Khanh N. Dang**,  Abderazek Ben Abdallah,  *"On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning"*, **IEEE Access**, IEEE, Volume 9, pp 64331 - 64345, 2021. \[[DOI: 10.1109/ACCESS.2021.3071089](https://doi.org/10.1109/ACCESS.2021.3071089)\]/\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395458)\].
 {: .alert .alert-primary}
-View all publications [\[here\]](./pub)!
+[View all publications here](./pub)!
