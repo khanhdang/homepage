@@ -6,12 +6,10 @@ title: Khanh N. Dang
 
 <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
-Hi, my name is **Khanh N. Dang** (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥), in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン, in Chinese: 鄧南慶). I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/), Vietnam.
+Hi, my name is **Khanh N. Dang** (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥), in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン, in Chinese: 鄧南慶). 
+I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/), Vietnam.
 
 My current research topics are [neuromorphic computing, 3D Integrated Circuits technology, genetic algorithm, and fault-tolerant computing](./research).
-
-Feel free to explore and look around!
-
 
 
 ## Contact

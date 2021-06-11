@@ -34,6 +34,11 @@ Current and previous projects can be found in the <a role="button" href="/resear
 - M.Sc. in Information Systems & Technology, University of Paris-XI, France,  2014
 - B.Sc. in Electronics & Telecommunications, VNU University of Engineering and Technology, Vietnam, 2011
 
+## Contact
+- *Email:* [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn)
+- *Office:* Room 2.1, E4, Vietnam National University, Hanoi, 144 Xuan Thuy Rd., Hanoi,  Vietnam  
+
+
 ## Links
 
 - [ORCID](https://orcid.org/0000-0001-6702-3870)
