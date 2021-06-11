@@ -19,7 +19,7 @@ Khanh N. Dang received his Ph.D. degree from The University of Aizu, Japan in 20
 - Neuromorphic Computing
 - Machine Learning
 
-Current and previous projects can be found in the <a role="button" href="/research" class="btn btn-success btn-sm">research</a> page.
+Current and previous projects can be found in the [research](./research) page.
 
 
 ## Professional Experience

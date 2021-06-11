@@ -5,16 +5,16 @@ title: Research
 
 ## Current research topics
 
-- 3D Silicon Brain Architecture: <a role="button" href="./research_topics/neuromorphic" class="btn btn-success btn-sm">More details</a>
-- Machine learning for Computer-Aided Design: <a role="button" href="./research_topics/mlcad" class="btn btn-success btn-sm">More details</a>
-- Thermal-aware 3D interconnect design: <a role="button" href="./research_topics/thermal3DICs" class="btn btn-success btn-sm">More details</a>
+### 3D Silicon Brain Architecture: [>> more detail](./research_topics/neuromorphic)
+### Machine learning for Computer-Aided Design: [>> more detail](./research_topics/mlcad)
+### Thermal-aware 3D interconnect design: [>> more detail](./research_topics/thermal3DICs)
 
 ---
 
 ## Old research topics
 
-- Fault-tolerant Network-on-Chip architecture <a role="button" href="./research_topics/ftnoc" class="btn btn-success btn-sm">More details</a>
-- Full hardware H.264/AVC encoder <a role="button" href="./research_topics/h264" class="btn btn-success btn-sm">More details</a>
+### Fault-tolerant Network-on-Chip architecture: [>> more detail](./research_topics/ftnoc)
+### Full hardware H.264/AVC encoder: [>> more detail](./research_topics/h264)
 
 ---
 

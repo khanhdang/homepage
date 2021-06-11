@@ -17,7 +17,7 @@ body {
 
 
 #nav-header {
-  border-top: 0px solid !important;
+
   a {text-decoration: none; border-bottom: none;}
   a:hover{text-decoration: none; }
 }
@@ -203,7 +203,7 @@ a:hover{
 
 .alert {
   padding: 0.75rem 2rem;
-  font-size: 0.96em;
+  // font-size: 0.98em;
 }
 
 
@@ -228,11 +228,12 @@ nav[data-toggle="toc"] {
   top: 80px;
 }
 /* small screens */
-@media (max-width: 768px) {
+@media ( max-width: $layout-responsive-nav-cutoff - 1) {
   /* override stickyness so that the navigation does not follow scrolling */
   nav[data-toggle="toc"] {
     margin-bottom: 42px;
     position: static;
+    // display: none;
   }
 
   /* PICK ONE */
