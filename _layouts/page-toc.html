@@ -5,7 +5,7 @@ layout: default
 
   <div class="row">
     <!-- main content area -->
-    <div class="col-sm-9">
+    <div class="col-lg-9">
       <header class="pt-4 pb-3">
         <h1>{{ page.title | escape }}</h1>
       </header>
@@ -14,7 +14,7 @@ layout: default
       </div>
     </div>
     <!-- sidebar, which will move to the top on a small screen -->
-    <div class="col-sm-3">
+    <div class="col-lg-3 d-none d-lg-block">
       <nav id="toc" data-toggle="toc" class="sticky-top navbar nav-pills flex-column">
         <div class="navbar-brand"> Table of contents</div>
       {% include toc.html html=content class="nav-pills flex-column" %}
