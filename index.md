@@ -38,3 +38,10 @@ Reliable 3-D ICs systems" is accepted for publication in the **IEEE Transactions
 Circuits and Systems**. Access the paper [here](./share/TCAD-2021.pdf).
 {: .alert .alert-success}
 [View all news here](./all_news)!
+
+
+
+The website is developed on Jekyll with Bootstrap 4.
+The original them is minima-reboot by aterenin at github. I did change the template to fit my taste.
+These lines are encoder with code 39. You can decode them or can just see the html source.
+{: .code39}
