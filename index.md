@@ -6,10 +6,10 @@ title: Khanh N. Dang
 
 <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
-Hi, my name is **Khanh N. Dang** (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥), in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン, in Chinese: 鄧南慶). 
+Hi, my name is **Khanh N. Dang** (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥), in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン). 
 
 
-I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/), Vietnam.
+I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/), Vietnam. I also a researcher at [VNU Key Laboratory for Smart Integrated Systems](http://sis.uet.vnu.edu.vn/en) - one of the 7 key laboratories of Vietnam National University, Hanoi..
 
 
 In the past, I worked on hardware architecture for H.264/AVC video encoder and fault-tolerant Network-on-Chip. My current research topics are [(1) neuromorphic computing](./research), [(2) 3D Integrated Circuits technology](./research), [(3) Machine Learning for CAD](./research), and [(4) fault-tolerant computing](./research).
@@ -21,10 +21,6 @@ Please feel free to look around!
 - *Office:* Room 2.1, E4 Building, Vietnam National University, Hanoi, 144 Xuan Thuy Rd., Hanoi,  Vietnam   -->
 
 
----
- I am open to potential collaboration or feedback on my works. Feel free to drop me an email. <br>
- Ambitious  students who want to work on reseach are also welcomed! Topics are avaible [here](./mentor#gt).
-{: .alert .alert-warning  }
 
 ---
 
