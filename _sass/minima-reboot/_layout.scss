@@ -135,6 +135,15 @@ body {
   }
 }
 
+.page-title{
+  text-align: center;
+  color: #237035;
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    text-align: left;
+
+  }
+}
+
 
 h1 {
   font-size: 1.5rem;
