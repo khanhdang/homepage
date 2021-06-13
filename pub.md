@@ -13,6 +13,20 @@ title: Publications
 - *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **(under review)**.
 - *"Neuromorphic Computing Principles and Organization”*, **(under preparation)**.
 
+## Patents {#bm2}
+1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed).
+1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*, 特願2020-171553, Japan patent, (patent filed).
+1. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
+1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"A TSV fault-tolerant router system for 3D-Networks-on-Chip"*, 特願 2017-218953,
+JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent/JP2019092020A/en)\].
+{: reversed="reversed"}
+
+
+## Book chapters {#bm3}
+
+1. Xuan-Tu Tran, **Khanh N. Dang**, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\].
+1. **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
+{: reversed="reversed"}
 
 
 ## Journal papers {#bm4}
@@ -25,10 +39,6 @@ title: Publications
 7. **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, *"Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"*, **IEEE Transactions on Emerging Topics in Computing (TETC)**, IEEE, Volume 8, Issue 3, pp 577-590, 2020. \[[DOI: 10.1109/TETC.2017.2762407](https://doi.org/10.1109/TETC.2017.2762407)\]/\[[PDF](./share/pubs/TETC-2017.pdf)\].
 8. **Khanh N. Dang**, Akram Ben Ahmed, Xuan-Tu Tran, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Comprehensive Reliability Assessment of Fault-Resilient Network-on-Chip Using Analytical Model"*, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, IEEE, Volume 25, Issue 11, pp 3099-3112, 2017. \[[DOI: 10.1109/TVLSI.2017.2736004](https://doi.org/10.1109/TVLSI.2017.2736004)\]/\[[PDF](./share/pubs/TVLSI-2017.pdf)\].
 9. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp 2705–2729, 2017. \[[DOI: 10.1007/s11227-016-1951-0](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](./share/pubs/SUPE-2017.pdf)\].
-10. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245](http://dx.doi.org/10.25073/2588-1086/vnucsce.245)\]/\[[PDF](./share/pubs/VNU-2020.pdf)\].
-1. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI:10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]/\[[PDF](./share/pubs/JEC-2020.pdf)\].
-1. **Khanh N. Dang** and Xuan-Tu Tran, *"An adaptive and high coding rate soft error correction method in Network-on-Chips"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 35, No 1, pp 32-45, 2019. \[[DOI:10.25073/2588-1086/vnucsce.218](https://doi.org/10.25073/2588-1086/vnucsce.218)\]/\[[PDF](./share/pubs/VNU-2019.pdf)\].
-1. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI:10.21553/rev-jec.72](http://dx.doi.org/10.21553/rev-jec.72)\]/\[[PDF](./share/pubs/JEC-2014.pdf)\].
 {: reversed="reversed"}
 
 ## Conference papers {#bm6}
@@ -66,27 +76,14 @@ title: Publications
 4. **Khanh N. Dang**, *"Fault-Tolerant Architectures and Algorithms for 3D-Network-on-Chips"*, **The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, Hanoi, Vietnam, 2017. \[[SLIDE](./share/pubs/SEACAS-2017.pdf)\].
 {: reversed="reversed"}
 
-<!-- ## Vietnamese J. papers {#bm5}
+## Domestical J. papers {#bm5}
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp 65-77, 2020. \[[LINK](http://www.jcsce.vnu.edu.vn/index.php/jcsce/article/view/245)\].
 1. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[LINK](http://dx.doi.org/10.21553/rev-jec.242)\].
 1. **Khanh N. Dang** and Xuan-Tu Tran, *"An adaptive and high coding rate soft error correction method in Network-on-Chips"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 35, No 1, pp 32-45, 2019. \[[LINK(https://doi.org/10.25073/2588-1086/vnucsce.218)\].
 1. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[LINK](http://dx.doi.org/10.21553/rev-jec.72)\].
-{: reversed="reversed"} -->
-
-## Patents {#bm2}
-1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed).
-1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*, 特願2020-171553, Japan patent, (patent filed).
-1. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
-1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"A TSV fault-tolerant router system for 3D-Networks-on-Chip"*, 特願 2017-218953,
-JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent/JP2019092020A/en)\].
-
-
-## Book chapters {#bm3}
-
-1. Xuan-Tu Tran, **Khanh N. Dang**, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\].
-1. **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
+
 
 
 
