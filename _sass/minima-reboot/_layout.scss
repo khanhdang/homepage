@@ -53,9 +53,9 @@ body {
     border-radius: .25rem;
     background-color: $layout-color-background;
   }
-  a {color: #237035; }
+  a {color: #155724;  }
   a:hover{ 
-    color: #155724;   
+    color: #237035;  
   }
 
   
@@ -145,7 +145,7 @@ body {
   padding-top: 1rem;
   padding-bottom: 0.6rem;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: capitalize;
   // border-bottom:  0.5px solid #297c3d;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     text-align: left;

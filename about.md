@@ -23,16 +23,16 @@ Current and previous projects can be found in the [research](./research) page.
 
 
 ## Professional Experience
-- *Assistant Professor*, VNU University of Engineering and Technology, Vietnam National University, Hanoi, 2017 - present
-- *Visiting Researcher*, The University of Aizu, 2020 November - 2021 March
-- *Visiting Researcher*, The University of Aizu, 2019 May - 2019 September
-- *Researcher*, SISLAB, Vietnam National University, Hanoi, 2011-2014
-- *RTL Designer*, Dolphin Vietnam Inc., 2010-2011
+- *Assistant Professor*, **VNU University of Engineering and Technology, Vietnam National University, Hanoi**, 2017 - present
+- *Visiting Researcher*, **The University of Aizu**, 2020 November - 2021 March
+- *Visiting Researcher*, **The University of Aizu**, 2019 May - 2019 September
+- *Researcher*, SISLAB, **Vietnam National University, Hanoi**, 2011-2014
+- *RTL Designer*, **Dolphin Vietnam Inc.**, 2010-2011
 
 ## Education
-- Ph.D. in Computer Science and Engineering, The University of Aizu, Japan, 2017
-- M.Sc. in Information Systems & Technology, University of Paris-XI, France,  2014
-- B.Sc. in Electronics & Telecommunications, VNU University of Engineering and Technology, Vietnam, 2011
+- Ph.D. in *Computer Science and Engineering*, **The University of Aizu**, Japan, 2017
+- M.Sc. in *Information Systems & Technology*, **University of Paris-XI, France**,  2014
+- B.Sc. in *Electronics & Telecommunications*, **VNU University of Engineering and Technology, Vietnam**, 2011
 
 ## Academic Services
 
