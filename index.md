@@ -37,3 +37,5 @@ Circuits and Systems**. Access the paper [here](./share/TCAD-2021.pdf).
 [>>View all news here !](./all_news)
 
 
+Build on Jekyll with minima + bootstrap4. The website is now mobile friendly.
+{: .code39}

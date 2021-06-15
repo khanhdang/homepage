@@ -11,12 +11,10 @@ Khanh N. Dang received his Ph.D. degree from The University of Aizu, Japan in 20
 ## Research Interests
 
 
-- System-on-Chips (SoCs)
-- Network-on-Chips (NoCs)
-- Three Dimensional Integrated Circuits (3D-ICs)
-- Systems Reliability
-- Error Correction Codes
+- System-on-Chips (SoCs)/Network-on-Chips (NoCs)
 - Neuromorphic Computing
+- Three Dimensional Integrated Circuits (3D-ICs)
+- Fault-tolerant Computing
 - Machine Learning
 
 Current and previous projects can be found in the [research](./research) page.
@@ -34,9 +32,6 @@ Current and previous projects can be found in the [research](./research) page.
 - M.Sc. in *Information Systems & Technology*, **University of Paris-XI, France**,  2014
 - B.Sc. in *Electronics & Telecommunications*, **VNU University of Engineering and Technology, Vietnam**, 2011
 
-## Academic Services
-
-For my academic services, please visit the [service](./service) page.
 
 
 
