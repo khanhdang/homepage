@@ -15,7 +15,7 @@ I am an *Assistant Professor* of [VNU University of Engineering and Technology (
 ---
 
 ## News
-- **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the **Frontiers in Neuroscience**. The paper present R-NASH - our high reliable neuromorphic system in 3D-ICs. You can access the paper once it online [here](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208).
+- **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the **Frontiers in Neuroscience**. The paper presents R-NASH - our latest neuromorphic system in 3D-ICs. You can access the paper once it online [here](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208).
 - **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at The 6th international symposium on Ubiquitous Networking (UNet'21). More details [here](./2021/05/22/Best_Paper_Award_Unet.html).
 - **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
 Neuromorphic System with On-chip Learning" has been accepted for publication in the **IEEE Access**. Access the paper
