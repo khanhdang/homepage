@@ -28,7 +28,7 @@ Current and previous projects can be found in the [research](./research) page.
 - *RTL Designer*, **Dolphin Vietnam Inc.**, 2010-2011
 
 ## Education
-- Ph.D. in *Computer Science and Engineering*, **The University of Aizu**, Japan, 2017
+- Ph.D. in *Computer Science and Engineering*, **The University of Aizu, Japan**, 2017
 - M.Sc. in *Information Systems & Technology*, **University of Paris-XI, France**,  2014
 - B.Sc. in *Electronics & Telecommunications*, **VNU University of Engineering and Technology, Vietnam**, 2011
 
