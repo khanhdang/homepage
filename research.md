@@ -1,16 +1,16 @@
 ---
-layout: page
+layout: page-toc
 title: Research
 ---
 ## Research topics
-### Current research topics
+### Current  topics
 
 - 3D Silicon Brain Architecture: [>> more detail](./research_topics/neuromorphic)
 - Machine learning for Computer-Aided Design: [>> more detail](./research_topics/mlcad)
 - Thermal-aware 3D interconnect design: [>> more detail](./research_topics/thermal3DICs)
 
 
-### Old research topics
+### Previous topics
 
 - Fault-tolerant Network-on-Chip architecture: [>> more detail](./research_topics/ftnoc)
 - Full hardware H.264/AVC encoder: [>> more detail](./research_topics/h264)

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Service
 ---
 
@@ -42,7 +42,7 @@ title: Service
 
 
 
-## Social activities & volunteer
+## Social activities
 
 - [Halloween at Nisshin Elementary School (2014)](https://www.u-aizu.ac.jp/osip/en/information/kokusai94-j.html)
 - [Kumamachi and Ohno Elementary School (2014)](https://www.u-aizu.ac.jp/osip/en/information/kokusai95-j.html)
