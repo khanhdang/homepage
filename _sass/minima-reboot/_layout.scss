@@ -106,12 +106,12 @@ body {
   border-radius: 50%;
   box-sizing: border-box;
   background-color: #DDD;
-  float: right;
+  float: center;
   width: 250px;
   top: 1rem;
   bottom: 1rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
   transition: 0.5s all ease-in-out;
 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
