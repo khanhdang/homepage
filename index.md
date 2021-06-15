@@ -36,7 +36,7 @@ Circuits and Systems**. Access the paper [here](./share/TCAD-2021.pdf).
 
 ---
 
-## Highlighted publications
+## Latest publications
 - Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **Frontiers in Neuroscience**, 2021, <a role="button" href="https://www.frontiersin.org/articles/10.3389/fnins.2021.690208" class="btn btn-success btn-sm">in press</a>. \[[LINK](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208)\].
 - **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, <a role="button" href="https://doi.org/10.1109/TCAD.2021.3069370" class="btn btn-success btn-sm">in press</a>. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
 - **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, *"Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"*, **IEEE Transactions on Emerging Topics in Computing (TETC)**, IEEE, Volume 8, Issue 3, pp 577-590, 2020. \[[DOI: 10.1109/TETC.2017.2762407](https://doi.org/10.1109/TETC.2017.2762407)\]/\[[PDF](./share/pubs/TETC-2017.pdf)\].
