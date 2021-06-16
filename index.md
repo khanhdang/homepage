@@ -3,9 +3,11 @@ layout: home
 title: Khanh N. Dang
 ---
 
+# Xin chào!  Hi! こんにちは！
+
 <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
-Xin chào!  Hi! こんにちは！ You are visiting my website. My name is **Khanh N. Dang**.
+Hi! You are visiting my website. My name is **Khanh N. Dang**.
 I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/). My current research topics are brain-inspired computing and fault-tolerance for integrated circuits.
 
 [>> About me](./about)
