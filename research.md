@@ -5,9 +5,9 @@ title: Research
 ## Research topics
 ### Current  topics
 
-- 3D Silicon Brain Architecture: [>> more detail](./research_topics/neuromorphic)
+- Neuromorphic Computing: [>> more detail](./research_topics/neuromorphic)
 - Machine learning for Computer-Aided Design: [>> more detail](./research_topics/mlcad)
-- Thermal-aware 3D interconnect design: [>> more detail](./research_topics/thermal3DICs)
+- Thermal-aware 3D-ICs: [>> more detail](./research_topics/thermal3DICs)
 
 
 ### Previous topics

@@ -1,22 +1,27 @@
 ---
 layout: page
-title: Thermal-aware 3D interconnect design
+title: Thermal-aware 3D-ICs
 ---
 <a role="button" href="/research" class="btn btn-outline-success btn-sm">Back to research</a>
-<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">3D Silicon Brain</a>
+<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">Neuromorphic Computing</a>
 <a role="button" href="/research_topics/mlcad" class="btn btn-outline-success btn-sm">Machine Learning CAD</a>
 <a role="button" href="/research_topics/thermal3DICs" class="btn btn-success btn-sm">Thermal-aware 3D-ICs</a>
 <a role="button" href="/research_topics/ftnoc" class="btn btn-outline-success btn-sm">Fault-tolerant Network-on-Chip</a>
 <a role="button" href="/research_topics/h264" class="btn btn-outline-success btn-sm">H.264/AVC encoder</a>
 
-We target to develop algorithms and architectures to solve the on-line defect on 3D-interconnect with awareness of thermal impact.
-{::nomarkdown}
-<img src="../images/Thermal_Acc.svg" class="icenter" width=65% >
-{:/}
-*Caption:* Normalized thermal acceleration for lifetime reliability of TSV (Cooper) with academics (RAMP, Black, and Arrherius), industry (HDR4) and military (MIL-HDBK-217F) model.
-The fault rates are normalized to 343.15K (70C).
+As thermal dissipation is one of the most critical challenges for stacking 3D-ICs and the Mean Time to Failure (MTTF) decreases exponentially with the operating temperature as in Black’s mode. In this research, we target to develop algorithms and architectures to solve the lifetime reliability of 3D-ICs with awareness of thermal impact.
 
-Funded by NAFOSTED under No. 102.01-2018.312 (2019-2021). I am the main PI of the project.
+{::nomarkdown}
+<img src="../images/Normalized_Black_model.PNG" class="icenter" width=40% >
+{:/}
+Normalized thermal acceleration for lifetime reliability of CMOS and Copper with the Black's model. The fault rates are normalized to 343.15K (70°C).
+In  in 80°C, the fault rates are 2x and 3x of 70°C for CMOS and Copper, respectively.
+
+{::nomarkdown}
+<img src="../images/HotCluster.png" class="icenter" width=80% >
+{:/}
+The HotCluster platform to predict the fault rate and to place spare modules. Details in [here](https://doi.org/10.1109/TCAD.2021.3069370).
+
 
 
 Selected publications:

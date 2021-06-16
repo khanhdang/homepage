@@ -3,7 +3,7 @@ layout: page
 title: Fault-tolerant Network-on-Chip architecture
 ---
 <a role="button" href="/research" class="btn btn-outline-success btn-sm">Back to research</a>
-<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">3D Silicon Brain</a>
+<a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">Neuromorphic Computing</a>
 <a role="button" href="/research_topics/mlcad" class="btn btn-outline-success btn-sm">Machine Learning CAD</a>
 <a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-success btn-sm">Thermal-aware 3D-ICs</a>
 <a role="button" href="/research_topics/ftnoc" class="btn btn-success btn-sm">Fault-tolerant Network-on-Chip</a>
