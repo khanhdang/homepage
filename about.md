@@ -8,7 +8,7 @@ title: About
 [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), <br> 
 [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/) <br> 
 Room 2.1, E4, Vietnam National University, Hanoi, <br>
-144 Xuan Thuy Rd., Hanoi,  Vietnam  <br>
+144 Xuan Thuy Rd., Hanoi,  Vietnam  [\[map\]](https://goo.gl/maps/UZQVW4WS47aPM4ue9)<br>
 Email: [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn) <br>
 Tel.: +84-24-3754 9664 (office)
  

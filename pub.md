@@ -9,9 +9,9 @@ title: Publications
 
 ## Under preparation 
 
-- *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*, **(under major revision)**.
-- *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **(under review)**.
-- *"Neuromorphic Computing Principles and Organization”*, **(under preparation)**.
+- *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*, <button type="button" class="btn-sm btn-warning">under major revision</button>
+- *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, <button type="button" class="btn-sm btn-warning">under review</button>
+- *"Neuromorphic Computing Principles and Organization”*, <button type="button" class="btn-sm btn-warning">under preparation</button>
 
 ## Patents 
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed).
@@ -31,8 +31,8 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 
 ## Int. journal papers {#bm4}
 
-1. Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **Frontiers in Neuroscience**, 2021, <a role="button" href="https://www.frontiersin.org/articles/10.3389/fnins.2021.690208" class="btn btn-success btn-sm">in press</a>. \[[LINK](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208)\].
-2. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, <a role="button" href="https://doi.org/10.1109/TCAD.2021.3069370" class="btn btn-success btn-sm">in press</a>. \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
+1. Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **Frontiers in Neuroscience**, 2021, <a role="button" href="https://www.frontiersin.org/articles/10.3389/fnins.2021.690208" class="btn btn-success btn-sm">in press</a> \[[LINK](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208)\].
+2. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, <a role="button" href="https://doi.org/10.1109/TCAD.2021.3069370" class="btn btn-success btn-sm">in press</a> \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
 3. Mark Ogbodo, **Khanh N. Dang**,  Abderazek Ben Abdallah,  *"On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning"*, **IEEE Access**, IEEE, Volume 9, pp 64331 - 64345, 2021. \[[DOI: 10.1109/ACCESS.2021.3071089](https://doi.org/10.1109/ACCESS.2021.3071089)\]/\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395458)\].
 4. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"A thermal-aware on-line fault tolerance method for TSV lifetime reliability in 3D-NoC systems"*, **IEEE Access**, IEEE, Volume 8, pp 166642-166657, 2020. \[[DOI: 10.1109/ACCESS.2020.3022904](https://doi.org/10.1109/ACCESS.2020.3022904 )\]/\[[PDF](./share/pubs/09189765.pdf)\].
 5. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"*, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, IEEE, Volume 28, Issue 3, pp 672 - 685, 2020. \[[DOI: 10.1109/TVLSI.2019.2948878](https://doi.org/10.1109/TVLSI.2019.2948878)\]/\[[PDF](./share/pubs/TVLSI-2019.pdf)\].
