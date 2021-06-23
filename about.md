@@ -26,7 +26,7 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - Neuromorphic Computing (brain-inspired computing)
 - Three Dimensional Integrated Circuits (3D-ICs)
 - Fault-tolerant Computing
-- Machine Learning
+- Machine Learning for Computer-Aided Design
 
 Current and previous projects can be found in the [research](./research) page.
 

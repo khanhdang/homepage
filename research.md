@@ -7,11 +7,11 @@ title: Research
 
 - Neuromorphic Computing: [>> more detail](./research_topics/neuromorphic)
 - Machine learning for Computer-Aided Design: [>> more detail](./research_topics/mlcad)
-- Thermal-aware 3D-ICs: [>> more detail](./research_topics/thermal3DICs)
 
 
 ### Previous topics
 
+- Thermal-aware 3D-ICs: [>> more detail](./research_topics/thermal3DICs)
 - Fault-tolerant Network-on-Chip architecture: [>> more detail](./research_topics/ftnoc)
 - Full hardware H.264/AVC encoder: [>> more detail](./research_topics/h264)
 
@@ -27,7 +27,7 @@ title: Research
 ---
 
 ## Research Grants
-1. *"Thermal-aware fault-tolerance Through-Silicon-Via based 3D interconnect"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021)
+1. *"Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021)
 1. *"Soft Error Resilient Architecture and Algorithm for Network-on-Chip"* : main PI, funded by **VNU University of Engineering and Technology (VNU-UET)** under project *No. CN18.10* (2018-2019)
 1. *"Development of IoT Dual Band Transmitters for Agriculture (IOTA)"*, core member, funded by the **Ministry of Science and Technology (World Bank project)** (2018-2019).
 1. *"Reconfiguration Solution in Designing Network-on-Chip Architectures "*, core member, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2013.17* (2014-2016).
