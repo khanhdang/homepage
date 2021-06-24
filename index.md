@@ -8,7 +8,7 @@ title: Khanh N. Dang
 <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
 Hi! You are visiting my website. My name is **Khanh N. Dang**.
-I am an *Assistant Professor* of [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/). My current research topics are *neuromorphic computing* and *machine learning for CAD*.
+I am an *Assistant Professor* of [VNU-UET](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/).
 
 [>> About me](./about)
 

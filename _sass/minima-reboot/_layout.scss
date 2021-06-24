@@ -19,12 +19,12 @@ body {
 #nav-header {
   a {text-decoration: none; border-bottom: none;}
   a:hover{text-decoration: none;}
-  box-shadow: 0px 0px 6px 0px rgba(0,0,0,.2);;
-
+  // box-shadow: 0px 0px 6px 0px rgba(0,0,0,.2);;
+  border-bottom: 1px solid $layout-color-border !important;
 }
 
 #nav-site-title {
-  font-weight: 900;
+  font-weight: 600;
   
 }
 
@@ -53,9 +53,9 @@ body {
     border-radius: .25rem;
     background-color: $layout-color-background;
   }
-  a {color: #155724;  }
+  a {color: #10411b;  }
   a:hover{ 
-    color: #237035;  
+    color: #2f9146;  
   }
 
   
@@ -141,10 +141,10 @@ body {
 
 .page-title{
   text-align: center;
-  color: #237035;
+  color: #10411b;
   padding-top: 1rem;
   padding-bottom: 0.6rem;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: capitalize;
   // border-bottom:  0.5px solid #297c3d;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -190,16 +190,16 @@ h2:before{
 
 
 a {
-	color: #297c3d;
+	color: #10411b;
 	// text-decoration: underline 1px;
   text-decoration: none;
-  border-bottom: 1px solid #297c3d;
+  border-bottom: 1px solid #10411b;
 }
 
 a:hover{
   text-decoration: none;
-  color: #155724; 
-  border-bottom: 2px solid #297c3d;
+  color: #2f9146; 
+  border-bottom: 2px solid #2f9146;
 }
 #site-footer {
 
