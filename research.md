@@ -6,7 +6,7 @@ title: Research
 ### Current  topics
 
 - Neuromorphic Computing: [>> more detail](./research_topics/neuromorphic)
-- Machine learning for Computer-Aided Design: [>> more detail](./research_topics/mlcad)
+- AI for Computer-Aided Design: [>> more detail](./research_topics/mlcad)
 
 
 ### Previous topics

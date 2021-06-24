@@ -4,7 +4,7 @@ title: Thermal-aware 3D-ICs
 ---
 <a role="button" href="/research" class="btn btn-outline-success btn-sm">Back to research</a>
 <a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">Neuromorphic Computing</a>
-<a role="button" href="/research_topics/mlcad" class="btn btn-outline-success btn-sm">Machine Learning CAD</a>
+<a role="button" href="/research_topics/mlcad" class="btn btn-outline-success btn-sm">AI for CAD</a>
 <a role="button" href="/research_topics/thermal3DICs" class="btn btn-success btn-sm">Thermal-aware 3D-ICs</a>
 <a role="button" href="/research_topics/ftnoc" class="btn btn-outline-success btn-sm">Fault-tolerant Network-on-Chip</a>
 <a role="button" href="/research_topics/h264" class="btn btn-outline-success btn-sm">H.264/AVC encoder</a>

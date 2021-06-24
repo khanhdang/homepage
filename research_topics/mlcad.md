@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Machine learning for Computer-Aided Design
+title: AI for Computer-Aided Design
 ---
 <a role="button" href="/research" class="btn btn-outline-success btn-sm">Back to research</a>
 <a role="button" href="/research_topics/neuromorphic" class="btn btn-outline-success btn-sm">Neuromorphic Computing</a>
-<a role="button" href="/research_topics/mlcad" class="btn btn-success btn-sm">Machine Learning CAD</a>
+<a role="button" href="/research_topics/mlcad" class="btn btn-success btn-sm">AI for CAD</a>
 <a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-success btn-sm">Thermal-aware 3D-ICs</a>
 <a role="button" href="/research_topics/ftnoc" class="btn btn-outline-success btn-sm">Fault-tolerant Network-on-Chip</a>
 <a role="button" href="/research_topics/h264" class="btn btn-outline-success btn-sm">H.264/AVC encoder</a>
 
-We target to develop a machine learning framework for fault recovery in parallel and distributed systems.  A faulty computing element's task can be migrated to other nodes to allow fault-tolerance computing.
+We target to develop an AI framework for fault recovery in parallel and distributed systems.  A faulty computing element's task can be migrated to other nodes to allow fault-tolerance computing.
 
 {::nomarkdown}
 <img src="../images/MFMC.svg" class="icenter" width=100%>
