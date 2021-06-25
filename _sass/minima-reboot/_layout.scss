@@ -122,7 +122,7 @@ body {
 }
 
 .scroll-new {
-  height:400px;
+  height : 500px;
   overflow-y: scroll;
 }
 
@@ -253,6 +253,7 @@ a:hover{
 
 nav[data-toggle="toc"] {
   top: 80px;
+  border-left: 1px solid $layout-color-border !important;
 }
 /* small screens */
 @media ( max-width: $layout-responsive-nav-cutoff - 1) {
