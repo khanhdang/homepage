@@ -9,7 +9,6 @@ title: Khanh N. Dang
 
 Hi! You are visiting my website. My name is **Khanh N. Dang**.
 I am an *Assistant Professor* of [VNU-UET](https://e.uet.vnu.edu.vn/), [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/).
-
 My research topics are [neuromorphic computing](./research), [3D Integrated Circuits technology](./research), [Artificial Intelligence  for CAD](./research), and [fault-tolerant computing](./research).
 
 [>> About me](./about)
