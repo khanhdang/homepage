@@ -140,9 +140,12 @@ body {
 //   border-radius: 10px;
 //   background: #6d6d6d; 
 // }
-
+::-webkit-scrollbar {
+  display: none;
+}
 .scroll-news::-webkit-scrollbar {
   width: 5px;
+  display: initial;
 }
 .scroll-news::-webkit-scrollbar-track {
   background-color: #ebebeb;
