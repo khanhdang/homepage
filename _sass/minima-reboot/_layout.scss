@@ -121,8 +121,9 @@ body {
   }
 }
 
+
 .scroll-news {
-  height : 700px;
+  height : 750px;
   overflow-y: scroll;
 }
 
@@ -228,16 +229,16 @@ h2:before{
 
 
 a {
-	color: #10411b;
+	color: #121212;
 	// text-decoration: underline 1px;
   text-decoration: none;
-  border-bottom: 1px solid #10411b;
+  border-bottom: 1px solid #121212;
 }
 
 a:hover{
   text-decoration: none;
-  color: #2f9146; 
-  border-bottom: 2px solid #2f9146;
+  color: #505050; 
+  border-bottom: 2px solid #505050;
 }
 #site-footer {
 
@@ -268,7 +269,7 @@ a:hover{
 
 .alert-success {
   line-height: 1.9em;
-  background-color: #eff5f1;
+  background-color: #ebf1ed;
   color: rgb(33, 33, 33);
 
 }
@@ -282,6 +283,11 @@ a:hover{
   padding: 0.00rem .5rem;
 }
 
+.text-secondary {
+  line-height: 1.8em;
+  font-size: 1.2rem;
+  
+}
 
 nav[data-toggle="toc"] {
   top: 80px;

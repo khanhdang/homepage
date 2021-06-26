@@ -2,17 +2,14 @@
 layout: default
 ---
 <br>
-<h2> Xin chào!  Hi! こんにちは！</h2>
+<h2> Xin chào! Hi! こんにちは！</h2>
+<div class="text-secondary text-justify">{{ site.description | markdownify }}</div>
 
-<p class="text-secondary text-justify">{{ site.description | markdownify }}</p>
-
-<hr>
+<!--<hr>
 {% include carousel.html height="30" unit="%" duration="7" %}
+-->
 <hr>
 
 <header class="pt-3 mb-3">
   {{ content }}
 </header>
-
-
-
