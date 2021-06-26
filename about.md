@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: page-toc
 title: About 
 ---
 
-## Khanh N. Dang
+<img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
+
+**Khanh N. Dang** <br>
 *Assistant Professor*, <br>
+VNU Key Laboratory for Smart Integrated Systems, <br>
 [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), <br> 
 [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/) <br> 
 Room 2.1, E4, Vietnam National University, Hanoi, <br>

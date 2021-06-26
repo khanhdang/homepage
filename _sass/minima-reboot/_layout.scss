@@ -106,12 +106,12 @@ body {
   border-radius: 50%;
   box-sizing: border-box;
   background-color: #DDD;
-  float: center;
-  width: 250px;
+  float: left;
+  width: 200px;
   top: 1rem;
   bottom: 1rem;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 30px;
   transition: 0.5s all ease-in-out;
 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -122,7 +122,7 @@ body {
 }
 
 .scroll-news {
-  height : 500px;
+  height : 700px;
   overflow-y: scroll;
 }
 

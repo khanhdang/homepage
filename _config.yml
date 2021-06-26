@@ -39,3 +39,4 @@ exclude:
   - minima-reboot.gemspec
 
 paginate_path: "/news/page:num/"
+
