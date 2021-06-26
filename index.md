@@ -4,22 +4,6 @@ title: Khanh N. Dang
 ---
 
 
-<img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
-
-## **Khanh N. Dang** 
-*Assistant Professor*, <br>
-VNU Key Laboratory for Smart Integrated Systems, <br>
-[VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), <br> 
-[Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/) <br> 
-Room 2.1, E4, Vietnam National University, Hanoi, <br>
-144 Xuan Thuy Rd., Hanoi,  Vietnam  [\[map\]](https://goo.gl/maps/UZQVW4WS47aPM4ue9)<br>
-Email: [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn) <br>
-Tel.: +84-24-3754 9664 (office) <br>
-Website: [https://khanhdang.github.io](https://khanhdang.github.io) | [ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Publons](https://publons.com/researcher/3564843)
-
----
-
-
 ## News
 
 - **2021-06:** We have released the source code for fault insertion into Spiking CNN (VGG-16) on CIFAR-10 dataset. Access the source code [here](https://github.com/khanhdang/hybrid-snn-conversion-with-faults). The source code is related to the paper titled ["Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation" published in ICLR, 2020](https://openreview.net/forum?id=B1xSperKvH) with our fault insertion on weights and thresholds.

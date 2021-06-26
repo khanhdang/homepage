@@ -3,7 +3,17 @@ layout: page
 title: Mentoring
 ---
 
+## Available GT topics {#gt}
 
+
+- Neuromorphic Computing
+- 3D Integrated Circuits
+- Optimzation for VLSI design
+
+Current projects can be found in the [research](./research) page.
+
+
+---
 
 ## Previous Student Project
 
