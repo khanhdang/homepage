@@ -106,8 +106,8 @@ body {
   border-radius: 50%;
   box-sizing: border-box;
   background-color: #DDD;
-  float: left;
-  width: 200px;
+  float: right;
+  width: 260px;
   top: 1rem;
   bottom: 1rem;
   margin-left: auto;
@@ -123,7 +123,7 @@ body {
 
 
 .scroll-news {
-  height : 750px;
+  height : 580px;
   overflow-y: scroll;
 }
 

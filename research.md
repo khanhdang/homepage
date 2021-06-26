@@ -15,14 +15,6 @@ title: Research
 - Fault-tolerant Network-on-Chip architecture: [>> more detail](./research_topics/ftnoc)
 - Full hardware H.264/AVC encoder: [>> more detail](./research_topics/h264)
 
----
-
-## Collaborators
-
-- [Prof. Xuan-Tu Tran, VNU Information Technology Institute, Vietnam National University Hanoi](http://www.uet.vnu.edu.vn/~tutx/)
-- [Prof. Abderazek Ben Abdallah, The University of Aizu, Japan](https://www.u-aizu.ac.jp/~benab/)
-- [Dr. Akram Ben Ahmed, National Institute of Advanced Industrial Science and Technology (AIST), Japan](https://scholar.google.com.vn/citations?user=L1334B4AAAAJ)
-- [Dr. Nguyen Anh Vu Doan, Technische Universität München, Germany](https://scholar.google.com.vn/citations?user=P_dYs6UAAAAJ)
 
 ---
 
@@ -41,3 +33,11 @@ title: Research
 2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:
 Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
 
+---
+
+## Collaborators
+
+- [Prof. Xuan-Tu Tran, VNU Information Technology Institute, Vietnam National University Hanoi](http://www.uet.vnu.edu.vn/~tutx/)
+- [Prof. Abderazek Ben Abdallah, The University of Aizu, Japan](https://www.u-aizu.ac.jp/~benab/)
+- [Dr. Akram Ben Ahmed, National Institute of Advanced Industrial Science and Technology (AIST), Japan](https://scholar.google.com.vn/citations?user=L1334B4AAAAJ)
+- [Dr. Nguyen Anh Vu Doan, Technische Universität München, Germany](https://scholar.google.com.vn/citations?user=P_dYs6UAAAAJ)
