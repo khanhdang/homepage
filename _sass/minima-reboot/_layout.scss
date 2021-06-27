@@ -89,12 +89,13 @@ body {
 }
 
 .carousel__holder {
-  padding-bottom: 20%;
+  padding-bottom: 30%;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
 
     padding-bottom: 50%;
   }
 }
+
 
 
 .highlight pre {

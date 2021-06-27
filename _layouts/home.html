@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
 {% include head.html %}
 
@@ -11,8 +11,9 @@ layout: compress
   {% include header.html %}
 
   <main aria-label="Content">
-    {% include carousel.html height="30" unit="%" duration="7" %}
-    <div id="content-container" class="container">
+    
+    <div id="home-container" class="container">
+      {% include carousel.html height="30" unit="%" duration="7" %}
       {{ content }}
     </div>
   </main>
