@@ -1,13 +1,25 @@
 ---
-layout: default
+layout: compress
 ---
-<br>
-<h2> Xin chào! Hi! こんにちは！</h2>
-<div class="text-secondary text-justify">{{ site.description | markdownify }}</div>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
-{% include carousel.html height="30" unit="%" duration="7" %}
-<p>They are some panorama pictures I took when I travelled before the Covid-19 pandemic. Please enjoy and take care!</p>
+{% include head.html %}
 
-<header class="pt-3 mb-3">
-  {{ content }}
-</header>
+<body>
+
+  {% include header.html %}
+
+  <main aria-label="Content">
+    {% include carousel.html height="30" unit="%" duration="7" %}
+    <div id="content-container" class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  {% include footer.html %}
+
+</body>
+
+
+</html>
