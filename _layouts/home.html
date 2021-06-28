@@ -9,11 +9,14 @@ layout: compress
 <body>
 
   {% include header.html %}
-
+  
+  
   <main aria-label="Content">
     
     <div id="home-container" class="container">
-      {% include carousel.html height="30" unit="%" duration="7" %}
+      {% include carousel.html duration="10" %}
+      
+      <hr>
       {{ content }}
     </div>
   </main>

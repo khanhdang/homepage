@@ -35,7 +35,7 @@ body {
 
 
 #nav-container {
-  height: 3.5rem;
+  height: 3.2rem;
   font-size: 1.1rem;
   font-weight: 400;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -89,7 +89,7 @@ body {
 }
 
 .carousel__holder {
-  padding-bottom: 30%;
+  padding-bottom: 22%;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
 
     padding-bottom: 50%;

@@ -23,7 +23,7 @@ title: Courses
 ## Mentoring
 \*  Some student projects can be founded [here](/mentor). 
 
----
+<!-- ---
 
 ## Guide for new students
 
@@ -52,4 +52,4 @@ Recommended textbook and material. This list is not up-to-date.
     - Also, Prof. Lui Sha's works is the backbone of  real-time scheduling.
         - [https://cs.illinois.edu/directory/profile/lrs](https://cs.illinois.edu/directory/profile/lrs)
     - FreeRTOS: [https://www.freertos.org/](https://www.freertos.org/)
-
+ -->
