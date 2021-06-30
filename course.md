@@ -1,6 +1,6 @@
 ---
 layout: page-toc
-title: Courses
+title: Teaching
 ---
 
 ## Current Courses
@@ -20,7 +20,7 @@ title: Courses
 
 ---
 
-## Mentoring
+## Students
 \*  Some student projects can be founded [here](/mentor). 
 
 <!-- ---
