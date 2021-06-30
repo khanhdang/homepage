@@ -31,13 +31,3 @@ title: Research
 1. *Second Prize* (the 2nd best) of **Vietnamese Talents Award 2015** (Giải Nhì, Giải thưởng Nhân tài Đất Việt 2015). The Second Prize awarded to our VENGME H.264/AVC encoding chip which I took part in the design team.
 2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:
 Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
-
----
-
-## Collaborators
-
-- [Prof. Xuan-Tu Tran, VNU Information Technology Institute, Vietnam National University Hanoi](http://www.uet.vnu.edu.vn/~tutx/)
-- [Prof. Abderazek Ben Abdallah, The University of Aizu, Japan](https://www.u-aizu.ac.jp/~benab/)
-- [Dr. Akram Ben Ahmed, National Institute of Advanced Industrial Science and Technology (AIST), Japan](https://scholar.google.com.vn/citations?user=L1334B4AAAAJ)
-- [Dr. Nguyen Anh Vu Doan, Technische Universität München, Germany](https://scholar.google.com.vn/citations?user=P_dYs6UAAAAJ)
-
