@@ -1,0 +1,8 @@
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Neuromorphic Computing', folder: 'neuromorphic', file: 'research_topics/neuromorphic.html'}
+- {name: 'AI for Computer-Aided Design', folder: 'mlcad', file: 'research_topics/mlcad.html'}
+
