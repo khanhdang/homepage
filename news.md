@@ -21,6 +21,6 @@ Reliable 3-D ICs systems" is accepted for publication in the **IEEE Transactions
 - **2019-04:** We visit [Prof. Pham's Laboratory](https://www.ece.ucdavis.edu/mml/) at UC Davis as a part of our WorldBank funded project.
 - **2018-12:** Our project has been funded by **NAFOSTED** under No. 102.01-2018.312 (2019 - 2021).
 - **2018-09:** Our project has been funded by **VNU-UET** under No. CN 19.10 (2018 - 2019).
-{: .alert .alert-success .scroll-news }
+{:  .scroll-news }
 
 

@@ -130,10 +130,13 @@ body {
   }
 }
 
-
+.news-block{
+  border-left: 1px solid #e9ecef !important;
+}
 .scroll-news {
   height : 720px;
   overflow-y: scroll;
+  line-height: 1.9em;
 }
 
 /* total width */
