@@ -52,7 +52,6 @@ body {
     border: 1px solid $layout-color-border;
     border-radius: .25rem;
     background-color: $layout-color-background;
-    color: #2f9146;
   }
   a {color: #10411b;  }
   a:hover{ 
@@ -65,7 +64,7 @@ body {
 
 #nav-trigger:checked ~ #nav-menu {
   display: block !important;
-
+  background-color: $layout-color-background;
 }
 
 #content {
