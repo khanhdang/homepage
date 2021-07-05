@@ -35,8 +35,8 @@ body {
 
 
 #nav-container {
-  height: 3.2rem;
-  font-size: 1.1rem;
+  height: 3.8rem;
+  // font-size: 1.1rem;
   font-weight: 400;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.1rem;
@@ -134,25 +134,14 @@ body {
   border-left: 1px solid #e9ecef !important;
 }
 .scroll-news {
-  height : 720px;
+  height : 890px;
   overflow-y: scroll;
   line-height: 1.9em;
+  color: rgb(55, 55, 55);
+  font-size: 90%;
+  
 }
 
-/* total width */
-// ::-webkit-scrollbar {
-//   width: 10px;
-// }
-// ::-webkit-scrollbar-track {
-//   background-color: #ebebeb;
-//   -webkit-border-radius: 10px;
-//   border-radius: 10px;
-// }
-// ::-webkit-scrollbar-thumb {
-//   -webkit-border-radius: 10px;
-//   border-radius: 10px;
-//   background: #6d6d6d; 
-// }
 ::-webkit-scrollbar {
   display: none;
 }
@@ -242,7 +231,6 @@ h2:before{
 
 a {
 	color: #121212;
-	// text-decoration: underline 1px;
   text-decoration: none;
   border-bottom: 1px solid #121212;
 }
@@ -256,7 +244,7 @@ a:hover{
 
   font-size: 90%;
 	padding-top: 0.1em;
-	margin-top: 2.0em;
+	// margin-top: 2.0em;
   padding-top: 0.75em;
   padding-bottom: 0.75em;
 	text-align: center;
@@ -341,7 +329,7 @@ nav[data-toggle="toc"] {
     cursor: pointer;
     display: block;
     width: 100%;
-    height: 250px;
+    height: 295px;
     margin: 0px auto 30px;
     position: relative;
     overflow: hidden;

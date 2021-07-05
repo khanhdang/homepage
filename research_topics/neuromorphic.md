@@ -2,12 +2,6 @@
 layout: page
 title:  Neuromorphic Computing
 ---
-<a role="button" href="/research" class="btn btn-outline-success btn-sm">Back to research</a>
-<a role="button" href="/research_topics/neuromorphic" class="btn btn-success btn-sm">Neuromorphic Computing</a>
-<a role="button" href="/research_topics/mlcad" class="btn btn-outline-success btn-sm">AI for CAD</a>
-<a role="button" href="/research_topics/thermal3DICs" class="btn btn-outline-success btn-sm">Thermal-aware 3D-ICs</a>
-<a role="button" href="/research_topics/ftnoc" class="btn btn-outline-success btn-sm">Fault-tolerant Network-on-Chip</a>
-<a role="button" href="/research_topics/h264" class="btn btn-outline-success btn-sm">H.264/AVC encoder</a>
 
 We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches. The hardware platform is based on Leaky-Integrate-and-Fire neuron with online STDP learning and possible off-line ANN-SNN conversion.
 
