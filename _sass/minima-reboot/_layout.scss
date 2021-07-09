@@ -35,7 +35,7 @@ body {
 
 #nav-site-title {
   font-weight: 800;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   // font-family: 'Pacifico', cursive;
   color: #10411b; 
   border-bottom: none;
@@ -56,18 +56,19 @@ body {
 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.1rem;
-    height: 3.8rem;
+    height: 3.5rem;
 
   }
 }
 
 .small-header {
-  height: 3.5rem;
+  height: 3.0rem;
   transition-duration: 0.4s;
+  font-size: 1rem;
 }
 
 .big-header {
-  height: 4.5rem;
+  height: 3.8rem;
   transition-duration: 0.4s;
 }
 
@@ -76,8 +77,8 @@ body {
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     position: absolute;
     z-index: 100;
-    top: 0.7375rem;
-    right: 1rem;
+    top: 0.6rem;
+    right: 0.6rem;
     border: 1px solid $layout-color-border;
     border-radius: .25rem;
     background-color: $layout-color-background;
