@@ -6,7 +6,8 @@ $layout-responsive-nav-cutoff: 992px !default;
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 
 body {
@@ -34,9 +35,9 @@ body {
 }
 
 #nav-site-title {
-  font-weight: 800;
-  font-size: 1.8rem;
-  // font-family: 'Pacifico', cursive;
+  font-weight: 700;
+  // font-size: 1.8rem;
+  font-family: 'Zilla Slab', cursive;
   color: #10411b; 
   border-bottom: none;
   a {border-bottom: none;}
@@ -53,7 +54,8 @@ body {
 #nav-container {
   font-weight: 300;
   font-size: 1.2rem;
-
+  // font-family: 'Zilla Slab', cursive;
+ 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.1rem;
     height: 3.5rem;
@@ -101,7 +103,8 @@ body {
 .nav-active{
 
   // border-bottom: 3px solid #10411b; 
-  font-weight: 600;
+  font-weight: 800;
+  // font-family: 'Zilla Slab Highlight', cursive;
 
   border-bottom: none;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -243,7 +246,7 @@ body {
   padding-bottom: 0.6rem;
   font-weight: 500;
   text-transform: capitalize;
-  // font-family: 'Zilla Slab Highlight', cursive;
+  // font-family: 'Zilla Slab', cursive;
 
   // border-bottom:  0.5px solid #297c3d;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -275,6 +278,7 @@ h4, h5, h6  {
 
 
 h1, h2, h3, h4, h5, h6{
+  // font-family: 'Zilla Slab', cursive;
   font-weight: 500;
 }
 
@@ -435,7 +439,7 @@ nav[data-toggle="toc"] {
         color: #ffffff; 
         line-height: 1.2;
         font-size: 40px;
-        font-weight: 400; }
+        font-weight: 700; }
     .thumb-container .thumb-unit:hover .thumb-overlay {
       position: absolute;
       top: 0px;
