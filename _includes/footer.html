@@ -1,7 +1,7 @@
 <footer id="site-footer" class=" border-left-0 border-right-0 " >
 
       {% if site.author %}
-        &copy; {{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. All rights reserved. 
+        &copy; {{ site.site-starting-year | escape }}-{{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. All rights reserved. 
 	
       {% else %}
         {{ site.title | escape }}
