@@ -15,12 +15,15 @@ body {
 }
 
 
+.bg-light {
+  background-color: $layout-color-background !important;
+}
 
 #nav-header {
   a {text-decoration: none; border-bottom: none;}
   a:hover{text-decoration: none;}
   // box-shadow: 0px 0px 6px 0px rgba(0,0,0,.2);;
-  // border-bottom: 1px solid $layout-color-border !important;
+  border-bottom: 1px solid $layout-color-border !important;
 }
 
 #nav-site-title {
@@ -28,7 +31,7 @@ body {
   // font-size: 1.5rem;
   // font-family: "Love Ya Like A Sister", cursive;
   font-family: 'Zilla Slab Highlight', cursive;
-  a:hover{color: #2f9146;  }
+  color: #10411b; 
 }
 
 .code39 {
@@ -38,11 +41,12 @@ body {
 
 
 #nav-container {
-  height: 3.8rem;
-  // font-size: 1.1rem;
+  height: 4.8rem;
   font-weight: 400;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.1rem;
+    height: 3.8rem;
+
   }
 }
 
@@ -63,6 +67,8 @@ body {
 
   
 }
+
+
 
 
 #nav-trigger:checked ~ #nav-menu {
@@ -190,6 +196,8 @@ body {
   padding-bottom: 0.6rem;
   font-weight: 500;
   text-transform: capitalize;
+  // font-family: 'Zilla Slab Highlight', cursive;
+
   // border-bottom:  0.5px solid #297c3d;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     text-align: left;
@@ -376,7 +384,8 @@ nav[data-toggle="toc"] {
       .thumb-container .thumb-unit .thumb-overlay strong {
         display: block;
         padding: 20px;
-        color: white;
+        font-family: 'Zilla Slab Highlight', cursive;
+        color: #e9ecef; 
         line-height: 1.2;
         font-size: 30px;
         font-weight: 400; }
