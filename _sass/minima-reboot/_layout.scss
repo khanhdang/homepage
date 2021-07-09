@@ -28,9 +28,9 @@ body {
   border-bottom: none; 
   a {border-bottom: none;}
   a:hover{border-bottom: none;}
-  box-shadow: 0px 0px 6px 0px rgba(0,0,0,.2);;
+  // box-shadow: 0px 0px 6px 0px rgba(0,0,0,.2);;
 
-  // border-bottom: 1px solid $layout-color-border !important;
+  border-bottom: 2px solid $layout-color-border !important;
 }
 
 #nav-site-title {
@@ -214,7 +214,10 @@ body {
 
 
 .avatar:hover {
-  transform: scale(1.1) rotate(5deg); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  // transform: scale(1.1) rotate(5deg); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  
+  border-radius: 5px;
+  transform: scale(1.1);
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     transform: rotate(5deg) ;
   }
@@ -442,3 +445,5 @@ nav[data-toggle="toc"] {
     .thumb-container .thumb-unit {
       width: 100%;
       height: 180px; } }
+
+
