@@ -172,6 +172,7 @@ body {
   bottom: 1rem;
   margin-left: auto;
   margin-right: 30px;
+  margin-bottom: 30px;
   transition: 0.5s all ease-in-out;
 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -219,7 +220,8 @@ body {
   border-radius: 5px;
   transform: scale(1.1);
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
-    transform: rotate(5deg) ;
+    // transform: rotate(5deg) ;
+    width: 300px;
   }
 }
 
@@ -431,7 +433,7 @@ nav[data-toggle="toc"] {
         font-family: 'Zilla Slab Highlight', cursive;
         color: #ffffff; 
         line-height: 1.2;
-        font-size: 30px;
+        font-size: 40px;
         font-weight: 400; }
     .thumb-container .thumb-unit:hover .thumb-overlay {
       position: absolute;
