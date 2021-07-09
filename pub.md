@@ -4,7 +4,7 @@ title: Publications
 ---
 
  Disclaimer: This page contains PDF files of articles that might be covered by copyright. Please do not retrieve, copy, or distribute these files as it may violate copyright protection laws.
-{: .alert .alert-danger }
+{: .alert .alert-warning }
 
 
 ## Under preparation 
