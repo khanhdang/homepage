@@ -143,7 +143,7 @@ body {
   padding-bottom: 32%;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
 
-    padding-bottom: 50%;
+    padding-bottom: 20%;
   }
 }
 
@@ -186,7 +186,7 @@ body {
   border-left: 1px solid #e9ecef !important;
 }
 .scroll-news {
-  height : 870px;
+  height : 800px;
   overflow-y: scroll;
   line-height: 1.9em;
   color: rgb(55, 55, 55);

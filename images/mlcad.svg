@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="1937.5"
-   height="1000"
+   width="1549.0869"
+   height="757.28754"
    overflow="hidden"
    version="1.1"
    id="svg996"
-   sodipodi:docname="thumb.svg"
+   sodipodi:docname="fig_2prop_map_crossover_and_mutation.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   inkscape:export-filename="D:\WORK\PERSONAL\khanhdang.github.io\images\research_topics\mlcad\thumb.png"
-   inkscape:export-xdpi="57.575226"
-   inkscape:export-ydpi="57.575226"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.38424379"
-     inkscape:cx="409.89602"
-     inkscape:cy="53.351545"
+     inkscape:zoom="0.76848758"
+     inkscape:cx="679.90689"
+     inkscape:cy="129.47509"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -27679,8 +27676,7 @@
       </g>
     </g>
     <g
-       id="g131984"
-       transform="translate(194.20655,121.35624)">
+       id="g131984">
       <g
          clip-path="url(#clip88)"
          filter="url(#fx28)"

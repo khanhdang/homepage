@@ -6,7 +6,7 @@ title:  Neuromorphic Computing
 We develop hardware for neuromorphic computing that mimics the behavior of biological brains. Here, the main target is to port the silicon brains into ASIC/FPGA and train them with bio-plausible learning approaches. The hardware platform is based on Leaky-Integrate-and-Fire neuron with online STDP learning and possible off-line ANN-SNN conversion.
 
 {::nomarkdown}
-<img src="../images/3D-Silicon-Brain.svg" class="icenter" width=80%>
+<img src="../images/3D-Silicon-Brain.svg" class="icenter" width=100%>
 {:/}
 
 The hardware is based on CMOS technology with 3D-ICs using Through-Silicon-Vias. Neurons are grouped into clusters that connected via a 3D Network-on-Chip. Inter-layer wires are Through-Silicon-Vias.
