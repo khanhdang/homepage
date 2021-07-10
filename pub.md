@@ -87,5 +87,5 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 
 ## Thesis 
 
-1. **Dang Nam Khanh**, *"Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)"*, Research advisor: Prof. Abderazek Ben Abdallah. \[[DOI](http://doi.org/10.15016/00000140)\]. \[[PDF](./share/pubs/THESIS-2017.pdf)\]. \[[SLIDE](./share/pubs/THESIS-SLIDE-2017.pdf)\].
+1. **Dang Nam Khanh**, *"Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)"*, Research advisor: Prof. Abderazek Ben Abdallah. \[[DOI](http://doi.org/10.15016/00000140)\]/\[[PDF](./share/pubs/THESIS-2017.pdf)\]/\[[SLIDE](./share/pubs/THESIS-SLIDE-2017.pdf)\].
 

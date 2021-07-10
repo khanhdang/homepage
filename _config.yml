@@ -1,9 +1,9 @@
 title: Khanh N. Dang
 author: Khanh N. Dang
 # email: your-email@domain.com
-# description: 
+# description:
 site-starting-year: 2014
-  
+
 google_analytics: UA-52343779-2
 
 url: "http://khanhdang.github.io/"
@@ -20,6 +20,7 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
+  - index.html
   - about.md
   - research.md
   - pub.md
@@ -41,4 +42,3 @@ exclude:
   - minima-reboot.gemspec
 
 paginate_path: "/news/page:num/"
-
