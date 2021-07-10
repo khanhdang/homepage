@@ -63,11 +63,11 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 13. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *"Reliability Assessment and Quantitative Evaluation of Soft-Error Resilient 3D NoC System"*, *25th IEEE Asian Test Symposium (ATS)*, Nov. 21-24, 2016,
 14. **Khanh N. Dang**, Yuichi Okuyama, Abderazek Ben Abdallah, *"Soft-Error Resilient Network-on-Chip for Safety-Critical Applications"*, **2016 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT)**, Jun. 27 – 29, 2016.
 15. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, Xuan-Tu Tran, *"Soft-Error Resilient 3D Network-on-Chip Router"*, **IEEE 7th International Conference on Awareness Science and Technology (iCAST)**, Sep. 22-24, 2015,
-16. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *"H.264/AVC Hardware Encoders and Low-Power Features"*, **2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)**, Nov. 17-20, 2014.
-17. *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, *"An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders"*, **17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)**, Apr. 23-25, 2014.
+16. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, **Nam-Khanh Dang**, Xuan-Tu Tran, *"H.264/AVC Hardware Encoders and Low-Power Features"*, **2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)**, Nov. 17-20, 2014.
+17. **Nam-Khanh Dang**, Xuan-Tu Tran, Alain Merigot, *"An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders"*, **17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)**, Apr. 23-25, 2014.
 18. Hai-Phong Phan, Hung K. Nguyen, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *" System-on-Chip Testbed for Validating the Hardware Design of H.264/AVC Encoder"*, **National Conference on Electronics and Communications (REV2013-KC01)**, Hanoi, Dec., 2013. 
-19. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, *"A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders"*, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2013.
-20. *Nam Khanh Dang*, Thanh Vu Le Van, Xuan Tu Tran, *"FPGA implementation of a low latency and high throughput network-on-chip router architecture"*, **2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2011.
+19. **Nam Khanh Dang**, Van-Mien Nguyen, Xuan Tu Tran, *"A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders"*, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2013.
+20. **Nam Khanh Dang**, Thanh Vu Le Van, Xuan Tu Tran, *"FPGA implementation of a low latency and high throughput network-on-chip router architecture"*, **2011 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2011.
 {: reversed="reversed"}
 
 
