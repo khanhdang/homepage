@@ -61,14 +61,14 @@ body {
   height: 3.0rem;
   transition-duration: 0.4s;
   font-size: 1rem;
-  img {height: 35px;}
+  img {height: 35px; transition-duration: 0.5s;}
 
 }
 
 .big-header {
   height: 4.8rem;
   transition-duration: 0.4s;
-  img {height: 55px;}
+  img {height: 55px; transition-duration: 0.5s;}
 }
 
 
@@ -140,7 +140,7 @@ body {
 }
 
 .carousel__holder {
-  padding-bottom: 22%;
+  padding-bottom: 32%;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
 
     padding-bottom: 50%;
