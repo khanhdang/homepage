@@ -6,7 +6,7 @@ title: AI for Computer-Aided Design
 In this project, we  develop an AI framework for designing and maintaince multi/many-core system.  One of our research approach is to convert the constraints in the design phases (i.e., area, power, reliability, thermal) into a multiple-objective optimization. Here, we solve the problems using Genetic Algorithm (GA). 
 
 {::nomarkdown}
-<img src="../images/mlcad.svg" class="icenter" width=100%>
+<img src="../images/research_topics/mlcad/thumb.svg" class="icenter" width=100%>
 {:/}
 
 

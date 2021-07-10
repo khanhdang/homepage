@@ -21,7 +21,7 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 
 
 {::nomarkdown}
-<img src="../images/OASIS_layout.svg" class="icenter" width=45% >
+<img src="../images/research_topics/ftnoc/OASIS_layout.svg" class="icenter" width=45% >
 {:/}
 
 

@@ -6,13 +6,13 @@ title: Thermal-aware 3D-ICs
 As thermal dissipation is one of the most critical challenges for stacking 3D-ICs and the Mean Time to Failure (MTTF) decreases exponentially with the operating temperature as in Black’s mode. In this research, we target to develop algorithms and architectures to solve the lifetime reliability of 3D-ICs with awareness of thermal impact.
 
 {::nomarkdown}
-<img src="../images/Normalized_Black_model.PNG" class="icenter" width=40% >
+<img src="../images/research_topics/thermal3DICs/Normalized_Black_model.PNG" class="icenter" width=40% >
 {:/}
 Normalized thermal acceleration for lifetime reliability of CMOS and Copper with the Black's model. The fault rates are normalized to 343.15K (70°C).
 In  in 80°C, the fault rates are 2x and 3x of 70°C for CMOS and Copper, respectively.
 
 {::nomarkdown}
-<img src="../images/HotCluster.png" class="icenter" width=80% >
+<img src="../images/research_topics/thermal3DICs/HotCluster.png" class="icenter" width=80% >
 {:/}
 The HotCluster platform to predict the fault rate and to place spare modules. Details in [here](https://doi.org/10.1109/TCAD.2021.3069370).
 
