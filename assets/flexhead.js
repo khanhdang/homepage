@@ -7,8 +7,10 @@ window.onscroll = function () {
         navbar.classList.remove("big-header");
     }
     else {
-        navbar.classList.remove("small-header");
-        navbar.classList.add("big-header");
+        if (scroll < 80) {
+            navbar.classList.remove("small-header");
+            navbar.classList.add("big-header");
+        }
 
     }
 };
