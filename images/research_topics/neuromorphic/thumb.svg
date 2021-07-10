@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="645mm"
-   height="300mm"
-   viewBox="0 0 645.00001 300"
+   width="524.57513mm"
+   height="250.14032mm"
+   viewBox="0 0 524.57514 250.14032"
    version="1.1"
    id="svg8"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -9319,17 +9319,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="1015"
-     inkscape:cy="509.28571"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="617.2032"
+     inkscape:cy="354.56354"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     fit-margin-top="10"
-     fit-margin-left="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
      inkscape:window-x="-9"
@@ -9351,10 +9351,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(222.42866,-107.51101)">
+     transform="translate(204.71622,-122.44085)">
     <g
        id="g11968"
-       transform="translate(55.212437,21.709429)">
+       transform="translate(12.712437,11.709429)">
       <g
          id="g33428"
          transform="matrix(0.90487321,0,0,0.91206981,68.821492,2.8467324)">
