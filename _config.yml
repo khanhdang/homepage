@@ -26,7 +26,6 @@ header_pages:
   - pub.md
   - course.md
   - service.md
-  # - grant.md
   - contact.md
 
 paginate: 5
