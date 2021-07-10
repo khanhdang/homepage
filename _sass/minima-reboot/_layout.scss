@@ -53,7 +53,7 @@ body {
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.1rem;
     height: 3.5rem;
-
+    img {height: 40px;}
   }
 }
 
@@ -61,11 +61,14 @@ body {
   height: 3.0rem;
   transition-duration: 0.4s;
   font-size: 1rem;
+  img {height: 40px;}
+
 }
 
 .big-header {
   height: 3.8rem;
   transition-duration: 0.4s;
+  img {height: 50px;}
 }
 
 
