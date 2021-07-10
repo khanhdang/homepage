@@ -3,16 +3,15 @@ $layout-color-background: #fdfdfd !default;
 $layout-color-syntax-highlighting-background: #f8f9fa !default;
 $layout-responsive-nav-cutoff: 992px !default;
 
-@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+39&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
 
 body {
   background-color: $layout-color-background;
-  font-family: "Rubik", Helvetica, sans-serif;
+  // font-family: "Rubik", Helvetica, sans-serif;
+  font-family: "Asap",sans-serif;
+
   position: relative;
   overflow-y: scroll;
 }
@@ -35,9 +34,9 @@ body {
 }
 
 #nav-site-title {
-  font-weight: 700;
-  // font-size: 1.8rem;
-  font-family: 'Zilla Slab', cursive;
+  font-weight: 600;
+  font-size: 1.45rem;
+  font-family: Arial,sans-serif;
   color: #10411b; 
   border-bottom: none;
   a {border-bottom: none;}
@@ -45,16 +44,11 @@ body {
 
 }
 
-.code39 {
-  font-family: 'Libre Barcode 39', cursive;
-  font-size: x-large;
-}
 
 
 #nav-container {
-  font-weight: 300;
-  font-size: 1.2rem;
-  // font-family: 'Zilla Slab', cursive;
+  font-weight: 200;
+  font-size: 1.1rem;
  
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.1rem;
@@ -103,8 +97,7 @@ body {
 .nav-active{
 
   // border-bottom: 3px solid #10411b; 
-  font-weight: 800;
-  // font-family: 'Zilla Slab Highlight', cursive;
+  font-weight: 400;
 
   border-bottom: none;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -194,8 +187,8 @@ body {
   overflow-y: scroll;
   line-height: 1.9em;
   color: rgb(55, 55, 55);
-  font-size: 90%;
-  padding: 0.25rem 2rem;
+  // font-size: 90%;
+  padding: 0.25rem 0.25rem 0.25rem 2rem ;
 }
 
 ::-webkit-scrollbar {
@@ -246,12 +239,9 @@ body {
   padding-bottom: 0.6rem;
   font-weight: 500;
   text-transform: capitalize;
-  // font-family: 'Zilla Slab', cursive;
 
-  // border-bottom:  0.5px solid #297c3d;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     text-align: left;
-    //  border-bottom:   $hr-border-width solid $hr-border-color;
     text-transform: capitalize;
   }
 }
@@ -278,10 +268,13 @@ h4, h5, h6  {
 
 
 h1, h2, h3, h4, h5, h6{
-  // font-family: 'Zilla Slab', cursive;
-  font-weight: 500;
+  font-weight: 300;
+  
 }
-
+// h1 :hover {
+//   text-underline-offset: 2px;
+//   text-decoration: underline 2px solid #121212;
+// }
 // # for TOC off-set
 h2:before{
   display: block;
@@ -326,7 +319,6 @@ a:hover{
 
 .alert {
   padding: 0.75rem 2rem;
-  // font-size: 0.98em;
 }
 
 
