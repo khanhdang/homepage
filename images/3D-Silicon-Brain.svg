@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="205.47736mm"
    height="94.103455mm"
    viewBox="0 0 205.47736 94.103455"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="3D-Silicon-Brain.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="3D-Silicon-Brain.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <clipPath
@@ -6231,9 +6231,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="422.95231"
-     inkscape:cy="301.16012"
+     inkscape:zoom="2.8"
+     inkscape:cx="385.53571"
+     inkscape:cy="236.25"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -6242,11 +6242,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1672"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -6255,7 +6256,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6552,7 +6552,7 @@
          clip-path="url(#clipPath1047)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,471,247.97)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1051"><tspan
              x="0"
              y="0"
@@ -6839,7 +6839,7 @@
          clip-path="url(#clipPath1243)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,544.18,248.47)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1247"><tspan
              x="0"
              y="0"
@@ -7126,7 +7126,7 @@
          clip-path="url(#clipPath1439)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,471,144.77)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1443"><tspan
              x="0"
              y="0"
@@ -7413,7 +7413,7 @@
          clip-path="url(#clipPath1635)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,543.94,144.77)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1639"><tspan
              x="0"
              y="0"
@@ -7436,7 +7436,7 @@
          clip-path="url(#clipPath1651)">
         <text
            transform="matrix(1,0,0,-1,499.58,193.44)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1655"><tspan
              x="0"
              y="0"
@@ -7459,7 +7459,7 @@
          clip-path="url(#clipPath1667)">
         <text
            transform="matrix(1,0,0,-1,499.58,90.264)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1671"><tspan
              x="0"
              y="0"
@@ -7482,7 +7482,7 @@
          clip-path="url(#clipPath1683)">
         <text
            transform="matrix(1,0,0,-1,573.26,194.62)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1687"><tspan
              x="0"
              y="0"
@@ -7505,7 +7505,7 @@
          clip-path="url(#clipPath1699)">
         <text
            transform="matrix(1,0,0,-1,573.5,91.8)"
-           style="font-variant:normal;font-weight:normal;font-size:11.04px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1703"><tspan
              x="0"
              y="0"
@@ -7832,7 +7832,7 @@
          clip-path="url(#clipPath1915)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,457.78,238.94)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text1919"><tspan
              x="0"
              y="0"
@@ -8119,7 +8119,7 @@
          clip-path="url(#clipPath2111)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,530.95,239.45)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2115"><tspan
              x="0"
              y="0"
@@ -8406,7 +8406,7 @@
          clip-path="url(#clipPath2307)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,457.78,135.74)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2311"><tspan
              x="0"
              y="0"
@@ -8693,7 +8693,7 @@
          clip-path="url(#clipPath2503)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,530.74,135.74)"
-           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2507"><tspan
              x="0"
              y="0"
@@ -8716,7 +8716,7 @@
          clip-path="url(#clipPath2519)">
         <text
            transform="matrix(1,0,0,-1,486.38,184.42)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2523"><tspan
              x="0"
              y="0"
@@ -8739,7 +8739,7 @@
          clip-path="url(#clipPath2535)">
         <text
            transform="matrix(1,0,0,-1,486.38,81.24)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2539"><tspan
              x="0"
              y="0"
@@ -8762,7 +8762,7 @@
          clip-path="url(#clipPath2551)">
         <text
            transform="matrix(1,0,0,-1,560.04,185.59)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2555"><tspan
              x="0"
              y="0"
@@ -8785,7 +8785,7 @@
          clip-path="url(#clipPath2567)">
         <text
            transform="matrix(1,0,0,-1,560.3,82.776)"
-           style="font-variant:normal;font-weight:normal;font-size:11.04px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2571"><tspan
              x="0"
              y="0"
@@ -8840,12 +8840,13 @@
          clip-path="url(#clipPath2739)">
         <text
            transform="matrix(1,0,0,-1,86.928,59.568)"
-           style="font-variant:normal;font-weight:300;font-size:12.96px;font-family:Calibri;-inkscape-font-specification:Calibri-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2743"><tspan
-             x="0 8.2684803 14.67072 21.35808 25.557119 32.30928 38.996639"
-             y="0"
              sodipodi:role="line"
-             id="tspan2741">Neurons</tspan></text>
+             id="tspan2741"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
+             x="0"
+             y="0">Neurons</tspan></text>
       </g>
     </g>
     <g
@@ -8856,12 +8857,13 @@
          clip-path="url(#clipPath2751)">
         <text
            transform="matrix(1,0,0,-1,156.89,59.568)"
-           style="font-variant:normal;font-weight:300;font-size:12.96px;font-family:Calibri;-inkscape-font-specification:Calibri-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text2755"><tspan
-             x="0 5.75424 11.49552 18.23472 24.338881 30.93552 35.951038 42.353279"
-             y="0"
              sodipodi:role="line"
-             id="tspan2753">Synapses</tspan></text>
+             id="tspan2753"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
+             x="0"
+             y="0">Synapses</tspan></text>
       </g>
     </g>
     <path
@@ -16292,7 +16294,7 @@
          clip-path="url(#clipPath8569)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,444.67,230.64)"
-           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text8573"><tspan
              x="0"
              y="0"
@@ -16579,7 +16581,7 @@
          clip-path="url(#clipPath8765)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,517.85,231.17)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text8769"><tspan
              x="0"
              y="0"
@@ -16866,7 +16868,7 @@
          clip-path="url(#clipPath8961)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,444.67,127.44)"
-           style="font-variant:normal;font-weight:normal;font-size:18.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text8965"><tspan
              x="0"
              y="0"
@@ -17153,7 +17155,7 @@
          clip-path="url(#clipPath9157)">
         <text
            transform="matrix(-4.4e-8,-1,-1,4.4e-8,517.61,127.44)"
-           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9161"><tspan
              x="0"
              y="0"
@@ -17176,7 +17178,7 @@
          clip-path="url(#clipPath9173)">
         <text
            transform="matrix(1,0,0,-1,473.26,176.14)"
-           style="font-variant:normal;font-weight:normal;font-size:12.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9177"><tspan
              x="0"
              y="0"
@@ -17199,7 +17201,7 @@
          clip-path="url(#clipPath9189)">
         <text
            transform="matrix(1,0,0,-1,473.26,72.96)"
-           style="font-variant:normal;font-weight:normal;font-size:12.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9193"><tspan
              x="0"
              y="0"
@@ -17222,7 +17224,7 @@
          clip-path="url(#clipPath9205)">
         <text
            transform="matrix(1,0,0,-1,546.91,177.31)"
-           style="font-variant:normal;font-weight:normal;font-size:12.024px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9209"><tspan
              x="0"
              y="0"
@@ -17245,7 +17247,7 @@
          clip-path="url(#clipPath9221)">
         <text
            transform="matrix(1,0,0,-1,547.18,74.496)"
-           style="font-variant:normal;font-weight:normal;font-size:11.064px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9225"><tspan
              x="0"
              y="0"
@@ -17300,7 +17302,7 @@
          clip-path="url(#clipPath9349)">
         <text
            transform="matrix(1,0,0,-1,399.34,45.744)"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9353"><tspan
              x="0"
              y="0"
@@ -17308,11 +17310,11 @@
       </g>
     </g>
     <path
-       d="m 149.55762,216.23869 h 5.63033 v -4.40267 h -5.63033 z"
+       d="m 147.44094,216.23869 h 5.63033 v -4.40267 h -5.63033 z"
        style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
        id="path9355" />
     <path
-       d="m 149.55762,216.23869 h 5.63033 v -4.40267 h -5.63033 z"
+       d="m 147.44094,216.23869 h 5.63033 v -4.40267 h -5.63033 z"
        style="fill:none;stroke:#787878;stroke-width:0.338667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path9357" />
     <g
@@ -17323,12 +17325,13 @@
          clip-path="url(#clipPath9365)">
         <text
            transform="matrix(1,0,0,-1,413.11,45.432)"
-           style="font-variant:normal;font-weight:300;font-size:12.96px;font-family:Calibri;-inkscape-font-specification:Calibri-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9369"><tspan
-             x="0 6.5966401 13.3488 20.03616 24.118561 30.48192"
-             y="0"
+             id="tspan9367"
              sodipodi:role="line"
-             id="tspan9367">Router</tspan></text>
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Router</tspan></text>
       </g>
     </g>
     <g
@@ -17338,45 +17341,27 @@
          id="g9373"
          clip-path="url(#clipPath9377)">
         <text
-           transform="matrix(1,0,0,-1,483.07,45.432)"
-           style="font-variant:normal;font-weight:300;font-size:12.96px;font-family:Calibri;-inkscape-font-specification:Calibri-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text9381"><tspan
-             x="0 8.2684803 14.67072 21.35808 25.557119 32.30928 38.996639 42.10704 47.61504 50.479198 57.218399 62.1432 66.225601 72.588959 77.060158 80.015038 83.890083 92.158562 98.858879 105.59808 111.93552"
-             y="0"
+           transform="scale(1,-1)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text9381"
+           x="477.07001"
+           y="-45.431999"><tspan
              sodipodi:role="line"
-             id="tspan9379">Neuron cluster (Node)</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g9437"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g9439"
-         clip-path="url(#clipPath9443)">
-        <g
-           id="g9445"
-           transform="matrix(18.18,0,0,20.34,462.12,38.58)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAkJJREFUaIHtmMly3CAQQB+LlhlLivP/X+jKIZ5FGwg6B3smdnJLRExcvNPUqAt41S1opADhk6A/egF7UmRypcjkSpHJlSKTK0UmV4pMrhSZXLF7Dqa1RimFUgoRIcaIyPvr0u25UgqAEMJu8+8mo7Xm2HUc2gNKa0IIzNPIMs/EGO9xSim6bqA9tGzbxuV8wnu/yxp2k7FVxePjV7quR2mNSGQaR749PTHP0z3OGEs39PTDF7xzLMucn4xCUVU1VV3fSwgU/TDjvWPbtpd/FFhrqaoKkYhW+l6Wf8u+G4D6+VNEsNbS9T3Na+mlJskMMUa8dwA07YG+HzDGpJjqHUlkQtiYxpFt2+7ZadvDm/JLw65b842wBcbrFWMs1lrqpmEYBpxbk37YSpIZEWFdV8brhbBtGGN4eM2ONunenWQjh7BxuZxZlhkRoa4b+mGgqqpUU6aTERHcunI6PeO9R2vNw0NHeziidZrNIOl+GWNkul5Z5gkRoapr+n7AVkle1bQyIoJzjsv5jPcOrTWH45G6bpLsbMlPMhFhHK/M04TEiDEGY8z/K+Od43w64ZxDRJKdN//kPhPjS9M5jlfCmw4aAUF26ctgx0PzloF1XV4y8HbRgPeO0/N3bFXRNi0A67oQQtit0VTsdCZrrWkPR6y1hLAxT9O7e8wtpmna184avN9Y5t/j/pTdZACU1vcBf83Mu7g3t9G9Sgx2lvloPtUHjSKTK0UmV4pMrhSZXCkyuVJkcqXI5EqRyZUikytFJld+AAWdBgIuzJ/JAAAAAElFTkSuQmCC"
-             mask="url(#mask9447)"
-             id="image9451" />
-        </g>
+             id="tspan9379"
+             x="477.07001"
+             y="-45.431999"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial">Neuron cluster (Node)</tspan></text>
       </g>
     </g>
     <g
        id="g9453"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.28296399,0,0,-0.30877508,16.247731,230.01163)">
       <g
          id="g9455"
          clip-path="url(#clipPath9459)">
         <text
            transform="matrix(1,0,0,-1,468.41,47.376)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9463"><tspan
              x="0"
              y="0"
@@ -17384,35 +17369,14 @@
       </g>
     </g>
     <g
-       id="g9901"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g9903"
-         clip-path="url(#clipPath9907)">
-        <g
-           id="g9909"
-           transform="matrix(18.18,0,0,20.34,263.64,206.22)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAj5JREFUaIHtmdtunDAQQI9tzG2BJP//hVHVpssuCxjD9GG1uShKH1qjOJHP88jMYfAwBgUI3wT92QmEJMnESpKJlSQTK0kmVpJMrCSZWEkysZKFWkgphVIKYwygENlY1xWR98clYwxam7/G/AvhZLSmbTsOTYPWGjfPDMOZ8XJh27bnOGMMd/cPVHWNczNPP3/h/RIkh2Ay1lruHx44NC1KKbZ1pawqfjw+Mo6XlwtaS9t1HJqWaRrpj8f4ZBQKm+dk2XVJYww1DW03siwO7/01UEAbgzEGow1KqVApBGwA6ioEICKICFmW0bQtRVkGTfojgnczEcF7z+IcAEVZ0bYdJgv2EHzILq3Z+4Xz+Yz3/lqdrqOsKpTe902wy+rrujIMJ+ZpQkTI84Km6chMBjs+bbvIiMi1NZ9PrN5jjKFtW6q6Ru9Ynd1WXv3K6dQzTeO1OkVB23VYa58bRWh2k7lVp+97/LKgteZwaCirerfOtuuO3LaN4XRiHC+ICDbPaZoWrXWwEeY1u8qICM7NnPqeZXForanqmszaXaqz+9QsIs8zmmwbxhiyLPu6Motz9McjzjlE5GvumRvbtnEZBobhzPpqggaC/lAJNmPc9odSisUtiLxNelkcx99PZNZSFiUA0zS9OR78L4pA9+a2uY3J8H5hGsd3iWqtKYoSm+cAODfj5jmYUDAZuB7QFC9T84dx6mW6DklQmc/mW33QSDKxkmRiJcnESpKJlSQTK0kmVpJMrCSZWEkysZJkYuUPtm0DJG7j4uMAAAAASUVORK5CYII="
-             mask="url(#mask9911)"
-             id="image9915" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g9917"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.2131502,0,0,-0.2131502,26.20645,201.10731)">
       <g
          id="g9919"
          clip-path="url(#clipPath9923)">
         <text
            transform="matrix(1,0,0,-1,269.88,215.11)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9927"><tspan
              x="0"
              y="0"
@@ -17420,35 +17384,14 @@
       </g>
     </g>
     <g
-       id="g9929"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g9931"
-         clip-path="url(#clipPath9935)">
-        <g
-           id="g9937"
-           transform="matrix(18.18,0,0,20.459,279.48,151.02)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAjVJREFUaIHtmdtO3DAQQI9vSRaSrNr+/wdWPACbzeZmZ/pQWEC0VJVsalU+Up4i2XPi8WQsK0D4T9D/OoCYFJlcKTK5UmRypcjkSpHJlSKTK0UmV2ysgZRSbx4RYd93RN4fl7TWaK0REUIIsUKIK9N2HXXToJQmBM/lPDLP0xshYwxdf6SqKrz3nB4f8N5HiSGajHOOL1+/cXN7i0IR9p2xGbi7+866LFch6xz98cjNbcsyz4zjOT8ZpTRVVeNc9WpgYZouPGzbSzoJGGtxzhG8RykVK4SIBeBVTCKCiOBcRX88UtV1tGk+Ino1e97U3nsU0DQH2q7D2mhJ8FuSlGbvPZfLSAgBYy1d11PXTdSU+hVJZIL3jMPAuq0opaibA13fY6x9k46xSSIjsjPPM+fTgPceay1t39McDklXJ40M4P3GMJxYnv4zlato2w5rXbLFSdbOiAjLPDEMJ4L3GGtpu47m6aeagnS9mfwsBONwZp7nl9VJWNmSN5rLMjOcHvHbhrGWm7bDOpdkruQyIQTOw8A0XRARrDEYY5IUgk85AqzrwnA6sW1r0nk+RUZEGMczl3F80/ILEvVCJdpOlH1nXReUUmzrhsj+8k6EbV15uL/HGENdNwjCPE3s+/7BqH+HItK30VrTHA5Y49i2lWWZ3wWqtaZummtnva4Ly1Oli0E0GeC6qf8U3PMpM5bEdX7KNWCeFJlcKTK5UmRypcjkSpHJlSKTK0UmV4pMrhSZXCkyufIDDEIEw9HfcLMAAAAASUVORK5CYII="
-             mask="url(#mask9939)"
-             id="image9943" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g9945"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.2131502,0,0,-0.2131502,28.029853,208.67513)">
       <g
          id="g9947"
          clip-path="url(#clipPath9951)">
         <text
            transform="matrix(1,0,0,-1,285.7,159.96)"
-           style="font-variant:normal;font-weight:bold;font-size:9.024px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9955"><tspan
              x="0"
              y="0"
@@ -17456,35 +17399,14 @@
       </g>
     </g>
     <g
-       id="g9957"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g9959"
-         clip-path="url(#clipPath9963)">
-        <g
-           id="g9965"
-           transform="matrix(18.18,0,0,20.459,249.96,70.861)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAj9JREFUaIHtmdtuGjEQQI8vewN2o+b/fzDqQ5vA3ry2pw8EkihSH9p161Y+EhJCI3sPtmfGoADhP0H/7QfYkyKTK0UmV4pMrhSZXCkyuVJkcqXI5IrdczClFFprlFKICDFGRORTzO0FEELYbf7dZLTWdIcjh8MBpTUhBOZpZJlnYoz3OKUUp9NA27V47zm/PLNt2y7PsJuMrSq+PD5yOvVorYkSmcaRr09PzPN0jzPGchp6+uGBzTmWZc5PRqGoqpqqru9bCBT9MLNtDu/99RMF1lqqqkIkotXbtvxd9k0A6u2tiGCt5dT3NG2H0ulzTZIZYoxszgHQtB19P2CMSTHVB5LIhOAZxxHv/X112rZ9t/3SsGtqvhF8YBovWGux1lI3DcPwgHMu6Q9bSVZGRFjXlfFyxnuPMYZj39O2HdqkOzvJRg7Bcz6/ME8TIkJdN/TDQFVVqaZMJ3NbnWtRdGitOR5PtN0BrdMkg6T5UmJkHC/M04yIUNU1fT9gqyRHNbGMCJtznF+ecW59bXkO1HWTJLMlr2QiwjSNjJcLMUaMMRhj/l2Z6+q84NyKiCSrN3/kPhNjZJknxsuF8NqjASAgyC59GexYNEWuLcy6LtcVeNf2A2zbxvP3b1hrabsOhWJdF0IIuzWaip1qstaatu2wVYX3nmWePtxjbjF101DXDQDb5liX5VPcr7KbDPDhLPzsm77dNPeSuI9L+RswT4pMrhSZXCkyuVJkcqXI5EqRyZUikytFJleKTK4UmVz5AV/jAgMR1SCcAAAAAElFTkSuQmCC"
-             mask="url(#mask9967)"
-             id="image9971" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g9973"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.20961695,0,0,-0.20961695,22.249682,220.96541)">
       <g
          id="g9975"
          clip-path="url(#clipPath9979)">
         <text
            transform="matrix(1,0,0,-1,256.22,79.752)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text9983"><tspan
              x="0"
              y="0"
@@ -17492,35 +17414,14 @@
       </g>
     </g>
     <g
-       id="g9985"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g9987"
-         clip-path="url(#clipPath9991)">
-        <g
-           id="g9993"
-           transform="matrix(18.18,0,0,20.459,426.72,186.06)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAjxJREFUaIHtmduO2yAQQA/Y4DiJvdX+/w+u+lDlYjsBzPQhu9lb+9KFFlUcyZIVjYCjgQEcBQj/CfpfDyAlVaZUqkypVJlSqTKlUmVKpcqUSpUplTZlY0optNYopRARoggS46eYlwdgXddk/SeT0VrT91v63ZZGN6wxsswTyzwT3wgppdjt9/T9lrAGTocD3vskY0gm0zQt3x4fGYYRrTVRhGWe+P70xLLMiMg9bhgfGMYHvHdclqU8Ga011nYYa+9TSCnFMF5wzhGCf/4N2rbFGINIRKvXafnlMXy5hbeo11cRoW1bhoeRzbZH6fy1JksPMUbc9YqIYG3Hfj/SNklrzS/JIhNC4Hw+4b2naRqGYaDfbtGZs5MnM+vKPE1cnhe+7TqGcaRtDe/mYmKyyIgIzl05HY9479Bas9vt2fQ9usmXnWwtxzUyT2cuy4KIYKxlGEeMMbm6zCcjCM65W3bc++wopSFBKf5I1hUpIkznM/M8EWPEWMt+P9I0Oss34ewy3juOh8Ob7OywXXffWFOSfSeLMbLMM9N0JsaIbhqMsVnK9F+5AoTgOR2POHfbSHNkBVLL/GYhvGTnfDwRQngXn3LtJDtjCIJ3juvldrD8eI8JwXM4/MBYc6toKK7XC3Fdkxwy4bYdJ2lJa0232WCMZV3Dp3vMS4y1HbazgML7m/zHuD8lmQzwuhaU+pSZjzFKqWQS97apfwOWSZUplSpTKlWmVKpMqVSZUqkypVJlSqXKlEqVKZUqUyo/AVIKBPdS1tDzAAAAAElFTkSuQmCC"
-             mask="url(#mask9995)"
-             id="image9999" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g10001"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.24107572,0,0,-0.27096013,31.576911,216.3462)">
       <g
          id="g10003"
          clip-path="url(#clipPath10007)">
         <text
            transform="matrix(1,0,0,-1,433.03,195)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text10011"><tspan
              x="0"
              y="0"
@@ -17528,35 +17429,14 @@
       </g>
     </g>
     <g
-       id="g10013"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g10015"
-         clip-path="url(#clipPath10019)">
-        <g
-           id="g10021"
-           transform="matrix(18.18,0,0,20.459,501.48,186.06)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAktJREFUaIHtmduOmzAQQI8HTCAXkv3/L2zVh90k3Gzw9CHZqNvutloVq1blI/GCLNuHweMxGED5T5B/PYE1yTKpkmVSJcukSpZJlSyTKlkmVbJMqpRrdmZEEGMwxhBCIITwfjtjEBEUCMuy2viryRhjaOqGZrdDRJi9ZxwGpml8IyUiNNstTbNlWRYulzOz96vMYTWZsiw5PT1xOB4RKQgh0Hcd375+YRj6R7uiKDienji0Ld55pmlMT0ZE2NQ1la0wcluKxhjGccB7xzzPj3tlWWJthaoiRjDGoPr3p/cVE4ABc78AVcWWJW17pK6bh2BMoowQQsA5hwKbzYZ921IWRYyh3hBFZpln+u7KPM8UZcl+f6BuGsw9arGII7MsdN2VaRxRVeq6pj2esNYC8YSiyKgqbnJ01wvzPGNE2O321M0WKeKtnWg9L8vM5XJmHIZbMqgqDm17j04cosmoKtM0cX55xnuPPKJzz2wrpOKfiZovNQT67so49I/o7PcthRRRvgnHlVHFOcflfMY5d4/OjmpTRclsqxaa76GqdNcLzXaLtZaiKLAiUWSib8uqivf+Hp0JVY2236wr88FCCCEwDj3d9cryY8mv6/5PWe01UxTvHdM04rxDw9tpeu95eX7G2oq6rsHANE2EZVmlyITbdrxKTyJCXTeU1hKWhb7vfjmcvVbW1lYYA97PjEP/4SHus6wmA7fy/rWc/93TlnsF/ad2nx6f/BswTbJMqmSZVMkyqZJlUiXLpEqWSZUskypZJlWyTKpkmVT5Dm/RBEv9bdHLAAAAAElFTkSuQmCC"
-             mask="url(#mask10023)"
-             id="image10027" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g10029"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.25503847,0,0,-0.30877508,32.824846,223.1967)">
       <g
          id="g10031"
          clip-path="url(#clipPath10035)">
         <text
            transform="matrix(1,0,0,-1,507.79,194.95)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text10039"><tspan
              x="0"
              y="0"
@@ -17564,35 +17444,14 @@
       </g>
     </g>
     <g
-       id="g10041"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g10043"
-         clip-path="url(#clipPath10047)">
-        <g
-           id="g10049"
-           transform="matrix(18.18,0,0,20.459,427.8,83.821)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAjtJREFUaIHtmcGOmzAQQJ+NDSQh0a72/39wValtgMRgzPRANt1tpB5au3UrP4kLWPY8zWBPiAKE/wT9twOISZHJlSKTK0UmV4pMrhSZXCkyuVJkcsXEnEwphdYapRSrCLKuiMjDmLdLgDWEaOtHk9Fas98f2O33KK0Jy8JlHHHu+kFIKUV3PNG2Ld57+v7M4n2UGKLJGGN4fnnh0HUopVnXwDgMfHp9xbnru3GWp+dn9oeOeZqYJpefjNYVTdNS183tjkUpxeQc3s+EWzkppaiMwVrLuga02sryx3L8pRh+e4Y31BYogIggIhhj6Y4nmqa9P0tJ9N1MRAgh4G+l0+5autORqqpiL/VAkq158Z5x6AnLgjGW0+mJ9rYxpCSNTFgYhh7nHCJCXdd03S07CastiYyIME/TPTuVMXTHI+1ut707ib7UJct7WAJD/y47dsuOsRaRx8M0BslkRIRpcgz9mWXx9+w0dZPsE2rSNzKEQN+fuV4u37NzPGKNTbJe8kZznib68xnvZypjOBw6bG2TnDvJZUSEyzjgrluPZqzFmH9YZp7nLTvzjIgk6wb+yO8ZEWEcBsZxYF3Xdw9AkGg7W7RGc8vAhNIKP/sPAYoI3s98/fIZYyxN04CCaXKEZYkVAopIR5jWmt1+T1UZlsXjrtePWbiNadoWa2tga3ucexz3q0STAVBa3yeUnwSobz3aW3cdbX3K34B5UmRypcjkSpHJlSKTK0UmV4pMrhSZXCkyuVJkcqXI5Mo3TFcS6lnv4tQAAAAASUVORK5CYII="
-             mask="url(#mask10051)"
-             id="image10055" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g10057"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.25503847,0,0,-0.2647724,25.524033,223.61798)">
       <g
          id="g10059"
          clip-path="url(#clipPath10063)">
         <text
            transform="matrix(1,0,0,-1,434.06,92.688)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text10067"><tspan
              x="0"
              y="0"
@@ -17600,35 +17459,14 @@
       </g>
     </g>
     <g
-       id="g10069"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
-      <g
-         id="g10071"
-         clip-path="url(#clipPath10075)">
-        <g
-           id="g10077"
-           transform="matrix(18.18,0,0,20.459,504.24,82.741)">
-          <image
-             width="1"
-             height="1"
-             style="image-rendering:optimizeSpeed"
-             preserveAspectRatio="none"
-             transform="matrix(1,0,0,-1,0,1)"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAA5CAYAAACbOhNMAAAABHNCSVQICAgIfAhkiAAAAkdJREFUaIHtmdty2yAQQA8gIfkiJfn/L+y0L5GtG6ClD66TTtNMZxLRMh3Om20GOCxaFksBkf8E/a8nsCdFJleKTK4UmVwpMrlSZHKlyORKkcmVas/OlNZopVBKEWNERIjx7XVJKYXWmgjEd9p8hN1klFK0bcvxeMJUhm0T5mlkmWdE5KWd1pr2cOB4PCEiXC8Dzrld5rCbjDEVDw+P9I+PGFMRozCNE9++fmGeppfV11rTdT0PT0/IJnjv8d7vEp3dZLTR1NZia4s2BgClNG5dcM4RvP/xncJUFba2eBXQWr9sy0/P4dM93IkRpRQodfsoQlVVnPue9nBA6fS5JskI27axrisigrUN53NPZXbNNb8lmcw0jYQQMMbQdR2H4xGdODpJehcRlnlmWWZijNimoet7qqoGVIohgWSHZsR7z3UY8N6hteZ0OtMeDkmjk2wjb1vArSvzNFPXltpaur5Hti3VkAnLmQjOrVyGZ5xbX6NzTBedpClGRJimkfF6fY1O1wMqyX/CyZO/d47LMODd67PTtM3tTNqZ5DL3zDaOV6II2hjq2ibZan/lChCC5zI8sywL8V4pJOCvyIgI8zRxvVwIIfz0S2TPNyq7JYAYb2fLui5459/cZcK2MQzP2MbeajWlWJeVEMJu9xnFTkujtaZpW+raIlGYx5HtlzNFa421DbaxKKUIPrAs85t2H2U3GbiV9/dy/r3Vvj8vf2r3ofEprwHzpMjkSpHJlSKTK0UmV4pMrhSZXCkyuVJkcqXI5EqRyZXvtacNI4tEwPMAAAAASUVORK5CYII="
-             mask="url(#mask10079)"
-             id="image10083" />
-        </g>
-      </g>
-    </g>
-    <g
        id="g10085"
-       transform="matrix(0.35277777,0,0,-0.35277777,-14.060711,231.77502)">
+       transform="matrix(0.25503847,0,0,-0.27577307,33.097538,224.24831)">
       <g
          id="g10087"
          clip-path="url(#clipPath10091)">
         <text
            transform="matrix(1,0,0,-1,510.58,91.608)"
-           style="font-variant:normal;font-weight:bold;font-size:9px;font-family:Calibri;-inkscape-font-specification:Calibri-Bold;writing-mode:lr-tb;fill:#7030a0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
            id="text10095"><tspan
              x="0"
              y="0"

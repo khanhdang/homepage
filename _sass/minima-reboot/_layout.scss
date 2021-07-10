@@ -4,12 +4,13 @@ $layout-color-syntax-highlighting-background: #f8f9fa !default;
 $layout-responsive-nav-cutoff: 992px !default;
 
 @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 
 body {
   background-color: $layout-color-background;
-  // font-family: "Rubik", Helvetica, sans-serif;
-  font-family: "Arial",sans-serif;
+  font-family: "Inter", Helvetica, sans-serif;
+  // font-family: "Arial",sans-serif;
 
   position: relative;
   overflow-y: scroll;
@@ -46,7 +47,7 @@ body {
 
 
 #nav-container {
-  font-weight: 200;
+  font-weight: 500;
   font-size: 1.1rem;
  
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -99,7 +100,7 @@ body {
 .nav-active{
 
   // border-bottom: 3px solid #10411b; 
-  font-weight: 400;
+  font-weight: 500;
 
   border-bottom: none;
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
