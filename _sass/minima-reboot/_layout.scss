@@ -78,12 +78,11 @@ body {
     z-index: 100;
     top: 0.0rem;
     right: 0.0rem;
-    padding-top: 0.6rem;
-    padding-right: 0.6rem;
+    padding: 0.6rem;
+    
     // border: 1px solid $layout-color-border;
     // border-radius: .25rem;
     background-color: $layout-color-background;
-
   }
   // a {color: #10411b;  }
   // a:hover{ 
@@ -120,13 +119,16 @@ body {
   top: 3.0rem;
   left: 0rem;
   display: block !important;
-  padding-top: 3rem;
-  padding-bottom: auto;
+  padding-top: 1rem;
+  // padding-bottom: auto;
+  margin: auto;
   width: 100vw;
   height: 100vh;
-  background-color: $layout-color-background;
+  
   text-align: center;
-  line-height: 4rem;
+  justify-content: center;
+
+  line-height: 3rem;
   font-size: 1.3rem;
   z-index: 101;
   background-color: $layout-color-background;
