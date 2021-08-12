@@ -76,11 +76,14 @@ body {
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     position: absolute;
     z-index: 100;
-    top: 0.6rem;
-    right: 0.6rem;
-    border: 1px solid $layout-color-border;
-    border-radius: .25rem;
+    top: 0.0rem;
+    right: 0.0rem;
+    padding-top: 0.6rem;
+    padding-right: 0.6rem;
+    // border: 1px solid $layout-color-border;
+    // border-radius: .25rem;
     background-color: $layout-color-background;
+
   }
   // a {color: #10411b;  }
   // a:hover{ 
@@ -113,9 +116,21 @@ body {
 }
 
 #nav-trigger:checked ~ #nav-menu {
+  position: fixed;
+  top: 3.7rem;
+  left: 0rem;
   display: block !important;
+  width: 100vw;
+  height: 100vh;
   background-color: $layout-color-background;
+  text-align: center;
+  line-height: 4.5rem;
+  font-size: 1.45rem;
+  z-index: 101;
+  background-color: $layout-color-background;
+
 }
+
 
 #content {
   h1, h2, h3, h4 {
