@@ -117,15 +117,17 @@ body {
 
 #nav-trigger:checked ~ #nav-menu {
   position: fixed;
-  top: 3.7rem;
+  top: 3.0rem;
   left: 0rem;
   display: block !important;
+  padding-top: 3rem;
+  padding-bottom: auto;
   width: 100vw;
   height: 100vh;
   background-color: $layout-color-background;
   text-align: center;
-  line-height: 4.5rem;
-  font-size: 1.45rem;
+  line-height: 4rem;
+  font-size: 1.3rem;
   z-index: 101;
   background-color: $layout-color-background;
 
