@@ -115,10 +115,10 @@ body {
   
 }
 
-#nav-content-cover {
+.nav-content-cover {
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     position: fixed;
-    top: 0.0rem;
+    top: -50vh;
     right: 0vw;
     width: 0vw;
     height: 200vh;
@@ -127,9 +127,9 @@ body {
   }
 }
 
-#nav-trigger:checked ~ #nav-content-cover {
-  top: 0rem;
-  right: 0rem;
+#nav-trigger:checked ~ .nav-content-cover {
+  top: -50vh;
+  right: -50vw;
   width: 200vw;
 }
 

@@ -5,16 +5,21 @@
     <a href="{{ "/" | relative_url }}"> <img src="/assets/logo.svg"> </a>
     {% if page_paths %}
     <nav id="nav-menu-container" class="text-right navbar-light">
+
       <input type="checkbox" id="nav-trigger" class="d-none" />
       <label for="nav-trigger" aria-label="button" class="nav-element m-2 d-inline-block d-lg-none navbar-toggler-icon custom-toogler">
       </label>
-      <div id="nav-content-cover" class="d-lg-block">
-        
-      </div>
+
+      <input type="checkbox" id="nav-trigger" class="d-none" />
+      <label for="nav-trigger" aria-label="button" class="nav-content-cover m-2 d-inline-block d-lg-none">
+      </label>  
+
       <div id="nav-menu" class="d-none d-lg-block">
+
         <input type="checkbox" id="nav-trigger" class="d-none" />
         <label for="nav-trigger" aria-label="button" class="nav-element  m-2 d-inline-block d-lg-none"> ✖
         </label>
+        
         {% for path in page_paths %}
         {% assign my_page = site.pages | where: "path", path | first %}
         {% assign current = page.url %}
@@ -22,6 +27,7 @@
         <a {% if current == my_page.url %} class=" ml-lg-0 p-2 d-block d-lg-inline-block nav-element nav-active"{% else %} class="	 ml-lg-0 p-2 d-block d-lg-inline-block nav-element nav-inactive"  {% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
         {% endif %}
         {% endfor %}
+        
       </div>
     </nav>
     {% endif %}
