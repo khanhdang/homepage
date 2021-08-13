@@ -44,6 +44,14 @@ body {
 
 }
 
+#logo {
+  // content:url("/assets/logo.svg");
+
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+
+    content:url("/assets/logo_long.svg");
+  }
+}
 
 
 #nav-container {
@@ -150,7 +158,7 @@ body {
     justify-content: center;
 
     // line-height: 3rem;
-    // font-size: 1.3rem;
+    font-size: 1.3rem;
     z-index: 101;
     background-color: $layout-color-background;
     transition-duration: 0.1s;
