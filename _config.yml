@@ -23,7 +23,7 @@ header_pages:
   - about.md
   - research.md
   - pub.md
-  - service.md
+  # - service.md
   - course.md
   # - contact.md
 
