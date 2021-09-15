@@ -31,6 +31,7 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - *Visiting Researcher*, **The University of Aizu**, 2019 May - 2019 September
 - *Researcher*, **SISLAB, Vietnam National University, Hanoi**, 2011-2014
 - *RTL Designer*, **Dolphin Vietnam Inc.**, 2010-2011
+
 ---
 
 ## Education
