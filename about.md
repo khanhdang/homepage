@@ -1,21 +1,21 @@
 ---
-layout: page
+layout: page-toc
 title: About 
 ---
 
-<img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
+<!-- <img src="images/me_SISLAB.jpg" class="avatar" alt="Avatar">
 
 **Khanh N. Dang** <br>
 *Assistant Professor*, <br>
-VNU Key Laboratory for Smart Integrated Systems, <br>
 [VNU University of Engineering and Technology (VNU-UET)](https://e.uet.vnu.edu.vn/), <br> 
 [Vietnam National University, Hanoi (VNU)](https://vnu.edu.vn/eng/) <br> 
 Room 2.1, E4, Vietnam National University, Hanoi, <br>
 144 Xuan Thuy Rd., Hanoi,  Vietnam  [\[map\]](https://goo.gl/maps/UZQVW4WS47aPM4ue9)<br>
 Email: [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn) <br>
-Tel.: +84-24-3754 9664 (office)
- 
----
+Tel.: +84-24-3754 9664 (office) <br>
+[ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [publon](https://publons.com/researcher/3564843) | [linkedin](https://www.linkedin.com/in/dnk0904/) | [github](https://github.com/khanhdang)
+
+--- -->
 
 ## Bio.
 
@@ -37,6 +37,17 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - B.Sc. in *Electronics & Telecommunications*, **VNU University of Engineering and Technology, Vietnam**, 2011
 
 
+## Research Grants
+1. *"Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021)
+1. *"Soft Error Resilient Architecture and Algorithm for Network-on-Chip"* : main PI, funded by **VNU University of Engineering and Technology (VNU-UET)** under project *No. CN18.10* (2018-2019)
+1. *"Development of IoT Dual Band Transmitters for Agriculture (IOTA)"*, core member, funded by the **Ministry of Science and Technology (World Bank project)** (2018-2019).
+1. *"Reconfiguration Solution in Designing Network-on-Chip Architectures "*, core member, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2013.17* (2014-2016).
+1. *"Investigation, Design, and Implementation of a Video Encoder for Next Generation Multimedia Equipment"*, core member, funded by  **Vietnam National University, Hanoi (VNU)** under *No. QGĐA.10.02* (2010-2013).
 
- 
+---
 
+## Awards
+
+1. *Second Prize* (the 2nd best) of **Vietnamese Talents Award 2015** (Giải Nhì, Giải thưởng Nhân tài Đất Việt 2015). The Second Prize awarded to our VENGME H.264/AVC encoding chip which I took part in the design team.
+2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:
+Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).

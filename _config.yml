@@ -23,9 +23,9 @@ header_pages:
   - about.md
   - research.md
   - pub.md
-  - course.md
   - service.md
-  - contact.md
+  - course.md
+  # - contact.md
 
 paginate: 5
 
