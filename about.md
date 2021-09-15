@@ -23,6 +23,7 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 
 
 
+---
 
 ## Professional Experience
 - *Assistant Professor*, **VNU University of Engineering and Technology, Vietnam National University, Hanoi**, 2017 - present
@@ -30,12 +31,14 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - *Visiting Researcher*, **The University of Aizu**, 2019 May - 2019 September
 - *Researcher*, **SISLAB, Vietnam National University, Hanoi**, 2011-2014
 - *RTL Designer*, **Dolphin Vietnam Inc.**, 2010-2011
+---
 
 ## Education
 - Ph.D. in *Computer Science and Engineering*, **The University of Aizu, Japan**, 2017
 - M.Sc. in *Information Systems & Technology*, **University of Paris-XI, France**,  2014
 - B.Sc. in *Electronics & Telecommunications*, **VNU University of Engineering and Technology, Vietnam**, 2011
 
+---
 
 ## Research Grants
 1. *"Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021)
