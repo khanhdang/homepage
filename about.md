@@ -13,7 +13,7 @@ Room 2.1, E4, Vietnam National University, Hanoi, <br>
 144 Xuan Thuy Rd., Hanoi,  Vietnam  [\[map\]](https://goo.gl/maps/UZQVW4WS47aPM4ue9)<br>
 Email: [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn) <br>
 Tel.: +84-24-3754 9664 (office) <br>
-[ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [publon](https://publons.com/researcher/3564843) | [linkedin](https://www.linkedin.com/in/dnk0904/) | [github](https://github.com/khanhdang)
+[ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [Publons](https://publons.com/researcher/3564843) | [Linkedin](https://www.linkedin.com/in/dnk0904/) | [Github](https://github.com/khanhdang)
 
 --- -->
 
@@ -41,7 +41,20 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 
 ---
 
-## Research Grants
+## Research
+
+- Neuromorphic Computing
+- AI for Computer-Aided Design
+- Thermal-aware 3D-ICs
+- Network-on-Chips/System-on-Chips
+- Fault-tolerance computing
+
+For more details, please visit the [research page](/research).
+
+---
+
+## Grants & Fundings
+
 1. *"Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021)
 1. *"Soft Error Resilient Architecture and Algorithm for Network-on-Chip"* : main PI, funded by **VNU University of Engineering and Technology (VNU-UET)** under project *No. CN18.10* (2018-2019)
 1. *"Development of IoT Dual Band Transmitters for Agriculture (IOTA)"*, core member, funded by the **Ministry of Science and Technology (World Bank project)** (2018-2019).
