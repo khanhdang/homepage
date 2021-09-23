@@ -42,14 +42,12 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 9. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp. 2705–2729, 2017.  \[[DOI: 10.1007/s11227-016-1951-0](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](./share/pubs/SUPE-2017.pdf)\].
 {: reversed="reversed"}
 
-##  Domestical journal papers  {#bm4}
+##  VN journal papers  {#bm4}
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
 2. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 
 3. **Khanh N. Dang** and Xuan-Tu Tran, *"An adaptive and high coding rate soft error correction method in Network-on-Chips"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 35, No 1, pp. 32-45, 2019. \[[DOI: 10.25073/2588-1086/vnucsce.218](https://doi.org/10.25073/2588-1086/vnucsce.218)\].
 4. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI:10.21553/rev-jec.72](http://dx.doi.org/10.21553/rev-jec.72)\].
-
-
 {: reversed="reversed"}
 
 
