@@ -24,6 +24,7 @@ title: Service
 *(in alphabetical order)*
 - ACM Journal on Emerging Technologies in Computing Systems
 - Elsevier Journal of Systems Architecture
+- Frontiers in Neuroscience
 - IEEE Transactions on Circuits and Systems I : Regular Papers
 - IEEE Access
 - Journal of Supercomputing

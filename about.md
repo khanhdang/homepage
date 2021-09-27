@@ -77,7 +77,7 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - TPC co-chair: IEEE MCSoC 2019, IEEE APCCAS 2020, IEEE MCSoC 2021
 - Publication chair: MCSoC-2019
 - TPC member: : IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ICCE 2020, IEEE APCCAS 2020, IEEE MCSoC 2021, IEEE APCCAS 2021
-- Journal review: IEEE ACCESS, IEEE TCAS-I, ACM JETC, Elsevier MICPRO, Springer SUPE, Elsevier JSA
+- Journal review: IEEE ACCESS, IEEE TCAS-I, ACM JETC, Elsevier MICPRO, Springer SUPE, Elsevier JSA, Frontiers in Neuroscience
 - Conference review: IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021
 
 For more details, please visit the [service page](/service).
