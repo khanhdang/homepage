@@ -1,6 +1,7 @@
 
 ## News
 
+- **2021-10:** Our project has been funded by Vietnam National University, Hanoi.
 - **2021-06:** We have released the source code for fault insertion into Spiking CNN (VGG-16) on CIFAR-10 dataset. Access the source code [here](https://github.com/khanhdang/hybrid-snn-conversion-with-faults). The source code is related to the paper titled ["Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation" published in ICLR, 2020](https://openreview.net/forum?id=B1xSperKvH) with our fault insertion on weights and thresholds.
 - **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the **Frontiers in Neuroscience**. The paper presents R-NASH - our latest neuromorphic system in 3D-ICs. You can access the paper [here](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208) or download [PDF](./share/pubs/FNINS-2021.pdf) file.
 - **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at The 6th international symposium on Ubiquitous Networking (UNet'21). More details [here](./2021/05/22/Best_Paper_Award_Unet.html).
