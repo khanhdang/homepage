@@ -10,7 +10,7 @@ title: Publications
 ## Under preparation 
 
 - *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*, <button type="button" class="btn-sm btn-warning">under major revision</button>
-- *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, <button type="button" class="btn-sm btn-warning">under major revision</button>
+- *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, <button type="button" class="btn-sm btn-warning">under minor revision</button>
 - *"Neuromorphic Computing Principles and Organization”*, <a role="button" class="btn btn-success btn-sm">in press</a>
 - *"AI-Enabled System for Real-time Secure Pneumonia Detection”*, <button type="button" class="btn-sm btn-warning">under review</button>
 
