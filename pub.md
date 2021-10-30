@@ -11,7 +11,7 @@ title: Publications
 
 - *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*, <button type="button" class="btn-sm btn-warning">under major revision</button>
 - *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, <button type="button" class="btn-sm btn-warning">under major revision</button>
-- *"Neuromorphic Computing Principles and Organization”*, <button type="button" class="btn-sm btn-warning">under review</button>
+- *"Neuromorphic Computing Principles and Organization”*, <a role="button" class="btn btn-success btn-sm">in press</a>
 - *"AI-Enabled System for Real-time Secure Pneumonia Detection”*, <button type="button" class="btn-sm btn-warning">under review</button>
 
 ## Patents 
@@ -25,7 +25,7 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 
 ## Book chapters 
 
-1. Xuan-Tu Tran, **Khanh N. Dang**, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
+1. Xuan-Tu Tran, **Khanh N. Dang**, Duy-Hieu Bui, and Alain Merigot, *"Low Cost Inter-prediction Architecture in H.264/AVC Encoders with an Efficient Data Reuse Strategy"*, Advances in Engineering Research. Volume 40, Chapter 6. **Nova Science Publishers**, 2020. ISBN 978-1-53618-929-2. \[[LINK](https://novapublishers.com/shop/advances-in-engineering-research-volume-40/)\]. 
 2. **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
 
