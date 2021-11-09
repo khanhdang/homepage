@@ -23,6 +23,7 @@ title: Service
 ### Journal
 *(in alphabetical order)*
 - ACM Journal on Emerging Technologies in Computing Systems
+- Applied Sciences
 - Elsevier Journal of Systems Architecture
 <!-- - Frontiers in Neuroscience -->
 - IEEE Transactions on Circuits and Systems I : Regular Papers
