@@ -23,7 +23,7 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 
 ## Books
 
--  Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*,  Publisher: Springer, <a role="button" class="btn btn-success btn-sm">in press</a>
+-  Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, May 10, 2022, ISBN-10‏ :‎ 3030925242, ISBN-13‏ :‎ 978-3030925246 <a role="button" class="btn btn-success btn-sm">in press</a>
 
 
 ## Book chapters 
