@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="486.46335mm"
-   height="135.07179mm"
-   viewBox="0 0 486.46336 135.0718"
+   width="467.45749mm"
+   height="88.556236mm"
+   viewBox="0 0 467.4575 88.556244"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -23,20 +23,20 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     fit-margin-top="25"
+     fit-margin-top="12"
      fit-margin-left="0"
      fit-margin-right="10"
-     fit-margin-bottom="25"
+     fit-margin-bottom="12"
      lock-margins="true"
      inkscape:zoom="0.4004384"
-     inkscape:cx="1829.2451"
-     inkscape:cy="-593.09996"
+     inkscape:cx="1137.5033"
+     inkscape:cy="43.702102"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2131" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -289,423 +289,431 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(168.02307,-50.818986)">
-    <text
-       xml:space="preserve"
-       style="font-size:50.8px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30566"
-       x="-67.587883"
-       y="136.23906"
-       id="text50106"><tspan
-         sodipodi:role="line"
-         id="tspan50104"
-         style="font-weight:bold;font-size:50.8px;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30566"
+     transform="translate(149.01721,-72.09393)">
+    <g
+       id="g1320"
+       transform="translate(0,-1.6727743)">
+      <text
+         xml:space="preserve"
+         style="font-size:50.8px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30566"
          x="-67.587883"
-         y="136.23906">Khánh's </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:46.9194px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
-       x="141.74811"
-       y="134.87289"
-       id="text25288"><tspan
-         sodipodi:role="line"
-         id="tspan25286"
-         style="font-size:46.9194px;fill:#2b1100;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30566"
+         y="136.23906"
+         id="text50106"><tspan
+           sodipodi:role="line"
+           id="tspan50104"
+           style="font-weight:bold;font-size:50.8px;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30566"
+           x="-67.587883"
+           y="136.23906">Khánh's </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:46.9194px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none"
          x="141.74811"
-         y="134.87289">Website</tspan></text>
+         y="134.87289"
+         id="text25288"><tspan
+           sodipodi:role="line"
+           id="tspan25286"
+           style="font-size:46.9194px;fill:#2b1100;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30566"
+           x="141.74811"
+           y="134.87289">Website</tspan></text>
+    </g>
     <g
        id="g2131"
        transform="matrix(0.89549257,0,0,0.89549257,-7.3456551,13.633083)">
       <g
-         id="g15682"
-         transform="rotate(45,-131.83812,116.5216)">
-        <rect
-           style="fill:#6c5a4e;fill-opacity:1;stroke:#ffffff;stroke-width:1.82192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect860"
-           width="62.000507"
-           height="61.109489"
-           x="-163.02159"
-           y="86.741776"
-           ry="10.083168" />
+         id="g1314"
+         transform="matrix(0.89092561,0,0,0.89092561,-4.2731843,10.718833)">
         <g
-           id="g1946"
-           transform="rotate(90,-131.83812,116.5216)"
-           style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
+           id="g15682"
+           transform="rotate(45,-131.83812,116.5216)">
+          <rect
+             style="fill:#6c5a4e;fill-opacity:1;stroke:#ffffff;stroke-width:1.82192;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect860"
+             width="62.000507"
+             height="61.109489"
+             x="-163.02159"
+             y="86.741776"
+             ry="10.083168" />
           <g
-             id="g1926"
-             transform="translate(-3.3209496,20.844104)"
+             id="g1946"
+             transform="rotate(90,-131.83812,116.5216)"
              style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -131.39991,61.251863 0.046,8.18863"
-               id="path1910"
-               inkscape:path-effect="#path-effect1950"
-               inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -137.11932,61.251863 0.0459,8.18863"
-               id="path1912"
-               inkscape:path-effect="#path-effect1954"
-               inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -142.83878,61.251863 0.0459,8.18863"
-               id="path1914"
-               inkscape:path-effect="#path-effect1958"
-               inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -148.55829,61.251863 0.046,8.18863"
-               id="path1916"
-               inkscape:path-effect="#path-effect1962"
-               inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -108.52206,61.251863 0.046,8.18863"
-               id="path1918"
-               inkscape:path-effect="#path-effect1966"
-               inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -114.24147,61.251863 0.0459,8.18863"
-               id="path1920"
-               inkscape:path-effect="#path-effect1970"
-               inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -119.96093,61.251863 0.0459,8.18863"
-               id="path1922"
-               inkscape:path-effect="#path-effect1974"
-               inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -125.68044,61.251863 0.046,8.18863"
-               id="path1924"
-               inkscape:path-effect="#path-effect1978"
-               inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
+            <g
+               id="g1926"
+               transform="translate(-3.3209496,20.844104)"
+               style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -131.39991,61.251863 0.046,8.18863"
+                 id="path1910"
+                 inkscape:path-effect="#path-effect1950"
+                 inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -137.11932,61.251863 0.0459,8.18863"
+                 id="path1912"
+                 inkscape:path-effect="#path-effect1954"
+                 inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -142.83878,61.251863 0.0459,8.18863"
+                 id="path1914"
+                 inkscape:path-effect="#path-effect1958"
+                 inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -148.55829,61.251863 0.046,8.18863"
+                 id="path1916"
+                 inkscape:path-effect="#path-effect1962"
+                 inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -108.52206,61.251863 0.046,8.18863"
+                 id="path1918"
+                 inkscape:path-effect="#path-effect1966"
+                 inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -114.24147,61.251863 0.0459,8.18863"
+                 id="path1920"
+                 inkscape:path-effect="#path-effect1970"
+                 inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -119.96093,61.251863 0.0459,8.18863"
+                 id="path1922"
+                 inkscape:path-effect="#path-effect1974"
+                 inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -125.68044,61.251863 0.046,8.18863"
+                 id="path1924"
+                 inkscape:path-effect="#path-effect1978"
+                 inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+            </g>
+            <g
+               id="g1944"
+               transform="translate(-3.3209496,81.506749)"
+               style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -131.39991,61.251863 0.046,8.18863"
+                 id="path1928"
+                 inkscape:path-effect="#path-effect1982"
+                 inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -137.11932,61.251863 0.0459,8.18863"
+                 id="path1930"
+                 inkscape:path-effect="#path-effect1986"
+                 inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -142.83878,61.251863 0.0459,8.18863"
+                 id="path1932"
+                 inkscape:path-effect="#path-effect1990"
+                 inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -148.55829,61.251863 0.046,8.18863"
+                 id="path1934"
+                 inkscape:path-effect="#path-effect1994"
+                 inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -108.52206,61.251863 0.046,8.18863"
+                 id="path1936"
+                 inkscape:path-effect="#path-effect1998"
+                 inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -114.24147,61.251863 0.0459,8.18863"
+                 id="path1938"
+                 inkscape:path-effect="#path-effect2002"
+                 inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -119.96093,61.251863 0.0459,8.18863"
+                 id="path1940"
+                 inkscape:path-effect="#path-effect2006"
+                 inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -125.68044,61.251863 0.046,8.18863"
+                 id="path1942"
+                 inkscape:path-effect="#path-effect2010"
+                 inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+            </g>
           </g>
           <g
-             id="g1944"
-             transform="translate(-3.3209496,81.506749)"
+             id="g1908"
              style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -131.39991,61.251863 0.046,8.18863"
-               id="path1928"
-               inkscape:path-effect="#path-effect1982"
-               inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -137.11932,61.251863 0.0459,8.18863"
-               id="path1930"
-               inkscape:path-effect="#path-effect1986"
-               inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -142.83878,61.251863 0.0459,8.18863"
-               id="path1932"
-               inkscape:path-effect="#path-effect1990"
-               inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -148.55829,61.251863 0.046,8.18863"
-               id="path1934"
-               inkscape:path-effect="#path-effect1994"
-               inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -108.52206,61.251863 0.046,8.18863"
-               id="path1936"
-               inkscape:path-effect="#path-effect1998"
-               inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -114.24147,61.251863 0.0459,8.18863"
-               id="path1938"
-               inkscape:path-effect="#path-effect2002"
-               inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -119.96093,61.251863 0.0459,8.18863"
-               id="path1940"
-               inkscape:path-effect="#path-effect2006"
-               inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -125.68044,61.251863 0.046,8.18863"
-               id="path1942"
-               inkscape:path-effect="#path-effect2010"
-               inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
+            <g
+               id="g970"
+               transform="translate(-3.3209496,20.844104)"
+               style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -131.39991,61.251863 0.046,8.18863"
+                 id="path873"
+                 inkscape:path-effect="#path-effect877"
+                 inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -137.11932,61.251863 0.0459,8.18863"
+                 id="path879"
+                 inkscape:path-effect="#path-effect883"
+                 inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -142.83878,61.251863 0.0459,8.18863"
+                 id="path885"
+                 inkscape:path-effect="#path-effect889"
+                 inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -148.55829,61.251863 0.046,8.18863"
+                 id="path891"
+                 inkscape:path-effect="#path-effect895"
+                 inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -108.52206,61.251863 0.046,8.18863"
+                 id="path873-4"
+                 inkscape:path-effect="#path-effect944"
+                 inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -114.24147,61.251863 0.0459,8.18863"
+                 id="path879-7"
+                 inkscape:path-effect="#path-effect948"
+                 inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -119.96093,61.251863 0.0459,8.18863"
+                 id="path885-8"
+                 inkscape:path-effect="#path-effect952"
+                 inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -125.68044,61.251863 0.046,8.18863"
+                 id="path891-9"
+                 inkscape:path-effect="#path-effect956"
+                 inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+            </g>
+            <g
+               id="g970-0"
+               transform="translate(-3.3209496,81.506749)"
+               style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -131.39991,61.251863 0.046,8.18863"
+                 id="path873-9"
+                 inkscape:path-effect="#path-effect1851"
+                 inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -137.11932,61.251863 0.0459,8.18863"
+                 id="path879-6"
+                 inkscape:path-effect="#path-effect1855"
+                 inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -142.83878,61.251863 0.0459,8.18863"
+                 id="path885-2"
+                 inkscape:path-effect="#path-effect1859"
+                 inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -148.55829,61.251863 0.046,8.18863"
+                 id="path891-1"
+                 inkscape:path-effect="#path-effect1863"
+                 inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -108.52206,61.251863 0.046,8.18863"
+                 id="path873-4-0"
+                 inkscape:path-effect="#path-effect1867"
+                 inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -114.24147,61.251863 0.0459,8.18863"
+                 id="path879-7-9"
+                 inkscape:path-effect="#path-effect1871"
+                 inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -119.96093,61.251863 0.0459,8.18863"
+                 id="path885-8-5"
+                 inkscape:path-effect="#path-effect1875"
+                 inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+              <path
+                 style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -125.68044,61.251863 0.046,8.18863"
+                 id="path891-9-2"
+                 inkscape:path-effect="#path-effect1879"
+                 inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
+                 inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+                 inkscape:export-xdpi="100"
+                 inkscape:export-ydpi="100" />
+            </g>
           </g>
+          <rect
+             style="fill:#fefefe;fill-opacity:1;stroke:#ffffff;stroke-width:3.49211;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1098"
+             width="51.192104"
+             height="50.561329"
+             x="-157.52515"
+             y="91.79351"
+             ry="8.3427057"
+             inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
+             inkscape:export-xdpi="100"
+             inkscape:export-ydpi="100" />
         </g>
         <g
-           id="g1908"
-           style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
-          <g
-             id="g970"
-             transform="translate(-3.3209496,20.844104)"
-             style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -131.39991,61.251863 0.046,8.18863"
-               id="path873"
-               inkscape:path-effect="#path-effect877"
-               inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -137.11932,61.251863 0.0459,8.18863"
-               id="path879"
-               inkscape:path-effect="#path-effect883"
-               inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -142.83878,61.251863 0.0459,8.18863"
-               id="path885"
-               inkscape:path-effect="#path-effect889"
-               inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -148.55829,61.251863 0.046,8.18863"
-               id="path891"
-               inkscape:path-effect="#path-effect895"
-               inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -108.52206,61.251863 0.046,8.18863"
-               id="path873-4"
-               inkscape:path-effect="#path-effect944"
-               inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -114.24147,61.251863 0.0459,8.18863"
-               id="path879-7"
-               inkscape:path-effect="#path-effect948"
-               inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -119.96093,61.251863 0.0459,8.18863"
-               id="path885-8"
-               inkscape:path-effect="#path-effect952"
-               inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -125.68044,61.251863 0.046,8.18863"
-               id="path891-9"
-               inkscape:path-effect="#path-effect956"
-               inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-          </g>
-          <g
-             id="g970-0"
-             transform="translate(-3.3209496,81.506749)"
-             style="fill:#000000;stroke:#6c5a4e;stroke-opacity:1">
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -131.39991,61.251863 0.046,8.18863"
-               id="path873-9"
-               inkscape:path-effect="#path-effect1851"
-               inkscape:original-d="m -131.39991,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -137.11932,61.251863 0.0459,8.18863"
-               id="path879-6"
-               inkscape:path-effect="#path-effect1855"
-               inkscape:original-d="m -137.11932,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -142.83878,61.251863 0.0459,8.18863"
-               id="path885-2"
-               inkscape:path-effect="#path-effect1859"
-               inkscape:original-d="m -142.83878,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -148.55829,61.251863 0.046,8.18863"
-               id="path891-1"
-               inkscape:path-effect="#path-effect1863"
-               inkscape:original-d="m -148.55829,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -108.52206,61.251863 0.046,8.18863"
-               id="path873-4-0"
-               inkscape:path-effect="#path-effect1867"
-               inkscape:original-d="m -108.52206,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -114.24147,61.251863 0.0459,8.18863"
-               id="path879-7-9"
-               inkscape:path-effect="#path-effect1871"
-               inkscape:original-d="m -114.24147,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -119.96093,61.251863 0.0459,8.18863"
-               id="path885-8-5"
-               inkscape:path-effect="#path-effect1875"
-               inkscape:original-d="m -119.96093,61.251863 c 0.0136,2.729765 0.031,5.459343 0.0459,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-            <path
-               style="fill:#000000;fill-opacity:0.544846;stroke:#6c5a4e;stroke-width:3.44377;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m -125.68044,61.251863 0.046,8.18863"
-               id="path891-9-2"
-               inkscape:path-effect="#path-effect1879"
-               inkscape:original-d="m -125.68044,61.251863 c 0.0136,2.729765 0.0311,5.459343 0.046,8.18863"
-               inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-               inkscape:export-xdpi="100"
-               inkscape:export-ydpi="100" />
-          </g>
-        </g>
-        <rect
-           style="fill:#fefefe;fill-opacity:1;stroke:#ffffff;stroke-width:3.49211;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect1098"
-           width="51.192104"
-           height="50.561329"
-           x="-157.52515"
-           y="91.79351"
-           ry="8.3427057"
+           id="g24"
+           transform="matrix(0.08721136,0,0,0.08721103,-154.51612,94.417827)"
+           style="fill:#333333;fill-opacity:1"
            inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
            inkscape:export-xdpi="100"
-           inkscape:export-ydpi="100" />
-      </g>
-      <g
-         id="g24"
-         transform="matrix(0.08721136,0,0,0.08721103,-154.51612,94.417827)"
-         style="fill:#333333;fill-opacity:1"
-         inkscape:export-filename="D:\WORKSPACE\Personal_Project\khanhdang.github.io\assets\rect1098.png"
-         inkscape:export-xdpi="100"
-         inkscape:export-ydpi="100">
-        <path
-           d="m 428.487,416.533 c -8.187,4.289 -17.168,6.946 -26.692,7.899 -2.045,0.205 -3.917,1.24 -5.178,2.864 -1.261,1.624 -1.799,3.694 -1.49,5.727 0.432,2.833 0.632,5.168 0.632,7.348 0,31.226 -29.665,56.629 -66.129,56.629 -26.563,0 -50.461,-13.545 -60.884,-34.509 -1.186,-2.384 -3.017,-4.31 -5.246,-5.636 v -94.767 c 0.57,-0.02 1.139,-0.04 1.721,-0.06 14.656,-0.52 32.886,-1.174 43.041,8.625 5.228,5.044 8.273,12.915 9.103,23.426 -8.615,3.16 -14.779,11.438 -14.779,21.127 0,12.405 10.103,22.498 22.52,22.498 12.417,0 22.52,-10.093 22.52,-22.498 0,-9.856 -6.38,-18.246 -15.228,-21.28 -0.994,-14.785 -5.595,-26.228 -13.719,-34.068 -14.741,-14.224 -37.427,-13.412 -53.992,-12.821 -0.401,0.014 -0.791,0.028 -1.186,0.042 v -47.15 c 76.506,0.155 115.122,3.291 118.466,44.512 -8.614,3.161 -14.777,11.438 -14.777,21.127 0,12.405 10.103,22.498 22.52,22.498 12.417,0 22.52,-10.093 22.52,-22.498 0,-9.861 -6.386,-18.253 -15.241,-21.284 -1.849,-26.586 -15.755,-43.554 -42.372,-51.76 -23.089,-7.118 -54.613,-7.571 -91.116,-7.599 v -46.861 c 36.503,-0.029 68.027,-0.481 91.116,-7.599 26.617,-8.206 40.523,-25.174 42.372,-51.76 8.855,-3.031 15.241,-11.424 15.241,-21.285 0,-12.405 -10.103,-22.497 -22.52,-22.497 -12.417,0 -22.52,10.092 -22.52,22.497 0,9.689 6.163,17.967 14.777,21.128 -3.344,41.221 -41.96,44.357 -118.466,44.512 v -45.661 c 0.395,0.014 0.784,0.027 1.186,0.042 3.51,0.125 7.294,0.261 11.219,0.261 14.603,0 31.155,-1.872 42.773,-13.082 8.125,-7.839 12.725,-19.283 13.719,-34.067 8.848,-3.035 15.228,-11.425 15.228,-21.281 0,-12.405 -10.103,-22.497 -22.52,-22.497 -12.417,0 -22.52,10.092 -22.52,22.497 0,9.689 6.163,17.968 14.779,21.128 -0.83,10.511 -3.875,18.382 -9.103,23.425 -10.155,9.799 -28.391,9.144 -43.04,8.625 -0.582,-0.021 -1.151,-0.041 -1.722,-0.06 v -32.494 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.357 -7.5,7.5 v 326.961 c -2.229,1.326 -4.061,3.253 -5.247,5.638 -10.422,20.96 -34.32,34.505 -60.883,34.505 -36.464,0 -66.129,-25.403 -66.129,-56.629 0,-2.18 0.2,-4.515 0.632,-7.348 0.017,-0.124 1.839,-12.554 10.387,-20.8 2.981,-2.875 3.066,-7.623 0.19,-10.604 -2.876,-2.98 -7.625,-3.068 -10.604,-0.19 -7.364,7.104 -11.177,15.917 -13.078,22.055 -17.461,-3.31 -32.997,-12.723 -42.391,-25.958 -2.397,-3.375 -7.08,-4.171 -10.458,-1.774 -3.377,2.398 -4.172,7.08 -1.774,10.458 11.86,16.707 30.584,28.156 52.139,32.101 -0.027,0.696 -0.041,1.381 -0.041,2.062 0,39.496 36.395,71.629 81.129,71.629 31.652,0 60.371,-16.237 73.63,-41.489 13.258,25.251 41.976,41.487 73.628,41.487 44.734,0 81.129,-32.133 81.129,-71.629 0,-0.681 -0.014,-1.365 -0.041,-2.062 8.712,-1.598 17.003,-4.441 24.73,-8.489 3.669,-1.922 5.085,-6.455 3.163,-10.124 -1.922,-3.67 -6.453,-5.086 -10.124,-3.163 z M 325.105,407.71 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0.001,-4.134 3.374,-7.497 7.52,-7.497 z m 64.604,-49.639 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0,-4.133 3.374,-7.497 7.52,-7.497 z m 0,-208.148 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0,-4.134 3.374,-7.497 7.52,-7.497 z m -64.604,-48.15 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0.001,-4.133 3.374,-7.497 7.52,-7.497 z"
-           id="path2"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 51.815,368.226 c 0,-13.564 5.701,-27.079 15.642,-37.076 1.918,-1.93 2.642,-4.746 1.89,-7.361 -0.752,-2.614 -2.861,-4.617 -5.512,-5.232 C 35.082,311.878 15,289.45 15,264.016 c 0,-15.82 7.369,-30.854 20.749,-42.333 1.602,-1.373 2.55,-3.357 2.613,-5.466 0.064,-2.108 -0.763,-4.146 -2.277,-5.613 -7.661,-7.422 -11.88,-16.921 -11.88,-26.749 0,-22.033 20.302,-39.834 46.218,-40.524 0.117,0.001 11.556,0.19 19.595,7.3 1.427,1.262 3.2,1.882 4.966,1.882 2.074,0 4.139,-0.855 5.621,-2.531 2.744,-3.103 2.453,-7.843 -0.649,-10.587 -8.642,-7.643 -19.365,-10.003 -25.292,-10.733 -2.902,-5.325 -4.441,-11.118 -4.441,-16.951 0,-12.392 6.554,-23.957 17.981,-31.729 3.425,-2.329 4.313,-6.994 1.983,-10.419 -2.329,-3.425 -6.995,-4.314 -10.419,-1.983 -15.6,10.609 -24.546,26.695 -24.546,44.132 0,6.084 1.139,12.114 3.341,17.847 -28.443,5.382 -49.358,27.555 -49.358,54.298 0,11.42 3.927,22.437 11.188,31.696 C 7.188,229.169 0,246.129 0,264.016 c 0,28.896 19.708,54.609 49.154,65.731 -7.934,11.354 -12.339,24.877 -12.339,38.479 0,4.143 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.358 7.5,-7.5 z"
-           id="path4"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 512,264.016 c 0,-17.889 -7.187,-34.849 -20.394,-48.465 7.261,-9.26 11.188,-20.277 11.188,-31.696 0,-26.743 -20.916,-48.916 -49.359,-54.298 2.203,-5.733 3.342,-11.764 3.342,-17.847 0,-30.656 -28.137,-55.597 -62.722,-55.597 -0.69,0 -1.431,0.016 -2.205,0.044 C 389.932,42.012 382.548,28.81 370.635,18.45 357.217,6.781 339.748,0.23 321.446,0.007 321.113,0.002 320.78,0 320.447,0 293.179,0 268.122,13.731 256,35.278 243.878,13.73 218.824,0 191.553,0 c -0.331,0 -0.667,0.002 -0.999,0.007 -18.303,0.224 -35.772,6.774 -49.19,18.443 -11.911,10.358 -19.294,23.559 -21.214,37.707 -0.774,-0.028 -1.515,-0.044 -2.205,-0.044 -4.143,0 -7.5,3.357 -7.5,7.5 0,4.143 3.357,7.5 7.5,7.5 2.292,0 5.484,0.233 8.332,0.608 2.256,0.297 4.503,-0.438 6.143,-1.995 1.642,-1.558 2.492,-3.773 2.314,-6.029 l -0.045,-0.512 c -0.012,-0.135 -0.028,-0.269 -0.033,-0.332 0.456,-25.569 26.139,-47.481 56.082,-47.849 22.62,-0.23 43.295,10.921 52.684,28.53 1.185,2.223 2.954,4.029 5.079,5.295 v 46.44 c 0,4.143 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.357 7.5,-7.5 V 48.83 c 2.125,-1.265 3.894,-3.072 5.079,-5.295 C 277.854,26.14 298.147,15 320.439,15 c 0.274,0 0.549,0.002 0.823,0.005 29.943,0.367 55.626,22.279 56.082,47.776 -0.121,-0.086 -0.213,15.035 -8.276,24.672 -2.658,3.177 -2.237,7.906 0.939,10.564 1.403,1.175 3.11,1.748 4.809,1.748 2.144,0 4.272,-0.914 5.756,-2.688 6.984,-8.347 9.823,-18.729 10.979,-25.891 0.901,-0.047 1.754,-0.074 2.505,-0.074 26.313,0 47.722,18.212 47.722,40.597 0,6.947 -2.157,13.848 -6.237,19.957 -1.518,2.271 -1.68,5.188 -0.424,7.613 1.255,2.426 3.73,3.978 6.461,4.05 25.916,0.69 46.218,18.491 46.218,40.524 0,9.828 -4.219,19.327 -11.88,26.749 -0.076,0.078 -8.098,8.062 -18.56,8.894 -4.129,0.328 -7.21,3.941 -6.882,8.071 0.313,3.927 3.596,6.905 7.469,6.905 0.199,0 0.4,-0.008 0.603,-0.023 9.502,-0.755 17.311,-5.007 22.244,-8.495 10.494,10.82 16.21,24.134 16.21,38.062 0,25.435 -20.082,47.862 -48.835,54.54 -2.65,0.615 -4.76,2.618 -5.512,5.232 -0.752,2.615 -0.029,5.432 1.89,7.361 9.94,9.998 15.642,23.512 15.642,37.076 0,9.489 -2.803,18.875 -8.104,27.145 -2.236,3.486 -1.222,8.126 2.266,10.361 1.253,0.804 2.655,1.188 4.041,1.188 2.47,0 4.889,-1.219 6.32,-3.453 6.854,-10.689 10.478,-22.876 10.478,-35.24 0,-13.601 -4.406,-27.124 -12.34,-38.479 C 492.292,318.626 512,292.913 512,264.016 Z"
-           id="path6"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 84.713,256.586 c -0.232,4.136 2.933,7.677 7.067,7.909 0.144,0.008 0.286,0.012 0.428,0.012 3.949,0 7.257,-3.087 7.481,-7.079 0.021,-0.377 2.552,-37.757 40.382,-46.959 4.025,-0.979 6.494,-5.035 5.515,-9.06 -0.979,-4.025 -5.032,-6.497 -9.06,-5.515 -25.353,6.167 -38.117,22.344 -44.361,34.829 -6.682,13.362 -7.424,25.359 -7.452,25.863 z"
-           id="path8"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 200.854,83.125 c -4.102,-0.385 -7.781,2.638 -8.171,6.763 -2.221,23.538 -26.596,32.554 -27.664,32.937 -3.895,1.379 -5.942,5.649 -4.575,9.551 1.082,3.089 3.98,5.021 7.078,5.021 0.822,0 1.66,-0.137 2.48,-0.424 1.406,-0.493 34.48,-12.453 37.614,-45.677 0.389,-4.124 -2.638,-7.782 -6.762,-8.171 z"
-           id="path10"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 194.816,417.339 c 1.041,0.495 2.138,0.729 3.218,0.729 2.803,0 5.492,-1.579 6.777,-4.279 1.779,-3.74 0.19,-8.216 -3.55,-9.995 -28.863,-13.733 -26.393,-46.382 -26.271,-47.796 0.372,-4.114 -2.654,-7.758 -6.771,-8.144 -4.116,-0.372 -7.781,2.644 -8.167,6.769 -0.167,1.805 -3.696,44.416 34.764,62.716 z"
-           id="path12"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 177.044,278.131 c -3.741,1.779 -5.33,6.254 -3.551,9.994 1.284,2.701 3.974,4.28 6.777,4.28 1.08,0 2.177,-0.234 3.217,-0.729 24.281,-11.552 22.06,-38.39 21.953,-39.526 -0.387,-4.125 -4.055,-7.141 -8.167,-6.769 -4.124,0.387 -7.154,4.043 -6.769,8.167 0.017,0.174 1.459,17.484 -13.46,24.583 z"
-           id="path14"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 355.338,262.24 c 0,4.142 3.358,7.5 7.501,7.5 4.143,0 7.501,-3.358 7.501,-7.5 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 z"
-           id="path16"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 413.829,269.74 c 4.143,0 7.501,-3.358 7.501,-7.5 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 0,4.142 3.359,7.5 7.501,7.5 z"
-           id="path18"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 317.608,468.74 c 0,4.142 3.358,7.5 7.501,7.5 4.143,0 7.501,-3.358 7.501,-7.5 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 z"
-           id="path20"
-           style="fill:#333333;fill-opacity:1" />
-        <path
-           d="m 332.609,55.74 c 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 0,4.142 3.358,7.5 7.501,7.5 4.143,0 7.501,-3.358 7.501,-7.5 z"
-           id="path22"
-           style="fill:#333333;fill-opacity:1" />
+           inkscape:export-ydpi="100">
+          <path
+             d="m 428.487,416.533 c -8.187,4.289 -17.168,6.946 -26.692,7.899 -2.045,0.205 -3.917,1.24 -5.178,2.864 -1.261,1.624 -1.799,3.694 -1.49,5.727 0.432,2.833 0.632,5.168 0.632,7.348 0,31.226 -29.665,56.629 -66.129,56.629 -26.563,0 -50.461,-13.545 -60.884,-34.509 -1.186,-2.384 -3.017,-4.31 -5.246,-5.636 v -94.767 c 0.57,-0.02 1.139,-0.04 1.721,-0.06 14.656,-0.52 32.886,-1.174 43.041,8.625 5.228,5.044 8.273,12.915 9.103,23.426 -8.615,3.16 -14.779,11.438 -14.779,21.127 0,12.405 10.103,22.498 22.52,22.498 12.417,0 22.52,-10.093 22.52,-22.498 0,-9.856 -6.38,-18.246 -15.228,-21.28 -0.994,-14.785 -5.595,-26.228 -13.719,-34.068 -14.741,-14.224 -37.427,-13.412 -53.992,-12.821 -0.401,0.014 -0.791,0.028 -1.186,0.042 v -47.15 c 76.506,0.155 115.122,3.291 118.466,44.512 -8.614,3.161 -14.777,11.438 -14.777,21.127 0,12.405 10.103,22.498 22.52,22.498 12.417,0 22.52,-10.093 22.52,-22.498 0,-9.861 -6.386,-18.253 -15.241,-21.284 -1.849,-26.586 -15.755,-43.554 -42.372,-51.76 -23.089,-7.118 -54.613,-7.571 -91.116,-7.599 v -46.861 c 36.503,-0.029 68.027,-0.481 91.116,-7.599 26.617,-8.206 40.523,-25.174 42.372,-51.76 8.855,-3.031 15.241,-11.424 15.241,-21.285 0,-12.405 -10.103,-22.497 -22.52,-22.497 -12.417,0 -22.52,10.092 -22.52,22.497 0,9.689 6.163,17.967 14.777,21.128 -3.344,41.221 -41.96,44.357 -118.466,44.512 v -45.661 c 0.395,0.014 0.784,0.027 1.186,0.042 3.51,0.125 7.294,0.261 11.219,0.261 14.603,0 31.155,-1.872 42.773,-13.082 8.125,-7.839 12.725,-19.283 13.719,-34.067 8.848,-3.035 15.228,-11.425 15.228,-21.281 0,-12.405 -10.103,-22.497 -22.52,-22.497 -12.417,0 -22.52,10.092 -22.52,22.497 0,9.689 6.163,17.968 14.779,21.128 -0.83,10.511 -3.875,18.382 -9.103,23.425 -10.155,9.799 -28.391,9.144 -43.04,8.625 -0.582,-0.021 -1.151,-0.041 -1.722,-0.06 v -32.494 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.357 -7.5,7.5 v 326.961 c -2.229,1.326 -4.061,3.253 -5.247,5.638 -10.422,20.96 -34.32,34.505 -60.883,34.505 -36.464,0 -66.129,-25.403 -66.129,-56.629 0,-2.18 0.2,-4.515 0.632,-7.348 0.017,-0.124 1.839,-12.554 10.387,-20.8 2.981,-2.875 3.066,-7.623 0.19,-10.604 -2.876,-2.98 -7.625,-3.068 -10.604,-0.19 -7.364,7.104 -11.177,15.917 -13.078,22.055 -17.461,-3.31 -32.997,-12.723 -42.391,-25.958 -2.397,-3.375 -7.08,-4.171 -10.458,-1.774 -3.377,2.398 -4.172,7.08 -1.774,10.458 11.86,16.707 30.584,28.156 52.139,32.101 -0.027,0.696 -0.041,1.381 -0.041,2.062 0,39.496 36.395,71.629 81.129,71.629 31.652,0 60.371,-16.237 73.63,-41.489 13.258,25.251 41.976,41.487 73.628,41.487 44.734,0 81.129,-32.133 81.129,-71.629 0,-0.681 -0.014,-1.365 -0.041,-2.062 8.712,-1.598 17.003,-4.441 24.73,-8.489 3.669,-1.922 5.085,-6.455 3.163,-10.124 -1.922,-3.67 -6.453,-5.086 -10.124,-3.163 z M 325.105,407.71 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0.001,-4.134 3.374,-7.497 7.52,-7.497 z m 64.604,-49.639 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0,-4.133 3.374,-7.497 7.52,-7.497 z m 0,-208.148 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0,-4.134 3.374,-7.497 7.52,-7.497 z m -64.604,-48.15 c 4.146,0 7.52,3.363 7.52,7.497 0,4.135 -3.373,7.498 -7.52,7.498 -4.147,0 -7.52,-3.363 -7.52,-7.498 0.001,-4.133 3.374,-7.497 7.52,-7.497 z"
+             id="path2"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 51.815,368.226 c 0,-13.564 5.701,-27.079 15.642,-37.076 1.918,-1.93 2.642,-4.746 1.89,-7.361 -0.752,-2.614 -2.861,-4.617 -5.512,-5.232 C 35.082,311.878 15,289.45 15,264.016 c 0,-15.82 7.369,-30.854 20.749,-42.333 1.602,-1.373 2.55,-3.357 2.613,-5.466 0.064,-2.108 -0.763,-4.146 -2.277,-5.613 -7.661,-7.422 -11.88,-16.921 -11.88,-26.749 0,-22.033 20.302,-39.834 46.218,-40.524 0.117,0.001 11.556,0.19 19.595,7.3 1.427,1.262 3.2,1.882 4.966,1.882 2.074,0 4.139,-0.855 5.621,-2.531 2.744,-3.103 2.453,-7.843 -0.649,-10.587 -8.642,-7.643 -19.365,-10.003 -25.292,-10.733 -2.902,-5.325 -4.441,-11.118 -4.441,-16.951 0,-12.392 6.554,-23.957 17.981,-31.729 3.425,-2.329 4.313,-6.994 1.983,-10.419 -2.329,-3.425 -6.995,-4.314 -10.419,-1.983 -15.6,10.609 -24.546,26.695 -24.546,44.132 0,6.084 1.139,12.114 3.341,17.847 -28.443,5.382 -49.358,27.555 -49.358,54.298 0,11.42 3.927,22.437 11.188,31.696 C 7.188,229.169 0,246.129 0,264.016 c 0,28.896 19.708,54.609 49.154,65.731 -7.934,11.354 -12.339,24.877 -12.339,38.479 0,4.143 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.358 7.5,-7.5 z"
+             id="path4"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 512,264.016 c 0,-17.889 -7.187,-34.849 -20.394,-48.465 7.261,-9.26 11.188,-20.277 11.188,-31.696 0,-26.743 -20.916,-48.916 -49.359,-54.298 2.203,-5.733 3.342,-11.764 3.342,-17.847 0,-30.656 -28.137,-55.597 -62.722,-55.597 -0.69,0 -1.431,0.016 -2.205,0.044 C 389.932,42.012 382.548,28.81 370.635,18.45 357.217,6.781 339.748,0.23 321.446,0.007 321.113,0.002 320.78,0 320.447,0 293.179,0 268.122,13.731 256,35.278 243.878,13.73 218.824,0 191.553,0 c -0.331,0 -0.667,0.002 -0.999,0.007 -18.303,0.224 -35.772,6.774 -49.19,18.443 -11.911,10.358 -19.294,23.559 -21.214,37.707 -0.774,-0.028 -1.515,-0.044 -2.205,-0.044 -4.143,0 -7.5,3.357 -7.5,7.5 0,4.143 3.357,7.5 7.5,7.5 2.292,0 5.484,0.233 8.332,0.608 2.256,0.297 4.503,-0.438 6.143,-1.995 1.642,-1.558 2.492,-3.773 2.314,-6.029 l -0.045,-0.512 c -0.012,-0.135 -0.028,-0.269 -0.033,-0.332 0.456,-25.569 26.139,-47.481 56.082,-47.849 22.62,-0.23 43.295,10.921 52.684,28.53 1.185,2.223 2.954,4.029 5.079,5.295 v 46.44 c 0,4.143 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.357 7.5,-7.5 V 48.83 c 2.125,-1.265 3.894,-3.072 5.079,-5.295 C 277.854,26.14 298.147,15 320.439,15 c 0.274,0 0.549,0.002 0.823,0.005 29.943,0.367 55.626,22.279 56.082,47.776 -0.121,-0.086 -0.213,15.035 -8.276,24.672 -2.658,3.177 -2.237,7.906 0.939,10.564 1.403,1.175 3.11,1.748 4.809,1.748 2.144,0 4.272,-0.914 5.756,-2.688 6.984,-8.347 9.823,-18.729 10.979,-25.891 0.901,-0.047 1.754,-0.074 2.505,-0.074 26.313,0 47.722,18.212 47.722,40.597 0,6.947 -2.157,13.848 -6.237,19.957 -1.518,2.271 -1.68,5.188 -0.424,7.613 1.255,2.426 3.73,3.978 6.461,4.05 25.916,0.69 46.218,18.491 46.218,40.524 0,9.828 -4.219,19.327 -11.88,26.749 -0.076,0.078 -8.098,8.062 -18.56,8.894 -4.129,0.328 -7.21,3.941 -6.882,8.071 0.313,3.927 3.596,6.905 7.469,6.905 0.199,0 0.4,-0.008 0.603,-0.023 9.502,-0.755 17.311,-5.007 22.244,-8.495 10.494,10.82 16.21,24.134 16.21,38.062 0,25.435 -20.082,47.862 -48.835,54.54 -2.65,0.615 -4.76,2.618 -5.512,5.232 -0.752,2.615 -0.029,5.432 1.89,7.361 9.94,9.998 15.642,23.512 15.642,37.076 0,9.489 -2.803,18.875 -8.104,27.145 -2.236,3.486 -1.222,8.126 2.266,10.361 1.253,0.804 2.655,1.188 4.041,1.188 2.47,0 4.889,-1.219 6.32,-3.453 6.854,-10.689 10.478,-22.876 10.478,-35.24 0,-13.601 -4.406,-27.124 -12.34,-38.479 C 492.292,318.626 512,292.913 512,264.016 Z"
+             id="path6"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 84.713,256.586 c -0.232,4.136 2.933,7.677 7.067,7.909 0.144,0.008 0.286,0.012 0.428,0.012 3.949,0 7.257,-3.087 7.481,-7.079 0.021,-0.377 2.552,-37.757 40.382,-46.959 4.025,-0.979 6.494,-5.035 5.515,-9.06 -0.979,-4.025 -5.032,-6.497 -9.06,-5.515 -25.353,6.167 -38.117,22.344 -44.361,34.829 -6.682,13.362 -7.424,25.359 -7.452,25.863 z"
+             id="path8"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 200.854,83.125 c -4.102,-0.385 -7.781,2.638 -8.171,6.763 -2.221,23.538 -26.596,32.554 -27.664,32.937 -3.895,1.379 -5.942,5.649 -4.575,9.551 1.082,3.089 3.98,5.021 7.078,5.021 0.822,0 1.66,-0.137 2.48,-0.424 1.406,-0.493 34.48,-12.453 37.614,-45.677 0.389,-4.124 -2.638,-7.782 -6.762,-8.171 z"
+             id="path10"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 194.816,417.339 c 1.041,0.495 2.138,0.729 3.218,0.729 2.803,0 5.492,-1.579 6.777,-4.279 1.779,-3.74 0.19,-8.216 -3.55,-9.995 -28.863,-13.733 -26.393,-46.382 -26.271,-47.796 0.372,-4.114 -2.654,-7.758 -6.771,-8.144 -4.116,-0.372 -7.781,2.644 -8.167,6.769 -0.167,1.805 -3.696,44.416 34.764,62.716 z"
+             id="path12"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 177.044,278.131 c -3.741,1.779 -5.33,6.254 -3.551,9.994 1.284,2.701 3.974,4.28 6.777,4.28 1.08,0 2.177,-0.234 3.217,-0.729 24.281,-11.552 22.06,-38.39 21.953,-39.526 -0.387,-4.125 -4.055,-7.141 -8.167,-6.769 -4.124,0.387 -7.154,4.043 -6.769,8.167 0.017,0.174 1.459,17.484 -13.46,24.583 z"
+             id="path14"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 355.338,262.24 c 0,4.142 3.358,7.5 7.501,7.5 4.143,0 7.501,-3.358 7.501,-7.5 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 z"
+             id="path16"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 413.829,269.74 c 4.143,0 7.501,-3.358 7.501,-7.5 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 0,4.142 3.359,7.5 7.501,7.5 z"
+             id="path18"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 317.608,468.74 c 0,4.142 3.358,7.5 7.501,7.5 4.143,0 7.501,-3.358 7.501,-7.5 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 z"
+             id="path20"
+             style="fill:#333333;fill-opacity:1" />
+          <path
+             d="m 332.609,55.74 c 0,-4.142 -3.358,-7.5 -7.501,-7.5 -4.143,0 -7.501,3.358 -7.501,7.5 0,4.142 3.358,7.5 7.501,7.5 4.143,0 7.501,-3.358 7.501,-7.5 z"
+             id="path22"
+             style="fill:#333333;fill-opacity:1" />
+        </g>
       </g>
     </g>
   </g>
