@@ -8,6 +8,7 @@ title: Service
 - TPC co-chair: [IEEE 2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS-2020)](http://apccas2020.org/ )
 - TPC co-chair: [IEEE 13th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2019)](http://mcsoc-forum.org/m2019)
 - Publication chair: [IEEE 13th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2018)](http://mcsoc-forum.org/2018)
+- Session chair: [APCCAS 2021](https://attend.ieee.org/apccas-2021/)
 - TPC member: MCSoC 2018, MCSoC 2019, ICCE 2020, APCCAS 2020, MCSoC 2021, APCCAS 2021
 
 ## Academic activities
