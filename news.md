@@ -1,5 +1,5 @@
 ## News
-
+- **2021-11:** Our paper tilted "MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems" has been accepted for **IEEE Transactions on Emerging Topics in Computing (TETC)**. 
 - **2021-11:** Our new book titled “Neuromorphic Computing Principles and Organization” has been contracted with Springer. The book will be release soon! Pre-order [here](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)! 
 - **2021-10:** Our project has been funded by Vietnam National University, Hanoi.
 - **2021-06:** We have released the source code for fault insertion into Spiking CNN (VGG-16) on CIFAR-10 dataset. Access the source code [here](https://github.com/khanhdang/hybrid-snn-conversion-with-faults). The source code is related to the paper titled ["Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation" published in ICLR, 2020](https://openreview.net/forum?id=B1xSperKvH) with our fault insertion on weights and thresholds.
