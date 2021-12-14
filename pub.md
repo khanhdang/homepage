@@ -13,6 +13,7 @@ title: Publications
 <!-- - *"AIRBiS: AI-Enabled System for Real-time Secure Pneumonia Detection”*, <button type="button" class="btn-sm btn-warning">under major revision</button> -->
 
 ## Patents 
+
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed). 
 2.  A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*, 特願2020-171553, Japan patent, (patent filed).
 3. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
@@ -20,9 +21,10 @@ title: Publications
 JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent/JP2019092020A/en)\].
 {: reversed="reversed"}
 
-## Books
+## Book
 
--  Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, May 10, 2022, ISBN-10‏ :‎ 3030925242, ISBN-13‏ :‎ 978-3030925246 <a role="button" class="btn btn-success btn-sm">in press</a>. \[[LINK](https://link.springer.com/book/9783030925246)\]
+1.  Abderazek Ben Abdallah and **Khanh N. Dang** (Authors), *"Neuromorphic Computing Principles and Organization”*, 1st edition, Publisher: Springer, May 10, 2022, ISBN-10‏ :‎ 3030925242, ISBN-13‏ :‎ 978-3030925246 <a role="button" class="btn btn-success btn-sm">in press</a>. \[[LINK](https://link.springer.com/book/9783030925246)\]
+{: reversed="reversed"}
 
 
 ## Book chapters 
@@ -32,9 +34,9 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 {: reversed="reversed"}
 
 
-## SCI(E) Journal papers  {#bm4}
+## SCI(E) Journal papers  
 
-1.  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**, IEEE, <button type="button" class="btn-sm btn-success">accepted</button>.
+1.  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**, IEEE, <button type="button" class="btn-sm btn-success">accepted</button>, [[PDF](./share/pubs/TETC-2021.pdf)\].
 1. Abderazek Ben Abdallah, **Khanh N. Dang**, *"Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System"*, **Frontiers in Neuroscience**, Frontiers, Volume 15, pp. 795, 2021. \[[DOI: 10.3389/fnins.2021.690208](https://doi.org/10.3389/fnins.2021.690208)\]/\[[PDF](./share/pubs/FNINS-2021.pdf)\].
 2. **Khanh N. Dang**, Akram Ben Ahmed, Abderazek Ben Abdallah, Xuan-Tu Tran, *"HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards Reliable 3-D ICs systems"*, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, <a role="button" href="https://doi.org/10.1109/TCAD.2021.3069370" class="btn btn-success btn-sm">in press</a> \[[DOI: 10.1109/TCAD.2021.3069370](https://doi.org/10.1109/TCAD.2021.3069370)\]/\[[PDF](./share/pubs/TCAD-2021.pdf)\].
 3. Mark Ogbodo, **Khanh N. Dang**,  Abderazek Ben Abdallah,  *"On the Design of a  Fault-tolerant Scalable Three Dimensional NoC-based  Digital Neuromorphic System with On-chip Learning"*, **IEEE Access**, IEEE, Volume 9, pp. 64331 - 64345, 2021. \[[DOI: 10.1109/ACCESS.2021.3071089](https://doi.org/10.1109/ACCESS.2021.3071089)\]/\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9395458)\].
@@ -46,7 +48,7 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 9. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp. 2705–2729, 2017.  \[[DOI: 10.1007/s11227-016-1951-0](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](./share/pubs/SUPE-2017.pdf)\].
 {: reversed="reversed"}
 
-##  Other journal papers  {#bm4}
+##  Other journal papers  
 
 1. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
 2. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 
