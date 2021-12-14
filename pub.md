@@ -10,7 +10,7 @@ title: Publications
 ## Works-in-Progress 
 
 - *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, <button type="button" class="btn-sm btn-warning">under minor revision</button>
-- *"AIRBiS: AI-Enabled System for Real-time Secure Pneumonia Detection”*, <button type="button" class="btn-sm btn-warning">under major revision</button>
+<!-- - *"AIRBiS: AI-Enabled System for Real-time Secure Pneumonia Detection”*, <button type="button" class="btn-sm btn-warning">under major revision</button> -->
 
 ## Patents 
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed). 
