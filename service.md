@@ -26,11 +26,13 @@ title: Service
 - ACM Journal on Emerging Technologies in Computing Systems
 - Applied Sciences
 - Elsevier Journal of Systems Architecture
+- Electronics
 <!-- - Frontiers in Neuroscience -->
 - IEEE Transactions on Circuits and Systems I : Regular Papers
 - IEEE Access
 - Journal of Supercomputing
 - Microprocessors and Microsystems
+- Microelectronics Journal
 
 ### Conference 
 *(in chronological order)*
