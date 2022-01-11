@@ -83,7 +83,7 @@ JP2019092020A, Japan (patent pending) \[[LINK](https://patents.google.com/patent
 
 ## Invited talks
 
-1. **Khanh N. Dang**, *"Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms"*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (keynote).
+1. **Khanh N. Dang**, *"Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms"*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (Plenary).
 2. **Khanh N. Dang**,*"Fault-Tolerance Through-Silicon-Via For 3-D Integrated Circuits"*, **Advanced Institute of Engineering and Technology**, VNU-UET, VNU, Vietnam, 2021.
 2. **Khanh N. Dang**, *"TSV-OCT: A Scalable Online Multiple-TSV Defects Localization for Real-Time 3-D-IC Systems"*, **The 3nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, UPM, Malaysia, 2019. \[[SLIDE](./share/pubs/SEACAS-2019.pdf)\].
 3. **Khanh N. Dang**, *"Toward Real-time Fault-tolerance Through-Silicon-Via based 3D Network-on-Chips"*, **The 2nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, Bandung, Indonesia, 2018. \[[SLIDE](./share/pubs/SEACAS-2018.pdf)\].
