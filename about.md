@@ -3,7 +3,7 @@ layout: page-toc
 title: About 
 ---
 
-<img src="images/me_amory.jpg" class="avatar" alt="Avatar">
+<!-- <img src="images/me_amory.jpg" class="avatar" alt="Avatar"> -->
 
 **Khanh N. Dang** <br>
 *Assistant Professor*, <br>
