@@ -1,4 +1,5 @@
 ## News
+- **2022-01:** Our paper tilted "A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks" has been accepted for  **Microprocessors and Microsystems**. You can read the paper [here](./share/pubs/MICPRO-2022.pdf) and access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).
 - **2022-01:** I will deliver a plenary talk at 2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022). Conference link: [here](https://etltc-acmchap-japanconf.org/keynotes).
 - **2021-12:** We have released the source code for quantizing ternary weight for Spiking CNN (for CIFAR-10 dataset). Access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).
 - **2021-11:** Our paper tilted "MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems" has been accepted for **IEEE Transactions on Emerging Topics in Computing (TETC)**. You can read the paper [[here](./share/pubs/TETC-2021.pdf)\]!
