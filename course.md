@@ -4,11 +4,11 @@ title: Teaching
 ---
 
 ## Current Courses
-
-- INT2212: Computer Architecture, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5575)\].
+- TBD, Uni. of Aizu, 2022 Q1,Q2,Q3,Q4
 
 ## Previous Courses
   
+- INT2212: Computer Architecture, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5575)\].
 - ELT3071: Real-time Embedded Systems, VNU-UET, *Undergraduate*.
 - INT3409: Robotics Programming, VNU-UET, *Undergraduate*.
 - ELT2401: Digital Electronics, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5856)\].
