@@ -9,6 +9,7 @@ title: Publication
 
 ## Works-in-Progress 
 
+- *"Spike-MAES: a low-power multicore AES platform with brain-inspired controller"*
 - *"AIRBiS: AI-Enabled System for Real-time Secure Pneumonia Detection”*
 <!-- - <button type="button" class="btn-sm btn-warning">under major revision</button> -->
 
