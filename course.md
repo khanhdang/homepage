@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 ## Current Courses
-- TBD, Uni. of Aizu, 2022 Q1,Q2,Q3,Q4
+- PL03: プログラミングJAVA I JAVA Programming I (Ex.), University of Aizu, *Undergraduate*, 2022, Q1.
 
 ## Previous Courses
   
@@ -15,8 +15,8 @@ title: Teaching
 
 ## Invited Courses
 
-- SYC04 - Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2019.
-- SYC04 - Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
+- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2019.
+- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
 
 ---
 
