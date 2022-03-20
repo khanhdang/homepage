@@ -26,7 +26,8 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 ---
 
 ## Professional Experience
-- *Assistant Professor*, **VNU University of Engineering and Technology, Vietnam National University, Hanoi**, 2017 November - present
+- *Associate Professor*, **The University of Aizu**, 2022 April -
+- *Assistant Professor*, **VNU University of Engineering and Technology, Vietnam National University, Hanoi**, 2017 November - 2022 March.
 - *Visiting Researcher*, **The University of Aizu**, 2020 November - 2021 March
 - *Visiting Researcher*, **The University of Aizu**, 2019 May - 2019 September
 - *Researcher*, **SISLAB, Vietnam National University, Hanoi**, 2011-2014
