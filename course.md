@@ -4,7 +4,10 @@ title: Teaching
 ---
 
 ## Current Courses
-- PL03: プログラミングJAVA I JAVA Programming I (Ex.), University of Aizu, *Undergraduate*, 2022, Q1.
+- PL03: プログラミングJAVA I JAVA Programming I (Ex.), University of Aizu, *Undergraduate*, AY2022, Q1.
+- FU03: Discrete Systems (Lec./Ex.), University of Aizu, *Undergraduate*, AY2022, Q2.
+-  SE08: データマイニング概論 Introduction of Data Mining (Ex.), University of Aizu, *Undergraduate*, AY2022, Q3.
+- FU06: オペレーティングシステム論 Operating Systems, University of Aizu, *Undergraduate*, AY2022, Q4.
 
 ## Previous Courses
   

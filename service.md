@@ -4,6 +4,7 @@ title: Service
 ---
 
 ## Conferences Organizing
+- TPC co-chair: [15th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2022)](http://mcsoc-forum.org/)
 - TPC co-chair: [IEEE 14th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2021)](http://mcsoc-forum.org/m2021)
 - TPC co-chair: [IEEE 2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS-2020)](http://apccas2020.org/ )
 - TPC co-chair: [IEEE 13th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2019)](http://mcsoc-forum.org/m2019)
@@ -27,7 +28,8 @@ title: Service
 - Applied Sciences
 - Elsevier Journal of Systems Architecture
 - Electronics
-<!-- - Frontiers in Neuroscience -->
+- Frontiers in Computational Neuroscience
+- Frontiers in Neuroscience
 - IEEE Transactions on Circuits and Systems I : Regular Papers
 - IEEE Access
 - Journal of Supercomputing
