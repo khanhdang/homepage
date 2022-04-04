@@ -1,5 +1,5 @@
 ## News
-<!-- - **2022-04:** I will join the University of Aizu as an associate professor from Academic Year of 2022.  -->
+- **2022-04:** I join the University of Aizu as an associate professor from April of 2022. My [Univ. of Aizu Profile](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en).
 - **2021-03:** Our paper titled "HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards
 Reliable 3-D ICs systems" is published in the **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**. Access the paper [here](./share/TCAD-2021.pdf).
 - **2022-01:** Our paper tilted "A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks" has been accepted for  **Microprocessors and Microsystems**. You can read the paper [here](./share/pubs/MICPRO-2022.pdf) and access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).
