@@ -22,7 +22,7 @@ title: About
 
 ## Short Bio.
 
-Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥) in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン) received his Ph.D. degree from The University of Aizu, Japan in 2017.  From 2017 to 2022, he was an assistant professor at VNU Key Laboratory for Smart Integrated Systems, VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU), Hanoi Vietnam. He was a visiting researcher at University of Aizu in 2019 and 2020-2021. Dr. Khanh has served and TPC members of several IEEE conferences and a TPC co-chair for MCSoC-2019, APCCAS-2020 and MCSoC-2021.  His research interests include [neuromorphic computing](./research), [3D Integrated Circuits technology](./research), [Artificial Intelligence  for CAD](./research), and [fault-tolerant computing](./research).
+Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥) in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン) received his Ph.D. degree from The University of Aizu, Japan in 2017. He is an associate professor at The University of Aizu since April 2022. From 2017 to 2022, he was an assistant professor at VNU Key Laboratory for Smart Integrated Systems, VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU), Hanoi Vietnam. He was a visiting researcher at University of Aizu in 2019 and 2020-2021. Dr. Khanh has served and TPC members of several IEEE conferences and a TPC co-chair for MCSoC-2019, APCCAS-2020 and MCSoC-2021.  His research interests include [neuromorphic computing](./research), [3D Integrated Circuits technology](./research), [Artificial Intelligence  for CAD](./research), and [fault-tolerant computing](./research).
 
 
 
