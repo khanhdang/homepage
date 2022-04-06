@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Mentoring
+layout: page-toc
+title: Student
 ---
 
 
@@ -32,13 +32,9 @@ Screenshots of the projects.
 [Facebook news by IEEE CASS Malaysia!](https://www.facebook.com/ieee.cass.my/posts/443741972987477)
 
 {::nomarkdown}
-<img src="images/Student/MagicSpoon.PNG" class="icenter" width=50%>
+<img src="images/Student/MagicSpoon.PNG" class="ileft"  width=50%>
 {:/}
 
+Our students attended the SEACAS 2019 Hackathon and won the 1st prize. The project is to develop a prototype of “Magic Spoon” which can compensate for the vibration (shaking) of a Parkinson's patient’s hand. Instead of using conventional PID, our students developed a single-layer perceptron to control the servo motor. Database and Andriod app are also developed to provide the ability to diagnosis and proper treatment.
 
-Our students attended the SEACAS 2019 Hackathon and won the 1st prize. 
-The project is to develope a prototype of "Magic Spoon" which can compensate the vibration (shaking) 
-of Parkinson patient's hand. Instead of using conventional PID, our students developed a single layer perceptron to control the servo motor. 
-Database and Andriod app are also developed to provide the ability to diagnosis and proper treatment.
-
-Our students will participate the IEEE CASS Student Design Competition which is organized as a part of ISCAS 2020 at Seville, Spain and online due to the Covid-19 pandemic.
+Our students participate in the IEEE CASS Student Design Competition which is organized as a part of ISCAS 2020 at Seville, Spain, and online due to the Covid-19 pandemic.

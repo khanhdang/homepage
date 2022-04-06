@@ -298,6 +298,16 @@ body {
   }
 }
 
+.ileft{
+  display: block;
+	float:left;
+  margin-left: auto;
+  margin-right: 10px;
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    width: 100%;
+  }
+}
+
 .page-title{
   text-align: center;
   color: #10411b;
