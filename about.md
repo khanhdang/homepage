@@ -10,7 +10,7 @@ title: About
 *Associate Professor*, <br>
 [The University of Aizu](https://www.u-aizu.ac.jp/en/), <br> 
 〒965-8580 Aizu-Wakamatsu, Fukushima,  Japan  [\[map\]](https://goo.gl/maps/9CYKa1HMB4EZjKW27)<br>
-<!-- Email: [khanh.n.dang@vnu.edu.vn](mailto:khanh.n.dang@vnu.edu.vn) <br> -->
+Email: khanh [@] u-aizu [dot] ac [dot] jp <br>
 <!-- Tel.: +84-24-3754 9664 (office) <br> -->
 [Univ. of Aizu Profile](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en) | [ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [Publons](https://publons.com/researcher/3564843) | [Linkedin](https://www.linkedin.com/in/khanhndang) | [Github](https://github.com/khanhdang)
 

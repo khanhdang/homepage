@@ -6,9 +6,9 @@ title: Contact
 
 
 
-- *Email:* TBD
-- *Tel.:* TDB
-- *Office:* TBD 
+- *Email:* khanh [@] u-aizu [dot] ac [dot] jp
+- *Tel.:* 
+- *Office:* 204-I, Research Quadrangles, The University of Aizu, Aizu-Wakatmatsu, Fukushima, Japan 
 
 
 
