@@ -1,8 +1,9 @@
 <footer id="site-footer" class=" border-left-0 border-right-0 " >
 
       {% if site.author %}
-        &copy; {{ site.site-starting-year | escape }}-{{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. All rights reserved. 
-	
+        &copy; {{ site.site-starting-year | escape }}-{{ 'now' | date: "%Y" }}  <a href="{{ "/" | relative_url }}">{{ site.author | escape }}</a>. All rights reserved unless under certain specific statements. 
+        <br>The content of this website is my personal opinion and does not represent my employer.
+
       {% else %}
         {{ site.title | escape }}
       {% endif %}

@@ -8,6 +8,7 @@ title: About
 **Khanh N. Dang** <br>
 *(in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン)* <br>
 *Associate Professor*, <br>
+Adaptive Systems Laboratory,
 [The University of Aizu](https://www.u-aizu.ac.jp/en/), <br> 
 〒965-8580 Aizu-Wakamatsu, Fukushima,  Japan  [\[map\]](https://goo.gl/maps/9CYKa1HMB4EZjKW27)<br>
 Email: khanh [@] u-aizu [dot] ac [dot] jp <br>
