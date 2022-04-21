@@ -421,8 +421,10 @@ a:hover{
 }
 
 nav[data-toggle="toc"] {
-  top: 80px;
-  border-left: 1px solid $layout-color-border !important;
+  // top: 80px;
+  top: 50%;
+  transform: translate(0%, -50%);
+  // border: 1px solid $layout-color-border !important;
 }
 /* small screens */
 @media ( max-width: $layout-responsive-nav-cutoff - 1) {
