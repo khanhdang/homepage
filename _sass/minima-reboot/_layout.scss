@@ -236,6 +236,7 @@ body {
   margin-left: auto;
   margin-right: 30px;
   margin-bottom: 30px;
+  margin-top: 20px;
   transition: 0.5s all ease-in-out;
 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
@@ -249,7 +250,7 @@ body {
   border-left: 1px solid #e9ecef !important;
 }
 .scroll-news {
-  height : 720px;
+  height : 220px;
   overflow-y: scroll;
   line-height: 1.9em;
   color: rgb(55, 55, 55);
@@ -421,9 +422,9 @@ a:hover{
 }
 
 nav[data-toggle="toc"] {
-  // top: 80px;
-  top: 50%;
-  transform: translate(0%, -50%);
+  top: 80px;
+  // top: 50%;
+  // transform: translate(0%, -50%);
   // border: 1px solid $layout-color-border !important;
 }
 /* small screens */

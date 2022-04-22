@@ -54,7 +54,7 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - Network-on-Chips/System-on-Chips
 - Fault-tolerance computing
 
-For more details, please visit the [research page](/research).
+<!-- For more details, please visit the [research page](/research). -->
 
 ---
 

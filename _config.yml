@@ -21,7 +21,7 @@ minima_reboot:
 
 header_pages:
   - about.md
-  - research.md
+  # - research.md
   - pub.md
   - service.md
   - course.md
