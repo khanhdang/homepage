@@ -3,12 +3,12 @@ window.onscroll = function () {
     var navbar = document.getElementById("nav-container");
     var logo = document.getElementById("logo");
     if (document.documentElement.clientWidth <= 992 ) {
-        logo.src = "/assets/logo_long.svg"
+        logo.src = "assets/logo_long.svg"
     }
     if (scroll >= 150) {
         navbar.classList.add("small-header");
         navbar.classList.remove("big-header");
-        logo.src = "/assets/logo_long.svg"
+        logo.src = "assets/logo_long.svg"
 
     }
     else {
@@ -16,7 +16,7 @@ window.onscroll = function () {
             navbar.classList.remove("small-header");
             navbar.classList.add("big-header");
             if (document.documentElement.clientWidth > 992 ) {
-                logo.src = "/assets/logo.svg"
+                logo.src = "assets/logo.svg"
             }
             
         }
