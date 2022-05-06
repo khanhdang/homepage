@@ -13,7 +13,7 @@ title: Khanh N. Dang
 〒965-8580 Aizu-Wakamatsu, Fukushima,  Japan  [\[map\]](https://goo.gl/maps/9CYKa1HMB4EZjKW27)<br>
 Email: khanh [@] u-aizu [dot] ac [dot] jp <br>
 Tel.: +81-242-37-2721 (int. 3362) <br>
-[Univ. of Aizu Profile](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en) | [ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [Publons](https://publons.com/researcher/3564843) | [Linkedin](https://www.linkedin.com/in/khanhndang) | [Github](https://github.com/khanhdang)
+[ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [Publons](https://publons.com/researcher/3564843) | [Linkedin](https://www.linkedin.com/in/khanhndang) | [Github](https://github.com/khanhdang)
 
 <br>
 
@@ -62,7 +62,7 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - Network-on-Chips/System-on-Chips
 - Fault-tolerance computing
 
-<!-- For more details, please visit the [research page](/research). -->
+For more details, please visit the [ASL Ben Abdallah & Dang's lab. research page](http://web-ext.u-aizu.ac.jp/misc/benablab/research.html).
 
 ---
 
@@ -167,6 +167,28 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 1. **Dang Nam Khanh**, *"Development of On-Chip Communication Fault-Resilient Adaptive Architectures and Algorithms for 3D-IC Technologies (3次元IC技術のための適応型耐障害チップ内通信アーキテクチャとアルゴリズムの開発)"*, Research advisor: Prof. Abderazek Ben Abdallah. \[[DOI](http://doi.org/10.15016/00000140)\]/\[[PDF](./share/pubs/THESIS-2017.pdf)\]/\[[SLIDE](./share/pubs/THESIS-SLIDE-2017.pdf)\].
 
 
+
+---
+
+## Courses
+
+
+### Current Courses
+- PL03: プログラミングJAVA I JAVA Programming I (Ex.), University of Aizu, *Undergraduate*, AY2022, Q1.
+- FU03: Discrete Systems (Lec./Ex.), University of Aizu, *Undergraduate*, AY2022, Q2.
+-  SE08: データマイニング概論 Introduction of Data Mining (Ex.), University of Aizu, *Undergraduate*, AY2022, Q3.
+- FU06: オペレーティングシステム論 Operating Systems, University of Aizu, *Undergraduate*, AY2022, Q4.
+
+### Previous Courses
+  
+- INT2212: Computer Architecture, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5575)\].
+- ELT3071: Real-time Embedded Systems, VNU-UET, *Undergraduate*.
+- INT3409: Robotics Programming, VNU-UET, *Undergraduate*.
+- ELT2401: Digital Electronics, VNU-UET, *Undergraduate*, \[[URL](https://courses.uet.vnu.edu.vn/course/view.php?id=5856)\].
+
+### Invited Courses
+
+- SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2019, 2021 and 2022.
 
 ---
 

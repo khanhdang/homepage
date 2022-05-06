@@ -1,4 +1,5 @@
 ## News
+- **2022-05:** My website has moved to the University's page at [https://u-aizu.ac.jp/~khanh/](https://u-aizu.ac.jp/~khanh/)
 - **2022-04:** I join the University of Aizu as an associate professor from April of 2022. Visit my [Univ. of Aizu Profile here](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en)!
 - **2022-01:** Our paper tilted "A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks" has been accepted for  **Microprocessors and Microsystems**. You can read the paper [here](./share/pubs/MICPRO-2022.pdf) and access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).
 - **2022-01:** I will deliver a plenary talk at 2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022). Conference link: [here](https://etltc-acmchap-japanconf.org/keynotes).
