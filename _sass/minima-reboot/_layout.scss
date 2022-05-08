@@ -45,11 +45,11 @@ body {
 }
 
 #logo {
-  // content:url("/assets/logo.svg");
+  // content:url("assets/logo.svg");
 
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
 
-    content:url("assets/logo_long.svg");
+    content:url("logo_long.svg");
   }
 }
 
