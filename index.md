@@ -111,6 +111,7 @@ JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.c
 
 ### Conference papers 
 
+1. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben. Abdallah, *"Study of a Multi-modal Neurorobotic Prosthetic Arm Control System based on Recurrent Spiking Neural Network"* Springer Lecture  Note in Computer Science (LNCS), **The 4th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2022)**, January 25-28, 2022. 
 1. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben. Abdallah, *"Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems"* Springer Lecture  Note in Computer Science (LNCS), **International Symposium on Ubiquitous Networking 2021 (UNET21)**, May 19 – May 22, 2021, Marakesh, Morocco. <a role="button" href="/2021/05/22/Best_Paper_Award_Unet.html" class="btn btn-outline-success btn-sm">Best Student Paper Award</a>
 2. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi,  *"A lightweight Max-Pooling method and architecture for Deep Spiking Convolutional Neural Networks"*,  **2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)**, Dec. 8-10, 2020.
 3. **Khanh N. Dang**, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs"*, **2020 International Conference On Advanced Technologies For Communications (ATC)**, Nov. 8-10, 2020.
