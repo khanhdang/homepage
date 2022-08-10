@@ -1,4 +1,6 @@
 ## News
+- **2022-08:** Our special issue on Journal of Low Power Electronics and Applications (ESCI/Scopus) is now accepting new submission: \[[here](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
+- **2022-07:** Our book titled *"Neuromorphic Computing Principles and Organization”* is now available on Springer ([URL](https://link.springer.com/book/10.1007/978-3-030-92525-3)), Amazon ([URL](https://www.amazon.com/dp/3030925242/)) and Amazon-JP ([URL](https://www.amazon.co.jp/dp/3030925242/)).
 - **2022-05:** My website has moved to the University's page at [https://u-aizu.ac.jp/~khanh/](https://u-aizu.ac.jp/~khanh/)
 - **2022-04:** I join the University of Aizu as an associate professor from April of 2022. Visit my [Univ. of Aizu Profile here](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en)!
 - **2022-01:** Our paper tilted "A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks" has been accepted for  **Microprocessors and Microsystems**. You can read the paper [here](./share/pubs/MICPRO-2022.pdf) and access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).

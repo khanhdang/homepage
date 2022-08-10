@@ -8,22 +8,20 @@ title: About
 **Khanh N. Dang** <br>
 *(in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン)* <br>
 *Associate Professor*, <br>
-Adaptive Systems Laboratory,
+[Adaptive Systems Laboratory](http://web-ext.u-aizu.ac.jp/misc/benablab/),
 [The University of Aizu](https://www.u-aizu.ac.jp/en/), <br> 
 〒965-8580 Aizu-Wakamatsu, Fukushima,  Japan  [\[map\]](https://goo.gl/maps/9CYKa1HMB4EZjKW27)<br>
 Email: khanh [@] u-aizu [dot] ac [dot] jp <br>
-<!-- Tel.: +84-24-3754 9664 (office) <br> -->
-[Univ. of Aizu Profile](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en) | [ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ) | [Researchgate](https://www.researchgate.net/profile/Khanh-Dang-16) | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [Publons](https://publons.com/researcher/3564843) | [Linkedin](https://www.linkedin.com/in/khanhndang) | [Github](https://github.com/khanhdang)
+Tel.: +81-242-37-2721 (int. 3362) <br>
+[ORCID](https://orcid.org/0000-0001-6702-3870) | [Google Scholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ)  | [dblp](https://dblp.uni-trier.de/pid/184/5348.html) | [Publons](https://publons.com/researcher/3564843) | [Linkedin](https://www.linkedin.com/in/khanhndang) | [Github](https://github.com/khanhdang)
 
-
-<br>
 <br>
 
 ---
 
 ## Short Bio.
 
-Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥) in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン) received his Ph.D. degree from The University of Aizu, Japan in 2017. He is an associate professor at The University of Aizu since April 2022. From 2017 to 2022, he was an assistant professor at VNU Key Laboratory for Smart Integrated Systems, VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU), Hanoi Vietnam. He was a visiting researcher at University of Aizu in 2019 and 2020-2021. Dr. Khanh has served and TPC members of several IEEE conferences and a TPC co-chair for MCSoC-2019, APCCAS-2020 and MCSoC-2021.  His research interests include [neuromorphic computing](./research), [3D Integrated Circuits technology](./research), [Artificial Intelligence  for CAD](./research), and [fault-tolerant computing](./research).
+Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khanh (Khánh, IPA: xajŋ˧˥) in Vietnamese: Đặng Nam Khánh, in カタカナ: カイン ナム コイン) received his Ph.D. degree from The University of Aizu, Japan in 2017. He is an associate professor at The University of Aizu since April 2022. From 2017 to 2022, he was an assistant professor at VNU Key Laboratory for Smart Integrated Systems, VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU), Hanoi Vietnam. He was a visiting researcher at University of Aizu in 2019 and 2020-2021. Dr. Khanh has served and TPC members of several IEEE conferences and a TPC co-chair for MCSoC-2019, APCCAS-2020 and MCSoC-2021.  His research interests includeneuromorphic computing, 3D Integrated Circuits technology, Artificial Intelligence  for CAD, and fault-tolerant computing.
 
 
 
@@ -54,7 +52,11 @@ Khanh N. Dang (family name: Dang (Đặng, IPA: ɗa̰ʔŋ˨˩), first name: Khan
 - Network-on-Chips/System-on-Chips
 - Fault-tolerance computing
 
-<!-- For more details, please visit the [research page](/research). -->
+
+For more details, please visit the [ASL Ben Abdallah & Dang's lab. research page](http://web-ext.u-aizu.ac.jp/misc/benablab/research.html).
+
+The content of this website is my personal opinion and does not represent my employer.
+
 
 ---
 
@@ -81,7 +83,7 @@ Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-effi
 - Member of IEEE, IEEE CASS, IEEE SSCS
 - TPC co-chair: IEEE MCSoC 2019, IEEE APCCAS 2020, IEEE MCSoC 2021
 - Publication chair: MCSoC-2019
-- TPC member: : IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ICCE 2020, IEEE APCCAS 2020, IEEE MCSoC 2021, IEEE APCCAS 2021
+- TPC member: : IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ICCE 2020, IEEE APCCAS 2020, IEEE MCSoC 2021, IEEE APCCAS 2021, ATC 2022, ICCE 2022
 - Journal review: IEEE ACCESS, IEEE TCAS-I, ACM JETC, Elsevier MICPRO, Springer SUPE, Elsevier JSA, Frontiers in Neuroscience
 - Conference review: IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021
 

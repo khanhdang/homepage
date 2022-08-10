@@ -4,7 +4,7 @@ title: Service
 ---
 
 ## Conferences Organizing
-- TPC co-chair: [15th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2022)](http://mcsoc-forum.org/)
+- TPC co-chair: [IEEE 15th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2022)](http://mcsoc-forum.org/)
 - TPC co-chair: [IEEE 14th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2021)](http://mcsoc-forum.org/m2021)
 - TPC co-chair: [IEEE 2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS-2020)](http://apccas2020.org/ )
 - TPC co-chair: [IEEE 13th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2019)](http://mcsoc-forum.org/m2019)
@@ -39,7 +39,7 @@ title: Service
 ### Conference 
 *(in chronological order)*
 
-- IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022
+- IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022
 
 
 

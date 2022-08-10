@@ -7,20 +7,17 @@ title: Home
   <br>
   <hr> -->
 <div class="row">
-  <!-- main content area -->
-  
-  
 
   <div class="col-lg-7">
     
-    <div id="content"data-spy="scroll" data-target="#toc" data-offset="0">
+    <div id="content">
       {% capture my_include %}{% include_relative  welcome.md %}{% endcapture %}
       {{ my_include | markdownify }}
-      {% include thumbnails.html %}
+
+ 
     </div>
   </div>
-  <!-- sidebar, which will move to the top on a small screen -->
-  <div class="col-lg-5 news-block d-lg-block">
+  <div class="col-lg-5 news-block d-lg-block text-wrap break-word">
     <!-- include news  -->
     {% capture my_include %}{% include_relative  news.md %}{% endcapture %}
     {{ my_include | markdownify }}
