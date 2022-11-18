@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: page
 title: Previous  Research
 ---
 ## Fault-tolerant Network-on-Chip architecture
@@ -23,7 +23,7 @@ JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/
 
 
 {::nomarkdown}
-<img src="../images/research_topics/ftnoc/OASIS_layout.svg" class="icenter" width=45% >
+<img src="./images/research_topics/ftnoc/OASIS_layout.svg" class="icenter" width=45% >
 {:/}
 
 
@@ -44,7 +44,7 @@ Selected publications:
 1. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, *"A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders"*, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2013.
 
 {::nomarkdown}
-<img src="../images/research_topics/h264/VENGME.png" class="icenter" width=70%
+<img src="./images/research_topics/h264/VENGME.png" class="icenter" width=70%
 {:/}
 
 *Caption:* The chip photograph: Global Foundry CMOS 130nm, 4mmx4mm, 100MHz, 1.2 V, 32mW, QFP256. 

@@ -3,6 +3,10 @@ layout: page
 title: Service
 ---
 
+
+## Special Issues
+-  Journal of Low Power Electronics and Applications (ESCI/Scopus): ''Advances in Embedded Artificial Intelligence and Internet-of-Things'', \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
+
 ## Conferences Organizing
 - TPC co-chair: [IEEE 15th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2022)](http://mcsoc-forum.org/)
 - TPC co-chair: [IEEE 14th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2021)](http://mcsoc-forum.org/m2021)
@@ -20,7 +24,7 @@ title: Service
 - Member of 2020 CASS COVID-19 Special Student Design Competition Judging Panel in ISCAS 2020 \[[URL](https://ieee-cas.org/2020-cass-covid-19-special-student-design-competition)\]
 
 
-## Reviewer
+## Revieweing
 
 ### Journal
 *(in alphabetical order)*
@@ -36,17 +40,9 @@ title: Service
 - Microprocessors and Microsystems
 - Microelectronics Journal
 
-### Conference 
+### Conference
 *(in chronological order)*
 
 - IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022
 
 
-
-## Social activities
-
-- [Halloween at Nisshin Elementary School (2014)](https://www.u-aizu.ac.jp/osip/en/information/kokusai94-j.html)
-- [Kumamachi and Ohno Elementary School (2014)](https://www.u-aizu.ac.jp/osip/en/information/kokusai95-j.html)
-- [Kawahigashi Junior HighSchool (2015)](https://www.gaccom.jp/en/schools-40528.html)
-- Vietnam Talk at Univ. of Aizu Summer Camp (2016)
-- Vietnam Talk at Aizu High-school (2017)

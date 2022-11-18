@@ -6,7 +6,7 @@ site-starting-year: 2014
 
 google_analytics: UA-52343779-2
 
-url: "http://web-ext.u-aizu.ac.jp/"
+url: "http://web-ext.u-aizu.ac.jp"
 baseurl: "/~khanh"
 
 plugins:
@@ -20,14 +20,17 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-  - about.md
-  # - research.md
+  # - about.md
+  - research.md
   - pub.md
   - patent.md
   - service.md
-  - course.md
-  # - mentor.md
-  - contact.md
+  - teaching.md
+  - mentor.md
+  # - contact.md
+  # - to-univ.md
+  # - to-div.md
+  - to-lab.md
 
 paginate: 5
 

@@ -5,7 +5,7 @@ window.onscroll = function () {
     if (document.documentElement.clientWidth <= 992 ) {
         logo.src = "assets/logo_long.svg"
     }
-    if (scroll >= 150) {
+    if (scroll >= 140) {
         navbar.classList.add("small-header");
         navbar.classList.remove("big-header");
         logo.src = "assets/logo_long.svg"
