@@ -20,16 +20,14 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-  # - about.md
+  - about.md
   - research.md
   - pub.md
-  - patent.md
+  # - patent.md
   - service.md
   - teaching.md
-  - mentor.md
-  # - contact.md
-  # - to-univ.md
-  # - to-div.md
+  # - mentor.md
+  - contact.md
   - to-lab.md
 
 paginate: 5
@@ -45,3 +43,4 @@ exclude:
   - minima-reboot.gemspec
 
 paginate_path: "/news/page:num/"
+

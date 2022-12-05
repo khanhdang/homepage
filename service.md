@@ -8,13 +8,10 @@ title: Service
 -  Journal of Low Power Electronics and Applications (ESCI/Scopus): ''Advances in Embedded Artificial Intelligence and Internet-of-Things'', \[[URL](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
 
 ## Conferences Organizing
-- TPC co-chair: [IEEE 15th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2022)](http://mcsoc-forum.org/)
-- TPC co-chair: [IEEE 14th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2021)](http://mcsoc-forum.org/m2021)
-- TPC co-chair: [IEEE 2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS-2020)](http://apccas2020.org/ )
-- TPC co-chair: [IEEE 13th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2019)](http://mcsoc-forum.org/m2019)
-- Publication chair: [IEEE 13th International Symposium on Embedded Multicore/Manycore SoCs (MCSoC-2018)](http://mcsoc-forum.org/2018)
-- Session chair: [APCCAS 2021](https://attend.ieee.org/apccas-2021/)
-- TPC member: MCSoC 2018, MCSoC 2019, ICCE 2020, APCCAS 2020, MCSoC 2021, APCCAS 2021
+- TPC co-chair: IEEE MCSoC 2019, IEEE APPCAS 2020, IEEE MCSoC 2021, IEEE MCSoC 2022
+- Publication chair: IEEE MCSoC 2018
+- Session chair: IEEE APCCAS 2021
+- TPC member: IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ICCE 2020, IEEE APCCAS 2020, IEEE MCSoC 2021, IEEE APCCAS 2021
 
 ## Academic activities
 - Member of IEEE, IEEE CAS and IEEE SSCS
@@ -43,6 +40,6 @@ title: Service
 ### Conference
 *(in chronological order)*
 
-- IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022
+- IEEE MCSoC 2017, IEEE MCSoC 2018, IEEE MCSoC 2019, IEEE ATC 2020, IEEE APCCAS 2020, IEEE ICCE 2020, IEEE ISCAS 2021, IEEE APCCAS 2021, ICCE 2022, MCSoC 2022, ATC 2022, RIFV 2022
 
 

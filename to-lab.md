@@ -1,6 +1,6 @@
 ---
 layout: landing
-title:  »My Research Group
+title:  »Research Lab
 ---
 <html lang="en-US">
     <head>

@@ -1,14 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
 
 $layout-color-border: #e9ecef !default;
 $layout-color-background: #fdfdfd !default;
 $layout-color-syntax-highlighting-background: #f8f9fa !default;
-$layout-responsive-nav-cutoff: 992px !default;
+$layout-responsive-nav-cutoff: 900px !default;
 
 
 body {
   background-color: $layout-color-background;
-  font-family:  sans-serif;
+  // font-family: 'EB Garamond', serif;
+  font-family: 'Arial', sans-serif;
+  // font-family: 'Zen Maru Gothic', sans-serif;
+
+  // font-size: large;
 
   word-spacing: 0.1em;
 
@@ -36,8 +41,7 @@ body {
 
 #nav-site-title {
   font-weight: 600;
-  font-size: 1.15rem;
-  // font-family: Arial,sans-serif;
+  font-size: 1.3rem;
   border-bottom: none;
   a {border-bottom: none;}
   a:hover{border-bottom: none;}
@@ -56,7 +60,7 @@ body {
 
 #nav-container {
   font-weight: 400;
-  font-size: 1.0rem;
+  font-size: 1.1rem;
  
   @media (max-width: $layout-responsive-nav-cutoff - 1) {
     font-size: 1.0rem;
@@ -230,8 +234,8 @@ body {
   box-sizing: border-box;
   background-color: #DDD;
   float: right;
-  width: 180px;
-  top: 1rem;
+  width: 160px;
+  top: 0rem;
   bottom: 1rem;
   margin-left: auto;
   margin-right: 30px;
@@ -305,8 +309,11 @@ body {
 }
 .scroll-news {
   
-  // height : calc(100vh - 150px);
-  height : 200px;
+  height : calc(100vh - 570px);
+  @media (max-width: $layout-responsive-nav-cutoff - 1) {
+    height : calc(100vh - 480px);
+  }
+  // height : 400px;
   overflow-y: scroll;
   line-height: 1.9em;
   font-size: 90%;

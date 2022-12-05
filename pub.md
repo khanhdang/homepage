@@ -13,6 +13,18 @@ title: Publication
 - *"A light-weight neuromorphic controlling clock-gating based multi-core cryptography platform"*
 - *"AIRBiS: AI-Enabled System for Real-time Secure Pneumonia Detection”*
  -->
+# Patents
+
+Google patent search: [Japanese](https://patents.google.com/patent/JP2022083341A/ja?inventor=%E3%83%8A%E3%83%A0++%E3%82%AB%E3%82%A4%E3%83%B3+%E3%83%80%E3%83%B3), [English](https://patents.google.com/?inventor=Nam+Khanh+Dang)
+
+1. **Khanh N. Dang**, A. Ben Abdallah, *"Neuron migration for fault tolerant homogeneous AI computing"*, Japan patent, 2022 (filed patent).
+1. A. Ben Abdallah, Zhishang Wang, **Khanh N. Dang**, Masayuki Hisada, *"EV Power Consumption Prediction Method and System for Power Management in Smart Grid"*, Japan patent, 2022 (filed patent).
+1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent pending).  \[[Google Patent](https://patents.google.com/patent/JP2022083341A/en)\].
+2.  A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*, 特願2020-171553, Japan patent, (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2021190829A/en)\].
+3. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, JP2021190829A, Japan patent, (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2022063152A/)\].
+4. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"A TSV fault-tolerant router system for 3D-Networks-on-Chip"*, 特願 2017-218953,
+JP2019092020A, Japan (patent pending) \[[Google Patent](https://patents.google.com/patent/JP2019092020A/en)\].
+{: reversed="reversed"}
 
 # Book
 
@@ -27,7 +39,7 @@ title: Publication
 2. **Khanh N. Dang** and Abderazek Ben Abdallah, *"Architecture and Design Methodology for Highly-Reliable TSV-NoC Systems"*, Invited Book Chapter, Horizons in Computer Science Research. Volume 16, Chapter 7. **Nova Science Publishers**, 2018. ISBN: 978-1-53613-327-1. \[[LINK](https://novapublishers.com/shop/horizons-in-computer-science-research-volume-16/)\]/\[[PDF](http://adaptive.u-aizu.ac.jp/aslwp/wp-content/uploads/2018/03/Dng_Benab_NOVA_Chapter_2018.pdf)\].
 {: reversed="reversed"}
 
-# Journal papers  
+# Journal papers  (peer-reviewed)
 
 1. Duy-Anh Nguyen, Xuan-Tu Tran, **Khanh N. Dang**, and Francesca Iacopi, *"A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks"*, **Microprocessors and Microsystems**, Elsevier, Volume 90, pp. 104458, 2022. \[[DOI: 10.1016/j.micpro.2022.104458](https://doi.org/10.1016/j.micpro.2022.104458)\] \[[PDF](./share/pubs/MICPRO-2022.pdf)\] \[[Source code](https://github.com/khanhdang/TW-SNN)\]. 
 1.  **Khanh N. Dang**, Nguyen Anh Vu Doan, Abderazek Ben Abdallah *"MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems"*,  **IEEE Transactions on Emerging Topics in Computing (TETC)**,  IEEE, Volume 10, Issue 2, pp. 602-617, 2022.  \[[DOI: 10.1109/TETC.2021.3136028](https://doi.org/10.1109/TETC.2021.3136028)\] \[[PDF](./share/pubs/TETC-2021.pdf)\].
@@ -44,7 +56,18 @@ title: Publication
 
 
 
-# Conference papers 
+# Domestical journal  papers (peer-reviewed)
+
+10. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
+11. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 
+12. **Khanh N. Dang** and Xuan-Tu Tran, *"An adaptive and high coding rate soft error correction method in Network-on-Chips"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 35, No 1, pp. 32-45, 2019. \[[DOI: 10.25073/2588-1086/vnucsce.218](https://doi.org/10.25073/2588-1086/vnucsce.218)\].
+13. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI:10.21553/rev-jec.72](http://dx.doi.org/10.21553/rev-jec.72)\].
+{: reversed="reversed"}
+
+
+
+
+# Conference papers (peer-reviewed)
 
 1. Tomohide Fukuchi,   Mark Ikechukwu Ogbodo, Jiangkun Wang,  **Khanh N. Dang** and Abderazek Ben Abdallah , *''Efficient Pneumonia Detection Method and Implementation in Chest X-ray Images Based on a Neuromorphic Spiking Neural Network''*, Springer Lecture Notes in Computer Science (LNCS), **14th International Conference on Computational Collective Intelligence Technologies and Applications**, September 24-26, 2022.
 1. Ogbodo Mark Ikechukwu, **Khanh N. Dang** and Abderazek Ben Abdallah, *"Study of a Multi-modal Neurorobotic Prosthetic Arm Control System based on Recurrent Spiking Neural Network"*, Springer Lecture  Note in Computer Science (LNCS), **The 4th ETLTC International Conference on ICT Integration in Technical Education (ETLTC2022)**, January 25-28, 2022. 
@@ -72,7 +95,6 @@ title: Publication
 
 
 
-
 # Invited talks
 
 1. **Khanh N. Dang**, *"Robust Cognitive Brain-inspired Computing System: Architectures and Algorithms"*, **2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022)**, Aizu-Wakamatsu, Japan, Jan 2022 (Plenary). \[[SLIDE](./share/pubs/ETLTC-2022.pdf)\].
@@ -81,16 +103,6 @@ title: Publication
 3. **Khanh N. Dang**, *"Toward Real-time Fault-tolerance Through-Silicon-Via based 3D Network-on-Chips"*, **The 2nd IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, Bandung, Indonesia, 2018. \[[SLIDE](./share/pubs/SEACAS-2018.pdf)\].
 4. **Khanh N. Dang**, *"Fault-Tolerant Architectures and Algorithms for 3D-Network-on-Chips"*, **The 1st IEEE South-East Asia Workshop on Circuits and Systems (SEACAS)**, Hanoi, Vietnam, 2017. \[[SLIDE](./share/pubs/SEACAS-2017.pdf)\].
 {: reversed="reversed"}
-
-# Others  articles
-
-10. **Khanh N. Dang**, Akram Ben Ahmed, Ben Abdallah Abderrazak and Xuan-Tu Tran, *"Thermal distribution and reliability prediction for 3D Networks-on-Chip"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 36, No 1, pp. 65-77, 2020. \[[DOI:10.25073/2588-1086/vnucsce.245]( https://doi.org/10.25073/2588-1086/vnucsce.245)\].
-11. **Khanh N. Dang**, Michael Meyer, Akram Ben Ahmed, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"2D Parity Product Code for TSV online fault correction and detection"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 11-21, Vol. 8, No. 1-2, Jan. - Jun., 2020. \[[DOI: 10.21553/rev-jec.242](http://dx.doi.org/10.21553/rev-jec.242)\]. 
-12. **Khanh N. Dang** and Xuan-Tu Tran, *"An adaptive and high coding rate soft error correction method in Network-on-Chips"*, **VNU Journal of Computer Science and Communication Engineering**, VNU, Volume 35, No 1, pp. 32-45, 2019. \[[DOI: 10.25073/2588-1086/vnucsce.218](https://doi.org/10.25073/2588-1086/vnucsce.218)\].
-13. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, **Nam-Khanh Dang**, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI:10.21553/rev-jec.72](http://dx.doi.org/10.21553/rev-jec.72)\].
-{: reversed="reversed"}
-
-
 
 # Thesis 
 

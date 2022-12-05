@@ -33,7 +33,7 @@ Selected publications:
 Patent:
 
 1. A. Ben Abdallah, Huakun Huang, **Khanh N. Dang**, Jiangning Song, *"ＡＩプロセッサ (AI Processor)"*, 特願2020-194733, Japan patent, (patent filed)
-1. **Khanh N. Dang**, A. Ben Abdallah, *"Neuron migration for fault tolerant homogeneous AI computing"*, Japan patent, (patent to be filed).
+1. **Khanh N. Dang**, A. Ben Abdallah, *"Neuron migration for fault tolerant homogeneous AI computing"*, Japan patent, 2022 (filed patent).
 
 ---
 
@@ -57,10 +57,11 @@ Selected publications:
 1. **Khanh N. Dang**, Akram Ben Ahmed, Fakhrul Zaman Rokhani, Abderazek Ben Abdallah, and Xuan-Tu Tran, *"A thermal distribution, lifetime reliability prediction and spare TSV insertion platform for stacking 3D NoCs"*, **2020 International Conference On Advanced Technologies For Communications (ATC)**, Nov. 8-10, 2020.
 
 
+---
+
 
 <!-- --- -->
-<!-- # Previous topics -->
----
+# Previous topics
 
 ## Thermal-aware 3D-ICs
 <!-- : [>> more detail](./research_topics/thermal3DICs) -->
@@ -93,30 +94,61 @@ Patents:
 1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"Distance-aware Extended Parity Product Coding for multiple faults detection for on-chip links"*,特願2020-171553, Japan patent, (patent filed)
 1. A. Ben Abdallah, **Khanh N. Dang**, *"A three-dimensional system on chip in which a TSV group including a plurality of TSVs provided to connect between layers"*, 特願2020-094220, Japan patent, (patent filed)
 
----
+<!-- ---
 
 ## Old research topics
 
 For old research topics, please visit this [link](./old-research.html).
+ -->
+
+## Fault-tolerant Network-on-Chip architecture
+<!-- : [>> more detail](./research_topics/ftnoc) -->
+
+I am a member of the project as a Ph.D. student at [ASL](http://adaptive.u-aizu.ac.jp) from 2014 to 2017. 
+We developed a comprehensive solution to tackle the reliability of on-chip interconnect. 
+We have developed tolerance method for the permanent (hard), transient (soft), and TSV defect.
 
 
----
+Selected publications:
 
-# Grants 
+1. **Khanh N. Dang**, Akram Ben Ahmed, Yuichi Okuyama, Abderazek Ben Abdallah, *"Scalable design methodology and online algorithm for TSV-cluster defects recovery in highly reliable 3D-NoC systems"*, **IEEE Transactions on Emerging Topics in Computing (TETC)**, IEEE, Volume 8, Issue 3, pp 577-590, 2020. \[[DOI](https://doi.org/10.1109/TETC.2017.2762407)\]/\[[PDF](../share/TETC-2017.pdf)\].
+2. **Khanh N. Dang**, Akram Ben Ahmed, Xuan-Tu Tran, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Comprehensive Reliability Assessment of Fault-Resilient Network-on-Chip Using Analytical Model"*, **IEEE Transactions on Very Large Scale Integration Systems (TVLSI)**, IEEE, Volume 25, Issue 11, pp 3099-3112, 2017. \[[DOI](https://doi.org/10.1109/TVLSI.2017.2736004)\]/\[[PDF](../share/TVLSI-2017.pdf)\].
+3. **Khanh N. Dang**, Michael Meyer, Yuichi Okuyama, Abderazek Ben Abdallah, *"A Low-overhead Soft-Hard Fault Tolerant Architecture, Design and Management Scheme for Reliable High-performance Many-core 3D-NoC Systems"*, **Journal of Supercomputing (SUPE)**, Springer, Volume 73, Issue 6, pp 2705–2729, 2017. \[[DOI](https://link.springer.com/article/10.1007/s11227-016-1951-0)\]/\[[PDF](../share/SUPE-2017.pdf)\].
 
-1. *"Hotspot aware Fault-Tolerant Architectures and Algorithms for TSV-based 3D Network-on-Chips"*, main PI, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2018.312* (2019-2021).
-1. *"Soft Error Resilient Architecture and Algorithm for Network-on-Chip"* : main PI, funded by **VNU University of Engineering and Technology (VNU-UET)** under project *No. CN18.10* (2018-2019).
-1. *"Development of IoT Dual Band Transmitters for Agriculture (IOTA)"*, core member, funded by the **Ministry of Science and Technology (World Bank project)** (2018-2019).
-1. *"Reconfiguration Solution in Designing Network-on-Chip Architectures "*, core member, funded by **National Foundation for Science and Technology Development (NAFOSTED)** under *No. 102.01-2013.17* (2014-2016).
-1. *"Investigation, Design, and Implementation of a Video Encoder for Next Generation Multimedia Equipment"*, core member, funded by  **Vietnam National University, Hanoi (VNU)** under *No. QGĐA.10.02* (2010-2013).
+Patent:
+
+1. A. Ben Abdallah, **Khanh N. Dang**, Masayuki Hisada, *"A TSV fault-tolerant router system for 3D-Networks-on-Chip"*, 特願 2017-218953,
+JP2019092020A, Japan (patent pending) \[[URL](https://patents.google.com/patent/JP2019092020A/en)\].
 
 
+{::nomarkdown}
+<img src="./images/research_topics/ftnoc/OASIS_layout.svg" class="icenter" width=45% >
+{:/}
 
----
 
-# Awards
+*Caption:* The layout of a layer 2x2 in OASIS project: NANDGATE 45nm, NCSU FreePDK TSV. The TSV size, pitch and Keep-out Zone are 4.06umx4:06um,
+10um, and 15um, respectively. TSV area is shared between the neighboring routers for tolerating TSV defect. 
 
-1. *Second Prize* (the 2nd best) of **Vietnamese Nhan Tai Dat Viet Award 2015**. The Second Prize awarded to our VENGME H.264/AVC encoding chip which I took part in the design team.
-2. *Best Student Paper Award* at **International Symposium on Ubiquitous Networking (UNet 2021)** for paper:
-Ogbodo Mark Ikechukwu, Khanh N. Dang and Abderazek Ben. Abdallah, “Energy-efficient Spike-based Scalable Architecture for Next-generation Cognitive AI Computing Systems”. More details [\[here\]](./2021/05/22/Best_Paper_Award_Unet.html).
+## Full hardware H.264/AVC encoder
+<!-- : [>> more detail](./research_topics/h264) -->
+
+I am a core member of the project from 2011 to 2014. We developed a full hardware H.264/AVC encoder.  My major task is to develop the inter-prediction module.
+
+Selected publications:
+
+1. Ngoc-Mai Nguyen, Edith Beigne, Duy-Hieu Bui, *Nam-Khanh Dang*, Suzanne Lesecq, Pascal Vivet, Xuan-Tu Tran, *"An Overview of H.264 Hardware Encoder Architectures including Low-Power Features"*, **REV Journal on Electronics and Communications (JEC)**, REV, pp. 8-17, Vol. 4, No. 1-2, Jan. - Jun., 2014. \[[DOI/PDF](http://dx.doi.org/10.21553/rev-jec.72)\].
+1. Ngoc-Mai Nguyen, Edith Beigne, Suzanne Lesecq, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *"H.264/AVC Hardware Encoders and Low-Power Features"*, **2014 IEEE Asia Pacific Conference on Circuits & Systems (APCCAS)**, Nov. 17-20, 2014.
+1. *Nam-Khanh Dang*, Xuan-Tu Tran, Alain Merigot, *"An Efficient Hardware Architecture for Inter-Prediction in H.264/AVC Encoders"*, **17th IEEE Symposium on Design and Diagnostics of Electronic Circuits and Systems (DDECS)**, Apr. 23-25, 2014.
+1. Hai-Phong Phan, Hung K. Nguyen, Duy-Hieu Bui, *Nam-Khanh Dang*, Xuan-Tu Tran, *" System-on-Chip Testbed for Validating the Hardware Design of H.264/AVC Encoder"*, **National Conference on Electronics and Communications (REV2013-KC01)**, Hanoi, Dec., 2013. 
+1. *Nam Khanh Dang*, Van-Mien Nguyen, Xuan Tu Tran, *"A VLSI Implementation for Inter-Prediction Module in H.264/AVC Encoders"*, **2013 International Conference on Integrated Circuits and Devices in Vietnam (ICDV)**, 2013.
+
+{::nomarkdown}
+<img src="./images/research_topics/h264/VENGME.png" class="icenter" width=70%
+{:/}
+
+*Caption:* The chip photograph: Global Foundry CMOS 130nm, 4mmx4mm, 100MHz, 1.2 V, 32mW, QFP256. 
+
+The detail of the chip could be found [here](https://www.nict.go.jp/en/asean_ivo/4otfsk000029wocm-att/Xuan-Tu_Tran.pdf).
+
+
 

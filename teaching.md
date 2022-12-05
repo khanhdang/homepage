@@ -22,3 +22,6 @@ title: Teaching
 - SYC04: Advanced Computer Organization, Uni. of Aizu, *Graduate*, invited lecturer, 2021.
 
 
+## Student Projects
+
+Some student projects under my supervision can be found [here](./mentor.html).

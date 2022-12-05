@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Mentoring
+title: Student's Projects
 ---
 
-# Notes
 
 I am happy to have chances to work with some students in the past.
 The followings are  projects by my students, not mine. I was helping with some sort of guidance. 

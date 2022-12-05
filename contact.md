@@ -9,7 +9,7 @@ title: Contact
 - *Tel.:* +81-242-37-2721 (int. 3362)
 - *Office:* 204-I, Research Quadrangles, The University of Aizu, Aizu-Wakatmatsu, Fukushima, Japan 
 - *Office hours*: please contact me in advanced.
-- *Links:* [ORCID](https://orcid.org/0000-0001-6702-3870), [GScholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ), [dblp](https://dblp.uni-trier.de/pid/184/5348.html), [Publons](https://publons.com/researcher/3564843),     [Linkedin](https://www.linkedin.com/in/khanhndang) 
+- *Links:* [ORCID](https://orcid.org/0000-0001-6702-3870), [GScholar](https://scholar.google.com.vn/citations?user=mQbqkUMAAAAJ), [dblp](https://dblp.uni-trier.de/pid/184/5348.html), [Publons](https://publons.com/researcher/3564843),     [Linkedin](https://www.linkedin.com/in/khanhndang) , [Github](https://github.com/khanhdang)
 
 ## Map
 
