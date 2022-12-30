@@ -1,19 +1,15 @@
 <!-- ## News -->
+- **2022-12:** Our patent application titled "Neuron migration for fault tolerant homogeneous AI computing" has been filed.
 - **2022-08:** Our special issue on Journal of Low Power Electronics and Applications (ESCI/Scopus) is now accepting new submission: \[[here](https://www.mdpi.com/journal/jlpea/special_issues/DU85TF44GS)\]
 - **2022-07:** Our book titled *"Neuromorphic Computing Principles and Organization”* is now available on Springer ([URL](https://link.springer.com/book/10.1007/978-3-030-92525-3)), Amazon ([URL](https://www.amazon.com/dp/3030925242/)) and Amazon-JP ([URL](https://www.amazon.co.jp/dp/3030925242/)).
 - **2022-05:** My website has moved to the University's page at [https://u-aizu.ac.jp/~khanh/](https://u-aizu.ac.jp/~khanh/)
 - **2022-04:** I join the University of Aizu as an associate professor from April of 2022. Visit my [Univ. of Aizu Profile here](https://u-aizu.ac.jp/research/faculty/detail?cd=90142&lng=en)!
 - **2022-01:** Our paper tilted "A Low-Power, High-Accuracy with Fully On-Chip Ternary Weight Hardware Architecture for Deep Spiking Neural Networks" has been accepted for  **Microprocessors and Microsystems**. You can read the paper [here](./share/pubs/MICPRO-2022.pdf) and access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).
 - **2022-01:** I will deliver a plenary talk at 2022 4th International Conference on ICT Integration in Technical Education (ETLTC2022). Conference link: [here](https://etltc-acmchap-japanconf.org/keynotes).
-- **2021-12:** We have released the source code for quantizing ternary weight for Spiking CNN (for CIFAR-10 dataset). Access the source code [here](https://github.com/stanleynguyen7590/TW-SNN).
 - **2021-11:** Our paper tilted "MigSpike: A Migration Based Algorithm and Architecture for Scalable Robust Neuromorphic Systems" has been accepted for **IEEE Transactions on Emerging Topics in Computing (TETC)**. You can read the paper [[here](./share/pubs/TETC-2021.pdf)\]!
-- **2021-11:** Our new book titled “Neuromorphic Computing Principles and Organization” has been contracted with Springer ([link](https://link.springer.com/book/9783030925246)). The book will be release soon! Pre-order [here](https://www.amazon.com/dp/3030925242/ref=cm_sw_em_r_mt_dp_FDNTBNH4591SBQ769MZH)! 
 - **2021-06:** We have released the source code for fault insertion into Spiking CNN (VGG-16) on CIFAR-10 dataset. Access the source code [here](https://github.com/khanhdang/hybrid-snn-conversion-with-faults). The source code is related to the paper titled ["Enabling Deep Spiking Neural Networks with Hybrid Conversion and Spike Timing Dependent Backpropagation" published in ICLR, 2020](https://openreview.net/forum?id=B1xSperKvH) with our fault insertion on weights and thresholds.
 - **2021-06:** Our paper titled "Towards Robust Cognitive 3D Brain-inspired Cross-paradigm System" has been accepted for publication in the **Frontiers in Neuroscience**. The paper presents R-NASH - our latest neuromorphic system in 3D-ICs. You can access the paper [here](https://www.frontiersin.org/articles/10.3389/fnins.2021.690208) or download [PDF](./share/pubs/FNINS-2021.pdf) file.
-- **2021-05:** Our paper titled "Energy-efficient Spike-based Scalable Architecture for Next Generation Cognitive AI Computing Systems" first authored by Mark has been awarded the **Best Student Paper Award** at The 6th international symposium on Ubiquitous Networking (UNet'21). More details [here](./2021/05/22/Best_Paper_Award_Unet.html).
-- **2021-04:** Our paper titled "On the Design of a Fault-tolerant Scalable Three Dimensional NoC-based Digital
-Neuromorphic System with On-chip Learning" has been accepted for publication in the **IEEE Access**. Access the paper
-[here](https://doi.org/10.1109/ACCESS.2021.3071089).
+
 - **2021-03:** Our paper titled "HotCluster: A thermal-aware defect recovery method for Through-Silicon-Vias Towards
 Reliable 3-D ICs systems" is accepted for publication in the **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**. Access the paper [here](./share/TCAD-2021.pdf).
 - **2020-11:** I have started working for [University of Aizu](http://u-aizu.ac.jp) as a visiting researcher.

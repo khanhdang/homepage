@@ -26,9 +26,9 @@ header_pages:
   # - patent.md
   - service.md
   - teaching.md
-  # - mentor.md
+  - mentor.md
   - contact.md
-  - to-lab.md
+  # - internal.md
 
 paginate: 5
 
