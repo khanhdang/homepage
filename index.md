@@ -12,6 +12,9 @@ Email: khanh [@] u-aizu [dot] ac [dot] jp <br>
 Tel.: +81-242-37-2721 (int. 3362) <br>
 Office: 204-I, Research Quadrangles<br>
 
+My website is migrated to [here](https://u-aizu.ac.jp/~khanh/)!
+{: .alert .alert-danger }
+
 ---
 
 ## What's New 
