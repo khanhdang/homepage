@@ -6,8 +6,8 @@ site-starting-year: 2014
 
 google_analytics: UA-52343779-2
 
-url: "http://web-ext.u-aizu.ac.jp"
-baseurl: "/~khanh"
+url: "http://khanhdang.github.io/"
+baseurl: "/homepage"
 
 plugins:
   - jekyll-seo-tag
